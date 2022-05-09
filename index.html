@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>goodPrice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=a31fe8e94ead1a86731a6ee8b3e8c876"></script>
+    <script>
+        var container = document.getElementById('map');
+        var options = {
+            center: new kakao.maps.LatLng(33.450701, 126.570667),
+            level: 3
+        };
+     
+        var map = new kakao.maps.Map(container, options);
+     </script>
+    <div class="wrapper">
+        <div class="contents">
+            <div class="control">
+                <select name="sort" id="">
+                    <option value="food">음식점</option>
+                    <option value="hair">미용실</option>
+                    <option value="laundry">세탁소</option>
+                    <option value="stay">숙박</option>
+                </select>
+                <input type="search" name="search" id="searchBar">
+                <button id="searchBtn">검색</button>
+            </div>
+            <div class="contentsList">
+                list
+            </div>
+        </div>
+        <div class="kakaomap">
+            <div id="map" style="width:500px;height:400px;"></div>
+
+        </div>
+    </div>
+</body>
+</html>
