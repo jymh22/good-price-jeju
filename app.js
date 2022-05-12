@@ -3,6 +3,10 @@ const contentsList = document.querySelector('#contentsList');
 const sortBox = document.querySelector('#sortBox');
 
 let storeAddress = [];
+let food = [];
+let hair = [];
+let laundry = [];
+let stay = [];
 
 var container = document.getElementById('map');
     var options = {
@@ -17,6 +21,7 @@ var geocoder = new kakao.maps.services.Geocoder();
 
 // 주소로 좌표를 검색합니다
 const searchMap = (address) => {
+    console.log(typeof(address));
     geocoder.addressSearch(`${address}`, function(result, status) {
 
         // 정상적으로 검색이 완료됐으면 
@@ -32,7 +37,7 @@ const searchMap = (address) => {
     
             // 인포윈도우로 장소에 대한 설명을 표시합니다
             var infowindow = new kakao.maps.InfoWindow({
-                content: '<div style="width:150px;text-align:center;padding:6px 0;">우리회사</div>'
+                content: '<div style="width:150px;text-align:center;padding:6px 0;">장소</div>'
             });
             infowindow.open(map, marker);
     
@@ -51,10 +56,10 @@ const addList = (listObj) => {
                 <span>
                     <ul>
                         <li>업소명 : ${listObj[i].title}</li>
-                        <li>업종 : ${listObj[i].cp}</li>
-                        <li>연락처 : ${listObj[i].id}</li>
-                        <li>품목 : ${listObj[i].cp}</li>
-                        <li id='address'>주소 : ${listObj[i].url}</li>
+                        <li id='category'>업종 : ${listObj[i].category}</li>
+                        <li>연락처 : ${listObj[i].phone}</li>
+                        <li>품목 : ${listObj[i].menu}</li>
+                        <li id='address'>주소 : ${listObj[i].address}</li>
                     </ul>
                 </span>
         </div>`;
@@ -62,40 +67,56 @@ const addList = (listObj) => {
     return list;
 }
 
-const addStyle = (list) => {
-    contentsList.style.visibility = 'hidden';
-    contentsList.style.transition = '1s linear all';
-    contentsList.style.opacity = '0';
-    setTimeout(() => {
-        contentsList.innerHTML = addList(list)
-        contentsList.style.visibility = 'visible';
-        contentsList.style.opacity = '1';
-        storeAddress = document.querySelectorAll('#address');
-    }, 500);
-    
+const addressFunction = () => {
+    storeAddress = document.querySelectorAll('#address');
+    storeAddress.forEach((item) => {
+        item.addEventListener('click', (event) => {
+            searchMap(event.target.innerText.substring(5));
+        })
+    })
 }
+
+const sortCategory = () => {
+    for (let i = 0; i < contents.length; i++) {
+        if (contents[i].category === '음식점') {
+            food[food.length] = contents[i];
+        }
+        else if (contents[i].category === '이미용') {
+            hair[hair.length] = contents[i];
+        }
+        else if (contents[i].category === '세탁업') {
+            laundry[laundry.length] = contents[i];
+        }
+        else if (contents[i].category === '숙박업') {
+            stay[stay.length] = contents[i];
+        }
+    }
+}
+
+window.addEventListener('load', () => {
+    contentsList.innerHTML = addList(contents);
+    addressFunction();
+    sortCategory();
+});
 
 searchBtn.addEventListener('click', () => {
 })
 
 sortBox.addEventListener('change', (event) => {
     if (event.target.value === 'food') {
-        addStyle(popularContents);
+        contentsList.innerHTML = addList(food);
+        addressFunction();
     }
     else if (event.target.value === 'hair') {
-        addStyle(recentContents);
-        const storeAddress = document.querySelectorAll('#address');
-        console.log(storeAddress);
+        contentsList.innerHTML = addList(hair);
+        addressFunction();
     }
     else if (event.target.value === 'laundry') {
-        addStyle(viewContents);
-        const storeAddress = document.querySelectorAll('#address');
-        console.log(storeAddress);
+        contentsList.innerHTML = addList(laundry);
+        addressFunction();
     }
-})
-
-storeAddress.forEach((item) => {
-    item.addEventListener('click', (event) => {
-        console.log(event.target);
-    })
-})
+    else if (event.target.value === 'stay') {
+        contentsList.innerHTML = addList(stay);
+        addressFunction();
+    }
+});
