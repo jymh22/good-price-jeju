@@ -11,7 +11,8 @@
     <div class="wrapper">
         <div class="contents">
             <div class="control">
-                <select name="sort" id="dropBox">
+                <select name="sort" id="sortBox">
+                    <option value="defalut" selected>분류</option>
                     <option value="food">음식점</option>
                     <option value="hair">미용실</option>
                     <option value="laundry">세탁소</option>
@@ -20,67 +21,8 @@
                 <input type="search" name="search" id="searchBar" class="searchBar">
                 <button id="searchBtn" class="searchBtn">검색</button>
             </div>
-            <div class="contentsList">
-                <div class="list">
-                    <img src="./img/pic(1).jpeg" alt="" srcset="">
-                    <span>
-                        <ul>
-                            <li>업소명 :제주대학교</li>
-                            <li>업종 : 음식점</li>
-                            <li>연락처 : 010-1234-4567</li>
-                            <li>품목 : 양념갈비(300g) 14000원 정식 7000원</li>
-                            <li>주소 : 제주특별자치도 제주시 한림읍 한림상로 194</li>
-                        </ul>  
-                    </span>
-                </div>
-                <div class="list">
-                    <img src="./img/pic(2).jpeg" alt="" srcset="">
-                    <span>
-                        <ul>
-                            <li>업소명 :제주대학교</li>
-                            <li>업종 : 음식점</li>
-                            <li>연락처 : 010-1234-4567</li>
-                            <li>품목 : 양념갈비(300g) 14000원 정식 7000원</li>
-                            <li>주소 :제주특별자치도 제주시 한림읍 한림상로 61</li>
-                        </ul>  
-                    </span>
-                </div>
-                <div class="list">
-                    <img src="./img/pic(3).jpeg" alt="" srcset="">
-                    <span>
-                        <ul>
-                            <li>업소명 :제주대학교</li>
-                            <li>업종 : 음식점</li>
-                            <li>연락처 : 010-1234-4567</li>
-                            <li>품목 : 양념갈비(300g) 14000원 정식 7000원</li>
-                            <li>주소 : 제주특별자치도 제주시 애월읍 신엄9길 2</li>
-                        </ul>  
-                    </span>
-                </div>
-                <div class="list">
-                    <img src="./img/pic(4).jpeg" alt="" srcset="">
-                    <span>
-                        <ul>
-                            <li>업소명 :제주대학교</li>
-                            <li>업종 : 음식점</li>
-                            <li>연락처 : 010-1234-4567</li>
-                            <li>품목 : 양념갈비(300g) 14000원 정식 7000원</li>
-                            <li>제주특별자치도 제주시 애월읍 중산간서로 6703</li>
-                        </ul>  
-                    </span>
-                </div>
-                <div class="list">
-                    <img src="./img/pic(5).jpg" alt="" srcset="">
-                    <span>
-                        <ul>
-                            <li>업소명 :제주대학교</li>
-                            <li>업종 : 음식점</li>
-                            <li>연락처 : 010-1234-4567</li>
-                            <li>품목 : 양념갈비(300g) 14000원 정식 7000원</li>
-                            <li>제주특별자치도 제주시 애월읍 평화로 2751</li>
-                        </ul>  
-                    </span>
-                </div>
+            <div id='contentsList' class="contentsList">
+                
             </div>
         </div>
         <div class="kakaomap">
@@ -88,15 +30,10 @@
 
         </div>
     </div>
-    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=a31fe8e94ead1a86731a6ee8b3e8c876"></script>
-    <script>
-        var container = document.getElementById('map');
-        var options = {
-            center: new kakao.maps.LatLng(33.450701, 126.570667),
-            level: 3
-        };
-     
-        var map = new kakao.maps.Map(container, options);
-     </script>
+    <script src="popular.js"></script>
+    <script src="recent.js"></script>
+    <script src="view.js"></script>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=a31fe8e94ead1a86731a6ee8b3e8c876&libraries=services"></script>
+    <script src="app.js"></script>
 </body>
 </html>
