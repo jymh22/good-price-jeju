@@ -8,10 +8,20 @@ let food = [];
 let hair = [];
 let laundry = [];
 let stay = [];
+let lat = 0;
+let lon = 0;
+
+navigator.geolocation.getCurrentPosition(function(position) {
+        
+    lat = position.coords.latitude; // 위도
+    lon = position.coords.longitude; // 경도
+});
+
+console.log(lat, lon);
 
 var container = document.getElementById('map');
 var options = {
-    center: new kakao.maps.LatLng(33.450701, 126.570667),
+    center: new kakao.maps.LatLng(lat, lon),
     level: 3
 };
      
@@ -22,7 +32,6 @@ var geocoder = new kakao.maps.services.Geocoder();
 
 // 주소로 좌표를 검색합니다
 const searchMap = (address) => {
-    console.log(typeof(address));
     geocoder.addressSearch(`${address}`, function(result, status) {
 
         // 정상적으로 검색이 완료됐으면 
