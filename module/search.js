@@ -1,7 +1,7 @@
 /**
  * 작성자 : 김유석
  * 최초 작성일 : 2022-05-08
- * 최초 변경일 : 2022-05-09
+ * 마지막 변경일 : 2022-05-13
  * 목적 : csv 데이터 파일을 불러와 json 형식으로 변경
  * 현재까지 추가된 내용 : csvtojson, jsonfillter, jsonsearch
  * 저작권 CC BY-SA 4.0, (상업적, 재배포, 수정 가능)
@@ -41,12 +41,11 @@ function csvToJSON(csv_string){
     return jsonArray; 
 }
 
-// json 객체 검색 함수
-// 객체, 필드명, 검색값 으로 객체리스트속 키값에 검색어가 포함되있으면 객체 배열로 리턴
-//console.log(getObjectsSearch(jsonobj, '품목', '국수'));
-//const a = getObjectsSearch(jsonobj, '품목', '국수');
-//console.log(a[0].품목);
-
+/**  객체, 필드명, 검색값 으로 객체리스트속 키값에 검색어가 포함되있으면 객체 배열로 리턴
+ * console.log(getObjectsSearch(jsonobj, '품목', '국수'));
+ * const a = getObjectsSearch(jsonobj, '품목', '국수');
+ * console.log(a[0].품목);
+*/
 function getObjectsSearch(obj, key, val) {
     var objects = [];
     for (var i in obj) {
@@ -61,14 +60,11 @@ function getObjectsSearch(obj, key, val) {
     return objects;
 }
 
-
-
-
-// 필드명, 키값 으로 json 리스트 출력 (위와는 다르게 필터링, 무조건 같은 단어가 매치 되어야 함)
-// return an array of objects according to key, value, or key and value matching
-// console.log(getObjects(jsonobj,'업종','음식점'));
-// 소스코드 참고 : http://techslides.com/how-to-parse-and-search-json-in-javascript
-//console.log(getObjects(jsonobj,'업종','음식점'));
+/** 필드명, 키값 으로 json 리스트 출력 (위와는 다르게 필터링, 무조건 같은 단어가 매치 되어야 함)
+ * console.log(getObjects(jsonobj,'업종','음식점'));
+ * 소스코드 참고 : http://techslides.com/how-to-parse-and-search-json-in-javascript
+ * console.log(getObjects(jsonobj,'업종','음식점'));
+*/
 function getObjects(obj, key, val) {
     var objects = [];
     for (var i in obj) {
