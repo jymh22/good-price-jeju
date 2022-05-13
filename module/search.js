@@ -44,8 +44,8 @@ function csvToJSON(csv_string){
 // json 객체 검색 함수
 // 객체, 필드명, 검색값 으로 객체리스트속 키값에 검색어가 포함되있으면 객체 배열로 리턴
 //console.log(getObjectsSearch(jsonobj, '품목', '국수'));
-const a = getObjectsSearch(jsonobj, '품목', '국수');
-console.log(a[0].품목);
+//const a = getObjectsSearch(jsonobj, '품목', '국수');
+//console.log(a[0].품목);
 
 function getObjectsSearch(obj, key, val) {
     var objects = [];
