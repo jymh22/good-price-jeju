@@ -99,8 +99,33 @@ window.addEventListener('load', () => {
     sortCategory();
 });
 
+/**
+ * 작성자 : kys  
+ * 객체, 필드명, 검색값 으로 객체리스트속 키값에 검색어가 포함되있으면 객체 배열로 리턴
+ * console.log(getObjectsSearch(jsonobj, '품목', '국수'));
+ * const a = getObjectsSearch(jsonobj, '품목', '국수');
+ * console.log(a[0].품목);
+*/
+function getObjectsSearch(obj, key, val) {
+    var objects = [];
+    for (var i in obj) {
+        if (!obj.hasOwnProperty(i)) continue;
+        if (typeof obj[i] == 'object') {
+            objects = objects.concat(getObjectsSearch(obj[i], key, val));    
+        } else 
+        if (i == key && obj[i].includes(val) == true) { //
+            objects.push(obj);
+        }
+    }
+    return objects;
+}
+
 searchBtn.addEventListener('click', () => {
-})
+    searchtxt = document.getElementById('searchBar').value;
+    var result = getObjectsSearch(contents,'menu', searchtxt);
+    contentsList.innerHTML = addList(result);
+    addressFunction();
+});
 
 sortBox.addEventListener('change', (event) => {
     if (event.target.value === 'food') {
