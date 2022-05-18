@@ -30,13 +30,27 @@ function getMylocation(x,y){
     var coord = new kakao.maps.LatLng(x, y);
     var callback = function(result, status) {
         if (status === kakao.maps.services.Status.OK) {
+            // 이곳에 지역 구분 함수를 입력해서 참조 사용하세요
             console.log(result[0].address.address_name);
-            console.log(result[0]);
+            console.log(result[0].address.region_1depth_name);
+            console.log(result[0].address);
+            geolocationData.innerHTML = result[0].address.address_name;
         }
     };
     geocoder.coord2Address(coord.getLng(), coord.getLat(), callback);
 }
 
+const addressSearch = address => {
+	return new Promise((resolve, reject) => {
+		geocoder.addressSearch(address, function(result, status) {
+			if (status === kakao.maps.services.Status.OK) {
+				resolve(result);
+			} else {
+				reject(status);
+			}
+		});
+	});
+};
 
 /**
  * 카카오 API 문서 참조
