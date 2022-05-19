@@ -8,24 +8,99 @@ let food = [];
 let hair = [];
 let laundry = [];
 let stay = [];
-let lat = 0;
-let lon = 0;
-
-navigator.geolocation.getCurrentPosition(function(position) {
-        
-    lat = position.coords.latitude; // 위도
-    lon = position.coords.longitude; // 경도
-});
-
-console.log(lat, lon);
 
 var container = document.getElementById('map');
 var options = {
-    center: new kakao.maps.LatLng(lat, lon),
+    center: new kakao.maps.LatLng(33.450701, 126.570667),
     level: 3
 };
-     
+
 var map = new kakao.maps.Map(container, options);
+
+display_gps();
+
+/**
+ * API 인용작성자 : KYS
+ * @param {경도} x 
+ * @param {위도} y
+ * 경도 위도로 주소추출하는 함수   
+ */
+function getMylocation(x,y){
+    var geocoder = new kakao.maps.services.Geocoder();
+    var coord = new kakao.maps.LatLng(x, y);
+    var callback = function(result, status) {
+        if (status === kakao.maps.services.Status.OK) {
+            // 이곳에 지역 구분 함수를 입력해서 참조 사용하세요
+            console.log(result[0].address.address_name);
+            console.log(result[0].address.region_1depth_name);
+            console.log(result[0].address);
+            geolocationData.innerHTML = result[0].address.address_name;
+        }
+    };
+    geocoder.coord2Address(coord.getLng(), coord.getLat(), callback);
+}
+
+const addressSearch = address => {
+	return new Promise((resolve, reject) => {
+		geocoder.addressSearch(address, function(result, status) {
+			if (status === kakao.maps.services.Status.OK) {
+				resolve(result);
+			} else {
+				reject(status);
+			}
+		});
+	});
+};
+
+/**
+ * 카카오 API 문서 참조
+ * API 참조코드 인용, 작성 : KYS
+ * Display_gps
+ * 초기화된 지도에 html geolocation 함수의 gps 값을 넣는 함수
+ */
+function display_gps(){
+    if (navigator.geolocation) {
+        // GeoLocation을 이용해서 접속 위치를 얻어옵니다
+        navigator.geolocation.getCurrentPosition(function(position) {    
+            var lat = position.coords.latitude, // 위도
+                lon = position.coords.longitude; // 경도   
+            var locPosition = new kakao.maps.LatLng(lat, lon), // 마커가 표시될 위치를 geolocation으로 얻어온 좌표로 생성합니다
+                message = '<div style="padding:5px;">현재 위치</div>'; // 인포윈도우에 표시될 내용입니다          
+            // 마커와 인포윈도우를 표시합니다
+            displayMarker(locPosition, message);
+            
+            // 현재위치 주소를 로그에 기록
+            getMylocation(lat,lon);   
+             
+          });
+    } else { // HTML5의 GeoLocation을 사용할 수 없을때 마커 표시 위치와 인포윈도우 내용을 설정합니다       
+        var locPosition = new kakao.maps.LatLng(33.450701, 126.570667),    
+            message = 'geolocation을 사용할수 없어요..'
+        displayMarker(locPosition, message);
+    }
+}
+
+
+// 지도에 마커와 인포윈도우를 표시하는 함수입니다
+// 지도 마커위치, 인포메이션 메세지값
+function displayMarker(locPosition, message) {
+    // 마커를 생성합니다
+    var marker = new kakao.maps.Marker({  
+        map: map, 
+        position: locPosition
+    }); 
+    var iwContent = message, // 인포윈도우에 표시할 내용
+        iwRemoveable = true;
+    // 인포윈도우를 생성합니다
+    var infowindow = new kakao.maps.InfoWindow({
+        content : iwContent,
+        removable : iwRemoveable
+    });
+    // 인포윈도우를 마커위에 표시합니다 
+    infowindow.open(map, marker); 
+    // 지도 중심좌표를 접속위치로 변경합니다
+    map.setCenter(locPosition);      
+}   
 
 // 주소-좌표 변환 객체를 생성합니다
 var geocoder = new kakao.maps.services.Geocoder();
@@ -33,28 +108,50 @@ var geocoder = new kakao.maps.services.Geocoder();
 // 주소로 좌표를 검색합니다
 const searchMap = (address) => {
     geocoder.addressSearch(`${address}`, function(result, status) {
-
         // 정상적으로 검색이 완료됐으면 
-         if (status === kakao.maps.services.Status.OK) {
-    
+         if (status === kakao.maps.services.Status.OK) {   
             var coords = new kakao.maps.LatLng(result[0].y, result[0].x);
-    
             // 결과값으로 받은 위치를 마커로 표시합니다
             var marker = new kakao.maps.Marker({
                 map: map,
                 position: coords
-            });
-    
+            });   
             // 인포윈도우로 장소에 대한 설명을 표시합니다
             var infowindow = new kakao.maps.InfoWindow({
                 content: '<div style="width:150px;text-align:center;padding:6px 0;">장소</div>'
             });
-            infowindow.open(map, marker);
-    
+            infowindow.open(map, marker);    
             // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
             map.setCenter(coords);
         } 
     });
+}
+
+const display_geolocation = () => {
+        // HTML5의 geolocation으로 사용할 수 있는지 확인합니다 
+    if (navigator.geolocation) {
+        
+        // GeoLocation을 이용해서 접속 위치를 얻어옵니다
+        navigator.geolocation.getCurrentPosition(function(position) {
+            
+            var lat = position.coords.latitude, // 위도
+                lon = position.coords.longitude; // 경도
+            
+            var locPosition = new kakao.maps.LatLng(lat, lon), // 마커가 표시될 위치를 geolocation으로 얻어온 좌표로 생성합니다
+                message = '<div style="padding:5px;">여기에 계신가요?!</div>'; // 인포윈도우에 표시될 내용입니다
+            
+            // 마커와 인포윈도우를 표시합니다
+            displayMarker(locPosition, message);
+                
+        });
+        
+    } else { // HTML5의 GeoLocation을 사용할 수 없을때 마커 표시 위치와 인포윈도우 내용을 설정합니다
+        
+        var locPosition = new kakao.maps.LatLng(33.450701, 126.570667),    
+            message = 'geolocation을 사용할수 없어요..'
+            
+        displayMarker(locPosition, message);
+    }
 }
 
 
@@ -145,18 +242,22 @@ searchBtn.addEventListener('click', () => {
 sortBox.addEventListener('change', (event) => {
     if (event.target.value === 'food') {
         contentsList.innerHTML = addList(food);
+        sortCategory();
         addressFunction();
     }
     else if (event.target.value === 'hair') {
         contentsList.innerHTML = addList(hair);
+        sortCategory();
         addressFunction();
     }
     else if (event.target.value === 'laundry') {
         contentsList.innerHTML = addList(laundry);
+        sortCategory();
         addressFunction();
     }
     else if (event.target.value === 'stay') {
         contentsList.innerHTML = addList(stay);
+        sortCategory();
         addressFunction();
     }
 });
@@ -172,5 +273,4 @@ searchBar.addEventListener('keydown', (event) => {
 window.addEventListener('load', () => {
     contentsList.innerHTML = addList(contents);
     addressFunction();
-    sortCategory();
 });
