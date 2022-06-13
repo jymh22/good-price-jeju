@@ -11,12 +11,32 @@
     <div class="wrapper">
         <div class="contents">
             <div class="control">
-                <select name="sort" id="sortBox">
+                <select name="sort" id="sortCategoryBox">
                     <option value="defalut" selected>분류</option>
                     <option value="food">음식점</option>
                     <option value="hair">미용실</option>
                     <option value="laundry">세탁소</option>
                     <option value="stay">숙박</option>
+                </select>
+                <select name="sort" id="sortRegionBox">
+                    <option value="defalut" selected>지역</option>
+                    <option value="seoul">서울특별시</option>
+                    <option value="busan">부산광역시</option>
+                    <option value="daegu">대구광역시</option>
+                    <option value="incheon">인천광역시</option>
+                    <option value="gwangju">광주광역시</option>
+                    <option value="daejeon">대전광역시</option>
+                    <option value="ulsan">울산광역시</option>
+                    <option value="sejong">세종특별자치시</option>
+                    <option value="kyeongi">경기도</option>
+                    <option value="kangwon">강원도</option>
+                    <option value="chungbuk">충청북도</option>
+                    <option value="chungnam">충청남도</option>
+                    <option value="jeonbuk">전라북도</option>
+                    <option value="jeonnam">전라남도</option>
+                    <option value="kyungbuk">경상북도</option>
+                    <option value="kyungnam">경상남도</option>
+                    <option value="jeju">제주특별자치도</option>
                 </select>
                 <input type="search" name="search" id="searchBar" class="searchBar">
                 <button id="searchBtn" class="searchBtn">검색</button>
@@ -30,10 +50,18 @@
 
         </div>
     </div>
-    <script src="popular.js"></script>
-    <script src="recent.js"></script>
-    <script src="view.js"></script>
-    <script src="contents.js"></script>
+    <script src="/contentsJSON/chungbukContents.js"></script>
+    <script src="/contentsJSON/chungnamContents.js"></script>
+    <script src="/contentsJSON/gyeongbukContents.js"></script>
+    <script src="/contentsJSON/jeonbukContents.js"></script>
+    <script src="/contentsJSON/jeonnamContents.js"></script>
+    <script src="/contentsJSON/kangwondoContents.js"></script>
+    <script src="/contentsJSON/seoulContents.js"></script>
+    <script src="/contentsJSON/jejuContents.js"></script>
+    <script src="/contentsJSON/daeguContents.js"></script>
+    <script src="/contentsJSON/daejeonContents.js"></script>
+    <script src="/contentsJSON/gwangjuContents.js"></script>
+    <script src="/contentsJSON/ulsanContents.js"></script>
     <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=a31fe8e94ead1a86731a6ee8b3e8c876&libraries=services"></script>
     <script src="app.js"></script>
 </body>

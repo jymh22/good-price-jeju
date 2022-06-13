@@ -1,4 +1,4 @@
-const contents = [
+const jejuContents = [
   {
     title : "뽈살집",
     category : "음식점",
