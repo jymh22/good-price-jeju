@@ -2,7 +2,7 @@
 const chungbukContents = [
  {
   title: "나누리장터",
-  category: "한식",
+  category: "음식점",
   "대표자": "정택일",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -18,7 +18,7 @@ const chungbukContents = [
  },
  {
   title: "대박연탄구이",
-  category: "한식",
+  category: "음식점",
   "대표자": "최광익",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -34,7 +34,7 @@ const chungbukContents = [
  },
  {
   title: "야간비행",
-  category: "한식",
+  category: "음식점",
   "대표자": "정광옥",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -50,7 +50,7 @@ const chungbukContents = [
  },
  {
   title: "충주돌구이",
-  category: "한식",
+  category: "음식점",
   "대표자": "김윤희",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -66,7 +66,7 @@ const chungbukContents = [
  },
  {
   title: "금순이은순이생삼겹살",
-  category: "한식",
+  category: "음식점",
   "대표자": "이금순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -82,7 +82,7 @@ const chungbukContents = [
  },
  {
   title: "남일토종한우일번지",
-  category: "한식",
+  category: "음식점",
   "대표자": "지현숙",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -98,7 +98,7 @@ const chungbukContents = [
  },
  {
   title: "삼흥집",
-  category: "한식",
+  category: "음식점",
   "대표자": "우영철",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -114,7 +114,7 @@ const chungbukContents = [
  },
  {
   title: "점심시간엔",
-  category: "한식",
+  category: "음식점",
   "대표자": "최부남",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -130,7 +130,7 @@ const chungbukContents = [
  },
  {
   title: "청해루",
-  category: "중식",
+  category: "음식점",
   "대표자": "이상범",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -146,7 +146,7 @@ const chungbukContents = [
  },
  {
   title: "값싼당",
-  category: "중식",
+  category: "음식점",
   "대표자": "서정홍",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -162,7 +162,7 @@ const chungbukContents = [
  },
  {
   title: "순신토불이",
-  category: "한식",
+  category: "음식점",
   "대표자": "김진순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -178,7 +178,7 @@ const chungbukContents = [
  },
  {
   title: "은순이네 빨간돼지",
-  category: "한식",
+  category: "음식점",
   "대표자": "이도경",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -194,7 +194,7 @@ const chungbukContents = [
  },
  {
   title: "한식더고기",
-  category: "한식",
+  category: "음식점",
   "대표자": "김영일",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -210,7 +210,7 @@ const chungbukContents = [
  },
  {
   title: "후생식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "최명임",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -226,7 +226,7 @@ const chungbukContents = [
  },
  {
   title: "착한미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "송정옥",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -242,7 +242,7 @@ const chungbukContents = [
  },
  {
   title: "앵천식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "최기회",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -258,7 +258,7 @@ const chungbukContents = [
  },
  {
   title: "개미돈까스",
-  category: "한식",
+  category: "음식점",
   "대표자": "박종선",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -274,7 +274,7 @@ const chungbukContents = [
  },
  {
   title: "밀숲",
-  category: "한식",
+  category: "음식점",
   "대표자": "김나진",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -290,7 +290,7 @@ const chungbukContents = [
  },
  {
   title: "한복남칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "송영옥",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -306,7 +306,7 @@ const chungbukContents = [
  },
  {
   title: "굴담",
-  category: "한식",
+  category: "음식점",
   "대표자": "이종수",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -322,7 +322,7 @@ const chungbukContents = [
  },
  {
   title: "곰집",
-  category: "한식",
+  category: "음식점",
   "대표자": "이순호",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -338,7 +338,7 @@ const chungbukContents = [
  },
  {
   title: "봄날의보리밥",
-  category: "한식",
+  category: "음식점",
   "대표자": "장선애",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -370,7 +370,7 @@ const chungbukContents = [
  },
  {
   title: "꽃돼지생삼겹살",
-  category: "한식",
+  category: "음식점",
   "대표자": "민숙경",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -386,7 +386,7 @@ const chungbukContents = [
  },
  {
   title: "행운미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "김선주",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -402,7 +402,7 @@ const chungbukContents = [
  },
  {
   title: "보글보글식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "신용순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -418,7 +418,7 @@ const chungbukContents = [
  },
  {
   title: "용이네 푸줏간",
-  category: "한식",
+  category: "음식점",
   "대표자": "신일용",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -434,7 +434,7 @@ const chungbukContents = [
  },
  {
   title: "극동관",
-  category: "중식",
+  category: "음식점",
   "대표자": "정의근",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -450,7 +450,7 @@ const chungbukContents = [
  },
  {
   title: "참살이 오리 전문점",
-  category: "한식",
+  category: "음식점",
   "대표자": "임상빈",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -466,7 +466,7 @@ const chungbukContents = [
  },
  {
   title: "황제왕갈비왕냉면",
-  category: "한식",
+  category: "음식점",
   "대표자": "김찬식",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -482,7 +482,7 @@ const chungbukContents = [
  },
  {
   title: "송원칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "하순남",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -498,7 +498,7 @@ const chungbukContents = [
  },
  {
   title: "상하이 객잔",
-  category: "중식",
+  category: "음식점",
   "대표자": "박진우",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -514,7 +514,7 @@ const chungbukContents = [
  },
  {
   title: "컷트마당",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "조영자",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -530,7 +530,7 @@ const chungbukContents = [
  },
  {
   title: "삼촌네 고기로와",
-  category: "한식",
+  category: "음식점",
   "대표자": "이호균",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -546,7 +546,7 @@ const chungbukContents = [
  },
  {
   title: "가든미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "조연순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -562,7 +562,7 @@ const chungbukContents = [
  },
  {
   title: "사천성",
-  category: "중식",
+  category: "음식점",
   "대표자": "박복순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -578,7 +578,7 @@ const chungbukContents = [
  },
  {
   title: "복이국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "이성권",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -594,7 +594,7 @@ const chungbukContents = [
  },
  {
   title: "맛존매콤닭불고기",
-  category: "한식",
+  category: "음식점",
   "대표자": "조철희",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -610,7 +610,7 @@ const chungbukContents = [
  },
  {
   title: "해늘두부",
-  category: "한식",
+  category: "음식점",
   "대표자": "최종철",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -626,7 +626,7 @@ const chungbukContents = [
  },
  {
   title: "시골밥상",
-  category: "한식",
+  category: "음식점",
   "대표자": "윤정자",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -722,7 +722,7 @@ const chungbukContents = [
  },
  {
   title: "힘찬낙지",
-  category: "한식",
+  category: "음식점",
   "대표자": "장주원",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -754,7 +754,7 @@ const chungbukContents = [
  },
  {
   title: "길밥집",
-  category: "한식",
+  category: "음식점",
   "대표자": "신화림",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -770,7 +770,7 @@ const chungbukContents = [
  },
  {
   title: "고려미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "이금주",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -786,7 +786,7 @@ const chungbukContents = [
  },
  {
   title: "짜장나라",
-  category: "중식",
+  category: "음식점",
   "대표자": "윤건옥",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -802,7 +802,7 @@ const chungbukContents = [
  },
  {
   title: "왕건",
-  category: "중식",
+  category: "음식점",
   "대표자": "유점순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -834,7 +834,7 @@ const chungbukContents = [
  },
  {
   title: "감촌불고기정육점",
-  category: "한식",
+  category: "음식점",
   "대표자": "감도희",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -866,7 +866,7 @@ const chungbukContents = [
  },
  {
   title: "돼풍이숯돌생고기",
-  category: "한식",
+  category: "음식점",
   "대표자": "김금이",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -882,7 +882,7 @@ const chungbukContents = [
  },
  {
   title: "원 미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "전명자",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -898,7 +898,7 @@ const chungbukContents = [
  },
  {
   title: "콩가루삼겹살",
-  category: "한식",
+  category: "음식점",
   "대표자": "김이순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -914,7 +914,7 @@ const chungbukContents = [
  },
  {
   title: "술이술술생고기육회신",
-  category: "한식",
+  category: "음식점",
   "대표자": "김진세",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -930,7 +930,7 @@ const chungbukContents = [
  },
  {
   title: "소문난올갱이해장국",
-  category: "한식",
+  category: "음식점",
   "대표자": "염승옥",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -946,7 +946,7 @@ const chungbukContents = [
  },
  {
   title: "신신이발관",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "김교식",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -962,7 +962,7 @@ const chungbukContents = [
  },
  {
   title: "금와가든",
-  category: "한식",
+  category: "음식점",
   "대표자": "김상용",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -978,7 +978,7 @@ const chungbukContents = [
  },
  {
   title: "덤블식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김인중",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -994,7 +994,7 @@ const chungbukContents = [
  },
  {
   title: "북일곰탕",
-  category: "한식",
+  category: "음식점",
   "대표자": "김민준",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1010,7 +1010,7 @@ const chungbukContents = [
  },
  {
   title: "나성불고기",
-  category: "한식",
+  category: "음식점",
   "대표자": "김영자",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1026,7 +1026,7 @@ const chungbukContents = [
  },
  {
   title: "옛날이발소",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "김종복",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1042,7 +1042,7 @@ const chungbukContents = [
  },
  {
   title: "온정",
-  category: "한식",
+  category: "음식점",
   "대표자": "박현주",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1074,7 +1074,7 @@ const chungbukContents = [
  },
  {
   title: "청수생고기",
-  category: "한식",
+  category: "음식점",
   "대표자": "이훈우",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1090,7 +1090,7 @@ const chungbukContents = [
  },
  {
   title: "사랑방",
-  category: "한식",
+  category: "음식점",
   "대표자": "고도석",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1106,7 +1106,7 @@ const chungbukContents = [
  },
  {
   title: "늘푸른삼겹쌈",
-  category: "한식",
+  category: "음식점",
   "대표자": "이혜진",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1122,7 +1122,7 @@ const chungbukContents = [
  },
  {
   title: "홍등",
-  category: "중식",
+  category: "음식점",
   "대표자": "김노경",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1138,7 +1138,7 @@ const chungbukContents = [
  },
  {
   title: "교동칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "김정자",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1154,7 +1154,7 @@ const chungbukContents = [
  },
  {
   title: "대운분식",
-  category: "한식",
+  category: "음식점",
   "대표자": "한영순",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1170,7 +1170,7 @@ const chungbukContents = [
  },
  {
   title: "내고향맛집",
-  category: "한식",
+  category: "음식점",
   "대표자": "이기화",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1186,7 +1186,7 @@ const chungbukContents = [
  },
  {
   title: "남매식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이은주",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1202,7 +1202,7 @@ const chungbukContents = [
  },
  {
   title: "명동식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "유영재",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1218,7 +1218,7 @@ const chungbukContents = [
  },
  {
   title: "명인헤어샵",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "김해숙",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1234,7 +1234,7 @@ const chungbukContents = [
  },
  {
   title: "오성당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김복수",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1250,7 +1250,7 @@ const chungbukContents = [
  },
  {
   title: "도토리명가",
-  category: "한식",
+  category: "음식점",
   "대표자": "전병국",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1266,7 +1266,7 @@ const chungbukContents = [
  },
  {
   title: "진천장터순대",
-  category: "한식",
+  category: "음식점",
   "대표자": "김순녀",
   "시도": "충청북도",
   "시군구": "청주시",
@@ -1282,7 +1282,7 @@ const chungbukContents = [
  },
  {
   title: "풍미식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "박성경",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1298,7 +1298,7 @@ const chungbukContents = [
  },
  {
   title: "산수촌숯불갈비",
-  category: "한식 ",
+  category: "음식점 ",
   "대표자": "최명숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1330,7 +1330,7 @@ const chungbukContents = [
  },
  {
   title: "도토리고을",
-  category: "한식",
+  category: "음식점",
   "대표자": "이상호",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1346,7 +1346,7 @@ const chungbukContents = [
  },
  {
   title: "홍천식당",
-  category: "한식 ",
+  category: "음식점 ",
   "대표자": "김준민",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1362,7 +1362,7 @@ const chungbukContents = [
  },
  {
   title: "뜨럭",
-  category: "한식 ",
+  category: "음식점 ",
   "대표자": "김영희",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1378,7 +1378,7 @@ const chungbukContents = [
  },
  {
   title: "수억식당",
-  category: "한식 ",
+  category: "음식점 ",
   "대표자": "최옥분",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1394,7 +1394,7 @@ const chungbukContents = [
  },
  {
   title: "거꾸로콩나물국밥",
-  category: "한식 ",
+  category: "음식점 ",
   "대표자": "김순희",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1442,7 +1442,7 @@ const chungbukContents = [
  },
  {
   title: "오리본가",
-  category: "한식",
+  category: "음식점",
   "대표자": "강정애",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1458,7 +1458,7 @@ const chungbukContents = [
  },
  {
   title: "버드나무집",
-  category: "한식",
+  category: "음식점",
   "대표자": "김창필",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1474,7 +1474,7 @@ const chungbukContents = [
  },
  {
   title: "마사밥상슈퍼",
-  category: "한식",
+  category: "음식점",
   "대표자": "박복숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1490,7 +1490,7 @@ const chungbukContents = [
  },
  {
   title: "청향가든",
-  category: "한식",
+  category: "음식점",
   "대표자": "방두연",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1506,7 +1506,7 @@ const chungbukContents = [
  },
  {
   title: "조동낚시터식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이계화",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1554,7 +1554,7 @@ const chungbukContents = [
  },
  {
   title: "김가네원조설악추어탕",
-  category: "한식",
+  category: "음식점",
   "대표자": "김옥자",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1570,7 +1570,7 @@ const chungbukContents = [
  },
  {
   title: "맛나리",
-  category: "한식",
+  category: "음식점",
   "대표자": "신민자",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1586,7 +1586,7 @@ const chungbukContents = [
  },
  {
   title: "목행짱구네",
-  category: "한식",
+  category: "음식점",
   "대표자": "윤정린",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1618,7 +1618,7 @@ const chungbukContents = [
  },
  {
   title: "오륙도식육식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이정배",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1634,7 +1634,7 @@ const chungbukContents = [
  },
  {
   title: "박가네식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이명림",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1650,7 +1650,7 @@ const chungbukContents = [
  },
  {
   title: "무림장",
-  category: "한식",
+  category: "음식점",
   "대표자": "이세훈",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1666,7 +1666,7 @@ const chungbukContents = [
  },
  {
   title: "백송식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김순옥",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1682,7 +1682,7 @@ const chungbukContents = [
  },
  {
   title: "명진관",
-  category: "한식",
+  category: "음식점",
   "대표자": "이혜진",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1698,7 +1698,7 @@ const chungbukContents = [
  },
  {
   title: "반찬나라 한식부페",
-  category: "한식",
+  category: "음식점",
   "대표자": "조명수",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1714,7 +1714,7 @@ const chungbukContents = [
  },
  {
   title: "삼국지",
-  category: "중식",
+  category: "음식점",
   "대표자": "하정선",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1730,7 +1730,7 @@ const chungbukContents = [
  },
  {
   title: "금수레",
-  category: "한식",
+  category: "음식점",
   "대표자": "서윤성",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1762,7 +1762,7 @@ const chungbukContents = [
  },
  {
   title: "장수맛집",
-  category: "한식",
+  category: "음식점",
   "대표자": "이정희",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1778,7 +1778,7 @@ const chungbukContents = [
  },
  {
   title: "오복쌈밥",
-  category: "한식",
+  category: "음식점",
   "대표자": "고명상",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1794,7 +1794,7 @@ const chungbukContents = [
  },
  {
   title: "왕손보리밥뷔페",
-  category: "한식",
+  category: "음식점",
   "대표자": "정순화",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1842,7 +1842,7 @@ const chungbukContents = [
  },
  {
   title: "밤안개식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김소라",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1858,7 +1858,7 @@ const chungbukContents = [
  },
  {
   title: "엄정우리집",
-  category: "한식",
+  category: "음식점",
   "대표자": "박정현",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1874,7 +1874,7 @@ const chungbukContents = [
  },
  {
   title: "평화루",
-  category: "중식",
+  category: "음식점",
   "대표자": "이기동",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1890,7 +1890,7 @@ const chungbukContents = [
  },
  {
   title: "주혜옹심이칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "정진만",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1906,7 +1906,7 @@ const chungbukContents = [
  },
  {
   title: "샘골식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "조인숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1922,7 +1922,7 @@ const chungbukContents = [
  },
  {
   title: "금강감자탕",
-  category: "한식",
+  category: "음식점",
   "대표자": "강선숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1938,7 +1938,7 @@ const chungbukContents = [
  },
  {
   title: "콩수레",
-  category: "한식",
+  category: "음식점",
   "대표자": "이상덕",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1954,7 +1954,7 @@ const chungbukContents = [
  },
  {
   title: "청정야채버섯칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "이동숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -1986,7 +1986,7 @@ const chungbukContents = [
  },
  {
   title: "강원식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "염영숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2002,7 +2002,7 @@ const chungbukContents = [
  },
  {
   title: "부일식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "조규남",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2018,7 +2018,7 @@ const chungbukContents = [
  },
  {
   title: "메밀마당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김선미",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2034,7 +2034,7 @@ const chungbukContents = [
  },
  {
   title: "춘화연탄구이",
-  category: "한식",
+  category: "음식점",
   "대표자": "이춘화",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2050,7 +2050,7 @@ const chungbukContents = [
  },
  {
   title: "보리랑국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "권혁숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2066,7 +2066,7 @@ const chungbukContents = [
  },
  {
   title: "은영갈비",
-  category: "한식",
+  category: "음식점",
   "대표자": "엄명숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2082,7 +2082,7 @@ const chungbukContents = [
  },
  {
   title: "70년대손짜장",
-  category: "중식",
+  category: "음식점",
   "대표자": "천두용",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2098,7 +2098,7 @@ const chungbukContents = [
  },
  {
   title: "양촌대패삼겹살",
-  category: "한식",
+  category: "음식점",
   "대표자": "김옥숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2130,7 +2130,7 @@ const chungbukContents = [
  },
  {
   title: "돈이랑칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "서동원",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2146,7 +2146,7 @@ const chungbukContents = [
  },
  {
   title: "금능숯불갈비",
-  category: "한식",
+  category: "음식점",
   "대표자": "송미숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2162,7 +2162,7 @@ const chungbukContents = [
  },
  {
   title: "백세보리밥",
-  category: "한식",
+  category: "음식점",
   "대표자": "김익회",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2194,7 +2194,7 @@ const chungbukContents = [
  },
  {
   title: "야상회",
-  category: "중식",
+  category: "음식점",
   "대표자": "박상옥",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2210,7 +2210,7 @@ const chungbukContents = [
  },
  {
   title: "백암순대와 염소탕",
-  category: "한식",
+  category: "음식점",
   "대표자": "김영숙",
   "시도": "충청북도",
   "시군구": "충주시",
@@ -2226,7 +2226,7 @@ const chungbukContents = [
  },
  {
   title: "청풍호 청정한우",
-  category: "한식",
+  category: "음식점",
   "대표자": "장운봉",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2242,7 +2242,7 @@ const chungbukContents = [
  },
  {
   title: "소뜰애",
-  category: "한식",
+  category: "음식점",
   "대표자": "장혜민",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2258,7 +2258,7 @@ const chungbukContents = [
  },
  {
   title: "사또가든",
-  category: "한식",
+  category: "음식점",
   "대표자": "권태억",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2274,7 +2274,7 @@ const chungbukContents = [
  },
  {
   title: "밥상위의보약한첩",
-  category: "한식",
+  category: "음식점",
   "대표자": "함은숙",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2290,7 +2290,7 @@ const chungbukContents = [
  },
  {
   title: "선미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "박미선",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2306,7 +2306,7 @@ const chungbukContents = [
  },
  {
   title: "미락정",
-  category: "한식",
+  category: "음식점",
   "대표자": "엄경혜",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2322,7 +2322,7 @@ const chungbukContents = [
  },
  {
   title: "용천막국수 장락직영점",
-  category: "한식",
+  category: "음식점",
   "대표자": "이호경",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2354,7 +2354,7 @@ const chungbukContents = [
  },
  {
   title: "돼지세상",
-  category: "한식",
+  category: "음식점",
   "대표자": "지선화",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2370,7 +2370,7 @@ const chungbukContents = [
  },
  {
   title: "예원한식",
-  category: "한식",
+  category: "음식점",
   "대표자": "채희자",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2386,7 +2386,7 @@ const chungbukContents = [
  },
  {
   title: "우돈명가",
-  category: "한식",
+  category: "음식점",
   "대표자": "김은미",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2402,7 +2402,7 @@ const chungbukContents = [
  },
  {
   title: "춘천호반닭갈비막국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "김병학",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2418,7 +2418,7 @@ const chungbukContents = [
  },
  {
   title: "부흥식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김재룡",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2434,7 +2434,7 @@ const chungbukContents = [
  },
  {
   title: "드라마헤어샵",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "유춘이",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2450,7 +2450,7 @@ const chungbukContents = [
  },
  {
   title: "우렁각시",
-  category: "한식",
+  category: "음식점",
   "대표자": "김양미",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2466,7 +2466,7 @@ const chungbukContents = [
  },
  {
   title: "홍굴부추칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "권미숙",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2482,7 +2482,7 @@ const chungbukContents = [
  },
  {
   title: "경호이발관",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "남상심",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2498,7 +2498,7 @@ const chungbukContents = [
  },
  {
   title: "용천막국수 본점",
-  category: "한식",
+  category: "음식점",
   "대표자": "조은경",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2514,7 +2514,7 @@ const chungbukContents = [
  },
  {
   title: "쥐눈이콩마을",
-  category: "한식",
+  category: "음식점",
   "대표자": "강성란",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2530,7 +2530,7 @@ const chungbukContents = [
  },
  {
   title: "울산식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이경미",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2546,7 +2546,7 @@ const chungbukContents = [
  },
  {
   title: "자매해물칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "이원학",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2562,7 +2562,7 @@ const chungbukContents = [
  },
  {
   title: "산너울장수촌",
-  category: "한식",
+  category: "음식점",
   "대표자": "장영이",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2578,7 +2578,7 @@ const chungbukContents = [
  },
  {
   title: "솔비알",
-  category: "양식",
+  category: "음식점",
   "대표자": "박관순",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2594,7 +2594,7 @@ const chungbukContents = [
  },
  {
   title: "물방울세탁소",
-  category: "세탁",
+  category: "세탁업",
   "대표자": "최영규",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2610,7 +2610,7 @@ const chungbukContents = [
  },
  {
   title: "맹이네촌가",
-  category: "한식",
+  category: "음식점",
   "대표자": "김남숙",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2626,7 +2626,7 @@ const chungbukContents = [
  },
  {
   title: "향촌",
-  category: "한식",
+  category: "음식점",
   "대표자": "윤영미",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2642,7 +2642,7 @@ const chungbukContents = [
  },
  {
   title: "양지말해장국",
-  category: "한식",
+  category: "음식점",
   "대표자": "이영일",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2658,7 +2658,7 @@ const chungbukContents = [
  },
  {
   title: "미성설렁탕",
-  category: "한식",
+  category: "음식점",
   "대표자": "노선희",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2674,7 +2674,7 @@ const chungbukContents = [
  },
  {
   title: "수제돈까스",
-  category: "한식",
+  category: "음식점",
   "대표자": "최윤숙",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2690,7 +2690,7 @@ const chungbukContents = [
  },
  {
   title: "원앙",
-  category: "한식",
+  category: "음식점",
   "대표자": "권오현",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2706,7 +2706,7 @@ const chungbukContents = [
  },
  {
   title: "미당미당한방막국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "정영자",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2722,7 +2722,7 @@ const chungbukContents = [
  },
  {
   title: "비룡한우육개장",
-  category: "한식",
+  category: "음식점",
   "대표자": "박양희",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2738,7 +2738,7 @@ const chungbukContents = [
  },
  {
   title: "연중무휴",
-  category: "한식",
+  category: "음식점",
   "대표자": "태경자",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2754,7 +2754,7 @@ const chungbukContents = [
  },
  {
   title: "소리미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "심경희",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2770,7 +2770,7 @@ const chungbukContents = [
  },
  {
   title: "가람",
-  category: "한식",
+  category: "음식점",
   "대표자": "정인숙",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2802,7 +2802,7 @@ const chungbukContents = [
  },
  {
   title: "한방고기타운",
-  category: "한식",
+  category: "음식점",
   "대표자": "고선옥",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2818,7 +2818,7 @@ const chungbukContents = [
  },
  {
   title: "춘향골 추어탕",
-  category: "한식",
+  category: "음식점",
   "대표자": "유경옥",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2834,7 +2834,7 @@ const chungbukContents = [
  },
  {
   title: "향기나는세탁소",
-  category: "세탁",
+  category: "세탁업",
   "대표자": "노진수",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2850,7 +2850,7 @@ const chungbukContents = [
  },
  {
   title: "대복이네 밥집",
-  category: "한식",
+  category: "음식점",
   "대표자": "유혜정",
   "시도": "충청북도",
   "시군구": "제천시",
@@ -2866,7 +2866,7 @@ const chungbukContents = [
  },
  {
   title: "성별식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "우종회",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -2882,7 +2882,7 @@ const chungbukContents = [
  },
  {
   title: "삼보정",
-  category: "한식",
+  category: "음식점",
   "대표자": "김은숙",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -2898,7 +2898,7 @@ const chungbukContents = [
  },
  {
   title: "보은식당\n(생고기)",
-  category: "한식",
+  category: "음식점",
   "대표자": "이명희",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -2930,7 +2930,7 @@ const chungbukContents = [
  },
  {
   title: "원남식당\n(숯불구이)",
-  category: "한식",
+  category: "음식점",
   "대표자": "남용섭",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -2946,7 +2946,7 @@ const chungbukContents = [
  },
  {
   title: "성모미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "김순기",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -2962,7 +2962,7 @@ const chungbukContents = [
  },
  {
   title: "혜성정육점식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이문자",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -2978,7 +2978,7 @@ const chungbukContents = [
  },
  {
   title: "엄마손칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "정삼영",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -2994,7 +2994,7 @@ const chungbukContents = [
  },
  {
   title: "중앙식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "홍구연",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3010,7 +3010,7 @@ const chungbukContents = [
  },
  {
   title: "수한식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "최재술",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3026,7 +3026,7 @@ const chungbukContents = [
  },
  {
   title: "기사님식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이달선",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3042,7 +3042,7 @@ const chungbukContents = [
  },
  {
   title: "봉이네돈까스&Coffee",
-  category: "한식",
+  category: "음식점",
   "대표자": "류지선",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3058,7 +3058,7 @@ const chungbukContents = [
  },
  {
   title: "수한칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "지정해",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3074,7 +3074,7 @@ const chungbukContents = [
  },
  {
   title: "우리한돈",
-  category: "한식",
+  category: "음식점",
   "대표자": "박영옥",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3090,7 +3090,7 @@ const chungbukContents = [
  },
  {
   title: "송림식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김영완",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3106,7 +3106,7 @@ const chungbukContents = [
  },
  {
   title: "신사동왕족발",
-  category: "한식",
+  category: "음식점",
   "대표자": "김욱자",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3122,7 +3122,7 @@ const chungbukContents = [
  },
  {
   title: "환요성",
-  category: "한식",
+  category: "음식점",
   "대표자": "배정자",
   "시도": "충청북도",
   "시군구": "보은군",
@@ -3138,7 +3138,7 @@ const chungbukContents = [
  },
  {
   title: "북경루",
-  category: "중식",
+  category: "음식점",
   "대표자": "김순임",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3170,7 +3170,7 @@ const chungbukContents = [
  },
  {
   title: "김밥천냥",
-  category: "한식",
+  category: "음식점",
   "대표자": "박순자",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3186,7 +3186,7 @@ const chungbukContents = [
  },
  {
   title: "대원미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "장정자",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3202,7 +3202,7 @@ const chungbukContents = [
  },
  {
   title: "파파머리방",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "박숙자",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3218,7 +3218,7 @@ const chungbukContents = [
  },
  {
   title: "돼지촌",
-  category: "한식",
+  category: "음식점",
   "대표자": "유완숙",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3234,7 +3234,7 @@ const chungbukContents = [
  },
  {
   title: "매화칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "조환대",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3250,7 +3250,7 @@ const chungbukContents = [
  },
  {
   title: "달달이치킨",
-  category: "한식",
+  category: "음식점",
   "대표자": "장영순",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3266,7 +3266,7 @@ const chungbukContents = [
  },
  {
   title: "신미이발관",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "이종철",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3282,7 +3282,7 @@ const chungbukContents = [
  },
  {
   title: "제일미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "이범옥",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3298,7 +3298,7 @@ const chungbukContents = [
  },
  {
   title: "공주이용원",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "오재환",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3314,7 +3314,7 @@ const chungbukContents = [
  },
  {
   title: "정자가든식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김정헌",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3330,7 +3330,7 @@ const chungbukContents = [
  },
  {
   title: "시장치킨&튀김",
-  category: "한식",
+  category: "음식점",
   "대표자": "강복심",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3346,7 +3346,7 @@ const chungbukContents = [
  },
  {
   title: "옥천푸줏간정육식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "강정아",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3362,7 +3362,7 @@ const chungbukContents = [
  },
  {
   title: "옥천숯불촌",
-  category: "한식",
+  category: "음식점",
   "대표자": "김양금",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3378,7 +3378,7 @@ const chungbukContents = [
  },
  {
   title: "금강한우농장\n(구금강집)",
-  category: "한식",
+  category: "음식점",
   "대표자": "윤현숙",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3394,7 +3394,7 @@ const chungbukContents = [
  },
  {
   title: "중앙옥",
-  category: "한식",
+  category: "음식점",
   "대표자": "손국난",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3410,7 +3410,7 @@ const chungbukContents = [
  },
  {
   title: "친구네칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "한임순",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3426,7 +3426,7 @@ const chungbukContents = [
  },
  {
   title: "진실미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "차정임",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3442,7 +3442,7 @@ const chungbukContents = [
  },
  {
   title: "민들레",
-  category: "한식",
+  category: "음식점",
   "대표자": "전현미",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3458,7 +3458,7 @@ const chungbukContents = [
  },
  {
   title: "군서보리밥집",
-  category: "한식",
+  category: "음식점",
   "대표자": "신은정",
   "시도": "충청북도",
   "시군구": "옥천군",
@@ -3474,7 +3474,7 @@ const chungbukContents = [
  },
  {
   title: "홍능갈비",
-  category: "한식",
+  category: "음식점",
   "대표자": "김길수",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3506,7 +3506,7 @@ const chungbukContents = [
  },
  {
   title: "복무춘",
-  category: "중식",
+  category: "음식점",
   "대표자": "신순자",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3522,7 +3522,7 @@ const chungbukContents = [
  },
  {
   title: "순이네식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "안종순",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3538,7 +3538,7 @@ const chungbukContents = [
  },
  {
   title: "코끼리만두",
-  category: "한식",
+  category: "음식점",
   "대표자": "마영희",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3554,7 +3554,7 @@ const chungbukContents = [
  },
  {
   title: "오목식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "박정희",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3570,7 +3570,7 @@ const chungbukContents = [
  },
  {
   title: "용산민물식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김성헌",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3586,7 +3586,7 @@ const chungbukContents = [
  },
  {
   title: "매봉가든",
-  category: "한식",
+  category: "음식점",
   "대표자": "박영하",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3602,7 +3602,7 @@ const chungbukContents = [
  },
  {
   title: "남산골식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "허재복",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3618,7 +3618,7 @@ const chungbukContents = [
  },
  {
   title: "갈기산농원식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김운주",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3634,7 +3634,7 @@ const chungbukContents = [
  },
  {
   title: "토탈크리링",
-  category: "세탁",
+  category: "세탁업",
   "대표자": "이용섭",
   "시도": "충청북도",
   "시군구": "영동군",
@@ -3682,7 +3682,7 @@ const chungbukContents = [
  },
  {
   title: "시장축산물식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이숙자",
   "시도": "충청북도",
   "시군구": "증평군",
@@ -3698,7 +3698,7 @@ const chungbukContents = [
  },
  {
   title: "이화순미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "이화순",
   "시도": "충청북도",
   "시군구": "증평군",
@@ -3714,7 +3714,7 @@ const chungbukContents = [
  },
  {
   title: "나래분식",
-  category: "한식",
+  category: "음식점",
   "대표자": "김숙녀",
   "시도": "충청북도",
   "시군구": "증평군",
@@ -3746,7 +3746,7 @@ const chungbukContents = [
  },
  {
   title: "행복실비칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "김정분",
   "시도": "충청북도",
   "시군구": "증평군",
@@ -3762,7 +3762,7 @@ const chungbukContents = [
  },
  {
   title: "금호돈&오리",
-  category: "한식",
+  category: "음식점",
   "대표자": "이희자",
   "시도": "충청북도",
   "시군구": "증평군",
@@ -3794,7 +3794,7 @@ const chungbukContents = [
  },
  {
   title: "금강고을",
-  category: "한식",
+  category: "음식점",
   "대표자": "최락순",
   "시도": "충청북도",
   "시군구": "증평군",
@@ -3810,7 +3810,7 @@ const chungbukContents = [
  },
  {
   title: "신일생고기",
-  category: "한식",
+  category: "음식점",
   "대표자": "이명순",
   "시도": "충청북도",
   "시군구": "증평군",
@@ -3858,7 +3858,7 @@ const chungbukContents = [
  },
  {
   title: "맹동집",
-  category: "한식",
+  category: "음식점",
   "대표자": "유원예",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -3874,7 +3874,7 @@ const chungbukContents = [
  },
  {
   title: "원미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "이명자",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -3890,7 +3890,7 @@ const chungbukContents = [
  },
  {
   title: "고려식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김종수",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -3906,7 +3906,7 @@ const chungbukContents = [
  },
  {
   title: "김밥세상",
-  category: "한식",
+  category: "음식점",
   "대표자": "박정숙",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -3922,7 +3922,7 @@ const chungbukContents = [
  },
  {
   title: "사석한우촌",
-  category: "한식",
+  category: "음식점",
   "대표자": "김승임",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -3938,7 +3938,7 @@ const chungbukContents = [
  },
  {
   title: "마당한우촌",
-  category: "한식",
+  category: "음식점",
   "대표자": "장연옥",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -3970,7 +3970,7 @@ const chungbukContents = [
  },
  {
   title: "금잔디미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "문금자",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -3986,7 +3986,7 @@ const chungbukContents = [
  },
  {
   title: "행복한식뷔페",
-  category: "한식",
+  category: "음식점",
   "대표자": "박성단",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4018,7 +4018,7 @@ const chungbukContents = [
  },
  {
   title: "명가떡집",
-  category: "한식",
+  category: "음식점",
   "대표자": "조문숙",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4034,7 +4034,7 @@ const chungbukContents = [
  },
  {
   title: "오가네착한밥집앤포차",
-  category: "한식",
+  category: "음식점",
   "대표자": "오원숙",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4050,7 +4050,7 @@ const chungbukContents = [
  },
  {
   title: "미소가득꼬마김밥",
-  category: "한식",
+  category: "음식점",
   "대표자": "윤혜영",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4066,7 +4066,7 @@ const chungbukContents = [
  },
  {
   title: "양양만두",
-  category: "한식",
+  category: "음식점",
   "대표자": "차유화",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4082,7 +4082,7 @@ const chungbukContents = [
  },
  {
   title: "어전",
-  category: "한식",
+  category: "음식점",
   "대표자": "홍이식",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4098,7 +4098,7 @@ const chungbukContents = [
  },
  {
   title: "연형식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김순옥",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4114,7 +4114,7 @@ const chungbukContents = [
  },
  {
   title: "외갓집",
-  category: "한식",
+  category: "음식점",
   "대표자": "우금자",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4130,7 +4130,7 @@ const chungbukContents = [
  },
  {
   title: "오미경칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "오미경",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4146,7 +4146,7 @@ const chungbukContents = [
  },
  {
   title: "청해식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "서유순",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4162,7 +4162,7 @@ const chungbukContents = [
  },
  {
   title: "골목식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "최재분",
   "시도": "충청북도",
   "시군구": "진천군",
@@ -4178,7 +4178,7 @@ const chungbukContents = [
  },
  {
   title: "훈이분식",
-  category: "한식",
+  category: "음식점",
   "대표자": "박승자",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4194,7 +4194,7 @@ const chungbukContents = [
  },
  {
   title: "제일미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "최일구",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4210,7 +4210,7 @@ const chungbukContents = [
  },
  {
   title: "김민영미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "이옥희",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4242,7 +4242,7 @@ const chungbukContents = [
  },
  {
   title: "청안미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "안순옥",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4274,7 +4274,7 @@ const chungbukContents = [
  },
  {
   title: "괴강향토식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "송영희",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4290,7 +4290,7 @@ const chungbukContents = [
  },
  {
   title: "산천식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김영경",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4306,7 +4306,7 @@ const chungbukContents = [
  },
  {
   title: "풍일식당",
-  category: "중식",
+  category: "음식점",
   "대표자": "허순자",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4322,7 +4322,7 @@ const chungbukContents = [
  },
  {
   title: "상록숯불갈비",
-  category: "한식",
+  category: "음식점",
   "대표자": "김순자",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4338,7 +4338,7 @@ const chungbukContents = [
  },
  {
   title: "대하식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "장매실",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4354,7 +4354,7 @@ const chungbukContents = [
  },
  {
   title: "유미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "박유순",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4370,7 +4370,7 @@ const chungbukContents = [
  },
  {
   title: "오시오식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "김의기",
   "시도": "충청북도",
   "시군구": "괴산군",
@@ -4386,7 +4386,7 @@ const chungbukContents = [
  },
  {
   title: "우레정",
-  category: "한식",
+  category: "음식점",
   "대표자": "권순덕",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4402,7 +4402,7 @@ const chungbukContents = [
  },
  {
   title: "게장밥상",
-  category: "한식",
+  category: "음식점",
   "대표자": "반순희",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4434,7 +4434,7 @@ const chungbukContents = [
  },
  {
   title: "윤정미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "장춘자",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4450,7 +4450,7 @@ const chungbukContents = [
  },
  {
   title: "삼거리반점",
-  category: "중식",
+  category: "음식점",
   "대표자": "양명선",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4466,7 +4466,7 @@ const chungbukContents = [
  },
  {
   title: "홍두깨손칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "안덕자",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4482,7 +4482,7 @@ const chungbukContents = [
  },
  {
   title: "엄마손밥상",
-  category: "한식",
+  category: "음식점",
   "대표자": "김경섭",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4498,7 +4498,7 @@ const chungbukContents = [
  },
  {
   title: "천진동만두버섯전골",
-  category: "한식",
+  category: "음식점",
   "대표자": "강선옥",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4514,7 +4514,7 @@ const chungbukContents = [
  },
  {
   title: "준이네식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "정계헌",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4546,7 +4546,7 @@ const chungbukContents = [
  },
  {
   title: "소문난갈비",
-  category: "한식",
+  category: "음식점",
   "대표자": "최춘옥",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4562,7 +4562,7 @@ const chungbukContents = [
  },
  {
   title: "고향식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "이수근",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4578,7 +4578,7 @@ const chungbukContents = [
  },
  {
   title: "개미반점",
-  category: "중식",
+  category: "음식점",
   "대표자": "이재윤",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4594,7 +4594,7 @@ const chungbukContents = [
  },
  {
   title: "토종마을",
-  category: "한식",
+  category: "음식점",
   "대표자": "김태봉",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4610,7 +4610,7 @@ const chungbukContents = [
  },
  {
   title: "국화식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "윤계화",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4626,7 +4626,7 @@ const chungbukContents = [
  },
  {
   title: "감곡식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "전미순",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4642,7 +4642,7 @@ const chungbukContents = [
  },
  {
   title: "왕장정육점식당",
-  category: "한식",
+  category: "음식점",
   "대표자": "양영희",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4658,7 +4658,7 @@ const chungbukContents = [
  },
  {
   title: "양평칼국수",
-  category: "한식",
+  category: "음식점",
   "대표자": "문옥경",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4706,7 +4706,7 @@ const chungbukContents = [
  },
  {
   title: "맛디아분식",
-  category: "한식",
+  category: "음식점",
   "대표자": "이경숙",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4722,7 +4722,7 @@ const chungbukContents = [
  },
  {
   title: "품바손짜장",
-  category: "중식",
+  category: "음식점",
   "대표자": "조명순",
   "시도": "충청북도",
   "시군구": "음성군",
@@ -4738,7 +4738,7 @@ const chungbukContents = [
  },
  {
   title: "은미정",
-  category: "외식업",
+  category: "음식점",
   "대표자": "이석호",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4754,7 +4754,7 @@ const chungbukContents = [
  },
  {
   title: "한일맛집",
-  category: "외식업",
+  category: "음식점",
   "대표자": "이은자",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4770,7 +4770,7 @@ const chungbukContents = [
  },
  {
   title: "소백산묵촌",
-  category: "외식업",
+  category: "음식점",
   "대표자": "황분자",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4786,7 +4786,7 @@ const chungbukContents = [
  },
  {
   title: "미성명가",
-  category: "외식업",
+  category: "음식점",
   "대표자": "김화순",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4802,7 +4802,7 @@ const chungbukContents = [
  },
  {
   title: "달동네순대",
-  category: "외식업",
+  category: "음식점",
   "대표자": "정정훈",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4818,7 +4818,7 @@ const chungbukContents = [
  },
  {
   title: "이모야식",
-  category: "외식업",
+  category: "음식점",
   "대표자": "김근옥",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4834,7 +4834,7 @@ const chungbukContents = [
  },
  {
   title: "한별미용실",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "김경희",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4850,7 +4850,7 @@ const chungbukContents = [
  },
  {
   title: "준헤어샵",
-  category: "이미용업",
+  category: "이미용",
   "대표자": "윤창옥",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4866,7 +4866,7 @@ const chungbukContents = [
  },
  {
   title: "매포한우일번가",
-  category: "외식업",
+  category: "음식점",
   "대표자": "김진핵",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4882,7 +4882,7 @@ const chungbukContents = [
  },
  {
   title: "매포닭집식당",
-  category: "외식업",
+  category: "음식점",
   "대표자": "서민석",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4898,7 +4898,7 @@ const chungbukContents = [
  },
  {
   title: "매포두진정육식당",
-  category: "외식업",
+  category: "음식점",
   "대표자": "이윤정",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4914,7 +4914,7 @@ const chungbukContents = [
  },
  {
   title: "감골묵촌",
-  category: "외식업",
+  category: "음식점",
   "대표자": "석미향",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4930,7 +4930,7 @@ const chungbukContents = [
  },
  {
   title: "맛나만두",
-  category: "외식업",
+  category: "음식점",
   "대표자": "이왕근",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4946,7 +4946,7 @@ const chungbukContents = [
  },
  {
   title: "어머니손맛",
-  category: "외식업",
+  category: "음식점",
   "대표자": "이경자",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4962,7 +4962,7 @@ const chungbukContents = [
  },
  {
   title: "시골손두부",
-  category: "외식업",
+  category: "음식점",
   "대표자": "장호순",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4978,7 +4978,7 @@ const chungbukContents = [
  },
  {
   title: "동하식당",
-  category: "외식업",
+  category: "음식점",
   "대표자": "김진희",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -4994,7 +4994,7 @@ const chungbukContents = [
  },
  {
   title: "놀부순대",
-  category: "외식업",
+  category: "음식점",
   "대표자": "배명숙",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -5010,7 +5010,7 @@ const chungbukContents = [
  },
  {
   title: "남광중화요리",
-  category: "외식업",
+  category: "음식점",
   "대표자": "양애",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -5026,7 +5026,7 @@ const chungbukContents = [
  },
  {
   title: "숙이네칼국수",
-  category: "외식업",
+  category: "음식점",
   "대표자": "정명숙",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -5042,7 +5042,7 @@ const chungbukContents = [
  },
  {
   title: "라이라이",
-  category: "외식업",
+  category: "음식점",
   "대표자": "왕전화",
   "시도": "충청북도",
   "시군구": "단양군",
@@ -5058,7 +5058,7 @@ const chungbukContents = [
  },
  {
   title: "대구막창홍봉근꼼장어",
-  category: "외식업",
+  category: "음식점",
   "대표자": "김경자",
   "시도": "충청북도",
   "시군구": "단양군",

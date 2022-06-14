@@ -4,7 +4,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "기타양식",
+  category: "음식점",
   title: "파절이치킨",
   address : "대전광역시 동구 동서대로1748번길 154(가양동)",
   menu : "파절이치킨",
@@ -14,7 +14,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_육류",
+  category: "음식점",
   title: "돈하우스",
   address : "대전광역시 동구 동대전로131번길 8-16, 1층(자양동)",
   menu : "치킨까스",
@@ -24,7 +24,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_육류",
+  category: "음식점",
   title: "가양돼지",
   address : "대전광역시 동구 동대전로284번길 117, 동신아파트 1동1층2호(가양동)",
   menu : "삼겹살",
@@ -34,7 +34,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "태평소국밥",
   address : "대전광역시 동구 계족로140번길 91(용운동)",
   menu : "소국밥",
@@ -44,7 +44,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "대동식당",
   address : "대전광역시 동구 우안4길 2",
   menu : "김치찌게",
@@ -54,7 +54,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_면류",
+  category: "음식점",
   title: "진짜손칼국수",
   address : "대전광역시 동구 우암로 341-2",
   menu : "칼국수",
@@ -74,7 +74,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "머리카락앤피부샵",
   address : "대전광역시 동구 동서대로1692번길153(성남동)",
   menu : "커트",
@@ -84,7 +84,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "이가네뼈다귀",
   address : "대전광역시 동구 계족로392번길60,1층(성남동)",
   menu : "순두부",
@@ -94,7 +94,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_면류",
+  category: "음식점",
   title: "하나 바지락 칼국수",
   address : "대전광역시 동구 계족로392번길42(성남동)",
   menu : "칼국수",
@@ -104,7 +104,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_육류",
+  category: "음식점",
   title: "와라 칼국수와 족발",
   address : "대전광역시 동구 동서대로1668번길23(성남동)",
   menu : "보쌈",
@@ -114,7 +114,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_육류",
+  category: "음식점",
   title: "배부른돼지",
   address : "대전광역시 동구 동서대로1668번길24(성남동)",
   menu : "냉면",
@@ -124,7 +124,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_면류",
+  category: "음식점",
   title: "미가칼국수",
   address : "대전광역시 동구 백룡로 3(자양동)",
   menu : "칼국수",
@@ -134,7 +134,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "진수성찬",
   address : "대전광역시 동구 백룡로 29(자양동)",
   menu : "백반",
@@ -144,7 +144,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_면류",
+  category: "음식점",
   title: "행복식당",
   address : "대전광역시 동구 대전로815번길15",
   menu : "칼국수",
@@ -154,7 +154,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "송미용실",
   address : "대전광역시 동구 산내로 1346",
   menu : "파마",
@@ -164,7 +164,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "평양숨두부",
   address : "대전광역시 동구 대전로 381",
   menu : "숨두부백반",
@@ -174,7 +174,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "중식",
+  category: "음식점",
   title: "장성",
   address : "대전광역시 동구 우암로 85번길 14",
   menu : "자장면",
@@ -184,7 +184,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "대전식당",
   address : "대전광역시 동구 동산초교로 22번길 57",
   menu : "갈비탕",
@@ -194,7 +194,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "헤어코리아미용실",
   address : "대전광역시 동구 한남로 7번길 87",
   menu : "파마",
@@ -204,7 +204,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_면류",
+  category: "음식점",
   title: "진미칼국수",
   address : "대전광역시 동구 동서대로 1572번길 187",
   menu : "칼국수",
@@ -214,7 +214,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "추부식당",
   address : "대전광역시 동구 동서대로1683번길 37",
   menu : "소머리국밥",
@@ -224,7 +224,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "24시 서울식당",
   address : "대전광역시 동구 동서대로 1695번길 53",
   menu : "설렁탕",
@@ -234,7 +234,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "희원숯불갈비식당",
   address : "대전광역시 동구 가양로 56번길 19",
   menu : "삽겹살",
@@ -244,7 +244,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "중식",
+  category: "음식점",
   title: "성심관",
   address : "대전광역시 동구 동대전로 208",
   menu : "자장면",
@@ -254,7 +254,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "박가소머리곰탕",
   address : "대전광역시 동구 백룡로 37번길 8-16",
   menu : "뚝배기갈비탕",
@@ -264,7 +264,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "뒤집어진뚝배기",
   address : "대전광역시 동구 동대전로 131번길 8-11",
   menu : "참치뚝배기",
@@ -274,7 +274,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "중식",
+  category: "음식점",
   title: "정통짜장",
   address : "대전광역시 동구 동대전로 102",
   menu : "자장면",
@@ -284,7 +284,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_육류",
+  category: "음식점",
   title: "왕산갈비",
   address : "대전광역시 동구 계족로 202",
   menu : "갈비탕",
@@ -294,7 +294,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "연미용실",
   address : "대전광역시 동구 용운로 193",
   menu : "파마",
@@ -304,7 +304,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "곽은아미용실",
   address : "대전광역시 동구 새울로 100",
   menu : "파마",
@@ -314,7 +314,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "정다운집",
   address : "대전광역시 동구 용운로 151번길 85",
   menu : "돌솥김치볶음밥",
@@ -324,7 +324,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "한우농장 30년",
   address : "대전광역시 동구 동부로 13",
   menu : "냉면",
@@ -334,7 +334,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "중식",
+  category: "음식점",
   title: "만리장성",
   address : "대전광역시 동구 동부로 73",
   menu : "자장면",
@@ -344,7 +344,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "사랑골보리밥식당",
   address : "대전광역시 동구 동부로 56-7",
   menu : "된장찌개",
@@ -374,7 +374,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "은성미용실",
   address : "대전광역시 동구 마을회관길 31",
   menu : "파마",
@@ -384,7 +384,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "뿌리미용실",
   address : "대전광역시 동구 새등3길 6",
   menu : "파마",
@@ -394,7 +394,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "대광이용원",
   address : "대전광역시 동구 계족로 73-2",
   menu : "이용료",
@@ -404,7 +404,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "뉴모델이용원",
   address : "대전광역시 동구 계족로 103",
   menu : "이용료",
@@ -414,7 +414,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "시골보리밥",
   address : "대전광역시 동구 대동천 우안2길 4",
   menu : "보리밥",
@@ -424,7 +424,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "상주식당",
   address : "대전광역시 동구 대전천동로 462",
   menu : "올갱이국",
@@ -434,7 +434,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "착한나눔미용실",
   address : "대전광역시 동구 중앙로 204번길 6",
   menu : "파마",
@@ -444,7 +444,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "이미용업",
+  category: "이미용",
   title: "복지이용원",
   address : "대전광역시 동구 대전로 791",
   menu : "이용료",
@@ -454,7 +454,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "선미식당",
   address : "대전광역시 동구 대전로 791번길 41",
   menu : "추어탕",
@@ -464,7 +464,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "2900량",
   address : "대전광역시 동구 대전로 815번길 5",
   menu : "선지해장국",
@@ -474,7 +474,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "생일집",
   address : "대전광역시 동구 대전로 791-45",
   menu : "설렁탕",
@@ -484,7 +484,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "천변식당",
   address : "대전광역시 동구 계족로 257-5",
   menu : "된장찌개",
@@ -494,7 +494,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "부림식당",
   address : "대전광역시 동구 중앙로 200번길 27",
   menu : "백반",
@@ -504,7 +504,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "옛고을식당",
   address : "대전광역시 동구 역전시장길 8",
   menu : "양푼이비빔밥",
@@ -514,7 +514,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "송림식당",
   address : "대전광역시 동구 대전로 767-9",
   menu : "삼겹살",
@@ -524,7 +524,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "조선옥",
   address : "대전광역시 동구 중앙로 194번길 64",
   menu : "삼계탕",
@@ -534,7 +534,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_면류",
+  category: "음식점",
   title: "전통칼국수",
   address : "대전광역시 동구 대전로 825번길 13",
   menu : "칼국수",
@@ -544,7 +544,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "신도칼국수",
   address : "대전광역시 동구 대전로825번길 5",
   menu : "칼국수",
@@ -554,7 +554,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_면류",
+  category: "음식점",
   title: "홍가네칼국수",
   address : "대전광역시 동구 대전로 807번길 40",
   menu : "칼국수",
@@ -564,7 +564,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "동구",
-  category : "한식_일반",
+  category: "음식점",
   title: "김화식당",
   address : "대전광역시 동구 중앙로 203번길 38",
   menu : "칼국수",
@@ -574,7 +574,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "내집식당",
   address : "대전광역시 중구 대흥로121번길 42(대흥동)",
   menu : "올갱이국",
@@ -584,7 +584,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_육류",
+  category: "음식점",
   title: "통발숯불구이",
   address : "대전광역시 중구 보문산로161번길 27, 1층(문화동)",
   menu : "생삼겹살",
@@ -594,7 +594,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_면류",
+  category: "음식점",
   title: "정미소문화국수",
   address : "대전광역시 중구 보문산로177번안길 44, 102호(문화동)",
   menu : "잔치국수",
@@ -604,7 +604,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "종가수제비",
   address : "대전광역시 중구 당디로6번길 104(문화동, 1층)",
   menu : "수제비",
@@ -614,7 +614,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "유명감자탕",
   address : "대전광역시 중구 동서대로 1210(태평동)",
   menu : "감자탕(대)",
@@ -644,7 +644,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "이장네",
   address : "대전광역시 중구 대둔산로 472-1, 1층(산성동)",
   menu : "백반",
@@ -654,7 +654,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_육류",
+  category: "음식점",
   title: "영빈돌솥밥돌구이",
   address : "대전광역시 중구 유천로 102번길 27(유천동)",
   menu : "생삼겹살200g",
@@ -664,7 +664,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "이미용업",
+  category: "이미용",
   title: "청춘헤어",
   address : "대전광역시 중구 유천로132,1층(태평동)",
   menu : "컷트",
@@ -674,7 +674,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "진성할매추어탕",
   address : "대전광역시 중구 대전천서로 251, 1층(문창동)",
   menu : "추어탕",
@@ -684,7 +684,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_육류",
+  category: "음식점",
   title: "미가참숯구이",
   address : "대전광역시 중구 계룡로 909(문화동)",
   menu : "삼겹살(150g)",
@@ -694,7 +694,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "중식",
+  category: "음식점",
   title: "니하오유천점",
   address : "대전광역시 중구 평촌로 84, 1층 101호(유천동)",
   menu : "자장면",
@@ -704,7 +704,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_면류",
+  category: "음식점",
   title: "대박손칼국수",
   address : "대전광역시 중구 수침로55번길 60(태평동)",
   menu : "손칼국수",
@@ -714,7 +714,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "이미용업",
+  category: "이미용",
   title: "여운영헤어메이크업연구소",
   address : "대전광역시 중구 목중로 45-16, 1층(목동)",
   menu : "컷트",
@@ -724,7 +724,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "시골밥상",
   address : "대전광역시 중구 대종로315번길 53 (부사동)",
   menu : "백반",
@@ -734,7 +734,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "꼬뚜레식당",
   address : "대전광역시 중구 계백로1615번길 19, 1층 (유천동)",
   menu : "백반",
@@ -744,7 +744,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "한우큰마당",
   address : "대전광역시 중구 태평로 143, 1층 (태평동)",
   menu : "등심",
@@ -754,7 +754,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_면류",
+  category: "음식점",
   title: "순봉홍두깨칼국수",
   address : "대전광역시 중구 대전광역시 중구 문창로10번길 13 (문창동)",
   menu : "칼국수",
@@ -764,7 +764,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_면류",
+  category: "음식점",
   title: "시민칼국수",
   address : "대전광역시 중구 대흥로28번길 14, 1층 (대흥동)",
   menu : "칼국수",
@@ -774,7 +774,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "황소삼춘네 식당",
   address : "대전광역시 중구 대종로 460번길 11(대흥동)",
   menu : "양념목살",
@@ -784,7 +784,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_면류",
+  category: "음식점",
   title: "신도칼국수 중촌점",
   address : "대전광역시 중구 대전천서로679-1 (중촌동)",
   menu : "칼국수",
@@ -794,7 +794,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "다전우렁쌈밥",
   address : "대전광역시 중구 보문로168-20 (대사동)",
   menu : "쌈밥정식",
@@ -814,7 +814,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "선화동소머리해장국",
   address : "대전광역시 중구 중구 선화로 128(선화동)",
   menu : "소머리국밥",
@@ -824,7 +824,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "돈드림병천순대",
   address : "대전광역시 중구 대흥로12",
   menu : "사골순대국밥",
@@ -834,7 +834,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_해산물",
+  category: "음식점",
   title: "군산복집",
   address : "대전광역시 중구 중앙로121번길20",
   menu : "복칼국수",
@@ -844,7 +844,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "고박사조개손칼국수",
   address : "대전광역시 중구 보문로 324-8",
   menu : "바지락칼국수",
@@ -854,7 +854,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "우돈마루",
   address : "대전광역시 중구 목중로 50, 지하1층",
   menu : "냉면",
@@ -874,7 +874,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "윤아식당",
   address : "대전광역시 중구 대종로517번길 27",
   menu : "생선구이정식",
@@ -884,7 +884,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "좋은날식당",
   address : "대전광역시 중구 대종로505번길 35",
   menu : "자장면",
@@ -894,7 +894,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "이미용업",
+  category: "이미용",
   title: "빨간머리앤",
   address : "대전광역시 중구 대종로505번길 44",
   menu : "컷트",
@@ -904,7 +904,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "고려회관",
   address : "대전광역시 중구 중앙로109번길 30",
   menu : "한정식",
@@ -914,7 +914,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "두꺼비부대찌개",
   address : "대전광역시 중구 중앙로109번길 24",
   menu : "부대찌개",
@@ -924,7 +924,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "팔도청국장",
   address : "대전광역시 중구 중교로 36",
   menu : "청국장",
@@ -934,7 +934,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_한정식",
+  category: "음식점",
   title: "장춘수육쌈밥",
   address : "대전광역시 중구 대종로505번길 56(선화동)",
   menu : "쌈밥정식",
@@ -944,7 +944,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "이미용업",
+  category: "이미용",
   title: "미스터굿데이이용원",
   address : "대전광역시 중구 계백로 1540",
   menu : "커트",
@@ -954,7 +954,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "중식",
+  category: "음식점",
   title: "중화요리CFT",
   address : "대전광역시 중구 계백로1705-38",
   menu : "자장면",
@@ -964,7 +964,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "중식",
+  category: "음식점",
   title: "도원춘",
   address : "대전광역시 중구 대둔산로 415",
   menu : "자장면",
@@ -974,7 +974,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "광성손칼국수",
   address : "대전광역시 중구 문창로 5-10",
   menu : "삼겹살(200g)",
@@ -994,7 +994,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "이미용업",
+  category: "이미용",
   title: "천근미용실",
   address : "대전광역시 중구 천근로29-1",
   menu : "미용료(컷트)",
@@ -1004,7 +1004,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "중식",
+  category: "음식점",
   title: "아저씨돈까스",
   address : "대전광역시 중구 중앙로164번길 22-7",
   menu : "돈까스",
@@ -1014,7 +1014,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "중식",
+  category: "음식점",
   title: "영빈관식당",
   address : "대전광역시 중구 대종로 83",
   menu : "자장면",
@@ -1024,7 +1024,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "123식당",
   address : "대전광역시 중구 선화로 119번길29",
   menu : "백반",
@@ -1034,7 +1034,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "황가옥",
   address : "대전광역시 중구 선화서로4",
   menu : "올갱이해장국",
@@ -1044,7 +1044,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "선화콩나물밥식당",
   address : "대전광역시 중구 선화로119번길33",
   menu : "콩나물밥",
@@ -1054,7 +1054,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "매미식당",
   address : "대전광역시 중구 대흥로73번길 13(대흥동)",
   menu : "부대찌개",
@@ -1064,7 +1064,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "중식",
+  category: "음식점",
   title: "하오치",
   address : "대전광역시 중구 대종로517번길14",
   menu : "자장면",
@@ -1074,7 +1074,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_면류",
+  category: "음식점",
   title: "청양칼국수",
   address : "대전광역시 중구 대종로505번길31",
   menu : "조개칼국수",
@@ -1084,7 +1084,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "이모네식당",
   address : "대전광역시 중구 목척8길37",
   menu : "김치찌개",
@@ -1094,7 +1094,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "동원식당",
   address : "대전광역시 중구 중교로 29-1",
   menu : "황태탕",
@@ -1104,7 +1104,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_일반",
+  category: "음식점",
   title: "장수돌솥밥",
   address : "대전광역시 중구 보문로241-1",
   menu : "돌솥밥",
@@ -1114,7 +1114,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_육류",
+  category: "음식점",
   title: "신삼정식당",
   address : "대전광역시 중구 중교로11-1",
   menu : "쌈밥",
@@ -1124,7 +1124,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "24시대전해장국",
   address : "대전광역시 중구 우암로 12",
   menu : "해장국",
@@ -1134,7 +1134,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "중구",
-  category : "중식",
+  category: "음식점",
   title: "옛날전통짜장",
   address : "대전광역시 중구 태평로 99-1",
   menu : "자장면",
@@ -1154,7 +1154,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "수기헤어샵",
   address : "대전광역시 서구 벌곡로 649(흑석동)",
   menu : "커트",
@@ -1164,7 +1164,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "손님식당",
   address : "대전광역시 서구 흑석3길 25(흑석동)",
   menu : "백반",
@@ -1174,7 +1174,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "199숯불갈비",
   address : "대전광역시 서구 만년로18번길 38, 1층(만년동)",
   menu : "돼지갈비",
@@ -1184,7 +1184,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "수니김밥",
   address : "대전광역시 서구 갈마중로 13-16, 1층(갈마동)",
   menu : "김밥",
@@ -1194,7 +1194,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "자금성",
   address : "대전광역시 서구 신갈마로 152(갈마동)",
   menu : "짬뽕",
@@ -1204,7 +1204,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "명성식당",
   address : "대전광역시 서구 들말6길 16(가장동)",
   menu : "삼계탕",
@@ -1214,7 +1214,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "한민보리밥",
   address : "대전광역시 서구 도솔로302번길 5, 1층 101호(괴정동)",
   menu : "보리밥",
@@ -1224,7 +1224,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "사랑만찬",
   address : "대전광역시 서구 둔산남로181번길 23, 1층(둔산동)",
   menu : "가정식백반",
@@ -1244,7 +1244,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "예메밀탄방본점",
   address : "대전광역시 서구 탄방로7번길 137(탄방동)",
   menu : "막국수",
@@ -1254,7 +1254,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "시골마당",
   address : "대전광역시 서구 정림로66번길 28, 1층(정림동)",
   menu : "김치찌개",
@@ -1264,7 +1264,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "동큐칼국수",
   address : "대전광역시 서구 도마2길 43, 1층(도마동)",
   menu : "칼국수",
@@ -1274,7 +1274,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "복수칼국수",
   address : "대전광역시 서구 복수중로 38, 유치원동 2층",
   menu : "칼국수",
@@ -1284,7 +1284,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "미소김밥",
   address : "대전광역시 서구 신갈마로141번길 7-4",
   menu : "김치찌개",
@@ -1294,7 +1294,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "도솔왕돈까스와 국수",
   address : "대전광역시 서구 계룡로326번길 139-4, 1층",
   menu : "돈까스",
@@ -1304,7 +1304,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "명성식당",
   address : "대전광역시 서구 도솔로 261-2, 1층",
   menu : "칼국수",
@@ -1314,7 +1314,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "라면타임",
   address : "대전광역시 서구 대덕대로 3",
   menu : "라면",
@@ -1324,7 +1324,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "흑돼지식당",
   address : "대전광역시 서구 둔산로137번길 18, 201호",
   menu : "냉면",
@@ -1334,7 +1334,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "서울식당",
   address : "대전광역시 서구 문정로170번길 157",
   menu : "김치찌개",
@@ -1344,7 +1344,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "구름뜰",
   address : "대전광역시 서구 관저북로51번길 15-1, 1층",
   menu : "삼겹살",
@@ -1354,7 +1354,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "교동짬뽕",
   address : "대전광역시 서구 구봉로147번길 98-11, 1층",
   menu : "짜장면",
@@ -1364,7 +1364,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_해산물",
+  category: "음식점",
   title: "만원에행복",
   address : "대전광역시 서구 관저동로93번길 16-5",
   menu : "생선초밥",
@@ -1374,7 +1374,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "구미집",
   address : "대전광역시 서구 유등로505번길 36",
   menu : "칼국수",
@@ -1394,7 +1394,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "참사랑음식나라",
   address : "대전광역시 서구 계룡로603번길 21(탄방동)",
   menu : "올갱이국",
@@ -1404,7 +1404,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "탄방골참순대",
   address : "대전광역시 서구 괴정로 151",
   menu : "순대국밥",
@@ -1414,7 +1414,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "이헤어샵",
   address : "대전광역시 서구 계룡로320번길 21, 1층",
   menu : "커트",
@@ -1424,7 +1424,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "짜장왕",
   address : "대전광역시 서구 계백로1286번길 18",
   menu : "짜장면",
@@ -1434,7 +1434,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "두레박",
   address : "대전광역시 서구 정림로66번길 26",
   menu : "칼국수",
@@ -1444,7 +1444,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "24시 전주명가 콩나물국밥",
   address : "대전광역시 서구 관저중로 88",
   menu : "콩나물국밥",
@@ -1454,7 +1454,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "윤미용실",
   address : "대전광역시 서구 가수원로 106 상가동",
   menu : "퍼머",
@@ -1484,7 +1484,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "참맛있는칼국수",
   address : "대전광역시 서구 청사서로54번길 17, 2층",
   menu : "왕만두",
@@ -1494,7 +1494,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "진칼국수",
   address : "대전광역시 서구 도마2길 24",
   menu : "칼국수",
@@ -1504,7 +1504,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "짬뽕명가상하이",
   address : "대전광역시 서구 도마로 75",
   menu : "자장면",
@@ -1514,7 +1514,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "궁중칼국수",
   address : "대전광역시 서구 월평서로6번길 61",
   menu : "칼국수",
@@ -1524,7 +1524,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "옛집콩나물밥",
   address : "대전광역시 서구 청사서로41 백합상가B16",
   menu : "콩나물밥",
@@ -1534,7 +1534,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "흑석한우마을",
   address : "대전광역시 서구 금평3길 17",
   menu : "선짓국",
@@ -1544,7 +1544,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "미정손칼국수 만두",
   address : "대전광역시 서구 구봉로131번길 38, 109호",
   menu : "손칼국수",
@@ -1554,7 +1554,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "수정미용실",
   address : "대전광역시 서구 괴정로 106",
   menu : "커트",
@@ -1564,7 +1564,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "샛별미용타운",
   address : "대전광역시 서구 청사서로 29 상가 B1층",
   menu : "퍼머",
@@ -1574,7 +1574,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "탄방골참순대",
   address : "대전광역시 서구 한밭대로570번길 38",
   menu : "순대국밥",
@@ -1594,7 +1594,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "로마이용원",
   address : "대전광역시 서구 들말4길 7",
   menu : "이용료",
@@ -1604,7 +1604,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "조아식당",
   address : "대전광역시 서구 계룡로 649번길 49",
   menu : "된장찌개",
@@ -1614,7 +1614,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "신일미용실",
   address : "대전광역시 서구 계룡로 663-17",
   menu : "커트",
@@ -1624,7 +1624,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "우래정",
   address : "대전광역시 서구 도마5길 7",
   menu : "삼겹살",
@@ -1634,7 +1634,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "황토우렁쌈밥",
   address : "대전광역시 서구 대덕대로324번길 29",
   menu : "황태해장국",
@@ -1644,7 +1644,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "행복한분식",
   address : "대전광역시 서구 둔산로206번길 15",
   menu : "손수제비",
@@ -1654,7 +1654,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "참사랑김밥",
   address : "대전광역시 서구 신갈마로 140",
   menu : "김치찌개",
@@ -1664,7 +1664,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "전통콩나물밥식당",
   address : "대전광역시 서구 월평중로4번길 80",
   menu : "콩나물밥",
@@ -1674,7 +1674,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "장미미용실",
   address : "대전광역시 서구 월평새뜸로8번길 61-5",
   menu : "퍼머",
@@ -1684,7 +1684,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "유진이용원",
   address : "대전광역시 서구 도마2길 73",
   menu : "이용료",
@@ -1694,7 +1694,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "원헤어라인",
   address : "대전광역시 서구 가수원로7번길 14",
   menu : "퍼머",
@@ -1704,7 +1704,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "우두령",
   address : "대전광역시 서구 둔산중로134번길 21",
   menu : "냉면",
@@ -1714,7 +1714,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "용문이용원",
   address : "대전광역시 서구 괴정로189번길 49",
   menu : "이용료",
@@ -1724,7 +1724,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "옛터국수전문점",
   address : "대전광역시 서구 월평새뜸로4번길 69",
   menu : "잔치국수",
@@ -1734,7 +1734,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "기타양식",
+  category: "음식점",
   title: "옛맛치킨호프",
   address : "대전광역시 서구 월평로 83",
   menu : "치킨",
@@ -1744,7 +1744,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "30년전통옛날손칼국수",
   address : "대전광역시 서구 월평중로4번길 82",
   menu : "칼국수",
@@ -1754,7 +1754,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "예술마당",
   address : "대전광역시 서구 둔산로137번길 27",
   menu : "돼지석갈비",
@@ -1774,7 +1774,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "신공주칼국수",
   address : "대전광역시 서구 갈마로313번길 22",
   menu : "칼국수",
@@ -1784,7 +1784,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "슈헤어갤러리",
   address : "대전광역시 서구 월평서로6번길 66",
   menu : "퍼머",
@@ -1794,7 +1794,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "수 헤어갤러리",
   address : "대전광역시 서구 도솔로 261-2",
   menu : "퍼머",
@@ -1804,7 +1804,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "송가네닭발",
   address : "대전광역시 서구 계백로1286번길 77",
   menu : "선짓국",
@@ -1824,7 +1824,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "서해해물칼국수",
   address : "대전광역시 서구 계룡로662번길 14",
   menu : "된장찌개",
@@ -1834,7 +1834,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "새벽김밥",
   address : "대전광역시 서구 벌곡로1379번길 13",
   menu : "김밥",
@@ -1844,7 +1844,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "산막골가든",
   address : "대전광역시 서구 장안로 772-62",
   menu : "삼겹살",
@@ -1854,7 +1854,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "북경대반점",
   address : "대전광역시 서구 도산로 147-2",
   menu : "자장면",
@@ -1864,7 +1864,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "본가옥해장국",
   address : "대전광역시 서구 동서대로 1052, 1층",
   menu : "콩나물해장국",
@@ -1874,7 +1874,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "본가닭탕",
   address : "대전광역시 서구 계룡로509번길 21",
   menu : "김치찌개",
@@ -1884,7 +1884,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "뱃고동쭈꾸미낙지전문점",
   address : "대전광역시 서구 만년로18번길 15",
   menu : "김치찌개",
@@ -1894,7 +1894,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "명랑분식",
   address : "대전광역시 서구 둔산남로199번길 15",
   menu : "청국장",
@@ -1904,7 +1904,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "머슴촌해장국",
   address : "대전광역시 서구 둔산로51번길 66",
   menu : "콩나물해장국",
@@ -1914,7 +1914,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "매일반점",
   address : "대전광역시 서구 사마1길 16",
   menu : "자장면",
@@ -1924,7 +1924,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "만빈각",
   address : "대전광역시 서구 들말6길 8",
   menu : "자장면",
@@ -1934,7 +1934,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_면류",
+  category: "음식점",
   title: "라면타임",
   address : "대전광역시 서구 도산로 61",
   menu : "돈까스",
@@ -1944,7 +1944,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "둔산오리돼지숯불구이",
   address : "대전광역시 서구 둔산남로165번길 11",
   menu : "김치찌개",
@@ -1954,7 +1954,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "둔산돌구이",
   address : "대전광역시 서구 둔산중로58번길 49",
   menu : "냉면",
@@ -1974,7 +1974,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "중식",
+  category: "음식점",
   title: "대화장",
   address : "대전광역시 서구 사마1길 14",
   menu : "자장면",
@@ -1984,7 +1984,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "대박고기촌",
   address : "대전광역시 서구 동서대로1080번길 1",
   menu : "삼겹살",
@@ -1994,7 +1994,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "담양애떡갈비",
   address : "대전광역시 서구 만년남로3번길 16-8",
   menu : "불고기",
@@ -2004,7 +2004,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "놀부네남원추어탕",
   address : "대전광역시 서구 월평로37번길 9",
   menu : "추어탕",
@@ -2014,7 +2014,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "김밥천국",
   address : "대전광역시 서구 갈마로 55",
   menu : "된장찌개",
@@ -2024,7 +2024,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "김영숙미용실",
   address : "대전광역시 서구 둔산로206번길 15",
   menu : "퍼머",
@@ -2034,7 +2034,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_분식",
+  category: "음식점",
   title: "김밥나라",
   address : "대전광역시 서구 둔산로 210",
   menu : "된장찌개",
@@ -2044,7 +2044,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "기쁨주는머리방",
   address : "대전광역시 서구 계백로1158번길 79",
   menu : "퍼머",
@@ -2054,7 +2054,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title: "궁중미용실",
   address : "대전광역시 서구 가수원중로 4-22",
   menu : "퍼머",
@@ -2064,7 +2064,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "국일식당",
   address : "대전광역시 서구 계룡로636번길 14-26",
   menu : "된장찌개",
@@ -2074,7 +2074,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_일반",
+  category: "음식점",
   title: "만년건강보리밥",
   address : "대전광역시 서구 만년남로11번길 43",
   menu : "보리밥",
@@ -2084,7 +2084,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "갑돌갈비",
   address : "대전광역시 서구 조달청길 113",
   menu : "돼지갈비",
@@ -2094,7 +2094,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "서구",
-  category : "한식_육류",
+  category: "음식점",
   title: "갈비가",
   address : "대전광역시 서구 가수원로 35",
   menu : "갈비(200g)",
@@ -2104,7 +2104,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_분식",
+  category: "음식점",
   title: "울트라김밥",
   address : "대전광역시 유성구 궁동로 18번길 80, 1층(궁동)",
   menu : "김밥",
@@ -2114,7 +2114,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "장수순대",
   address : "대전광역시 유성구 대정남로 16(대정동)",
   menu : "머리국밥",
@@ -2124,7 +2124,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "신가네해장국",
   address : "대전광역시 유성구 유성대로 2(원내동)",
   menu : "선지해장국",
@@ -2134,7 +2134,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "기타양식",
+  category: "음식점",
   title: "쥬스킹",
   address : "대전광역시 유성구 학하서로121번길 31-2(덕명동)",
   menu : "쥬스",
@@ -2144,7 +2144,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "청주해장국",
   address : "대전광역시 유성구 온천로 63(봉명동)",
   menu : "선지해장국",
@@ -2154,7 +2154,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "청주해장국",
   address : "대전광역시 유성구 대덕대로 560(도룡동)",
   menu : "콩나물국",
@@ -2164,7 +2164,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "춘천닭갈비",
   address : "대전광역시 유성구 구즉로48번길 25(송강동)",
   menu : "닭갈비",
@@ -2174,7 +2174,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "맛존매콤닭불고기",
   address : "대전광역시 유성구 대학로155번길 34(궁동)",
   menu : "매콤닭불고기",
@@ -2184,7 +2184,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "중식",
+  category: "음식점",
   title: "신성짬뽕",
   address : "대전광역시 유성구 신성로61번길 72(신성동)",
   menu : "자장면",
@@ -2194,7 +2194,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "천리집",
   address : "대전광역시 유성구 신성남로 127(신성동)",
   menu : "순대국",
@@ -2204,7 +2204,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "부대통령 뚝배기",
   address : "대전광역시 유성구 문화원로 56(궁동)",
   menu : "순두부찌개",
@@ -2214,7 +2214,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "전주명가콩나물국밥",
   address : "대전광역시 유성구 계룡로52번길 11(봉명동)",
   menu : "콩나물국밥",
@@ -2224,7 +2224,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "예전손칼국시",
   address : "대전광역시 유성구 계룡로 41-7(봉명동,1층)",
   menu : "칼국수",
@@ -2234,7 +2234,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "삼남매",
   address : "대전광역시 유성구 유성대로730번길 24(장대동)",
   menu : "소고기국밥",
@@ -2244,7 +2244,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "민들레 집뜰",
   address : "대전광역시 유성구 문화원로46번길 12(궁동)",
   menu : "백반",
@@ -2254,7 +2254,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "헤어핀미용실",
   address : "대전광역시 유성구 계룡로52번길67",
   menu : "커트(남\/여)",
@@ -2264,7 +2264,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "학사식당",
   address : "대전광역시 유성구 대학로76번안길 32",
   menu : "한식",
@@ -2274,7 +2274,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_분식",
+  category: "음식점",
   title: "동큐칼국수",
   address : "대전광역시 유성구 대학로75번길 10",
   menu : "칼국수",
@@ -2284,7 +2284,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_분식",
+  category: "음식점",
   title: "충대분식",
   address : "대전광역시 유성구 궁동로18번길 30",
   menu : "소고기덮밥",
@@ -2304,7 +2304,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "착한이용원",
   address : "대전광역시 유성구 진잠로 78번길 34",
   menu : "컷트",
@@ -2314,7 +2314,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_일반",
+  category: "음식점",
   title: "황토가마",
   address : "대전광역시 유성구 대학로 145번길 21",
   menu : "생삼겹살",
@@ -2324,7 +2324,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_면류",
+  category: "음식점",
   title: "토종칼국수",
   address : "대전광역시 유성구 노은서로 61",
   menu : "칼국수",
@@ -2334,7 +2334,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "정운미용실",
   address : "대전광역시 유성구 장대로 27",
   menu : "커트",
@@ -2344,7 +2344,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "자매미용실",
   address : "대전광역시 유성구 장대로 21",
   menu : "커트",
@@ -2354,7 +2354,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "고운미용실",
   address : "대전광역시 유성구 유성대로 720번길 92",
   menu : "커트",
@@ -2364,7 +2364,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_분식",
+  category: "음식점",
   title: "다유미",
   address : "대전광역시 유성구 문화원로 16",
   menu : "김밥",
@@ -2374,7 +2374,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "정식당",
   address : "대전광역시 유성구 유성대로 646번길52",
   menu : "뼈다귀탕",
@@ -2394,7 +2394,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "강정원헤어러브",
   address : "대전광역시 유성구 유성대로 730번길24",
   menu : "커트",
@@ -2404,7 +2404,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "수헤어",
   address : "대전광역시 유성구 계룡로 13",
   menu : "커트(남성)",
@@ -2414,7 +2414,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_육류",
+  category: "음식점",
   title: "머슴골식객",
   address : "대전광역시 유성구 유성대로736번길 84(장대동)",
   menu : "숯불왕갈비(350g)",
@@ -2424,7 +2424,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "중식",
+  category: "음식점",
   title: "요리왕",
   address : "대전광역시 유성구 농대로 17번길 24",
   menu : "자장면",
@@ -2434,7 +2434,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "지영미용실",
   address : "대전광역시 유성구 유성대로 720번길 64",
   menu : "커트",
@@ -2444,7 +2444,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "수림미용실",
   address : "대전광역시 유성구 유성대로 720번길 44",
   menu : "커트",
@@ -2454,7 +2454,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "평화미용실",
   address : "대전광역시 유성구 유성대로 720번길 63-5",
   menu : "커트",
@@ -2464,7 +2464,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_면류",
+  category: "음식점",
   title: "고향손칼국수",
   address : "대전광역시 유성구 유성대로 752번길 33",
   menu : "칼국수",
@@ -2474,7 +2474,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "이미용업",
+  category: "이미용",
   title: "머리사랑미용실",
   address : "대전광역시 유성구 진잠로 42번길 88 진잠타운상가 207호",
   menu : "커트",
@@ -2484,7 +2484,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "유성시니어크럽100세두부집",
   address : "대전광역시 유성구 유성대로 752번길 36",
   menu : "된장찌개",
@@ -2494,7 +2494,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "유성구",
-  category : "기타양식",
+  category: "음식점",
   title: "다락방식당",
   address : "대전광역시 유성구 유성대로 740번길 42",
   menu : "생선가스",
@@ -2504,7 +2504,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "중식",
+  category: "음식점",
   title: "중국집",
   address : "대전광역시 대덕구 중리로31번길 6-20(중리동)",
   menu : "짜장면",
@@ -2514,7 +2514,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "삼광육계장",
   address : "대전광역시 대덕구 선비마을로5번길 9(송촌동)",
   menu : "육계장, 곰탕",
@@ -2524,7 +2524,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "이미용업",
+  category: "이미용",
   title: "미성헤어라인",
   address : "대전광역시 대덕구 송촌북로19번길 5(송촌동)",
   menu : "여성커트",
@@ -2544,7 +2544,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "포돈포돈",
   address : "대전광역시 대덕구 한남로38번길 20(오정동)",
   menu : "삼겹살무한리필",
@@ -2554,7 +2554,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "중식",
+  category: "음식점",
   title: "7080중화요리",
   address : "대전광역시 대덕구 석봉로37번길 60-16(석봉동)",
   menu : "짜장면",
@@ -2564,7 +2564,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "혜화식당",
   address : "대전광역시 대덕구 송촌북로4번길 41-8(송촌동)",
   menu : "칠보국밥",
@@ -2574,7 +2574,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "중식",
+  category: "음식점",
   title: "청운반점",
   address : "대전광역시 대덕구 오정로76번길 2(오정동)",
   menu : "자장면",
@@ -2584,7 +2584,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "이미용업",
+  category: "이미용",
   title: "유수현미용실",
   address : "대전광역시 대덕구 덕암북로22번길 46 (덕암동)",
   menu : "커트",
@@ -2594,7 +2594,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "이미용업",
+  category: "이미용",
   title: "채아린헤어샵",
   address : "대전광역시 대덕구 덕암북로22번길 52 (덕암동)",
   menu : "커트",
@@ -2604,7 +2604,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "오가네홍두깨손칼국수",
   address : "대전광역시 대덕구 덕암로 233번길 24(덕암동)",
   menu : "칼국수",
@@ -2614,7 +2614,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "대로식당",
   address : "대전광역시 대덕구 대덕대로 1605번길 7호(석봉동)",
   menu : "백반",
@@ -2624,7 +2624,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "돌돌김밥",
   address : "대전광역시 대덕구 석봉로37번길 51 (석봉동)",
   menu : "떡만두국",
@@ -2634,7 +2634,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "탄불이연탄불고기쌈밥",
   address : "대전광역시 대덕구 대청로 9, 1층 (신탄진동)",
   menu : "연탄불고기쌈밥",
@@ -2644,7 +2644,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "정다운 보리밥",
   address : "대전광역시 대덕구 신탄진동로7번길 74 (신탄진동)",
   menu : "보리밥",
@@ -2654,7 +2654,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "황토맨발",
   address : "대전광역시 대덕구 게족산로17번길 110, 1층 (법동)",
   menu : "쫄뜨기두부전골",
@@ -2664,7 +2664,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "순봉홍두깨손칼국수",
   address : "대전광역시 대덕구 중리북로37번길 41, 101호 (중리동, 1층)",
   menu : "칼국수",
@@ -2674,7 +2674,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "이미용업",
+  category: "이미용",
   title: "헤어코리아미용실",
   address : "대전광역시 대덕구 중리북로 53 (중리동)",
   menu : "여자컷",
@@ -2684,7 +2684,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "이미용업",
+  category: "이미용",
   title: "머리하는 풍경",
   address : "대전광역시 대덕구 중리북로 49 (증리동, 1층)",
   menu : "여자 컷",
@@ -2694,7 +2694,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "이미용업",
+  category: "이미용",
   title: "투투머리마을미용실",
   address : "대전광역시 대덕구 동춘당로23번길 58 (송촌동)",
   menu : "여자 컷",
@@ -2704,7 +2704,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "미정숯불갈비",
   address : "대전광역시 대덕구 동춘당로23번길 51 (송촌동)",
   menu : "생삼겹살(200g)",
@@ -2714,7 +2714,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "김연수소국밥막국수",
   address : "대전광역시 대덕구 대전로 1370번길 13-14 (읍내동)",
   menu : "소머리국밥",
@@ -2724,7 +2724,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_분식",
+  category: "음식점",
   title: "김밥나라",
   address : "대전광역시 대덕구 대전로 1358 (읍내동)",
   menu : "김밥",
@@ -2734,7 +2734,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "식풍경",
   address : "대전광역시 대덕구 대화동 동심 5길 3(대화동)",
   menu : "뼈해장국",
@@ -2744,7 +2744,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "장미식당",
   address : "대전광역시 대덕구 대화동 동심 1길 69(대화동)",
   menu : "김치찌개",
@@ -2754,7 +2754,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "중식",
+  category: "음식점",
   title: "만보성",
   address : "대전광역시 대덕구 한밭대로972번길 86(오정동)",
   menu : "짜장면",
@@ -2764,7 +2764,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "달무리국수전문점",
   address : "대전광역시 대덕구 한남로137번길 48, 1층 (오정동)",
   menu : "칼국수",
@@ -2774,7 +2774,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "외양간숯불구이",
   address : "대전광역시 대덕구 오정동 705-65",
   menu : "선짓국",
@@ -2784,7 +2784,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "나래원식당",
   address : "대전광역시 대덕구 비래동로16번길 13",
   menu : "안동찜닭(소)",
@@ -2794,7 +2794,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "강청골순대국밥",
   address : "대전광역시 대덕구 계족산로5번길 90",
   menu : "순대국밥",
@@ -2804,7 +2804,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "은진손두부",
   address : "대전광역시 대덕구 덕암로 234번길 30",
   menu : "김치찌개",
@@ -2814,7 +2814,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "최고집잔치국수",
   address : "대전광역시 대덕구 덕암로 265번길 127",
   menu : "잔치국수",
@@ -2824,7 +2824,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "아지매왕냉면왕갈비탕",
   address : "대전광역시 대덕구 계족산로 17번길 91",
   menu : "세숫대야왕냉면",
@@ -2834,7 +2834,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "오가네홍두께손칼국수",
   address : "대전광역시 대덕구 우암로 407",
   menu : "손칼국수",
@@ -2844,7 +2844,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "행복담은 한그릇",
   address : "대전광역시 대덕구 대전로1020번길 23",
   menu : "새싹비빔밥",
@@ -2854,7 +2854,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_육류",
+  category: "음식점",
   title: "덕암삼겹살",
   address : "대전광역시 대덕구 덕암로 251",
   menu : "생삼겹살(200g)",
@@ -2864,7 +2864,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "보성식당",
   address : "대전광역시 대덕구 석봉로 37번길 60-7",
   menu : "청국장게장백반",
@@ -2874,7 +2874,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "진미정식",
   address : "대전광역시 대덕구 중리동로 17번길 50",
   menu : "가정식백반",
@@ -2884,7 +2884,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "이모네",
   address : "대전광역시 대덕구 동서대로1809번길 9",
   menu : "고등어백반",
@@ -2894,7 +2894,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "호박식당",
   address : "대전광역시 대덕구 비래동로7번길 13",
   menu : "칼국수",
@@ -2904,7 +2904,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "이미용업",
+  category: "이미용",
   title: "헤어나이스",
   address : "대전광역시 대덕구 비래동로15번길 27",
   menu : "성인컷트(여)",
@@ -2914,7 +2914,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "중식",
+  category: "음식점",
   title: "한남짜장",
   address : "대전광역시 대덕구 한남로 61",
   menu : "자장면",
@@ -2934,7 +2934,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_찌개류",
+  category: "음식점",
   title: "제일추어탕",
   address : "대전광역시 대덕구 한남로 137",
   menu : "돌솥추어탕(점심)",
@@ -2944,7 +2944,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_면류",
+  category: "음식점",
   title: "왕궁바지락칼국수",
   address : "대전광역시 대덕구 대전로1019번길 37",
   menu : "오징어두루치기(2인분)",
@@ -2954,7 +2954,7 @@ const daejeonContents = [
  {
   "시도": "대전광역시",
   "시군구": "대덕구",
-  category : "한식_일반",
+  category: "음식점",
   title: "오부자강릉집",
   address : "대전광역시 대덕구 한밭대로1006번길 74",
   menu : "낙지뚝배기",

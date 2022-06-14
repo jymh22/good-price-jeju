@@ -2,12 +2,15 @@ const searchBtn = document.querySelector('#searchBtn');
 const contentsList = document.querySelector('#contentsList');
 const sortCategoryBox = document.querySelector('#sortCategoryBox');
 const searchBar = document.querySelector('#searchBar');
+const sortRegionBox = document.querySelector('#sortRegionBox');
 
 let storeAddress = [];
 let food = [];
 let hair = [];
 let laundry = [];
 let stay = [];
+
+let now_content = jejuContents; // 현재 선택 지역
 
 var container = document.getElementById('map');
 var options = {
@@ -16,7 +19,9 @@ var options = {
 };
 
 var map = new kakao.maps.Map(container, options);
-
+var imageSrc = 'img/pin.png', // 마커이미지의 주소입니다    
+    imageSize = new kakao.maps.Size(34, 39); // 마커이미지의 크기입니다
+var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
 display_gps();
 
 /**
@@ -106,7 +111,7 @@ function displayMarker(locPosition, message) {
 var geocoder = new kakao.maps.services.Geocoder();
 
 // 주소로 좌표를 검색합니다
-const searchMap = (address) => {
+const searchMap = (address, title) => {
     geocoder.addressSearch(`${address}`, function(result, status) {
         // 정상적으로 검색이 완료됐으면 
          if (status === kakao.maps.services.Status.OK) {   
@@ -114,11 +119,12 @@ const searchMap = (address) => {
             // 결과값으로 받은 위치를 마커로 표시합니다
             var marker = new kakao.maps.Marker({
                 map: map,
-                position: coords
+                position: coords,
+                image: markerImage
             });   
             // 인포윈도우로 장소에 대한 설명을 표시합니다
             var infowindow = new kakao.maps.InfoWindow({
-                content: '<div style="width:150px;text-align:center;padding:6px 0;">장소</div>'
+                content: `<div style="width:150px;text-align:center;padding:6px 0;">${title}</div>`
             });
             infowindow.open(map, marker);    
             // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
@@ -162,7 +168,7 @@ const addList = (listObj) => {
                 <img src=${listObj[i].img}>
                 <span>
                     <ul>
-                        <li>업소명 : ${listObj[i].title}</li>
+                        <li id='title'>업소명 : ${listObj[i].title}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
                         <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
@@ -174,35 +180,37 @@ const addList = (listObj) => {
     return list;
 }
 
+// 주소 맵 검색
 const addressFunction = () => {
     storeAddress = document.querySelectorAll('#address');
     storeAddress.forEach((item) => {
         item.addEventListener('click', (event) => {
-            searchMap(event.target.innerText.substring(5));
+            let parentNode = item.parentNode;
+            searchMap(event.target.innerText.substring(5), parentNode.childNodes[1].innerText.substring(5));
         })
     })
 }
 
-const sortCategory = () => {
-    for (let i = 0; i < jejuContents.length; i++) {
-        if (jejuContents[i].category === '음식점') {
-            food[food.length] = jejuContents[i];
+const sortCategory = (now_content) => {
+    for (let i = 0; i < now_content.length; i++) {
+        if (now_content[i].category === '음식점') {
+            food[food.length] = now_content[i];
         }
-        else if (jejuContents[i].category === '이미용') {
-            hair[hair.length] = jejuContents[i];
+        else if (now_content[i].category === '이미용') {
+            hair[hair.length] = now_content[i];
         }
-        else if (jejuContents[i].category === '세탁업') {
-            laundry[laundry.length] = jejuContents[i];
+        else if (now_content[i].category === '세탁업') {
+            laundry[laundry.length] = now_content[i];
         }
-        else if (jejuContents[i].category === '숙박업') {
-            stay[stay.length] = jejuContents[i];
+        else if (now_content[i].category === '숙박업') {
+            stay[stay.length] = now_content[i];
         }
     }
 }
 
 const searchKeyword = () => {
     let searchtxt = searchBar.value;
-    let result = getObjectsSearch(contents,'menu', searchtxt);
+    let result = getObjectsSearch(checkRegionValue(),'menu', searchtxt);
     if (result.length === 0) {
         window.alert('검색 결과가 없습니다.');
     }
@@ -239,25 +247,131 @@ searchBtn.addEventListener('click', () => {
     addressFunction();
 });
 
+// 작성자 kys
+// 현재 sortRegionBox 값에 따라서 컨텐츠 값을 리턴해주는 함수
+// 자바스크립트 미흡으로 함수로 비동기식으로 인한 오류가 발생할 수 있음
+function checkRegionValue(){
+    if (sortRegionBox.value === 'jeju') {
+        return jejuContents;
+    }
+    else if (sortRegionBox.value === 'chungnam') {
+        return chungnamContents;
+    }
+    else if (sortRegionBox.value === 'kyungbuk') {
+        return gyeongbukContents;
+    }
+    else if (sortRegionBox.value === 'jeonnam') {
+        return jeonnamContetns;
+    }
+    else if (sortRegionBox.value === 'jeonbuk') {
+        return jeonbukContetns;
+    }
+    else if (sortRegionBox.value === 'chungbuk') {
+        return chungbukContents;
+    }
+    else if (sortRegionBox.value === 'kangwon') {
+        return kangwondoContents;
+    }
+    else if (sortRegionBox.value === 'ulsan') {
+        return ulsancontents;
+    }
+    else if (sortRegionBox.value === 'daejeon') {
+        return daejeonContents;
+    }
+    else if (sortRegionBox.value === 'gwangju') {
+        return gwangjuContents;
+    }
+    else if (sortRegionBox.value === 'daegu') {
+        return daeguContents;
+    }
+    else if (sortRegionBox.value === 'seoul') {
+        return seoulcontents;
+    } else{
+        //기본 출력
+        return jejuContents;
+    }
+}
+
+/**
+ * 기존 정렬 펑션 수정
+ * 작성자 KYS;
+ * @param {*} now_content 원본 데이터값을 넣으면됩니다 (content 객체)
+ * @param {*} key // 1 음식점, 2 이미용, 3 세탁업, 4 숙박업
+ * @returns key 값에 따라서 리턴값 변경
+ */
+function sortCategory2(now_content, key){
+    let food = [];
+    let hair = [];
+    let laundry = [];
+    let stay = [];
+    for (let i = 0; i < now_content.length; i++) {
+        if (now_content[i].category === '음식점') {
+            food[food.length] = now_content[i];
+        }
+        else if (now_content[i].category === '이미용') {
+            hair[hair.length] = now_content[i];
+        }
+        else if (now_content[i].category === '세탁업') {
+            laundry[laundry.length] = now_content[i];
+        }
+        else if (now_content[i].category === '숙박업') {
+            stay[stay.length] = now_content[i];
+        }
+    }
+    switch(key){
+        //음식점
+        case 1:
+            return food;
+        //이미용
+        case 2:
+            return hair;
+        //세탁업
+        case 3:
+            return laundry;
+        //숙박업
+        case 4:
+            return stay;
+        default:
+            return null;
+    }
+}
+
+const contentsHide = () => {
+    contentsList.style.transform = 'translateX(-120%)';
+}
+const contentsShow = () => {
+    contentsList.style.transform = 'translateX(0%)';
+}
+
+sortRegionBox.addEventListener('change', () => {
+    contentsHide();
+})
+
 sortCategoryBox.addEventListener('change', (event) => {
+    contentsShow();
     if (event.target.value === 'food') {
-        contentsList.innerHTML = addList(food);
-        sortCategory();
+        //기존코드
+        //sortCategory(checkRegionValue());
+        //contentsList.innerHTML = addList(food);
+        
+        //변경코드
+        a = sortCategory2(checkRegionValue(),1);
+        contentsList.innerHTML = addList(a);
         addressFunction();
     }
     else if (event.target.value === 'hair') {
-        contentsList.innerHTML = addList(hair);
-        sortCategory();
+        a = sortCategory2(checkRegionValue(),2);
+        contentsList.innerHTML = addList(a);   
         addressFunction();
     }
     else if (event.target.value === 'laundry') {
-        contentsList.innerHTML = addList(laundry);
-        sortCategory();
+        a = sortCategory2(checkRegionValue(),3);
+        contentsList.innerHTML = addList(a);  
         addressFunction();
     }
     else if (event.target.value === 'stay') {
-        contentsList.innerHTML = addList(stay);
-        sortCategory();
+        a = sortCategory2(checkRegionValue(),4);
+        contentsList.innerHTML = addList(a);      
         addressFunction();
     }
 });
@@ -271,6 +385,6 @@ searchBar.addEventListener('keydown', (event) => {
 
 
 window.addEventListener('load', () => {
-    contentsList.innerHTML = addList(jejuContents);
+    contentsList.innerHTML = addList(checkRegionValue());
     addressFunction();
 });
