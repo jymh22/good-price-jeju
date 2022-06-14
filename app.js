@@ -2,6 +2,7 @@ const searchBtn = document.querySelector('#searchBtn');
 const contentsList = document.querySelector('#contentsList');
 const sortCategoryBox = document.querySelector('#sortCategoryBox');
 const searchBar = document.querySelector('#searchBar');
+const sortRegionBox = document.querySelector('#sortRegionBox');
 
 let storeAddress = [];
 let food = [];
@@ -18,7 +19,9 @@ var options = {
 };
 
 var map = new kakao.maps.Map(container, options);
-
+var imageSrc = 'img/pin.png', // 마커이미지의 주소입니다    
+    imageSize = new kakao.maps.Size(34, 39); // 마커이미지의 크기입니다
+var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
 display_gps();
 
 /**
@@ -108,7 +111,7 @@ function displayMarker(locPosition, message) {
 var geocoder = new kakao.maps.services.Geocoder();
 
 // 주소로 좌표를 검색합니다
-const searchMap = (address) => {
+const searchMap = (address, title) => {
     geocoder.addressSearch(`${address}`, function(result, status) {
         // 정상적으로 검색이 완료됐으면 
          if (status === kakao.maps.services.Status.OK) {   
@@ -116,11 +119,12 @@ const searchMap = (address) => {
             // 결과값으로 받은 위치를 마커로 표시합니다
             var marker = new kakao.maps.Marker({
                 map: map,
-                position: coords
+                position: coords,
+                image: markerImage
             });   
             // 인포윈도우로 장소에 대한 설명을 표시합니다
             var infowindow = new kakao.maps.InfoWindow({
-                content: '<div style="width:150px;text-align:center;padding:6px 0;">장소</div>'
+                content: `<div style="width:150px;text-align:center;padding:6px 0;">${title}</div>`
             });
             infowindow.open(map, marker);    
             // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
@@ -164,7 +168,7 @@ const addList = (listObj) => {
                 <img src=${listObj[i].img}>
                 <span>
                     <ul>
-                        <li>업소명 : ${listObj[i].title}</li>
+                        <li id='title'>업소명 : ${listObj[i].title}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
                         <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
@@ -181,7 +185,8 @@ const addressFunction = () => {
     storeAddress = document.querySelectorAll('#address');
     storeAddress.forEach((item) => {
         item.addEventListener('click', (event) => {
-            searchMap(event.target.innerText.substring(5));
+            let parentNode = item.parentNode;
+            searchMap(event.target.innerText.substring(5), parentNode.childNodes[1].innerText.substring(5));
         })
     })
 }
@@ -331,7 +336,19 @@ function sortCategory2(now_content, key){
     }
 }
 
+const contentsHide = () => {
+    contentsList.style.transform = 'translateX(-120%)';
+}
+const contentsShow = () => {
+    contentsList.style.transform = 'translateX(0%)';
+}
+
+sortRegionBox.addEventListener('change', () => {
+    contentsHide();
+})
+
 sortCategoryBox.addEventListener('change', (event) => {
+    contentsShow();
     if (event.target.value === 'food') {
         //기존코드
         //sortCategory(checkRegionValue());
@@ -339,22 +356,22 @@ sortCategoryBox.addEventListener('change', (event) => {
         
         //변경코드
         a = sortCategory2(checkRegionValue(),1);
-        contentsList.innerHTML = addList(a);        
+        contentsList.innerHTML = addList(a);
         addressFunction();
     }
     else if (event.target.value === 'hair') {
         a = sortCategory2(checkRegionValue(),2);
-        contentsList.innerHTML = addList(a);        
+        contentsList.innerHTML = addList(a);   
         addressFunction();
     }
     else if (event.target.value === 'laundry') {
         a = sortCategory2(checkRegionValue(),3);
-        contentsList.innerHTML = addList(a);        
+        contentsList.innerHTML = addList(a);  
         addressFunction();
     }
     else if (event.target.value === 'stay') {
         a = sortCategory2(checkRegionValue(),4);
-        contentsList.innerHTML = addList(a);        
+        contentsList.innerHTML = addList(a);      
         addressFunction();
     }
 });
