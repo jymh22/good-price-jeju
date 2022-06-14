@@ -39,7 +39,7 @@ function getMylocation(x,y){
             console.log(result[0].address.address_name);
             console.log(result[0].address.region_1depth_name);
             console.log(result[0].address);
-            geolocationData.innerHTML = result[0].address.address_name;
+            // geolocationData.innerHTML = result[0].address.address_name;
         }
     };
     geocoder.coord2Address(coord.getLng(), coord.getLat(), callback);
@@ -261,10 +261,10 @@ function checkRegionValue(){
         return gyeongbukContents;
     }
     else if (sortRegionBox.value === 'jeonnam') {
-        return jeonnamContetns;
+        return jeonnamContents;
     }
     else if (sortRegionBox.value === 'jeonbuk') {
-        return jeonbukContetns;
+        return jeonbukContents;
     }
     else if (sortRegionBox.value === 'chungbuk') {
         return chungbukContents;

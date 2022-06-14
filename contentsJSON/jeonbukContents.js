@@ -1,6 +1,6 @@
 // 20201013
 
-const jeonbukContetns = [
+const jeonbukContents = [
  {
   "순번": 1,
   category: "음식점",
