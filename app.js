@@ -36,9 +36,9 @@ function getMylocation(x,y){
     var callback = function(result, status) {
         if (status === kakao.maps.services.Status.OK) {
             // 이곳에 지역 구분 함수를 입력해서 참조 사용하세요
-            console.log(result[0].address.address_name);
-            console.log(result[0].address.region_1depth_name);
-            console.log(result[0].address);
+            // console.log(result[0].address.address_name);
+            // console.log(result[0].address.region_1depth_name);
+            // console.log(result[0].address);
             // geolocationData.innerHTML = result[0].address.address_name;
         }
     };
