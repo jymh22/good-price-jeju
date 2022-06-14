@@ -3,7 +3,7 @@
 const daeguContents = [
  {
   "연번": 1,
-  category : "이미용업",
+  category: "이미용",
   title : "현대이용소",
   "업주명": "이수길",
   "구군": "중구",
@@ -14,7 +14,7 @@ const daeguContents = [
  },
  {
   "연번": 2,
-  category : "한식",
+  category: "음식점",
   title : "춘사김밥",
   "업주명": "이춘자",
   "구군": "중구",
@@ -25,7 +25,7 @@ const daeguContents = [
  },
  {
   "연번": 3,
-  category : "이미용업",
+  category: "이미용",
   title : "영생이용소",
   "업주명": "김상국",
   "구군": "중구",
@@ -36,7 +36,7 @@ const daeguContents = [
  },
  {
   "연번": 4,
-  category : "한식",
+  category: "음식점",
   title : "마산설렁탕",
   "업주명": "조웅제",
   "구군": "중구",
@@ -47,7 +47,7 @@ const daeguContents = [
  },
  {
   "연번": 5,
-  category : "중식",
+  category: "음식점",
   title : "중해반점",
   "업주명": "우려원",
   "구군": "중구",
@@ -58,7 +58,7 @@ const daeguContents = [
  },
  {
   "연번": 6,
-  category : "중식",
+  category: "음식점",
   title : "만리향반점",
   "업주명": "전은숙",
   "구군": "중구",
@@ -69,7 +69,7 @@ const daeguContents = [
  },
  {
   "연번": 7,
-  category : "이미용업",
+  category: "이미용",
   title : "은혜이용소",
   "업주명": "성기환",
   "구군": "중구",
@@ -80,7 +80,7 @@ const daeguContents = [
  },
  {
   "연번": 8,
-  category : "한식",
+  category: "음식점",
   title : "한우장",
   "업주명": "김여옥",
   "구군": "중구",
@@ -91,7 +91,7 @@ const daeguContents = [
  },
  {
   "연번": 9,
-  category : "한식",
+  category: "음식점",
   title : "단아정",
   "업주명": "권기화",
   "구군": "중구",
@@ -102,7 +102,7 @@ const daeguContents = [
  },
  {
   "연번": 10,
-  category : "한식",
+  category: "음식점",
   title : "옛날국수",
   "업주명": "공희영",
   "구군": "중구",
@@ -113,7 +113,7 @@ const daeguContents = [
  },
  {
   "연번": 11,
-  category : "중식",
+  category: "음식점",
   title : "장성루",
   "업주명": "장경숙",
   "구군": "중구",
@@ -124,7 +124,7 @@ const daeguContents = [
  },
  {
   "연번": 12,
-  category : "한식",
+  category: "음식점",
   title : "누렁소식당",
   "업주명": "김희철",
   "구군": "중구",
@@ -135,7 +135,7 @@ const daeguContents = [
  },
  {
   "연번": 13,
-  category : "한식",
+  category: "음식점",
   title : "명가",
   "업주명": "정경옥",
   "구군": "중구",
@@ -146,7 +146,7 @@ const daeguContents = [
  },
  {
   "연번": 14,
-  category : "한식",
+  category: "음식점",
   title : "우리할매칼국수",
   "업주명": "신현순",
   "구군": "중구",
@@ -157,7 +157,7 @@ const daeguContents = [
  },
  {
   "연번": 15,
-  category : "한식",
+  category: "음식점",
   title : "특별한돼지국밥",
   "업주명": "황미량",
   "구군": "중구",
@@ -179,7 +179,7 @@ const daeguContents = [
  },
  {
   "연번": 17,
-  category : "이미용업",
+  category: "이미용",
   title : "정안이용소",
   "업주명": "문동식",
   "구군": "중구",
@@ -190,7 +190,7 @@ const daeguContents = [
  },
  {
   "연번": 18,
-  category : "중식",
+  category: "음식점",
   title : "낙동강반점",
   "업주명": "김명순",
   "구군": "중구",
@@ -201,7 +201,7 @@ const daeguContents = [
  },
  {
   "연번": 19,
-  category : "한식",
+  category: "음식점",
   title : "장셰프한식전통중화요리",
   "업주명": "권숙자",
   "구군": "중구",
@@ -212,7 +212,7 @@ const daeguContents = [
  },
  {
   "연번": 20,
-  category : "한식",
+  category: "음식점",
   title : "한양뚝배기감자탕",
   "업주명": "박영희",
   "구군": "중구",
@@ -223,7 +223,7 @@ const daeguContents = [
  },
  {
   "연번": 21,
-  category : "중식",
+  category: "음식점",
   title : "천선루",
   "업주명": "석경화",
   "구군": "중구",
@@ -234,7 +234,7 @@ const daeguContents = [
  },
  {
   "연번": 22,
-  category : "한식",
+  category: "음식점",
   title : "대구삼계탕",
   "업주명": "이영자",
   "구군": "동구",
@@ -245,7 +245,7 @@ const daeguContents = [
  },
  {
   "연번": 23,
-  category : "한식",
+  category: "음식점",
   title : "두곡동숯불갈비",
   "업주명": "김복태",
   "구군": "동구",
@@ -256,7 +256,7 @@ const daeguContents = [
  },
  {
   "연번": 24,
-  category : "중식",
+  category: "음식점",
   title : "영남루반점",
   "업주명": "김경숙",
   "구군": "동구",
@@ -267,7 +267,7 @@ const daeguContents = [
  },
  {
   "연번": 25,
-  category : "한식",
+  category: "음식점",
   title : "유정갈비",
   "업주명": "서정오",
   "구군": "동구",
@@ -278,7 +278,7 @@ const daeguContents = [
  },
  {
   "연번": 26,
-  category : "한식",
+  category: "음식점",
   title : "태종대",
   "업주명": "전태연",
   "구군": "동구",
@@ -289,7 +289,7 @@ const daeguContents = [
  },
  {
   "연번": 27,
-  category : "한식",
+  category: "음식점",
   title : "팔공식당",
   "업주명": "김영순",
   "구군": "동구",
@@ -300,7 +300,7 @@ const daeguContents = [
  },
  {
   "연번": 28,
-  category : "한식",
+  category: "음식점",
   title : "흥부고을숯불갈비",
   "업주명": "신승탁",
   "구군": "동구",
@@ -311,7 +311,7 @@ const daeguContents = [
  },
  {
   "연번": 29,
-  category : "한식",
+  category: "음식점",
   title : "고향손칼국수",
   "업주명": "이명희",
   "구군": "동구",
@@ -322,7 +322,7 @@ const daeguContents = [
  },
  {
   "연번": 30,
-  category : "한식",
+  category: "음식점",
   title : "미진손칼국수",
   "업주명": "정유나",
   "구군": "동구",
@@ -333,7 +333,7 @@ const daeguContents = [
  },
  {
   "연번": 31,
-  category : "한식",
+  category: "음식점",
   title : "이가숯불갈비",
   "업주명": "김영숙",
   "구군": "동구",
@@ -344,7 +344,7 @@ const daeguContents = [
  },
  {
   "연번": 32,
-  category : "한식",
+  category: "음식점",
   title : "장터불고기",
   "업주명": "박태자",
   "구군": "동구",
@@ -355,7 +355,7 @@ const daeguContents = [
  },
  {
   "연번": 33,
-  category : "한식",
+  category: "음식점",
   title : "큰집삼계탕",
   "업주명": "김덕규",
   "구군": "동구",
@@ -366,7 +366,7 @@ const daeguContents = [
  },
  {
   "연번": 34,
-  category : "한식",
+  category: "음식점",
   title : "통큰갈비",
   "업주명": "손정옥",
   "구군": "동구",
@@ -377,7 +377,7 @@ const daeguContents = [
  },
  {
   "연번": 35,
-  category : "한식",
+  category: "음식점",
   title : "강변복어",
   "업주명": "황복순",
   "구군": "동구",
@@ -388,7 +388,7 @@ const daeguContents = [
  },
  {
   "연번": 36,
-  category : "한식",
+  category: "음식점",
   title : "거송복어",
   "업주명": "황현옥",
   "구군": "동구",
@@ -399,7 +399,7 @@ const daeguContents = [
  },
  {
   "연번": 37,
-  category : "한식",
+  category: "음식점",
   title : "광명한우식육식당",
   "업주명": "배규호",
   "구군": "동구",
@@ -410,7 +410,7 @@ const daeguContents = [
  },
  {
   "연번": 38,
-  category : "한식",
+  category: "음식점",
   title : "다모아식당",
   "업주명": "이옥수",
   "구군": "동구",
@@ -421,7 +421,7 @@ const daeguContents = [
  },
  {
   "연번": 39,
-  category : "한식",
+  category: "음식점",
   title : "방촌식육식당",
   "업주명": "이치난",
   "구군": "동구",
@@ -432,7 +432,7 @@ const daeguContents = [
  },
  {
   "연번": 40,
-  category : "한식",
+  category: "음식점",
   title : "시장냉면",
   "업주명": "김경희",
   "구군": "동구",
@@ -454,7 +454,7 @@ const daeguContents = [
  },
  {
   "연번": 42,
-  category : "한식",
+  category: "음식점",
   title : "대청봉",
   "업주명": "김종원",
   "구군": "동구",
@@ -465,7 +465,7 @@ const daeguContents = [
  },
  {
   "연번": 43,
-  category : "한식",
+  category: "음식점",
   title : "청도추어탕",
   "업주명": "곽철순",
   "구군": "동구",
@@ -476,7 +476,7 @@ const daeguContents = [
  },
  {
   "연번": 44,
-  category : "한식",
+  category: "음식점",
   title : "희망나눔장수잔치국수",
   "업주명": "최현정",
   "구군": "동구",
@@ -487,7 +487,7 @@ const daeguContents = [
  },
  {
   "연번": 45,
-  category : "한식",
+  category: "음식점",
   title : "소반",
   "업주명": "엄복영",
   "구군": "동구",
@@ -498,7 +498,7 @@ const daeguContents = [
  },
  {
   "연번": 46,
-  category : "한식",
+  category: "음식점",
   title : "면사랑칼국수",
   "업주명": "김규태",
   "구군": "동구",
@@ -520,7 +520,7 @@ const daeguContents = [
  },
  {
   "연번": 48,
-  category : "한식",
+  category: "음식점",
   title : "부산복해물칼국수",
   "업주명": "신무성",
   "구군": "동구",
@@ -553,7 +553,7 @@ const daeguContents = [
  },
  {
   "연번": 51,
-  category : "양식",
+  category: "음식점",
   title : "파스타누오바",
   "업주명": "차광민",
   "구군": "동구",
@@ -564,7 +564,7 @@ const daeguContents = [
  },
  {
   "연번": 52,
-  category : "한식",
+  category: "음식점",
   title : "신산홍",
   "업주명": "임미란",
   "구군": "동구",
@@ -575,7 +575,7 @@ const daeguContents = [
  },
  {
   "연번": 53,
-  category : "한식",
+  category: "음식점",
   title : "만보칼국수",
   "업주명": "나정희",
   "구군": "동구",
@@ -586,7 +586,7 @@ const daeguContents = [
  },
  {
   "연번": 54,
-  category : "한식",
+  category: "음식점",
   title : "가원식당",
   "업주명": "백순기",
   "구군": "동구",
@@ -597,7 +597,7 @@ const daeguContents = [
  },
  {
   "연번": 55,
-  category : "한식",
+  category: "음식점",
   title : "공산숯불갈비",
   "업주명": "이경남",
   "구군": "동구",
@@ -608,7 +608,7 @@ const daeguContents = [
  },
  {
   "연번": 56,
-  category : "한식",
+  category: "음식점",
   title : "금성숯불식당",
   "업주명": "김정옥",
   "구군": "서구",
@@ -619,7 +619,7 @@ const daeguContents = [
  },
  {
   "연번": 57,
-  category : "이미용업",
+  category: "이미용",
   title : "혜인미용실",
   "업주명": "배덕순",
   "구군": "서구",
@@ -630,7 +630,7 @@ const daeguContents = [
  },
  {
   "연번": 58,
-  category : "한식",
+  category: "음식점",
   title : "갈비세상",
   "업주명": "이규근",
   "구군": "서구",
@@ -641,7 +641,7 @@ const daeguContents = [
  },
  {
   "연번": 59,
-  category : "중식",
+  category: "음식점",
   title : "덕성반점",
   "업주명": "채정환",
   "구군": "서구",
@@ -652,7 +652,7 @@ const daeguContents = [
  },
  {
   "연번": 60,
-  category : "한식",
+  category: "음식점",
   title : "쌍둥이정갈비",
   "업주명": "장선영",
   "구군": "서구",
@@ -663,7 +663,7 @@ const daeguContents = [
  },
  {
   "연번": 61,
-  category : "이미용업",
+  category: "이미용",
   title : "아란미용실",
   "업주명": "강순분",
   "구군": "서구",
@@ -674,7 +674,7 @@ const daeguContents = [
  },
  {
   "연번": 62,
-  category : "이미용업",
+  category: "이미용",
   title : "성화미용실",
   "업주명": "김윤자",
   "구군": "서구",
@@ -685,7 +685,7 @@ const daeguContents = [
  },
  {
   "연번": 63,
-  category : "중식",
+  category: "음식점",
   title : "금성각",
   "업주명": "황명자",
   "구군": "서구",
@@ -696,7 +696,7 @@ const daeguContents = [
  },
  {
   "연번": 64,
-  category : "한식",
+  category: "음식점",
   title : "이모김밥",
   "업주명": "김병양",
   "구군": "서구",
@@ -707,7 +707,7 @@ const daeguContents = [
  },
  {
   "연번": 65,
-  category : "한식",
+  category: "음식점",
   title : "초원식당",
   "업주명": "김경순",
   "구군": "서구",
@@ -718,7 +718,7 @@ const daeguContents = [
  },
  {
   "연번": 66,
-  category : "한식",
+  category: "음식점",
   title : "소백산식당",
   "업주명": "허영자",
   "구군": "서구",
@@ -729,7 +729,7 @@ const daeguContents = [
  },
  {
   "연번": 67,
-  category : "중식",
+  category: "음식점",
   title : "동화성",
   "업주명": "박희숙",
   "구군": "서구",
@@ -740,7 +740,7 @@ const daeguContents = [
  },
  {
   "연번": 68,
-  category : "이미용업",
+  category: "이미용",
   title : "킴스미용실",
   "업주명": "김숙희",
   "구군": "서구",
@@ -751,7 +751,7 @@ const daeguContents = [
  },
  {
   "연번": 69,
-  category : "이미용업",
+  category: "이미용",
   title : "소라미용실",
   "업주명": "권복남",
   "구군": "서구",
@@ -762,7 +762,7 @@ const daeguContents = [
  },
  {
   "연번": 70,
-  category : "이미용업",
+  category: "이미용",
   title : "현대이용소",
   "업주명": "최용섭",
   "구군": "서구",
@@ -773,7 +773,7 @@ const daeguContents = [
  },
  {
   "연번": 71,
-  category : "이미용업",
+  category: "이미용",
   title : "작은미용실",
   "업주명": "황혜영",
   "구군": "서구",
@@ -784,7 +784,7 @@ const daeguContents = [
  },
  {
   "연번": 72,
-  category : "한식",
+  category: "음식점",
   title : "수목식당",
   "업주명": "김민자",
   "구군": "남구",
@@ -795,7 +795,7 @@ const daeguContents = [
  },
  {
   "연번": 73,
-  category : "한식",
+  category: "음식점",
   title : "할매가마솥국밥",
   "업주명": "배옥순",
   "구군": "남구",
@@ -806,7 +806,7 @@ const daeguContents = [
  },
  {
   "연번": 74,
-  category : "한식",
+  category: "음식점",
   title : "화신불고기",
   "업주명": "조정문",
   "구군": "남구",
@@ -828,7 +828,7 @@ const daeguContents = [
  },
  {
   "연번": 76,
-  category : "한식",
+  category: "음식점",
   title : "뒤뜨레",
   "업주명": "김태숙",
   "구군": "남구",
@@ -839,7 +839,7 @@ const daeguContents = [
  },
  {
   "연번": 77,
-  category : "한식",
+  category: "음식점",
   title : "미스돈생삼겹살",
   "업주명": "엄영희",
   "구군": "남구",
@@ -850,7 +850,7 @@ const daeguContents = [
  },
  {
   "연번": 78,
-  category : "한식",
+  category: "음식점",
   title : "영선식당",
   "업주명": "강명구",
   "구군": "남구",
@@ -861,7 +861,7 @@ const daeguContents = [
  },
  {
   "연번": 79,
-  category : "한식",
+  category: "음식점",
   title : "하하생막창뒷고기",
   "업주명": "이혜경",
   "구군": "남구",
@@ -872,7 +872,7 @@ const daeguContents = [
  },
  {
   "연번": 80,
-  category : "양식",
+  category: "음식점",
   title : "도누한",
   "업주명": "안영례",
   "구군": "남구",
@@ -883,7 +883,7 @@ const daeguContents = [
  },
  {
   "연번": 81,
-  category : "한식",
+  category: "음식점",
   title : "김가네철판닭갈비앤부대찌게",
   "업주명": "김영숙",
   "구군": "남구",
@@ -894,7 +894,7 @@ const daeguContents = [
  },
  {
   "연번": 82,
-  category : "양식",
+  category: "음식점",
   title : "지구인",
   "업주명": "김순란",
   "구군": "남구",
@@ -905,7 +905,7 @@ const daeguContents = [
  },
  {
   "연번": 83,
-  category : "한식",
+  category: "음식점",
   title : "청도할머니김밥",
   "업주명": "노옥분",
   "구군": "남구",
@@ -916,7 +916,7 @@ const daeguContents = [
  },
  {
   "연번": 84,
-  category : "이미용업",
+  category: "이미용",
   title : "예림미용실",
   "업주명": "이정숙",
   "구군": "남구",
@@ -927,7 +927,7 @@ const daeguContents = [
  },
  {
   "연번": 85,
-  category : "이미용업",
+  category: "이미용",
   title : "한아름미용실",
   "업주명": "기혜자",
   "구군": "남구",
@@ -938,7 +938,7 @@ const daeguContents = [
  },
  {
   "연번": 86,
-  category : "이미용업",
+  category: "이미용",
   title : "홍미용실",
   "업주명": "김동성",
   "구군": "남구",
@@ -949,7 +949,7 @@ const daeguContents = [
  },
  {
   "연번": 87,
-  category : "이미용업",
+  category: "이미용",
   title : "희망이발관",
   "업주명": "박문식",
   "구군": "북구",
@@ -960,7 +960,7 @@ const daeguContents = [
  },
  {
   "연번": 88,
-  category : "이미용업",
+  category: "이미용",
   title : "모범이용원",
   "업주명": "백재훈",
   "구군": "북구",
@@ -971,7 +971,7 @@ const daeguContents = [
  },
  {
   "연번": 89,
-  category : "이미용업",
+  category: "이미용",
   title : "한신이용소",
   "업주명": "이정식",
   "구군": "북구",
@@ -982,7 +982,7 @@ const daeguContents = [
  },
  {
   "연번": 90,
-  category : "이미용업",
+  category: "이미용",
   title : "유성이용소",
   "업주명": "노희선",
   "구군": "북구",
@@ -993,7 +993,7 @@ const daeguContents = [
  },
  {
   "연번": 91,
-  category : "이미용업",
+  category: "이미용",
   title : "남성헤어샵",
   "업주명": "김연기",
   "구군": "북구",
@@ -1004,7 +1004,7 @@ const daeguContents = [
  },
  {
   "연번": 92,
-  category : "한식",
+  category: "음식점",
   title : "장터숫불",
   "업주명": "이복순",
   "구군": "북구",
@@ -1015,7 +1015,7 @@ const daeguContents = [
  },
  {
   "연번": 93,
-  category : "한식",
+  category: "음식점",
   title : "변사또숫불",
   "업주명": "장기원",
   "구군": "북구",
@@ -1026,7 +1026,7 @@ const daeguContents = [
  },
  {
   "연번": 94,
-  category : "한식",
+  category: "음식점",
   title : "유정식당",
   "업주명": "윤양희",
   "구군": "북구",
@@ -1037,7 +1037,7 @@ const daeguContents = [
  },
  {
   "연번": 95,
-  category : "중식",
+  category: "음식점",
   title : "상하이반점",
   "업주명": "박찬용",
   "구군": "북구",
@@ -1048,7 +1048,7 @@ const daeguContents = [
  },
  {
   "연번": 96,
-  category : "중식",
+  category: "음식점",
   title : "짜장궁",
   "업주명": "곽경한",
   "구군": "북구",
@@ -1059,7 +1059,7 @@ const daeguContents = [
  },
  {
   "연번": 97,
-  category : "한식",
+  category: "음식점",
   title : "늘봄숯불식당",
   "업주명": "이경자",
   "구군": "북구",
@@ -1081,7 +1081,7 @@ const daeguContents = [
  },
  {
   "연번": 99,
-  category : "이미용업",
+  category: "이미용",
   title : "시장미용실",
   "업주명": "서연순",
   "구군": "북구",
@@ -1103,7 +1103,7 @@ const daeguContents = [
  },
  {
   "연번": 101,
-  category : "한식",
+  category: "음식점",
   title : "왕추",
   "업주명": "지영조",
   "구군": "북구",
@@ -1114,7 +1114,7 @@ const daeguContents = [
  },
  {
   "연번": 102,
-  category : "중식",
+  category: "음식점",
   title : "북경반점",
   "업주명": "하성웅",
   "구군": "북구",
@@ -1125,7 +1125,7 @@ const daeguContents = [
  },
  {
   "연번": 103,
-  category : "중식",
+  category: "음식점",
   title : "삼익반점",
   "업주명": "오일수",
   "구군": "북구",
@@ -1136,7 +1136,7 @@ const daeguContents = [
  },
  {
   "연번": 104,
-  category : "이미용업",
+  category: "이미용",
   title : "짚시헤어라인",
   "업주명": "이금수",
   "구군": "북구",
@@ -1147,7 +1147,7 @@ const daeguContents = [
  },
  {
   "연번": 105,
-  category : "중식",
+  category: "음식점",
   title : "몽짬뽕",
   "업주명": "주대억",
   "구군": "수성구",
@@ -1158,7 +1158,7 @@ const daeguContents = [
  },
  {
   "연번": 106,
-  category : "한식",
+  category: "음식점",
   title : "종성식당",
   "업주명": "김현숙",
   "구군": "수성구",
@@ -1169,7 +1169,7 @@ const daeguContents = [
  },
  {
   "연번": 107,
-  category : "한식",
+  category: "음식점",
   title : "맛자랑",
   "업주명": "김금희",
   "구군": "수성구",
@@ -1180,7 +1180,7 @@ const daeguContents = [
  },
  {
   "연번": 108,
-  category : "한식",
+  category: "음식점",
   title : "전주식콩나물해장국",
   "업주명": "전정옥",
   "구군": "수성구",
@@ -1191,7 +1191,7 @@ const daeguContents = [
  },
  {
   "연번": 109,
-  category : "한식",
+  category: "음식점",
   title : "별미국수",
   "업주명": "장인환",
   "구군": "수성구",
@@ -1202,7 +1202,7 @@ const daeguContents = [
  },
  {
   "연번": 110,
-  category : "한식",
+  category: "음식점",
   title : "전원식당",
   "업주명": "방정순",
   "구군": "수성구",
@@ -1213,7 +1213,7 @@ const daeguContents = [
  },
  {
   "연번": 111,
-  category : "한식",
+  category: "음식점",
   title : "우리국시",
   "업주명": "김순금",
   "구군": "수성구",
@@ -1224,7 +1224,7 @@ const daeguContents = [
  },
  {
   "연번": 112,
-  category : "이미용업",
+  category: "이미용",
   title : "수미헤어샵",
   "업주명": "윤형유",
   "구군": "수성구",
@@ -1246,7 +1246,7 @@ const daeguContents = [
  },
  {
   "연번": 114,
-  category : "한식",
+  category: "음식점",
   title : "부자돼지촌",
   "업주명": "이은숙",
   "구군": "수성구",
@@ -1257,7 +1257,7 @@ const daeguContents = [
  },
  {
   "연번": 115,
-  category : "이미용업",
+  category: "이미용",
   title : "영아미용실",
   "업주명": "김영선",
   "구군": "수성구",
@@ -1268,7 +1268,7 @@ const daeguContents = [
  },
  {
   "연번": 116,
-  category : "이미용업",
+  category: "이미용",
   title : "빨강머리컷트",
   "업주명": "정민경",
   "구군": "수성구",
@@ -1279,7 +1279,7 @@ const daeguContents = [
  },
  {
   "연번": 117,
-  category : "한식",
+  category: "음식점",
   title : "동피랑충무김밥",
   "업주명": "이동현",
   "구군": "수성구",
@@ -1290,7 +1290,7 @@ const daeguContents = [
  },
  {
   "연번": 118,
-  category : "한식",
+  category: "음식점",
   title : "별미칼국수",
   "업주명": "이경순",
   "구군": "수성구",
@@ -1301,7 +1301,7 @@ const daeguContents = [
  },
  {
   "연번": 119,
-  category : "중식",
+  category: "음식점",
   title : "짜장집을 찾아서",
   "업주명": "정옥태",
   "구군": "수성구",
@@ -1312,7 +1312,7 @@ const daeguContents = [
  },
  {
   "연번": 120,
-  category : "한식",
+  category: "음식점",
   title : "어랑생선구이",
   "업주명": "최병례",
   "구군": "수성구",
@@ -1323,7 +1323,7 @@ const daeguContents = [
  },
  {
   "연번": 121,
-  category : "한식",
+  category: "음식점",
   title : "수희식당",
   "업주명": "이근희",
   "구군": "수성구",
@@ -1334,7 +1334,7 @@ const daeguContents = [
  },
  {
   "연번": 122,
-  category : "한식",
+  category: "음식점",
   title : "청도식당",
   "업주명": "김금희",
   "구군": "수성구",
@@ -1345,7 +1345,7 @@ const daeguContents = [
  },
  {
   "연번": 123,
-  category : "한식",
+  category: "음식점",
   title : "콩부대찌개",
   "업주명": "백승희",
   "구군": "수성구",
@@ -1356,7 +1356,7 @@ const daeguContents = [
  },
  {
   "연번": 124,
-  category : "양식",
+  category: "음식점",
   title : "서양식당",
   "업주명": "김희정",
   "구군": "수성구",
@@ -1367,7 +1367,7 @@ const daeguContents = [
  },
  {
   "연번": 125,
-  category : "한식",
+  category: "음식점",
   title : "아름타리",
   "업주명": "이귀순",
   "구군": "수성구",
@@ -1378,7 +1378,7 @@ const daeguContents = [
  },
  {
   "연번": 126,
-  category : "한식",
+  category: "음식점",
   title : "마을불고기",
   "업주명": "성일경",
   "구군": "수성구",
@@ -1389,7 +1389,7 @@ const daeguContents = [
  },
  {
   "연번": 127,
-  category : "한식",
+  category: "음식점",
   title : "정원한우갈비",
   "업주명": "김진희",
   "구군": "수성구",
@@ -1411,7 +1411,7 @@ const daeguContents = [
  },
  {
   "연번": 129,
-  category : "한식",
+  category: "음식점",
   title : "풍기삼계탕",
   "업주명": "이순희",
   "구군": "수성구",
@@ -1422,7 +1422,7 @@ const daeguContents = [
  },
  {
   "연번": 130,
-  category : "중식",
+  category: "음식점",
   title : "산동성",
   "업주명": "조의상",
   "구군": "수성구",
@@ -1433,7 +1433,7 @@ const daeguContents = [
  },
  {
   "연번": 131,
-  category : "중식",
+  category: "음식점",
   title : "짬뽕집",
   "업주명": "최경일",
   "구군": "수성구",
@@ -1444,7 +1444,7 @@ const daeguContents = [
  },
  {
   "연번": 132,
-  category : "이미용업",
+  category: "이미용",
   title : "힐링헤어",
   "업주명": "김경남",
   "구군": "수성구",
@@ -1455,7 +1455,7 @@ const daeguContents = [
  },
  {
   "연번": 133,
-  category : "한식",
+  category: "음식점",
   title : "맛보리밥상",
   "업주명": "류경화",
   "구군": "수성구",
@@ -1466,7 +1466,7 @@ const daeguContents = [
  },
  {
   "연번": 134,
-  category : "한식",
+  category: "음식점",
   title : "장수삼계탕",
   "업주명": "정무선",
   "구군": "수성구",
@@ -1477,7 +1477,7 @@ const daeguContents = [
  },
  {
   "연번": 135,
-  category : "한식",
+  category: "음식점",
   title : "장터돼지국밥",
   "업주명": "주초연",
   "구군": "수성구",
@@ -1488,7 +1488,7 @@ const daeguContents = [
  },
  {
   "연번": 136,
-  category : "한식",
+  category: "음식점",
   title : "일조엄마손",
   "업주명": "남두선",
   "구군": "수성구",
@@ -1499,7 +1499,7 @@ const daeguContents = [
  },
  {
   "연번": 137,
-  category : "한식",
+  category: "음식점",
   title : "미담",
   "업주명": "김범준",
   "구군": "수성구",
@@ -1510,7 +1510,7 @@ const daeguContents = [
  },
  {
   "연번": 138,
-  category : "한식",
+  category: "음식점",
   title : "금풍국수",
   "업주명": "손위숙",
   "구군": "수성구",
@@ -1521,7 +1521,7 @@ const daeguContents = [
  },
  {
   "연번": 139,
-  category : "한식",
+  category: "음식점",
   title : "천사돼지국밥",
   "업주명": "정지연",
   "구군": "수성구",
@@ -1554,7 +1554,7 @@ const daeguContents = [
  },
  {
   "연번": 142,
-  category : "한식",
+  category: "음식점",
   title : "밀밭식당",
   "업주명": "김소원",
   "구군": "수성구",
@@ -1565,7 +1565,7 @@ const daeguContents = [
  },
  {
   "연번": 143,
-  category : "한식",
+  category: "음식점",
   title : "의성식당",
   "업주명": "박종희",
   "구군": "수성구",
@@ -1576,7 +1576,7 @@ const daeguContents = [
  },
  {
   "연번": 144,
-  category : "한식",
+  category: "음식점",
   title : "부산식당",
   "업주명": "김정희",
   "구군": "수성구",
@@ -1587,7 +1587,7 @@ const daeguContents = [
  },
  {
   "연번": 145,
-  category : "한식",
+  category: "음식점",
   title : "밀밭손수제비",
   "업주명": "김미숙",
   "구군": "수성구",
@@ -1609,7 +1609,7 @@ const daeguContents = [
  },
  {
   "연번": 147,
-  category : "한식",
+  category: "음식점",
   title : "이모콩나물밥",
   "업주명": "김경화",
   "구군": "수성구",
@@ -1620,7 +1620,7 @@ const daeguContents = [
  },
  {
   "연번": 148,
-  category : "한식",
+  category: "음식점",
   title : "참한손 고향맛집",
   "업주명": "소공순",
   "구군": "수성구",
@@ -1642,7 +1642,7 @@ const daeguContents = [
  },
  {
   "연번": 150,
-  category : "한식",
+  category: "음식점",
   title : "365먹골촌",
   "업주명": "안을임",
   "구군": "달서구",
@@ -1653,7 +1653,7 @@ const daeguContents = [
  },
  {
   "연번": 151,
-  category : "한식",
+  category: "음식점",
   title : "시골밥상",
   "업주명": "양명화",
   "구군": "달서구",
@@ -1675,7 +1675,7 @@ const daeguContents = [
  },
  {
   "연번": 153,
-  category : "한식",
+  category: "음식점",
   title : "가야산식당(숯불갈비)",
   "업주명": "김선임",
   "구군": "달서구",
@@ -1686,7 +1686,7 @@ const daeguContents = [
  },
  {
   "연번": 154,
-  category : "한식",
+  category: "음식점",
   title : "아름식당",
   "업주명": "김영희",
   "구군": "달서구",
@@ -1697,7 +1697,7 @@ const daeguContents = [
  },
  {
   "연번": 155,
-  category : "한식",
+  category: "음식점",
   title : "현대식당",
   "업주명": "김상이",
   "구군": "달서구",
@@ -1708,7 +1708,7 @@ const daeguContents = [
  },
  {
   "연번": 156,
-  category : "한식",
+  category: "음식점",
   title : "김밥매니아",
   "업주명": "송춘녀",
   "구군": "달서구",
@@ -1719,7 +1719,7 @@ const daeguContents = [
  },
  {
   "연번": 157,
-  category : "한식",
+  category: "음식점",
   title : "와룡돈까스",
   "업주명": "이종영",
   "구군": "달서구",
@@ -1730,7 +1730,7 @@ const daeguContents = [
  },
  {
   "연번": 158,
-  category : "한식",
+  category: "음식점",
   title : "박가네돈까스",
   "업주명": "박순희",
   "구군": "달서구",
@@ -1741,7 +1741,7 @@ const daeguContents = [
  },
  {
   "연번": 159,
-  category : "한식",
+  category: "음식점",
   title : "밥묵고고기묵고",
   "업주명": "김재순",
   "구군": "달서구",
@@ -1763,7 +1763,7 @@ const daeguContents = [
  },
  {
   "연번": 161,
-  category : "한식",
+  category: "음식점",
   title : "착한멸치바지락칼국수",
   "업주명": "허영기",
   "구군": "달서구",
@@ -1774,7 +1774,7 @@ const daeguContents = [
  },
  {
   "연번": 162,
-  category : "중식",
+  category: "음식점",
   title : "천안문",
   "업주명": "이선희",
   "구군": "달서구",
@@ -1785,7 +1785,7 @@ const daeguContents = [
  },
  {
   "연번": 163,
-  category : "중식",
+  category: "음식점",
   title : "차이차이",
   "업주명": "김경민",
   "구군": "달서구",
@@ -1796,7 +1796,7 @@ const daeguContents = [
  },
  {
   "연번": 164,
-  category : "중식",
+  category: "음식점",
   title : "서태후",
   "업주명": "배상혁",
   "구군": "달서구",
@@ -1807,7 +1807,7 @@ const daeguContents = [
  },
  {
   "연번": 165,
-  category : "중식",
+  category: "음식점",
   title : "우당탕반점",
   "업주명": "유승락(개명)",
   "구군": "달서구",
@@ -1818,7 +1818,7 @@ const daeguContents = [
  },
  {
   "연번": 166,
-  category : "중식",
+  category: "음식점",
   title : "홍화성",
   "업주명": "임복선",
   "구군": "달서구",
@@ -1895,7 +1895,7 @@ const daeguContents = [
  },
  {
   "연번": 173,
-  category : "한식",
+  category: "음식점",
   title : "가야산식육식당",
   "업주명": "이용목",
   "구군": "달서구",
@@ -1928,7 +1928,7 @@ const daeguContents = [
  },
  {
   "연번": 176,
-  category : "중식",
+  category: "음식점",
   title : "영화반점",
   "업주명": "강정석",
   "구군": "달서구",
@@ -1939,7 +1939,7 @@ const daeguContents = [
  },
  {
   "연번": 177,
-  category : "중식",
+  category: "음식점",
   title : "동보성반점",
   "업주명": "전미순",
   "구군": "달서구",
@@ -1950,7 +1950,7 @@ const daeguContents = [
  },
  {
   "연번": 178,
-  category : "중식",
+  category: "음식점",
   title : "금화루",
   "업주명": "김재숙",
   "구군": "달서구",
@@ -1961,7 +1961,7 @@ const daeguContents = [
  },
  {
   "연번": 179,
-  category : "한식",
+  category: "음식점",
   title : "평사리가는길",
   "업주명": "송규견",
   "구군": "달서구",
@@ -1972,7 +1972,7 @@ const daeguContents = [
  },
  {
   "연번": 180,
-  category : "한식",
+  category: "음식점",
   title : "까치골숯불촌",
   "업주명": "서효동",
   "구군": "달서구",
@@ -1983,7 +1983,7 @@ const daeguContents = [
  },
  {
   "연번": 181,
-  category : "한식",
+  category: "음식점",
   title : "그곳에가면손칼국수",
   "업주명": "이양미",
   "구군": "달서구",
@@ -2005,7 +2005,7 @@ const daeguContents = [
  },
  {
   "연번": 183,
-  category : "중식",
+  category: "음식점",
   title : "중화반점 차오",
   "업주명": "도재섭",
   "구군": "달서구",
@@ -2016,7 +2016,7 @@ const daeguContents = [
  },
  {
   "연번": 184,
-  category : "한식",
+  category: "음식점",
   title : "국시애",
   "업주명": "한종순",
   "구군": "달서구",
@@ -2027,7 +2027,7 @@ const daeguContents = [
  },
  {
   "연번": 185,
-  category : "한식",
+  category: "음식점",
   title : "국수내가한다",
   "업주명": "김경선",
   "구군": "달서구",
@@ -2038,7 +2038,7 @@ const daeguContents = [
  },
  {
   "연번": 186,
-  category : "중식",
+  category: "음식점",
   title : "짬뽕의 따거",
   "업주명": "이은희",
   "구군": "달서구",
@@ -2049,7 +2049,7 @@ const daeguContents = [
  },
  {
   "연번": 187,
-  category : "한식",
+  category: "음식점",
   title : "밀밭손국시",
   "업주명": "이인숙",
   "구군": "달서구",
@@ -2060,7 +2060,7 @@ const daeguContents = [
  },
  {
   "연번": 188,
-  category : "한식",
+  category: "음식점",
   title : "백년마실",
   "업주명": "이명숙",
   "구군": "달서구",
@@ -2071,7 +2071,7 @@ const daeguContents = [
  },
  {
   "연번": 189,
-  category : "한식",
+  category: "음식점",
   title : "죽도생아구찜",
   "업주명": "김강민",
   "구군": "달서구",
@@ -2093,7 +2093,7 @@ const daeguContents = [
  },
  {
   "연번": 191,
-  category : "한식",
+  category: "음식점",
   title : "25시국수",
   "업주명": "안경숙",
   "구군": "달서구",
@@ -2104,7 +2104,7 @@ const daeguContents = [
  },
  {
   "연번": 192,
-  category : "한식",
+  category: "음식점",
   title : "웃는돈지국수가",
   "업주명": "이지현",
   "구군": "달서구",
@@ -2115,7 +2115,7 @@ const daeguContents = [
  },
  {
   "연번": 193,
-  category : "한식",
+  category: "음식점",
   title : "별미국수",
   "업주명": "김정희",
   "구군": "달서구",
@@ -2126,7 +2126,7 @@ const daeguContents = [
  },
  {
   "연번": 194,
-  category : "한식",
+  category: "음식점",
   title : "종로빈대떡",
   "업주명": "오귀연",
   "구군": "달서구",
@@ -2159,7 +2159,7 @@ const daeguContents = [
  },
  {
   "연번": 197,
-  category : "한식",
+  category: "음식점",
   title : "한양푼이 닭개장국수 추어탕",
   "업주명": "한영순",
   "구군": "달서구",
@@ -2170,7 +2170,7 @@ const daeguContents = [
  },
  {
   "연번": 198,
-  category : "한식",
+  category: "음식점",
   title : "중앙분식",
   "업주명": "시미연",
   "구군": "달서구",
@@ -2214,7 +2214,7 @@ const daeguContents = [
  },
  {
   "연번": 202,
-  category : "한식",
+  category: "음식점",
   title : "쌀맛난다",
   "업주명": "이현덕",
   "구군": "달서구",
@@ -2225,7 +2225,7 @@ const daeguContents = [
  },
  {
   "연번": 203,
-  category : "한식",
+  category: "음식점",
   title : "웅이네",
   "업주명": "김윤권",
   "구군": "달서구",
@@ -2236,7 +2236,7 @@ const daeguContents = [
  },
  {
   "연번": 204,
-  category : "한식",
+  category: "음식점",
   title : "성원푸드",
   "업주명": "김수정",
   "구군": "달서구",
@@ -2247,7 +2247,7 @@ const daeguContents = [
  },
  {
   "연번": 205,
-  category : "한식",
+  category: "음식점",
   title : "국수둥지",
   "업주명": "이인창",
   "구군": "달서구",
@@ -2258,7 +2258,7 @@ const daeguContents = [
  },
  {
   "연번": 206,
-  category : "중식",
+  category: "음식점",
   title : "보배루",
   "업주명": "이슬기",
   "구군": "달서구",
@@ -2280,7 +2280,7 @@ const daeguContents = [
  },
  {
   "연번": 208,
-  category : "한식",
+  category: "음식점",
   title : "해바라기식당",
   "업주명": "이해숙",
   "구군": "달서구",
@@ -2291,7 +2291,7 @@ const daeguContents = [
  },
  {
   "연번": 209,
-  category : "한식",
+  category: "음식점",
   title : "국시랑손수제비",
   "업주명": "김옥화",
   "구군": "달서구",
@@ -2302,7 +2302,7 @@ const daeguContents = [
  },
  {
   "연번": 210,
-  category : "한식",
+  category: "음식점",
   title : "웰빙순두부",
   "업주명": "조이란",
   "구군": "달서구",
@@ -2313,7 +2313,7 @@ const daeguContents = [
  },
  {
   "연번": 211,
-  category : "한식",
+  category: "음식점",
   title : "토담골",
   "업주명": "한선애",
   "구군": "달서구",
@@ -2324,7 +2324,7 @@ const daeguContents = [
  },
  {
   "연번": 212,
-  category : "한식",
+  category: "음식점",
   title : "고갱이",
   "업주명": "김예일",
   "구군": "달서구",
@@ -2335,7 +2335,7 @@ const daeguContents = [
  },
  {
   "연번": 213,
-  category : "한식",
+  category: "음식점",
   title : "어통가",
   "업주명": "전준영",
   "구군": "달서구",
@@ -2357,7 +2357,7 @@ const daeguContents = [
  },
  {
   "연번": 215,
-  category : "한식",
+  category: "음식점",
   title : "청도시골밥상",
   "업주명": "이정학",
   "구군": "달서구",
@@ -2368,7 +2368,7 @@ const daeguContents = [
  },
  {
   "연번": 216,
-  category : "한식",
+  category: "음식점",
   title : "생생맛정식",
   "업주명": "이복희",
   "구군": "달서구",
@@ -2379,7 +2379,7 @@ const daeguContents = [
  },
  {
   "연번": 217,
-  category : "한식",
+  category: "음식점",
   title : "집밥이 땡긴다",
   "업주명": "김봉현",
   "구군": "달서구",
@@ -2390,7 +2390,7 @@ const daeguContents = [
  },
  {
   "연번": 218,
-  category : "한식",
+  category: "음식점",
   title : "맛깔정",
   "업주명": "전득찬",
   "구군": "달서구",
@@ -2401,7 +2401,7 @@ const daeguContents = [
  },
  {
   "연번": 219,
-  category : "한식",
+  category: "음식점",
   title : "반할서문손만두",
   "업주명": "손원학",
   "구군": "달서구",
@@ -2412,7 +2412,7 @@ const daeguContents = [
  },
  {
   "연번": 220,
-  category : "한식",
+  category: "음식점",
   title : "계명숯불갈비",
   "업주명": "장인효",
   "구군": "달서구",
@@ -2423,7 +2423,7 @@ const daeguContents = [
  },
  {
   "연번": 221,
-  category : "한식",
+  category: "음식점",
   title : "일미식당",
   "업주명": "박인숙",
   "구군": "달서구",
@@ -2434,7 +2434,7 @@ const daeguContents = [
  },
  {
   "연번": 222,
-  category : "한식",
+  category: "음식점",
   title : "행복식당",
   "업주명": "강승철",
   "구군": "달서구",
@@ -2445,7 +2445,7 @@ const daeguContents = [
  },
  {
   "연번": 223,
-  category : "한식",
+  category: "음식점",
   title : "국수촌",
   "업주명": "석호면",
   "구군": "달서구",
@@ -2456,7 +2456,7 @@ const daeguContents = [
  },
  {
   "연번": 224,
-  category : "한식",
+  category: "음식점",
   title : "합천명품토종흑돼지촌",
   "업주명": "방현아",
   "구군": "달서구",
@@ -2467,7 +2467,7 @@ const daeguContents = [
  },
  {
   "연번": 225,
-  category : "한식",
+  category: "음식점",
   title : "삼천식당",
   "업주명": "이기진",
   "구군": "달서구",
@@ -2478,7 +2478,7 @@ const daeguContents = [
  },
  {
   "연번": 226,
-  category : "한식",
+  category: "음식점",
   title : "호야식당",
   "업주명": "김명순",
   "구군": "달서구",
@@ -2489,7 +2489,7 @@ const daeguContents = [
  },
  {
   "연번": 227,
-  category : "한식",
+  category: "음식점",
   title : "새하얀식당",
   "업주명": "조옥순",
   "구군": "달서구",
@@ -2511,7 +2511,7 @@ const daeguContents = [
  },
  {
   "연번": 229,
-  category : "한식",
+  category: "음식점",
   title : "다복칼국수",
   "업주명": "신경숙",
   "구군": "달서구",
@@ -2522,7 +2522,7 @@ const daeguContents = [
  },
  {
   "연번": 230,
-  category : "한식",
+  category: "음식점",
   title : "시골명가보리밥집",
   "업주명": "이향숙",
   "구군": "달서구",
@@ -2533,7 +2533,7 @@ const daeguContents = [
  },
  {
   "연번": 231,
-  category : "한식",
+  category: "음식점",
   title : "뽀끼뽀끼분식이야기",
   "업주명": "한차남",
   "구군": "달서구",
@@ -2544,7 +2544,7 @@ const daeguContents = [
  },
  {
   "연번": 232,
-  category : "한식",
+  category: "음식점",
   title : "빨간국밥",
   "업주명": "곽성섭",
   "구군": "달서구",
@@ -2577,7 +2577,7 @@ const daeguContents = [
  },
  {
   "연번": 235,
-  category : "한식",
+  category: "음식점",
   title : "공화루",
   "업주명": "황대근",
   "구군": "달서구",
@@ -2599,7 +2599,7 @@ const daeguContents = [
  },
  {
   "연번": 237,
-  category : "한식",
+  category: "음식점",
   title : "옥방맛집",
   "업주명": "김명숙",
   "구군": "달서구",
@@ -2610,7 +2610,7 @@ const daeguContents = [
  },
  {
   "연번": 238,
-  category : "한식",
+  category: "음식점",
   title : "행복맛집",
   "업주명": "고재숙",
   "구군": "달서구",
@@ -2621,7 +2621,7 @@ const daeguContents = [
  },
  {
   "연번": 239,
-  category : "이미용업",
+  category: "이미용",
   title : "강변이용소",
   "업주명": "박노득",
   "구군": "달성군",
@@ -2632,7 +2632,7 @@ const daeguContents = [
  },
  {
   "연번": 240,
-  category : "이미용업",
+  category: "이미용",
   title : "명호이용소",
   "업주명": "유명호",
   "구군": "달성군",
@@ -2643,7 +2643,7 @@ const daeguContents = [
  },
  {
   "연번": 241,
-  category : "이미용업",
+  category: "이미용",
   title : "윤정헤어",
   "업주명": "추효심",
   "구군": "달성군",
@@ -2654,7 +2654,7 @@ const daeguContents = [
  },
  {
   "연번": 242,
-  category : "한식",
+  category: "음식점",
   title : "동곡윤송손칼국수",
   "업주명": "조재희",
   "구군": "달성군",
@@ -2665,7 +2665,7 @@ const daeguContents = [
  },
  {
   "연번": 243,
-  category : "한식",
+  category: "음식점",
   title : "서순자손수제비",
   "업주명": "윤기원",
   "구군": "달성군",
@@ -2676,7 +2676,7 @@ const daeguContents = [
  },
  {
   "연번": 244,
-  category : "이미용업",
+  category: "이미용",
   title : "수원미용타운",
   "업주명": "안인숙",
   "구군": "달성군",
@@ -2687,7 +2687,7 @@ const daeguContents = [
  },
  {
   "연번": 245,
-  category : "한식",
+  category: "음식점",
   title : "순해집손칼국수",
   "업주명": "김미옥",
   "구군": "달성군",
@@ -2698,7 +2698,7 @@ const daeguContents = [
  },
  {
   "연번": 246,
-  category : "이미용업",
+  category: "이미용",
   title : "이영희헤어샵",
   "업주명": "이영희",
   "구군": "달성군",
@@ -2709,7 +2709,7 @@ const daeguContents = [
  },
  {
   "연번": 247,
-  category : "한식",
+  category: "음식점",
   title : "정아국밥",
   "업주명": "정곡자",
   "구군": "달성군",
@@ -2731,7 +2731,7 @@ const daeguContents = [
  },
  {
   "연번": 249,
-  category : "한식",
+  category: "음식점",
   title : "이놈애양곱창",
   "업주명": "최설봄",
   "구군": "달성군",
@@ -2742,7 +2742,7 @@ const daeguContents = [
  },
  {
   "연번": 250,
-  category : "한식",
+  category: "음식점",
   title : "고구려",
   "업주명": "나윤덕",
   "구군": "달성군",
@@ -2753,7 +2753,7 @@ const daeguContents = [
  },
  {
   "연번": 251,
-  category : "한식",
+  category: "음식점",
   title : "대명숯불갈비",
   "업주명": "한경순",
   "구군": "달성군",
@@ -2764,7 +2764,7 @@ const daeguContents = [
  },
  {
   "연번": 252,
-  category : "한식",
+  category: "음식점",
   title : "별난집삼겹살",
   "업주명": "김영보",
   "구군": "달성군",
@@ -2775,7 +2775,7 @@ const daeguContents = [
  },
  {
   "연번": 253,
-  category : "한식",
+  category: "음식점",
   title : "호야네착한국수",
   "업주명": "이영아",
   "구군": "달성군",
@@ -2786,7 +2786,7 @@ const daeguContents = [
  },
  {
   "연번": 254,
-  category : "한식",
+  category: "음식점",
   title : "웰빙 보리밥",
   "업주명": "김연자",
   "구군": "달성군",
@@ -2797,7 +2797,7 @@ const daeguContents = [
  },
  {
   "연번": 255,
-  category : "이미용업",
+  category: "이미용",
   title : "헤어일번지",
   "업주명": "이말희",
   "구군": "달성군",
@@ -2808,7 +2808,7 @@ const daeguContents = [
  },
  {
   "연번": 256,
-  category : "한식",
+  category: "음식점",
   title : "유가국수",
   "업주명": "김미정",
   "구군": "달성군",
@@ -2819,7 +2819,7 @@ const daeguContents = [
  },
  {
   "연번": 257,
-  category : "한식",
+  category: "음식점",
   title : "김밥 면 맛나분식",
   "업주명": "문미선",
   "구군": "달성군",
