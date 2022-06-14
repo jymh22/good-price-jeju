@@ -3,7 +3,7 @@
 const jeonbukContetns = [
  {
   "순번": 1,
-  category: "한식",
+  category: "음식점",
   title: "기린로가정식백반",
   "대표자": "강정자",
   "시_도": "전북",
@@ -18,7 +18,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 2,
-  category: "중식",
+  category: "음식점",
   title: "다래성",
   "대표자": "송효성",
   "시_도": "전북",
@@ -33,7 +33,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 3,
-  category: "한식",
+  category: "음식점",
   title: "옛살비",
   "대표자": "이주형",
   "시_도": "전북",
@@ -48,7 +48,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 4,
-  category: "미용업",
+  category: "이미용",
   title: "윤쌤헤어",
   "대표자": "조윤경",
   "시_도": "전북",
@@ -63,7 +63,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 5,
-  category: "미용업",
+  category: "이미용",
   title: "각시미용실",
   "대표자": "이주연",
   "시_도": "전북",
@@ -78,7 +78,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 6,
-  category: "미용업",
+  category: "이미용",
   title: "마당재미용실",
   "대표자": "문두운",
   "시_도": "전북",
@@ -93,7 +93,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 7,
-  category: "미용업",
+  category: "이미용",
   title: "명보헤어",
   "대표자": "김인자",
   "시_도": "전북",
@@ -108,7 +108,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 8,
-  category: "미용업",
+  category: "이미용",
   title: "지연미장원",
   "대표자": "이영자",
   "시_도": "전북",
@@ -123,7 +123,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 9,
-  category: "미용업",
+  category: "이미용",
   title: "초희미용실",
   "대표자": "박순란",
   "시_도": "전북",
@@ -138,7 +138,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 10,
-  category: "분식",
+  category: "음식점",
   title: "동래분식",
   "대표자": "양명구",
   "시_도": "전북",
@@ -153,7 +153,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 11,
-  category: "분식",
+  category: "음식점",
   title: "만나별미",
   "대표자": "김혜숙",
   "시_도": "전북",
@@ -198,7 +198,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 14,
-  category: "양식",
+  category: "음식점",
   title: "수제왕돈가스",
   "대표자": "한미희",
   "시_도": "전북",
@@ -213,7 +213,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 15,
-  category: "양식",
+  category: "음식점",
   title: "야미",
   "대표자": "김수경",
   "시_도": "전북",
@@ -228,7 +228,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 16,
-  category: "제과",
+  category: "음식점",
   title: "빵굽는나라",
   "대표자": "우효숙",
   "시_도": "전북",
@@ -243,7 +243,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 17,
-  category: "중식",
+  category: "음식점",
   title: "1500짜장집",
   "대표자": "강성진",
   "시_도": "전북",
@@ -258,7 +258,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 18,
-  category: "중식",
+  category: "음식점",
   title: "중본이쟁반짜장",
   "대표자": "김종복",
   "시_도": "전북",
@@ -273,7 +273,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 19,
-  category: "중식",
+  category: "음식점",
   title: "한들각중화요리",
   "대표자": "안준용",
   "시_도": "전북",
@@ -288,7 +288,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 20,
-  category: "한식",
+  category: "음식점",
   title: "갈비전문점 엘에이 반월직영점",
   "대표자": "김현숙",
   "시_도": "전북",
@@ -303,7 +303,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 21,
-  category: "한식",
+  category: "음식점",
   title: "녹색불고기",
   "대표자": "이현자",
   "시_도": "전북",
@@ -318,7 +318,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 22,
-  category: "한식",
+  category: "음식점",
   title: "돼지한마리",
   "대표자": "오진정",
   "시_도": "전북",
@@ -333,7 +333,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 23,
-  category: "한식",
+  category: "음식점",
   title: "두레박콩나물국밥",
   "대표자": "이미숙",
   "시_도": "전북",
@@ -348,7 +348,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 24,
-  category: "한식",
+  category: "음식점",
   title: "만남의집",
   "대표자": "전주헌",
   "시_도": "전북",
@@ -363,7 +363,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 25,
-  category: "한식",
+  category: "음식점",
   title: "맛자랑 팥고향집",
   "대표자": "김성환",
   "시_도": "전북",
@@ -378,7 +378,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 26,
-  category: "한식",
+  category: "음식점",
   title: "부잣집",
   "대표자": "이영두",
   "시_도": "전북",
@@ -393,7 +393,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 27,
-  category: "한식",
+  category: "음식점",
   title: "서도비밥",
   "대표자": "강완상",
   "시_도": "전북",
@@ -408,7 +408,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 28,
-  category: "한식",
+  category: "음식점",
   title: "서신정",
   "대표자": "양수정",
   "시_도": "전북",
@@ -423,7 +423,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 29,
-  category: "한식",
+  category: "음식점",
   title: "섬진강백반",
   "대표자": "최숙현",
   "시_도": "전북",
@@ -438,7 +438,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 30,
-  category: "한식",
+  category: "음식점",
   title: "세은이네집",
   "대표자": "김영숙",
   "시_도": "전북",
@@ -453,7 +453,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 31,
-  category: "한식",
+  category: "음식점",
   title: "시래청",
   "대표자": "김영열",
   "시_도": "전북",
@@ -468,7 +468,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 32,
-  category: "한식",
+  category: "음식점",
   title: "신뱅이",
   "대표자": "안명자",
   "시_도": "전북",
@@ -483,7 +483,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 33,
-  category: "한식",
+  category: "음식점",
   title: "아중고기마트 중화산점",
   "대표자": "장홍혁",
   "시_도": "전북",
@@ -498,7 +498,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 34,
-  category: "한식",
+  category: "음식점",
   title: "오늘의 행복 교대점",
   "대표자": "김현장",
   "시_도": "전북",
@@ -513,7 +513,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 35,
-  category: "한식",
+  category: "음식점",
   title: "이래면옥",
   "대표자": "최정희",
   "시_도": "전북",
@@ -528,7 +528,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 36,
-  category: "한식",
+  category: "음식점",
   title: "자유식당",
   "대표자": "한남이",
   "시_도": "전북",
@@ -543,7 +543,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 37,
-  category: "한식",
+  category: "음식점",
   title: "전원갈비",
   "대표자": "박명옥",
   "시_도": "전북",
@@ -558,7 +558,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 38,
-  category: "한식",
+  category: "음식점",
   title: "지정회관",
   "대표자": "김금숙",
   "시_도": "전북",
@@ -573,7 +573,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 39,
-  category: "한식",
+  category: "음식점",
   title: "지평선 한돈 전주점",
   "대표자": "김수진",
   "시_도": "전북",
@@ -588,7 +588,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 40,
-  category: "한식",
+  category: "음식점",
   title: "청라회관",
   "대표자": "소호",
   "시_도": "전북",
@@ -603,7 +603,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 41,
-  category: "한식",
+  category: "음식점",
   title: "해든마루",
   "대표자": "김미자",
   "시_도": "전북",
@@ -618,7 +618,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 42,
-  category: "한식",
+  category: "음식점",
   title: "도나돈아",
   "대표자": "반창인",
   "시_도": "전북",
@@ -633,7 +633,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 43,
-  category: "한식",
+  category: "음식점",
   title: "한일옥",
   "대표자": "양권호",
   "시_도": "전북",
@@ -648,7 +648,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 44,
-  category: "분식",
+  category: "음식점",
   title: "또또분식",
   "대표자": "이경하",
   "시_도": "전북",
@@ -663,7 +663,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 45,
-  category: "분식",
+  category: "음식점",
   title: "또와분식",
   "대표자": "임종환",
   "시_도": "전북",
@@ -678,7 +678,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 46,
-  category: "한식",
+  category: "음식점",
   title: "신진미감자탕",
   "대표자": "김동연",
   "시_도": "전북",
@@ -693,7 +693,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 47,
-  category: "한식",
+  category: "음식점",
   title: "갈비전문점 엘에이 평화직영점",
   "대표자": "유동석",
   "시_도": "전북",
@@ -708,7 +708,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 48,
-  category: "중식",
+  category: "음식점",
   title: "아서원",
   "대표자": "이삼구",
   "시_도": "전북",
@@ -723,7 +723,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 49,
-  category: "이미용업",
+  category: "이미용",
   title: "어여미",
   "대표자": "이은희",
   "시_도": "전북",
@@ -738,7 +738,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 50,
-  category: "이미용업",
+  category: "이미용",
   title: "형제이용원",
   "대표자": "두창규",
   "시_도": "전북",
@@ -753,7 +753,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 51,
-  category: "한식",
+  category: "음식점",
   title: "국일식당",
   "대표자": "장창용",
   "시_도": "전북",
@@ -783,7 +783,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 53,
-  category: "한식",
+  category: "음식점",
   title: "일출옥",
   "대표자": "김성민",
   "시_도": "전북",
@@ -813,7 +813,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 55,
-  category: "한식",
+  category: "음식점",
   title: "제주도횟집",
   "대표자": "김현옥",
   "시_도": "전북",
@@ -828,7 +828,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 56,
-  category: "한식",
+  category: "음식점",
   title: "선현대솥뚜껑갈비",
   "대표자": "왕춘길",
   "시_도": "전북",
@@ -843,7 +843,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 57,
-  category: "한식",
+  category: "음식점",
   title: "토속해장국",
   "대표자": "황수정",
   "시_도": "전북",
@@ -858,7 +858,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 58,
-  category: "한식",
+  category: "음식점",
   title: "명산칼국수",
   "대표자": "진성순",
   "시_도": "전북",
@@ -873,7 +873,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 59,
-  category: "한식",
+  category: "음식점",
   title: "대명옥",
   "대표자": "강복수",
   "시_도": "전북",
@@ -888,7 +888,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 60,
-  category: "한식",
+  category: "음식점",
   title: "청정오리떼",
   "대표자": "박병숙",
   "시_도": "전북",
@@ -903,7 +903,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 61,
-  category: "한식",
+  category: "음식점",
   title: "은혜식당",
   "대표자": "이옥",
   "시_도": "전북",
@@ -918,7 +918,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 62,
-  category: "중식",
+  category: "음식점",
   title: "가야장",
   "대표자": "박금주",
   "시_도": "전북",
@@ -933,7 +933,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 63,
-  category: "한식",
+  category: "음식점",
   title: "미주옥",
   "대표자": "황현일",
   "시_도": "전북",
@@ -948,7 +948,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 64,
-  category: "한식",
+  category: "음식점",
   title: "베테랑생돈까스",
   "대표자": "문경미",
   "시_도": "전북",
@@ -963,7 +963,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 65,
-  category: "한식",
+  category: "음식점",
   title: "나라식당",
   "대표자": "김바론",
   "시_도": "전북",
@@ -978,7 +978,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 66,
-  category: "한식",
+  category: "음식점",
   title: "꼬꼬꽥꽥",
   "대표자": "문근철",
   "시_도": "전북",
@@ -993,7 +993,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 67,
-  category: "한식",
+  category: "음식점",
   title: "우리지빱",
   "대표자": "김정임",
   "시_도": "전북",
@@ -1008,7 +1008,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 68,
-  category: "한식",
+  category: "음식점",
   title: "시골마당",
   "대표자": "이임숙",
   "시_도": "전북",
@@ -1023,7 +1023,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 69,
-  category: "이미용업",
+  category: "이미용",
   title: "머리박사",
   "대표자": "이기명",
   "시_도": "전북",
@@ -1038,7 +1038,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 70,
-  category: "한식",
+  category: "음식점",
   title: "일신옥",
   "대표자": "박신애",
   "시_도": "전북",
@@ -1053,7 +1053,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 71,
-  category: "한식",
+  category: "음식점",
   title: "이포크정육식당",
   "대표자": "한윤희",
   "시_도": "전북",
@@ -1068,7 +1068,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 72,
-  category: "한식",
+  category: "음식점",
   title: "한우네곱창",
   "대표자": "이삼석",
   "시_도": "전북",
@@ -1083,7 +1083,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 73,
-  category: "한식",
+  category: "음식점",
   title: "이가매생이수제비칼국수",
   "대표자": "이은주",
   "시_도": "전북",
@@ -1098,7 +1098,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 74,
-  category: "한식",
+  category: "음식점",
   title: "유쾌한돈 미장점",
   "대표자": "오문수",
   "시_도": "전북",
@@ -1128,7 +1128,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 76,
-  category: "분식",
+  category: "음식점",
   title: "치바라멘",
   "대표자": "전종국",
   "시_도": "전북",
@@ -1143,7 +1143,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 77,
-  category: "한식",
+  category: "음식점",
   title: "다향양푼갈비",
   "대표자": "배영님",
   "시_도": "전북",
@@ -1158,7 +1158,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 78,
-  category: "한식",
+  category: "음식점",
   title: "진미식당",
   "대표자": "원금례",
   "시_도": "전북",
@@ -1173,7 +1173,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 79,
-  category: "한식",
+  category: "음식점",
   title: "시청앞밥집",
   "대표자": "남상수",
   "시_도": "전북",
@@ -1188,7 +1188,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 80,
-  category: "한식",
+  category: "음식점",
   title: "원식당",
   "대표자": "김춘자",
   "시_도": "전북",
@@ -1203,7 +1203,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 81,
-  category: "한식",
+  category: "음식점",
   title: "이랴꿀꿀",
   "대표자": "송형규",
   "시_도": "전북",
@@ -1218,7 +1218,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 82,
-  category: "한식",
+  category: "음식점",
   title: "오천냥한식부페",
   "대표자": "진금례",
   "시_도": "전북",
@@ -1233,7 +1233,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 83,
-  category: "한식",
+  category: "음식점",
   title: "김가네순두부생선탕",
   "대표자": "국승교",
   "시_도": "전북",
@@ -1248,7 +1248,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 84,
-  category: "한식",
+  category: "음식점",
   title: "별미식당",
   "대표자": "윤봉연",
   "시_도": "전북",
@@ -1263,7 +1263,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 85,
-  category: "중식",
+  category: "음식점",
   title: "황룡반점",
   "대표자": "황순단",
   "시_도": "전북",
@@ -1278,7 +1278,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 86,
-  category: "중식",
+  category: "음식점",
   title: "짜장천짬뽕천",
   "대표자": "허미자",
   "시_도": "전북",
@@ -1323,7 +1323,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 89,
-  category: "분식",
+  category: "음식점",
   title: "세미국수",
   "대표자": "이재배",
   "시_도": "전북",
@@ -1338,7 +1338,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 90,
-  category: "미용업",
+  category: "이미용",
   title: "해영미용실",
   "대표자": "김해영",
   "시_도": "전북",
@@ -1353,7 +1353,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 91,
-  category: "미용업",
+  category: "이미용",
   title: "수경미용실",
   "대표자": "오예순",
   "시_도": "전북",
@@ -1383,7 +1383,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 93,
-  category: "한식",
+  category: "음식점",
   title: "별난삼겹",
   "대표자": "천진희",
   "시_도": "전북",
@@ -1398,7 +1398,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 94,
-  category: "이미용업",
+  category: "이미용",
   title: "크로바미용실",
   "대표자": "최숙자",
   "시_도": "전북",
@@ -1413,7 +1413,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 95,
-  category: "중식",
+  category: "음식점",
   title: "만다린",
   "대표자": "최영선",
   "시_도": "전북",
@@ -1428,7 +1428,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 96,
-  category: "중식",
+  category: "음식점",
   title: "청원",
   "대표자": "이민자",
   "시_도": "전북",
@@ -1443,7 +1443,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 97,
-  category: "한식",
+  category: "음식점",
   title: "영천칡냉면갈비",
   "대표자": "이종길",
   "시_도": "전북",
@@ -1458,7 +1458,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 98,
-  category: "한식",
+  category: "음식점",
   title: "오죽헌가든",
   "대표자": "정현자",
   "시_도": "전북",
@@ -1473,7 +1473,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 99,
-  category: "한식",
+  category: "음식점",
   title: "풍성한술불갈비",
   "대표자": "박옥자",
   "시_도": "전북",
@@ -1488,7 +1488,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 100,
-  category: "한식",
+  category: "음식점",
   title: "양지뜰",
   "대표자": "양명순",
   "시_도": "전북",
@@ -1503,7 +1503,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 101,
-  category: "한식",
+  category: "음식점",
   title: "목련회관",
   "대표자": "노입분",
   "시_도": "전북",
@@ -1518,7 +1518,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 102,
-  category: "한식",
+  category: "음식점",
   title: "금화식당",
   "대표자": "김양순",
   "시_도": "전북",
@@ -1533,7 +1533,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 103,
-  category: "한식",
+  category: "음식점",
   title: "샘골순대국밥",
   "대표자": "심영순",
   "시_도": "전북",
@@ -1548,7 +1548,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 104,
-  category: "중식",
+  category: "음식점",
   title: "시민식당",
   "대표자": "국중광",
   "시_도": "전북",
@@ -1563,7 +1563,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 105,
-  category: "한식",
+  category: "음식점",
   title: "마포통갈비",
   "대표자": "엄문주",
   "시_도": "전북",
@@ -1578,7 +1578,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 106,
-  category: "한식",
+  category: "음식점",
   title: "코끼리밥상",
   "대표자": "김미숙",
   "시_도": "전북",
@@ -1593,7 +1593,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 107,
-  category: "한식",
+  category: "음식점",
   title: "한솥밥뚝배기",
   "대표자": "박남례",
   "시_도": "전북",
@@ -1608,7 +1608,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 108,
-  category: "이미용업",
+  category: "이미용",
   title: "아름다울 미용실",
   "대표자": "강영자",
   "시_도": "전북",
@@ -1623,7 +1623,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 109,
-  category: "한식",
+  category: "음식점",
   title: "남산이발관",
   "대표자": "김하중",
   "시_도": "전북",
@@ -1638,7 +1638,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 110,
-  category: "한식",
+  category: "음식점",
   title: "국수야",
   "대표자": "김정이",
   "시_도": "전북",
@@ -1653,7 +1653,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 111,
-  category: "한식",
+  category: "음식점",
   title: "갈비마을",
   "대표자": "한이선",
   "시_도": "전북",
@@ -1668,7 +1668,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 112,
-  category: "중식",
+  category: "음식점",
   title: "비룡",
   "대표자": "박마리",
   "시_도": "전북",
@@ -1683,7 +1683,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 113,
-  category: "이미용업",
+  category: "이미용",
   title: "썬헤어뱅크",
   "대표자": "유선순",
   "시_도": "전북",
@@ -1698,7 +1698,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 114,
-  category: "한식",
+  category: "음식점",
   title: "부엉이식당",
   "대표자": "박명숙",
   "시_도": "전북",
@@ -1713,7 +1713,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 115,
-  category: "이미용업",
+  category: "이미용",
   title: "호남제일이발관",
   "대표자": "오인석",
   "시_도": "전북",
@@ -1728,7 +1728,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 116,
-  category: "한식",
+  category: "음식점",
   title: "연지순대",
   "대표자": "김현술",
   "시_도": "전북",
@@ -1743,7 +1743,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 117,
-  category: "한식",
+  category: "음식점",
   title: "최민자국밥",
   "대표자": "문재근",
   "시_도": "전북",
@@ -1758,7 +1758,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 118,
-  category: "한식",
+  category: "음식점",
   title: "궁전식당",
   "대표자": "박경선",
   "시_도": "전북",
@@ -1773,7 +1773,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 119,
-  category: "한식",
+  category: "음식점",
   title: "외식일번가",
   "대표자": "이경남",
   "시_도": "전북",
@@ -1788,7 +1788,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 120,
-  category: "한식",
+  category: "음식점",
   title: "백년설렁탕",
   "대표자": "나기화",
   "시_도": "전북 ",
@@ -1803,7 +1803,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 121,
-  category: "한식",
+  category: "음식점",
   title: "김가네삼계탕추어탕",
   "대표자": "전진경",
   "시_도": "전북",
@@ -1818,7 +1818,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 122,
-  category: "한식",
+  category: "음식점",
   title: "고향촌",
   "대표자": "진성향",
   "시_도": "전북",
@@ -1848,7 +1848,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 124,
-  category: "한식",
+  category: "음식점",
   title: "광한루석쇠구이",
   "대표자": "한나영",
   "시_도": "전북",
@@ -1863,7 +1863,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 125,
-  category: "중식",
+  category: "음식점",
   title: "춘향루",
   "대표자": "이인숙",
   "시_도": "전북",
@@ -1878,7 +1878,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 126,
-  category: "한식",
+  category: "음식점",
   title: "지리산 칡냉면",
   "대표자": "문정자",
   "시_도": "전북",
@@ -1893,7 +1893,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 127,
-  category: "한식",
+  category: "음식점",
   title: "우소보소",
   "대표자": "김다남",
   "시_도": "전북",
@@ -1908,7 +1908,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 128,
-  category: "한식",
+  category: "음식점",
   title: "선비고을",
   "대표자": "윤용선",
   "시_도": "전북",
@@ -1923,7 +1923,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 129,
-  category: "한식",
+  category: "음식점",
   title: "세영회관",
   "대표자": "권덕은",
   "시_도": "전북",
@@ -1938,7 +1938,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 130,
-  category: "한식",
+  category: "음식점",
   title: "공설새식당",
   "대표자": "박강수",
   "시_도": "전북",
@@ -1953,7 +1953,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 131,
-  category: "한식",
+  category: "음식점",
   title: "인월분식",
   "대표자": "손문희",
   "시_도": "전북",
@@ -1968,7 +1968,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 132,
-  category: "한식",
+  category: "음식점",
   title: "춘원회관",
   "대표자": "김숙자",
   "시_도": "전북",
@@ -1983,7 +1983,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 133,
-  category: "한식",
+  category: "음식점",
   title: "두부마을",
   "대표자": "백청자",
   "시_도": "전북",
@@ -1998,7 +1998,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 134,
-  category: "한식",
+  category: "음식점",
   title: "향우정",
   "대표자": "구길순",
   "시_도": "전북",
@@ -2013,7 +2013,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 135,
-  category: "이미용업",
+  category: "이미용",
   title: "서문이용원",
   "대표자": "정수영",
   "시_도": "전북",
@@ -2043,7 +2043,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 137,
-  category: "한식",
+  category: "음식점",
   title: "이조갈비",
   "대표자": "김행임",
   "시_도": "전북",
@@ -2058,7 +2058,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 138,
-  category: "한식",
+  category: "음식점",
   title: "토종감자국수",
   "대표자": "이선이",
   "시_도": "전북",
@@ -2073,7 +2073,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 139,
-  category: "이미용업",
+  category: "이미용",
   title: "말래풀래",
   "대표자": "박정호",
   "시_도": "전북",
@@ -2088,7 +2088,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 140,
-  category: "한식",
+  category: "음식점",
   title: "지리산 정육식당",
   "대표자": "김회연",
   "시_도": "전북",
@@ -2103,7 +2103,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 141,
-  category: "한식",
+  category: "음식점",
   title: "춘향골 한우회관",
   "대표자": "이형용",
   "시_도": "전북",
@@ -2118,7 +2118,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 142,
-  category: "한식",
+  category: "음식점",
   title: "남원사랑채",
   "대표자": "진윤자",
   "시_도": "전북",
@@ -2133,7 +2133,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 143,
-  category: "한식",
+  category: "음식점",
   title: "남원고을",
   "대표자": "전상배",
   "시_도": "전북",
@@ -2148,7 +2148,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 144,
-  category: "한식",
+  category: "음식점",
   title: "가시버시",
   "대표자": "유영철",
   "시_도": "전북",
@@ -2163,7 +2163,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 145,
-  category: "한식",
+  category: "음식점",
   title: "조교수 숯불갈비",
   "대표자": "조복음",
   "시_도": "전북",
@@ -2178,7 +2178,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 146,
-  category: "한식",
+  category: "음식점",
   title: "아구타운",
   "대표자": "최순옥",
   "시_도": "전북",
@@ -2193,7 +2193,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 147,
-  category: "한식",
+  category: "음식점",
   title: "착한한우",
   "대표자": "박환표",
   "시_도": "전북",
@@ -2208,7 +2208,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 148,
-  category: "한식",
+  category: "음식점",
   title: "단야골",
   "대표자": "송병용",
   "시_도": "전북 ",
@@ -2223,7 +2223,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 149,
-  category: "한식",
+  category: "음식점",
   title: "명천슈퍼",
   "대표자": "문관주",
   "시_도": "전북 ",
@@ -2238,7 +2238,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 150,
-  category: "한식",
+  category: "음식점",
   title: "무지개팥죽",
   "대표자": "박옥진",
   "시_도": "전북 ",
@@ -2253,7 +2253,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 151,
-  category: "한식",
+  category: "음식점",
   title: "민들레국시",
   "대표자": "이동숙",
   "시_도": "전북 ",
@@ -2268,7 +2268,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 152,
-  category: "이미용업",
+  category: "이미용",
   title: "선화미용실",
   "대표자": "김정순",
   "시_도": "전북 ",
@@ -2283,7 +2283,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 153,
-  category: "한식",
+  category: "음식점",
   title: "성환식당",
   "대표자": "정정례",
   "시_도": "전북 ",
@@ -2298,7 +2298,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 154,
-  category: "한식",
+  category: "음식점",
   title: "예촌",
   "대표자": "이순님",
   "시_도": "전북 ",
@@ -2313,7 +2313,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 155,
-  category: "이미용업",
+  category: "이미용",
   title: "임 미용실",
   "대표자": "강순아",
   "시_도": "전북 ",
@@ -2328,7 +2328,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 156,
-  category: "이미용업",
+  category: "이미용",
   title: "초원이발관",
   "대표자": "박영수",
   "시_도": "전북 ",
@@ -2343,7 +2343,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 157,
-  category: "한식",
+  category: "음식점",
   title: "콩쥐팥쥐",
   "대표자": "서해근",
   "시_도": "전북 ",
@@ -2358,7 +2358,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 158,
-  category: "이미용업",
+  category: "이미용",
   title: "이재순미용실",
   "대표자": "이재순",
   "시_도": "전북 ",
@@ -2373,7 +2373,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 159,
-  category: "한식",
+  category: "음식점",
   title: "꽃사슴로스",
   "대표자": "윤옥자",
   "시_도": "전북 ",
@@ -2388,7 +2388,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 160,
-  category: "한식",
+  category: "음식점",
   title: "이가네국수학교",
   "대표자": "이금자",
   "시_도": "전북 ",
@@ -2403,7 +2403,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 161,
-  category: "한식",
+  category: "음식점",
   title: "거북선",
   "대표자": "유금식",
   "시_도": "전북 ",
@@ -2418,7 +2418,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 162,
-  category: "한식",
+  category: "음식점",
   title: "싸가지없은갈비",
   "대표자": "유영수",
   "시_도": "전북 ",
@@ -2433,7 +2433,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 163,
-  category: "한식",
+  category: "음식점",
   title: "왕큰피순대",
   "대표자": "김태균",
   "시_도": "전북 ",
@@ -2448,7 +2448,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 164,
-  category: "한식",
+  category: "음식점",
   title: "회진정육식당",
   "대표자": "김상훈",
   "시_도": "전북 ",
@@ -2463,7 +2463,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 165,
-  category: "한식",
+  category: "음식점",
   title: "두손왕족발",
   "대표자": "나정근",
   "시_도": "전북 ",
@@ -2478,7 +2478,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 166,
-  category: "중식",
+  category: "음식점",
   title: "하우치",
   "대표자": "진선자",
   "시_도": "전북 ",
@@ -2493,7 +2493,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 167,
-  category: "한식",
+  category: "음식점",
   title: "맛있는밥집&맛있는커피",
   "대표자": "선현나",
   "시_도": "전북 ",
@@ -2508,7 +2508,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 168,
-  category: "한식",
+  category: "음식점",
   title: "촌돼지",
   "대표자": "고효순",
   "시_도": "전북 ",
@@ -2523,7 +2523,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 169,
-  category: "한식",
+  category: "음식점",
   title: "오늘은 갈비",
   "대표자": "강종순",
   "시_도": "전북 ",
@@ -2538,7 +2538,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 170,
-  category: "미용실",
+  category: "이미용",
   title: "귀빈미용실",
   "대표자": "김성진",
   "시_도": "전북 ",
@@ -2553,7 +2553,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 171,
-  category: "미용실",
+  category: "이미용",
   title: "한성자헤어뱅크",
   "대표자": "한성자",
   "시_도": "전북 ",
@@ -2568,7 +2568,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 172,
-  category: "이미용업",
+  category: "이미용",
   title: "마샬미용실",
   "대표자": "박해진",
   "시_도": "전북",
@@ -2583,7 +2583,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 173,
-  category: "이미용업",
+  category: "이미용",
   title: "원앙미용실",
   "대표자": "최기자",
   "시_도": "전북",
@@ -2598,7 +2598,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 174,
-  category: "이미용업",
+  category: "이미용",
   title: "장미미용실",
   "대표자": "김인숙",
   "시_도": "전북",
@@ -2613,7 +2613,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 175,
-  category: "한식",
+  category: "음식점",
   title: "국밥집",
   "대표자": "최세림",
   "시_도": "전북",
@@ -2628,7 +2628,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 176,
-  category: "한식",
+  category: "음식점",
   title: "이레가든",
   "대표자": "권동화",
   "시_도": "전북",
@@ -2643,7 +2643,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 177,
-  category: "한식",
+  category: "음식점",
   title: "할머니국수",
   "대표자": "정현자",
   "시_도": "전북",
@@ -2658,7 +2658,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 178,
-  category: "중식",
+  category: "음식점",
   title: "불타는짜장",
   "대표자": "설정자",
   "시_도": "전북",
@@ -2673,7 +2673,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 179,
-  category: "한식",
+  category: "음식점",
   title: "유일가든",
   "대표자": "정정자",
   "시_도": "전북",
@@ -2688,7 +2688,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 180,
-  category: "한식",
+  category: "음식점",
   title: "코아루황태",
   "대표자": "장병기",
   "시_도": "전북",
@@ -2703,7 +2703,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 181,
-  category: "한식",
+  category: "음식점",
   title: "선심갈비",
   "대표자": "조인성",
   "시_도": "전북",
@@ -2718,7 +2718,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 182,
-  category: "한식",
+  category: "음식점",
   title: "하나분식",
   "대표자": "김영민",
   "시_도": "전북",
@@ -2733,7 +2733,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 183,
-  category: "한식",
+  category: "음식점",
   title: "토지",
   "대표자": "한미숙",
   "시_도": "전북",
@@ -2748,7 +2748,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 184,
-  category: "한식",
+  category: "음식점",
   title: "돈내고 돈먹는집",
   "대표자": "박종필",
   "시_도": "전북",
@@ -2763,7 +2763,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 185,
-  category: "한식",
+  category: "음식점",
   title: "초포가든",
   "대표자": "양대운",
   "시_도": "전북",
@@ -2778,7 +2778,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 186,
-  category: "한식",
+  category: "음식점",
   title: "시골집국수",
   "대표자": "유현숙",
   "시_도": "전북",
@@ -2793,7 +2793,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 187,
-  category: "한식",
+  category: "음식점",
   title: "정일품",
   "대표자": "한봉덕",
   "시_도": "전북",
@@ -2808,7 +2808,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 188,
-  category: "한식",
+  category: "음식점",
   title: "전주회관",
   "대표자": "김영숙",
   "시_도": "전북",
@@ -2823,7 +2823,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 189,
-  category: "이미용업",
+  category: "이미용",
   title: "미주헤어샵",
   "대표자": "김금복",
   "시_도": "전북",
@@ -2838,7 +2838,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 190,
-  category: "한식",
+  category: "음식점",
   title: "신세대분식",
   "대표자": "이지혜",
   "시_도": "전북",
@@ -2853,7 +2853,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 191,
-  category: "한식",
+  category: "음식점",
   title: "다영분식",
   "대표자": "김은경",
   "시_도": "전북",
@@ -2868,7 +2868,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 192,
-  category: "한식",
+  category: "음식점",
   title: "옛날국수",
   "대표자": "박영애",
   "시_도": "전북",
@@ -2883,7 +2883,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 193,
-  category: "중식",
+  category: "음식점",
   title: "일월성",
   "대표자": "고명순",
   "시_도": "전북",
@@ -2898,7 +2898,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 194,
-  category: "한식",
+  category: "음식점",
   title: "아지트분식",
   "대표자": "조미경",
   "시_도": "전북",
@@ -2913,7 +2913,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 195,
-  category: "한식",
+  category: "음식점",
   title: "다미가",
   "대표자": "임채윤",
   "시_도": "전북",
@@ -2928,7 +2928,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 196,
-  category: "한식",
+  category: "음식점",
   title: "유정식당",
   "대표자": "최상순",
   "시_도": "전북",
@@ -2943,7 +2943,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 197,
-  category: "한식",
+  category: "음식점",
   title: "전주식당",
   "대표자": "서봉희",
   "시_도": "전북",
@@ -2958,7 +2958,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 198,
-  category: "한식",
+  category: "음식점",
   title: "용평식당",
   "대표자": "최희순",
   "시_도": "전북",
@@ -2973,7 +2973,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 199,
-  category: "한식",
+  category: "음식점",
   title: "천등산식당",
   "대표자": "박미화",
   "시_도": "전북",
@@ -2988,7 +2988,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 200,
-  category: "한식",
+  category: "음식점",
   title: "진안한우전문점",
   "대표자": "송연희",
   "시_도": "전북 ",
@@ -3003,7 +3003,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 201,
-  category: "한식",
+  category: "음식점",
   title: "왕다리분식",
   "대표자": "박옥례",
   "시_도": "전북 ",
@@ -3018,7 +3018,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 202,
-  category: "한식",
+  category: "음식점",
   title: "구구식당",
   "대표자": "강남순",
   "시_도": "전북 ",
@@ -3033,7 +3033,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 203,
-  category: "한식",
+  category: "음식점",
   title: "진안장터식당",
   "대표자": "홍효순",
   "시_도": "전북 ",
@@ -3048,7 +3048,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 204,
-  category: "한식",
+  category: "음식점",
   title: "진안순두부",
   "대표자": "송영애",
   "시_도": "전북 ",
@@ -3063,7 +3063,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 205,
-  category: "한식",
+  category: "음식점",
   title: "돼지마을",
   "대표자": "길영임",
   "시_도": "전북 ",
@@ -3078,7 +3078,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 206,
-  category: "이미용업",
+  category: "이미용",
   title: "한나미용실",
   "대표자": "조순선",
   "시_도": "전북 ",
@@ -3093,7 +3093,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 207,
-  category: "한식",
+  category: "음식점",
   title: "빵돌이네",
   "대표자": "박혜란",
   "시_도": "전북 ",
@@ -3108,7 +3108,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 208,
-  category: "한식",
+  category: "음식점",
   title: "뚝배기",
   "대표자": "김용란",
   "시_도": "전북",
@@ -3123,7 +3123,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 209,
-  category: "분식업",
+  category: "음식점",
   title: "밀과보리",
   "대표자": "이영숙",
   "시_도": "전북",
@@ -3138,7 +3138,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 210,
-  category: "한식",
+  category: "음식점",
   title: "구룡식당",
   "대표자": "박철호",
   "시_도": "전북",
@@ -3153,7 +3153,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 211,
-  category: "한식",
+  category: "음식점",
   title: "대리만족",
   "대표자": "임승권",
   "시_도": "전북",
@@ -3168,7 +3168,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 212,
-  category: "한식",
+  category: "음식점",
   title: "청운회관",
   "대표자": "한순선",
   "시_도": "전북",
@@ -3183,7 +3183,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 213,
-  category: "한식",
+  category: "음식점",
   title: "송림식당",
   "대표자": "김경숙",
   "시_도": "전북",
@@ -3198,7 +3198,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 214,
-  category: "한식",
+  category: "음식점",
   title: "마실길식당",
   "대표자": "윤경자",
   "시_도": "전북",
@@ -3213,7 +3213,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 215,
-  category: "한식",
+  category: "음식점",
   title: "남대천숯불갈비",
   "대표자": "김복이",
   "시_도": "전북",
@@ -3228,7 +3228,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 216,
-  category: "중식",
+  category: "음식점",
   title: "천마루",
   "대표자": "정성권",
   "시_도": "전북",
@@ -3243,7 +3243,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 217,
-  category: "한식",
+  category: "음식점",
   title: "미락식당",
   "대표자": "이호상",
   "시_도": "전북",
@@ -3258,7 +3258,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 218,
-  category: "한식",
+  category: "음식점",
   title: "대중회관",
   "대표자": "황보명옥",
   "시_도": "전북",
@@ -3273,7 +3273,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 219,
-  category: "한식",
+  category: "음식점",
   title: "남천식당",
   "대표자": "이영미",
   "시_도": "전북",
@@ -3288,7 +3288,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 220,
-  category: "한식",
+  category: "음식점",
   title: "장터국밥",
   "대표자": "장현숙",
   "시_도": "전북",
@@ -3303,7 +3303,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 221,
-  category: "한식",
+  category: "음식점",
   title: "토석정",
   "대표자": "서병국",
   "시_도": "전북",
@@ -3318,7 +3318,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 222,
-  category: "이미용업",
+  category: "이미용",
   title: "우정이발관",
   "대표자": "육영식",
   "시_도": "전북",
@@ -3333,7 +3333,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 223,
-  category: "이미용업",
+  category: "이미용",
   title: "벧엘미용실",
   "대표자": "하은숙",
   "시_도": "전북",
@@ -3348,7 +3348,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 224,
-  category: "한식",
+  category: "음식점",
   title: "모든이의하우스",
   "대표자": "이덕순",
   "시_도": "전북",
@@ -3363,7 +3363,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 225,
-  category: "한식",
+  category: "음식점",
   title: "호야네식당",
   "대표자": "홍성자",
   "시_도": "전북",
@@ -3378,7 +3378,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 226,
-  category: "한식",
+  category: "음식점",
   title: "왕조식당",
   "대표자": "송명선",
   "시_도": "전북",
@@ -3393,7 +3393,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 227,
-  category: "한식",
+  category: "음식점",
   title: "할매국수",
   "대표자": "최옥순",
   "시_도": "전북",
@@ -3408,7 +3408,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 228,
-  category: "한식",
+  category: "음식점",
   title: "수원곰탕 국수마을포차",
   "대표자": "권혁현",
   "시_도": "전북",
@@ -3423,7 +3423,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 229,
-  category: "한식",
+  category: "음식점",
   title: "주민자치식당",
   "대표자": "김순자",
   "시_도": "전북",
@@ -3438,7 +3438,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 230,
-  category: "한식",
+  category: "음식점",
   title: "반딧불한우촌",
   "대표자": "이미화",
   "시_도": "전북",
@@ -3453,7 +3453,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 231,
-  category: "한식",
+  category: "음식점",
   title: "금호축산식당",
   "대표자": "천옥자",
   "시_도": "전북",
@@ -3468,7 +3468,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 232,
-  category: "한식",
+  category: "음식점",
   title: "설천맛집",
   "대표자": "이명분",
   "시_도": "전북",
@@ -3483,7 +3483,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 233,
-  category: "한식",
+  category: "음식점",
   title: "장터회관",
   "대표자": "김순옥",
   "시_도": "전북",
@@ -3498,7 +3498,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 234,
-  category: "중식",
+  category: "음식점",
   title: "아리수",
   "대표자": "김기용",
   "시_도": "전북",
@@ -3513,7 +3513,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 235,
-  category: "한식",
+  category: "음식점",
   title: "소문난 시골순대",
   "대표자": "김문희",
   "시_도": "전북",
@@ -3528,7 +3528,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 236,
-  category: "한식",
+  category: "음식점",
   title: "한풍루마당",
   "대표자": "김영남",
   "시_도": "전북",
@@ -3543,7 +3543,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 237,
-  category: "한식",
+  category: "음식점",
   title: "거북식당",
   "대표자": "하임순",
   "시_도": "전북",
@@ -3558,7 +3558,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 238,
-  category: "한식",
+  category: "음식점",
   title: "매일왕순대",
   "대표자": "박용민",
   "시_도": "전북",
@@ -3573,7 +3573,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 239,
-  category: "한식",
+  category: "음식점",
   title: "반디어촌",
   "대표자": "박윤정",
   "시_도": "전북",
@@ -3588,7 +3588,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 240,
-  category: "경양식",
+  category: "음식점",
   title: "고솜(GY SYme)",
   "대표자": "이현경",
   "시_도": "전북",
@@ -3603,7 +3603,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 241,
-  category: "한식",
+  category: "음식점",
   title: "미가한식",
   "대표자": "김영은",
   "시_도": "전북",
@@ -3633,7 +3633,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 243,
-  category: "한식",
+  category: "음식점",
   title: "덕유산한우가",
   "대표자": "안금숙",
   "시_도": "전북",
@@ -3648,7 +3648,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 244,
-  category: "한식",
+  category: "음식점",
   title: "무주수련원",
   "대표자": "이장호",
   "시_도": "전북",
@@ -3663,7 +3663,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 245,
-  category: "한식",
+  category: "음식점",
   title: "송천가든",
   "대표자": "한준상",
   "시_도": "전북",
@@ -3678,7 +3678,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 246,
-  category: "한식",
+  category: "음식점",
   title: "벽송갈비",
   "대표자": "박영애",
   "시_도": "전북",
@@ -3693,7 +3693,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 247,
-  category: "한식",
+  category: "음식점",
   title: "청산",
   "대표자": "박경옥",
   "시_도": "전북",
@@ -3708,7 +3708,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 248,
-  category: "한식",
+  category: "음식점",
   title: "청기와집",
   "대표자": "한재순",
   "시_도": "전북",
@@ -3723,7 +3723,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 249,
-  category: "한식",
+  category: "음식점",
   title: "전원식당",
   "대표자": "김미현",
   "시_도": "전북",
@@ -3738,7 +3738,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 250,
-  category: "한식",
+  category: "음식점",
   title: "진풍장",
   "대표자": "임양자",
   "시_도": "전북",
@@ -3753,7 +3753,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 251,
-  category: "한식",
+  category: "음식점",
   title: "청포식당",
   "대표자": "허명숙",
   "시_도": "전북",
@@ -3768,7 +3768,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 252,
-  category: "한식",
+  category: "음식점",
   title: "전주식당",
   "대표자": "조순옥",
   "시_도": "전북",
@@ -3783,7 +3783,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 253,
-  category: "한식",
+  category: "음식점",
   title: "부자회관",
   "대표자": "임장미",
   "시_도": "전북",
@@ -3798,7 +3798,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 254,
-  category: "한식",
+  category: "음식점",
   title: "다미식당",
   "대표자": "김순자",
   "시_도": "전북",
@@ -3813,7 +3813,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 255,
-  category: "한식",
+  category: "음식점",
   title: "해송",
   "대표자": "이승연",
   "시_도": "전북",
@@ -3828,7 +3828,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 256,
-  category: "한식",
+  category: "음식점",
   title: "행복한농부",
   "대표자": "황호나",
   "시_도": "전북",
@@ -3843,7 +3843,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 257,
-  category: "한식",
+  category: "음식점",
   title: "백호",
   "대표자": "안선희",
   "시_도": "전북",
@@ -3888,7 +3888,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 260,
-  category: "미용업",
+  category: "이미용",
   title: "머리세상",
   "대표자": "서종부",
   "시_도": "전북",
@@ -3903,7 +3903,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 261,
-  category: "미용업",
+  category: "이미용",
   title: "수연미용실",
   "대표자": "이영자",
   "시_도": "전북",
@@ -3918,7 +3918,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 262,
-  category: "미용업",
+  category: "이미용",
   title: "나드리미용실",
   "대표자": "이진순",
   "시_도": "전북",
@@ -3948,7 +3948,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 264,
-  category: "일식",
+  category: "음식점",
   title: "덕순네돈까스",
   "대표자": "신덕순",
   "시_도": "전북",
@@ -3963,7 +3963,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 265,
-  category: "한식",
+  category: "음식점",
   title: "소풍",
   "대표자": "유복순",
   "시_도": "전북",
@@ -3978,7 +3978,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 266,
-  category: "한식",
+  category: "음식점",
   title: "대영회관",
   "대표자": "하점이",
   "시_도": "전북",
@@ -3993,7 +3993,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 267,
-  category: "한식",
+  category: "음식점",
   title: "길손식당",
   "대표자": "천경순",
   "시_도": "전북",
@@ -4008,7 +4008,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 268,
-  category: "한식",
+  category: "음식점",
   title: "전원식당",
   "대표자": "임종희",
   "시_도": "전북",
@@ -4023,7 +4023,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 269,
-  category: "한식",
+  category: "음식점",
   title: "행운집",
   "대표자": "천공예",
   "시_도": "전북",
@@ -4038,7 +4038,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 270,
-  category: "이미용업",
+  category: "이미용",
   title: "별이용원",
   "대표자": "이인우",
   "시_도": "전북",
@@ -4053,7 +4053,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 271,
-  category: "이미용업",
+  category: "이미용",
   title: "아랫이용원",
   "대표자": "손문국",
   "시_도": "전북",
@@ -4068,7 +4068,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 272,
-  category: "한식",
+  category: "음식점",
   title: "이웃사촌보리밥",
   "대표자": "김을자",
   "시_도": "전북",
@@ -4083,7 +4083,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 273,
-  category: "한식",
+  category: "음식점",
   title: "모녀팥죽",
   "대표자": "곽옥순",
   "시_도": "전북",
@@ -4098,7 +4098,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 274,
-  category: "중식",
+  category: "음식점",
   title: "황제반점",
   "대표자": "최환석",
   "시_도": "전북",
@@ -4113,7 +4113,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 275,
-  category: "한식",
+  category: "음식점",
   title: "나루터",
   "대표자": "임삼순",
   "시_도": "전북",
@@ -4128,7 +4128,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 276,
-  category: "한식",
+  category: "음식점",
   title: "전주식당",
   "대표자": "최현숙",
   "시_도": "전북",
@@ -4143,7 +4143,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 277,
-  category: "한식",
+  category: "음식점",
   title: "할매국수",
   "대표자": "김운암",
   "시_도": "전북",
@@ -4158,7 +4158,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 278,
-  category: "이미용업",
+  category: "이미용",
   title: "일신이용원",
   "대표자": "이재옥",
   "시_도": "전북",
@@ -4173,7 +4173,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 279,
-  category: "한식",
+  category: "음식점",
   title: "임실면옥",
   "대표자": "정명숙",
   "시_도": "전북",
@@ -4188,7 +4188,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 280,
-  category: "한식,양식",
+  category: "음식점",
   title: "치즈앤돈까스",
   "대표자": "서혜주",
   "시_도": "전북",
@@ -4203,7 +4203,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 281,
-  category: "한식",
+  category: "음식점",
   title: "막창 구이구이",
   "대표자": "조일경",
   "시_도": "전북",
@@ -4218,7 +4218,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 282,
-  category: "한식",
+  category: "음식점",
   title: "오늘의행복",
   "대표자": "최연삼",
   "시_도": "전북",
@@ -4233,7 +4233,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 283,
-  category: "한식(분식)",
+  category: "음식점",
   title: "정가네만두",
   "대표자": "양이순",
   "시_도": "전북",
@@ -4248,7 +4248,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 284,
-  category: "한식",
+  category: "음식점",
   title: "슬치백산휴게소",
   "대표자": "양택춘",
   "시_도": "전북",
@@ -4263,7 +4263,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 285,
-  category: "중식",
+  category: "음식점",
   title: "형제반점",
   "대표자": "조미경",
   "시_도": "전북",
@@ -4278,7 +4278,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 286,
-  category: "한식",
+  category: "음식점",
   title: "모아식당",
   "대표자": "이명순",
   "시_도": "전북",
@@ -4293,7 +4293,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 287,
-  category: "미용업",
+  category: "이미용",
   title: "미연미용실",
   "대표자": "이기순",
   "시_도": "전북",
@@ -4308,7 +4308,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 288,
-  category: "한식",
+  category: "음식점",
   title: "가마솥",
   "대표자": "전옥남",
   "시_도": "전북",
@@ -4323,7 +4323,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 289,
-  category: "한식",
+  category: "음식점",
   title: "본때감자탕",
   "대표자": "김성아",
   "시_도": "전북",
@@ -4338,7 +4338,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 290,
-  category: "한식",
+  category: "음식점",
   title: "텃밭",
   "대표자": "강명화",
   "시_도": "전북",
@@ -4353,7 +4353,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 291,
-  category: "이미용업",
+  category: "이미용",
   title: "최윤희머리방",
   "대표자": "최윤희",
   "시_도": "전북",
@@ -4368,7 +4368,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 292,
-  category: "이미용업",
+  category: "이미용",
   title: "머리마을미용실",
   "대표자": "조복희",
   "시_도": "전북",
@@ -4383,7 +4383,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 293,
-  category: "한식",
+  category: "음식점",
   title: "박가네한우사랑",
   "대표자": "백현숙",
   "시_도": "전북",
@@ -4398,7 +4398,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 294,
-  category: "한식",
+  category: "음식점",
   title: "정오식당",
   "대표자": "홍금옥",
   "시_도": "전북",
@@ -4413,7 +4413,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 295,
-  category: "한식",
+  category: "음식점",
   title: "제일식당",
   "대표자": "정경숙",
   "시_도": "전북",
@@ -4428,7 +4428,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 296,
-  category: "한식",
+  category: "음식점",
   title: "수정분식",
   "대표자": "양정자",
   "시_도": "전북",
@@ -4443,7 +4443,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 297,
-  category: "중식",
+  category: "음식점",
   title: "단골식당",
   "대표자": "유경숙",
   "시_도": "전북",
@@ -4458,7 +4458,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 298,
-  category: "이미용업",
+  category: "이미용",
   title: "미나라미용실",
   "대표자": "송연숙",
   "시_도": "전북",
@@ -4473,7 +4473,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 299,
-  category: "한식",
+  category: "음식점",
   title: "남원추어탕",
   "대표자": "전순복",
   "시_도": "전북",
@@ -4503,7 +4503,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 301,
-  category: "한식",
+  category: "음식점",
   title: "미향식당",
   "대표자": "이선덕",
   "시_도": "전북",
@@ -4518,7 +4518,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 302,
-  category: "한식",
+  category: "음식점",
   title: "전주식토속콩나물해장국",
   "대표자": "임형례",
   "시_도": "전북",
@@ -4533,7 +4533,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 303,
-  category: "이미용업",
+  category: "이미용",
   title: "스타미용실",
   "대표자": "송막례",
   "시_도": "전북",
@@ -4548,7 +4548,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 304,
-  category: "한식",
+  category: "음식점",
   title: "두레반",
   "대표자": "김희자",
   "시_도": "전북",
@@ -4563,7 +4563,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 305,
-  category: "한식",
+  category: "음식점",
   title: "토속집",
   "대표자": "유정아",
   "시_도": "전북",
@@ -4578,7 +4578,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 306,
-  category: "한식",
+  category: "음식점",
   title: "터식육점",
   "대표자": "전영순",
   "시_도": "전북",
@@ -4593,7 +4593,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 307,
-  category: "한식",
+  category: "음식점",
   title: "무장회관",
   "대표자": "이충례",
   "시_도": "전북",
@@ -4608,7 +4608,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 308,
-  category: "이미용업",
+  category: "이미용",
   title: "쉼터미용실",
   "대표자": "김인옥",
   "시_도": "전북",
@@ -4623,7 +4623,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 309,
-  category: "이미용업",
+  category: "이미용",
   title: "금란미용실",
   "대표자": "이막례",
   "시_도": "전북",
@@ -4638,7 +4638,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 310,
-  category: "한식",
+  category: "음식점",
   title: "창평명가",
   "대표자": "김회진",
   "시_도": "전북",
@@ -4653,7 +4653,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 311,
-  category: "한식",
+  category: "음식점",
   title: "신토불이",
   "대표자": "김분녀",
   "시_도": "전북",
@@ -4668,7 +4668,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 312,
-  category: "한식",
+  category: "음식점",
   title: "선운산숯불갈비",
   "대표자": "정다울",
   "시_도": "전북",
@@ -4683,7 +4683,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 313,
-  category: "한식",
+  category: "음식점",
   title: "옥돌식당",
   "대표자": "김성희",
   "시_도": "전북",
@@ -4698,7 +4698,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 314,
-  category: "한식",
+  category: "음식점",
   title: "대산식당",
   "대표자": "정숙경",
   "시_도": "전북",
@@ -4713,7 +4713,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 315,
-  category: "숙박",
+  category: "숙박업",
   title: "넥스텔 모텔",
   "대표자": "이주영",
   "시_도": "전북",
@@ -4728,7 +4728,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 316,
-  category: "중식",
+  category: "음식점",
   title: "천안문",
   "대표자": "이정옥",
   "시_도": "전북",
@@ -4743,7 +4743,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 317,
-  category: "한식",
+  category: "음식점",
   title: "명성회관",
   "대표자": "김양례",
   "시_도": "전북",
@@ -4758,7 +4758,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 318,
-  category: "한식",
+  category: "음식점",
   title: "덕장진땡이",
   "대표자": "기홍석",
   "시_도": "전북",
@@ -4773,7 +4773,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 319,
-  category: "이미용업",
+  category: "이미용",
   title: "까꼬뽀꼬 미용실",
   "대표자": "임희빈",
   "시_도": "전북",
@@ -4788,7 +4788,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 320,
-  category: "한식",
+  category: "음식점",
   title: "유정낙지마을",
   "대표자": "이정미",
   "시_도": "전북",
@@ -4803,7 +4803,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 321,
-  category: "이미용업",
+  category: "이미용",
   title: "쎄리아미용실",
   "대표자": "이안순",
   "시_도": "전북",
@@ -4818,7 +4818,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 322,
-  category: "이미용업",
+  category: "이미용",
   title: "머리마실 가는 날",
   "대표자": "김공주",
   "시_도": "전북",
@@ -4833,7 +4833,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 323,
-  category: "한식",
+  category: "음식점",
   title: "군산식당",
   "대표자": "구향자",
   "시_도": "전북",
@@ -4848,7 +4848,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 324,
-  category: "한식",
+  category: "음식점",
   title: "아리울한우명품관",
   "대표자": "조기준",
   "시_도": "전북",
@@ -4863,7 +4863,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 325,
-  category: "한식",
+  category: "음식점",
   title: "골목식당",
   "대표자": "김영애",
   "시_도": "전북",
@@ -4878,7 +4878,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 326,
-  category: "한식",
+  category: "음식점",
   title: "오뚜기회관",
   "대표자": "이미자",
   "시_도": "전북",
@@ -4893,7 +4893,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 327,
-  category: "한식",
+  category: "음식점",
   title: "부안기사님식당",
   "대표자": "이상철",
   "시_도": "전북",
@@ -4908,7 +4908,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 328,
-  category: "이미용업",
+  category: "이미용",
   title: "로타리이용원",
   "대표자": "강성원",
   "시_도": "전북",
@@ -4923,7 +4923,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 329,
-  category: "이미용업",
+  category: "이미용",
   title: "송이미용실",
   "대표자": "유은자",
   "시_도": "전북",
@@ -4938,7 +4938,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 330,
-  category: "일식",
+  category: "음식점",
   title: "다미락",
   "대표자": "허영희",
   "시_도": "전북",
@@ -4953,7 +4953,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 331,
-  category: "한식",
+  category: "음식점",
   title: "장터구이",
   "대표자": "김성수",
   "시_도": "전북",
@@ -4968,7 +4968,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 332,
-  category: "한식",
+  category: "음식점",
   title: "소문난 해장국",
   "대표자": "임희용",
   "시_도": "전북",
@@ -4998,7 +4998,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 334,
-  category: "이미용업",
+  category: "이미용",
   title: "성심이용원",
   "대표자": "김금철",
   "시_도": "전북",
@@ -5013,7 +5013,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 335,
-  category: "한식",
+  category: "음식점",
   title: "이백가든",
   "대표자": "백재진",
   "시_도": "전북",
@@ -5028,7 +5028,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 336,
-  category: "중식",
+  category: "음식점",
   title: "동원반점",
   "대표자": "유옥분",
   "시_도": "전북",
@@ -5043,7 +5043,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 337,
-  category: "일식",
+  category: "음식점",
   title: "부안초밥",
   "대표자": "최상진",
   "시_도": "전북",
@@ -5058,7 +5058,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 338,
-  category: "한식",
+  category: "음식점",
   title: "땅제가든",
   "대표자": "김옥순",
   "시_도": "전북",
@@ -5073,7 +5073,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 339,
-  category: "한식",
+  category: "음식점",
   title: "동그라미 가든",
   "대표자": "안귀순",
   "시_도": "전북",
@@ -5088,7 +5088,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 340,
-  category: "한식",
+  category: "음식점",
   title: "삼한지",
   "대표자": "정동희",
   "시_도": "전북",
@@ -5103,7 +5103,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 341,
-  category: "한식",
+  category: "음식점",
   title: "그곳에 가면",
   "대표자": "신  명",
   "시_도": "전북",
@@ -5118,7 +5118,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 342,
-  category: "경양식",
+  category: "음식점",
   title: "테라스",
   "대표자": "홍순화",
   "시_도": "전북",
@@ -5133,7 +5133,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 343,
-  category: "한식",
+  category: "음식점",
   title: "광수한우정육식당",
   "대표자": "고춘임",
   "시_도": "전북",
@@ -5148,7 +5148,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 344,
-  category: "한식",
+  category: "음식점",
   title: "이모네",
   "대표자": "전점순",
   "시_도": "전북",
@@ -5163,7 +5163,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 345,
-  category: "한식",
+  category: "음식점",
   title: "황제갈비",
   "대표자": "정광엽",
   "시_도": "전북",
@@ -5178,7 +5178,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 346,
-  category: "한식",
+  category: "음식점",
   title: "고향식당",
   "대표자": "안순자",
   "시_도": "전북",
@@ -5193,7 +5193,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 347,
-  category: "미용업",
+  category: "이미용",
   title: "정진미용실",
   "대표자": "정진숙",
   "시_도": "전북",
@@ -5208,7 +5208,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 348,
-  category: "한식",
+  category: "음식점",
   title: "보람이네",
   "대표자": "조성녀",
   "시_도": "전북",
@@ -5223,7 +5223,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 349,
-  category: "한식",
+  category: "음식점",
   title: "아줌마 국수 돈까스",
   "대표자": "김규열",
   "시_도": "전북",
@@ -5238,7 +5238,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 350,
-  category: "한식",
+  category: "음식점",
   title: "계화도 바지락죽",
   "대표자": "이재연",
   "시_도": "전북",
@@ -5253,7 +5253,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 351,
-  category: "한식",
+  category: "음식점",
   title: "곰소꽃게장",
   "대표자": "김순단",
   "시_도": "전북",
@@ -5268,7 +5268,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 352,
-  category: "숙박",
+  category: "숙박업",
   title: "엠모텔",
   "대표자": "최은희",
   "시_도": "전북",
@@ -5283,7 +5283,7 @@ const jeonbukContetns = [
  },
  {
   "순번": 353,
-  category: "숙박",
+  category: "숙박업",
   title: "나이스모텔",
   "대표자": "김미경",
   "시_도": "전북",

@@ -4,7 +4,7 @@ const gwangjuContents = [
  {
   "연번": 1,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "수라상",
   phone : "062-234-2002",
   address : "광주광역시 동구 제봉로82번길13-9(서석동)",
@@ -19,7 +19,7 @@ const gwangjuContents = [
  {
   "연번": 2,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "화롯불",
   phone : "062-224-6519",
   address : "광주광역시 동구 백서로168(서석동)",
@@ -34,7 +34,7 @@ const gwangjuContents = [
  {
   "연번": 3,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "보성웰빙식당",
   phone : "062-228-5530",
   address : "광주광역시 동구 학소로106번길19(소태동)",
@@ -49,7 +49,7 @@ const gwangjuContents = [
  {
   "연번": 4,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "태능회관",
   phone : "062-234-2884",
   address : "광주광역시 동구 천변좌로722(용산동)",
@@ -64,7 +64,7 @@ const gwangjuContents = [
  {
   "연번": 5,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "담양참숯돼지갈비",
   phone : "062-676-6077",
   address : "광주광역시 동구 천변좌로614-12(소태동)",
@@ -79,7 +79,7 @@ const gwangjuContents = [
  {
   "연번": 6,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "소태회관",
   phone : "062-236-2465",
   address : "광주광역시 동구 학소로63(소태동)",
@@ -94,7 +94,7 @@ const gwangjuContents = [
  {
   "연번": 7,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "원지식당",
   phone : "062-227-9934",
   address : "광주광역시 동구 학소로96(소태동)",
@@ -109,7 +109,7 @@ const gwangjuContents = [
  {
   "연번": 8,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "해뜨는식당",
   phone : null,
   address : "광주광역시 동구 제봉로190번길7-2",
@@ -124,7 +124,7 @@ const gwangjuContents = [
  {
   "연번": 9,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "반디식당",
   phone : "062-222-0809",
   address : "광주광역시 동구 구성로258(계림동)",
@@ -139,7 +139,7 @@ const gwangjuContents = [
  {
   "연번": 10,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "우리뷔페",
   phone : null,
   address : "광주광역시 동구 금남로181(금남로5가, 1층)",
@@ -154,7 +154,7 @@ const gwangjuContents = [
  {
   "연번": 11,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "마쏘라까망베르",
   phone : "062-224-5004",
   address : "광주광역시 동구 필문대로205번길19(지산동)",
@@ -169,7 +169,7 @@ const gwangjuContents = [
  {
   "연번": 12,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "밥's",
   phone : "062-222-2838",
   address : "광주광역시 동구 지산로21, 102호(지산동)",
@@ -184,7 +184,7 @@ const gwangjuContents = [
  {
   "연번": 13,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "돈까스틱",
   phone : "062-376-2278",
   address : "광주광역시 동구 지산로7, 2층(지산동)",
@@ -199,7 +199,7 @@ const gwangjuContents = [
  {
   "연번": 14,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "짜앤짬탕수육",
   phone : "062-234-0052",
   address : "광주광역시 동구 제봉로212번길2-8(대인동)",
@@ -214,7 +214,7 @@ const gwangjuContents = [
  {
   "연번": 15,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "황후",
   phone : "062-223-1994",
   address : "광주광역시 동구 학소로91(소태동)",
@@ -229,7 +229,7 @@ const gwangjuContents = [
  {
   "연번": 16,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "학동김밥",
   phone : "062-225-3248",
   address : "광주광역시 동구 남문로683(학동)",
@@ -244,7 +244,7 @@ const gwangjuContents = [
  {
   "연번": 17,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "대왕김밥",
   phone : "062-529-3363",
   address : "광주광역시 동구 구성로204번길15-6(대인동)",
@@ -259,7 +259,7 @@ const gwangjuContents = [
  {
   "연번": 18,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "죽사랑김밥사랑",
   phone : "062-227-0988",
   address : "광주광역시 동구 필문대로287번길23-1(지산동)",
@@ -304,7 +304,7 @@ const gwangjuContents = [
  {
   "연번": 21,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "간42",
   phone : "062-234-8242",
   address : "광주광역시 동구 필문대로287번길19-6, 1층(지산동)",
@@ -319,7 +319,7 @@ const gwangjuContents = [
  {
   "연번": 22,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "한우물",
   phone : "062-675-9944",
   address : "광주광역시 동구 필문대로191번길15-2(산수동)",
@@ -334,7 +334,7 @@ const gwangjuContents = [
  {
   "연번": 23,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "진숯불갈비",
   phone : "062-266-1766",
   address : "광주광역시 동구 무등로 529(산수동)",
@@ -349,7 +349,7 @@ const gwangjuContents = [
  {
   "연번": 24,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "미미상회",
   phone : "062-236-2879",
   address : "광주광역시 동구 백서로 182(서석동)",
@@ -364,7 +364,7 @@ const gwangjuContents = [
  {
   "연번": 25,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "인촌",
   phone : "062-234-3389",
   address : "광주광역시 동구 구성로 194번길 20-1(금남로4가)",
@@ -379,7 +379,7 @@ const gwangjuContents = [
  {
   "연번": 26,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "박순자녹두집",
   phone : "062-223-8694",
   address : "광주광역시 동구 구성로204번길 26(대인동)",
@@ -394,7 +394,7 @@ const gwangjuContents = [
  {
   "연번": 27,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "대왕김밥",
   phone : "062-223-0868",
   address : "광주광역시 동구 남문로671(학동)",
@@ -409,7 +409,7 @@ const gwangjuContents = [
  {
   "연번": 28,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "전북식당",
   phone : "062-227-1449",
   address : "광주광역시 동구 증심사길28-16(운림동)",
@@ -424,7 +424,7 @@ const gwangjuContents = [
  {
   "연번": 29,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "장독대",
   phone : "062-223-5630",
   address : "광주광역시 동구 문화전당로43, 3층(남동)",
@@ -439,7 +439,7 @@ const gwangjuContents = [
  {
   "연번": 30,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "산수골",
   phone : "062-233-3318",
   address : "광주광역시 동구 경양로340(산수동)",
@@ -454,7 +454,7 @@ const gwangjuContents = [
  {
   "연번": 31,
   "시군구": "동구",
-  category : "외식업",
+  category: "음식점",
   title : "명지원",
   phone : "062-227-3565",
   address : "광주광역시 동구 구성로252(계림동)",
@@ -499,7 +499,7 @@ const gwangjuContents = [
  {
   "연번": 34,
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title : "주주헤어클럽",
   phone : "062-365-0901",
   address : "광주광역시 서구 화정로 249(화정동)",
@@ -544,7 +544,7 @@ const gwangjuContents = [
  {
   "연번": 37,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "동해회바다",
   phone : "062-366-1619",
   address : "광주광역시 서구 경열로 26번길3(농성동)",
@@ -559,7 +559,7 @@ const gwangjuContents = [
  {
   "연번": 38,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "전원일기",
   phone : "062-362-3956",
   address : "광주광역시 서구 화정로 309번길23-2(농성동)",
@@ -574,7 +574,7 @@ const gwangjuContents = [
  {
   "연번": 39,
   "시군구": "서구",
-  category : "기타(숙박업)",
+  category: "숙박업",
   title : "순천장",
   phone : "062-366-9901",
   address : "광주광역시 서구 경열로 12(농성동)",
@@ -589,7 +589,7 @@ const gwangjuContents = [
  {
   "연번": 40,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "수목원",
   phone : "062-382-8800",
   address : "광주광역시 서구 내방로 157번길4(쌍촌동)",
@@ -604,7 +604,7 @@ const gwangjuContents = [
  {
   "연번": 41,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "청송회관",
   phone : "062-364-6182",
   address : "광주광역시 서구 광천1길 6-13(광천동)",
@@ -619,7 +619,7 @@ const gwangjuContents = [
  {
   "연번": 42,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "무등회관",
   phone : "062-364-2746",
   address : "광주광역시 서구 죽봉대로 111번길12(광천동)",
@@ -634,7 +634,7 @@ const gwangjuContents = [
  {
   "연번": 43,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "상해회관",
   phone : "062-352-8255",
   address : "광주광역시 서구 경열로 151-1(양동)",
@@ -664,7 +664,7 @@ const gwangjuContents = [
  {
   "연번": 45,
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title : "뉴욕진헤어",
   phone : "062-366-3436",
   address : "광주광역시 서구 경열로 71(농성동)",
@@ -679,7 +679,7 @@ const gwangjuContents = [
  {
   "연번": 46,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "예향한우촌",
   phone : "062-651-8292",
   address : "광주광역시 서구 풍금로 4번길5(풍암동)",
@@ -709,7 +709,7 @@ const gwangjuContents = [
  {
   "연번": 48,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "진성회관",
   phone : "062-362-6688",
   address : "광주광역시 서구 금화로 481번길6-16(농성동)",
@@ -739,7 +739,7 @@ const gwangjuContents = [
  {
   "연번": 50,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "이가옹구삼겹살",
   phone : "062-371-8388",
   address : "광주광역시 서구 시청서편로 2(치평동)",
@@ -754,7 +754,7 @@ const gwangjuContents = [
  {
   "연번": 51,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "장흥한우",
   phone : "062-373-6611",
   address : "광주광역시 서구 상무연하로 15(치평동)",
@@ -769,7 +769,7 @@ const gwangjuContents = [
  {
   "연번": 52,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "진미가람",
   phone : "062-374-1022",
   address : "광주광역시 서구 상무중앙로 28번길18(치평동)",
@@ -784,7 +784,7 @@ const gwangjuContents = [
  {
   "연번": 53,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "금강식당",
   phone : "062-514-9111",
   address : "광주광역시 서구 천변우하로 373(동천동)",
@@ -799,7 +799,7 @@ const gwangjuContents = [
  {
   "연번": 54,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "삼겹살파티",
   phone : "062-381-5565",
   address : "광주광역시 서구 상무시민로 99(치평동)",
@@ -814,7 +814,7 @@ const gwangjuContents = [
  {
   "연번": 55,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "수미식당",
   phone : "062-364-0110",
   address : "광주광역시 서구 월산로 165번길9(농성동)",
@@ -829,7 +829,7 @@ const gwangjuContents = [
  {
   "연번": 56,
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title : "벨라샵",
   phone : "062-383-5091",
   address : "광주광역시 서구 염화로57번길 20, 112호(화정동)",
@@ -844,7 +844,7 @@ const gwangjuContents = [
  {
   "연번": 57,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "김강심칼국수",
   phone : "062-682-0801",
   address : "광주광역시 서구 회재로 841(매월동)",
@@ -859,7 +859,7 @@ const gwangjuContents = [
  {
   "연번": 58,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "사랑방농성점",
   phone : "062-361-3822",
   address : "광주광역시 서구 내방로 394(농성동)",
@@ -874,7 +874,7 @@ const gwangjuContents = [
  {
   "연번": 59,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "대정회관",
   phone : "062-364-7999",
   address : "광주광역시 서구 대남대로 462번길3(농성동)",
@@ -889,7 +889,7 @@ const gwangjuContents = [
  {
   "연번": 60,
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title : "첫눈에 반해",
   phone : "062-431-7114",
   address : "광주광역시 서구 발산로 46(양동)",
@@ -904,7 +904,7 @@ const gwangjuContents = [
  {
   "연번": 61,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "위가네",
   phone : "062-381-8883",
   address : "광주광역시 서구 상무화원로32번길 25-10 (치평동)",
@@ -919,7 +919,7 @@ const gwangjuContents = [
  {
   "연번": 62,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "시골농장",
   phone : "062-364-3226",
   address : "광주광역시 서구 경열로54번길 3-1(농성동)",
@@ -934,7 +934,7 @@ const gwangjuContents = [
  {
   "연번": 63,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "명가홍한우",
   phone : "062-365-3388",
   address : "광주광역시 서구 경열로14번길 3(농성동)",
@@ -949,7 +949,7 @@ const gwangjuContents = [
  {
   "연번": 64,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "모리화",
   phone : "062-652-8552",
   address : "광주광역시 서구 풍금로 31-1 (풍암동)",
@@ -964,7 +964,7 @@ const gwangjuContents = [
  {
   "연번": 65,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "치킨튀기는오빠",
   phone : "062-655-5878",
   address : "광주광역시 서구 풍암순환로 82 (풍암동)",
@@ -979,7 +979,7 @@ const gwangjuContents = [
  {
   "연번": 66,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "신토불이",
   phone : "062-371-7175",
   address : "광주광역시 서구 화운로303번길 3 (광천동)",
@@ -994,7 +994,7 @@ const gwangjuContents = [
  {
   "연번": 67,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "좋은포크",
   phone : "062-385-0203",
   address : "광주광역시 서구 상일로 54번길 7(쌍촌동)",
@@ -1009,7 +1009,7 @@ const gwangjuContents = [
  {
   "연번": 68,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "맛있는집",
   phone : "062-385-8533",
   address : "광주광역시 서구 화운로175번길10(화정동)",
@@ -1024,7 +1024,7 @@ const gwangjuContents = [
  {
   "연번": 69,
   "시군구": "서구",
-  category : "외식업",
+  category: "음식점",
   title : "일품향",
   phone : "062-384-0722",
   address : "광주광역시 서구 화정로179번길 29-3(화정동)",
@@ -1039,7 +1039,7 @@ const gwangjuContents = [
  {
   "연번": 70,
   "시군구": "서구",
-  category : "이미용업",
+  category: "이미용",
   title : "수스토리",
   phone : "062-401-7556",
   address : "광주광역시 서구 월산로 178-1(농성동)",
@@ -1054,7 +1054,7 @@ const gwangjuContents = [
  {
   "연번": 71,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "장가계",
   phone : "062-653-1233",
   address : "광주광역시 남구 백서로 67",
@@ -1069,7 +1069,7 @@ const gwangjuContents = [
  {
   "연번": 72,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "행복한양림밥상",
   phone : "062-673-7222",
   address : "광주광역시 남구 양림로 42",
@@ -1084,7 +1084,7 @@ const gwangjuContents = [
  {
   "연번": 73,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "윤호식당",
   phone : "062-652-8182",
   address : "광주광역시 남구 제중로 30",
@@ -1099,7 +1099,7 @@ const gwangjuContents = [
  {
   "연번": 74,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "뚱스넥",
   phone : "062-675-7724",
   address : "광주광역시 남구 제중로 39",
@@ -1114,7 +1114,7 @@ const gwangjuContents = [
  {
   "연번": 75,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "하늘이네",
   phone : "062-671-4194",
   address : "광주광역시 남구 제중로 41",
@@ -1144,7 +1144,7 @@ const gwangjuContents = [
  {
   "연번": 77,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "그린분식",
   phone : "062-672-2797",
   address : "광주광역시 남구 봉선중앙로134번길 5",
@@ -1159,7 +1159,7 @@ const gwangjuContents = [
  {
   "연번": 78,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "두리미용실",
   phone : "062-651-4151",
   address : "광주광역시 남구 천변좌로552번길 21-1",
@@ -1204,7 +1204,7 @@ const gwangjuContents = [
  {
   "연번": 81,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "서대마을",
   phone : "062-352-1114",
   address : "광주광역시 남구 대남대로181번길 36-1",
@@ -1219,7 +1219,7 @@ const gwangjuContents = [
  {
   "연번": 82,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "카페아짐",
   phone : "062-513-6125",
   address : "광주광역시 남구 대남대로181번길 35-1",
@@ -1234,7 +1234,7 @@ const gwangjuContents = [
  {
   "연번": 83,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "실로암미용실",
   phone : null,
   address : "광주광역시 남구 대남대로181번길 35-1",
@@ -1249,7 +1249,7 @@ const gwangjuContents = [
  {
   "연번": 84,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "이다우미용실",
   phone : "062-672-5961",
   address : "광주광역시 남구 서동로 2-1",
@@ -1264,7 +1264,7 @@ const gwangjuContents = [
  {
   "연번": 85,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "원두상사",
   phone : "062-225-4292",
   address : "광주광역시 남구 중앙로 106",
@@ -1279,7 +1279,7 @@ const gwangjuContents = [
  {
   "연번": 86,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "대흥갈비",
   phone : "062-364-1515",
   address : "광주광역시 남구 덕림남길 49",
@@ -1309,7 +1309,7 @@ const gwangjuContents = [
  {
   "연번": 88,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "뽀글뽀글",
   phone : "062-363-3779",
   address : "광주광역시 남구 대남대로390번길 4",
@@ -1324,7 +1324,7 @@ const gwangjuContents = [
  {
   "연번": 89,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "평화루",
   phone : "062-361-3313",
   address : "광주광역시 남구 군분로 77번길 6-1",
@@ -1339,7 +1339,7 @@ const gwangjuContents = [
  {
   "연번": 90,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "60년대국밥",
   phone : "062-361-0566",
   address : "광주광역시 남구 군분로76",
@@ -1354,7 +1354,7 @@ const gwangjuContents = [
  {
   "연번": 91,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "벽옥",
   phone : "062-367-3392",
   address : "광주광역시 남구 군분로73",
@@ -1369,7 +1369,7 @@ const gwangjuContents = [
  {
   "연번": 92,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "옛고을",
   phone : "062-352-7505",
   address : "광주광역시 남구 군분로58-2",
@@ -1384,7 +1384,7 @@ const gwangjuContents = [
  {
   "연번": 93,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "우미숯불갈비",
   phone : "062-652-5612",
   address : "광주광역시 남구 백운로36",
@@ -1399,7 +1399,7 @@ const gwangjuContents = [
  {
   "연번": 94,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "고향갈비",
   phone : "062-681-9292",
   address : "광주광역시 남구 백운로 46",
@@ -1414,7 +1414,7 @@ const gwangjuContents = [
  {
   "연번": 95,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "흥진식육식당",
   phone : "062-675-1190",
   address : "광주광역시 남구 백양로7번길 9-1",
@@ -1429,7 +1429,7 @@ const gwangjuContents = [
  {
   "연번": 96,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "좋은날헤어",
   phone : "062-676-0056",
   address : "광주광역시 남구 독립로10번길 3",
@@ -1444,7 +1444,7 @@ const gwangjuContents = [
  {
   "연번": 97,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "글로벌헤어샵",
   phone : "062-444-1385",
   address : "광주광역시 남구 독립로10번길 25",
@@ -1459,7 +1459,7 @@ const gwangjuContents = [
  {
   "연번": 98,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "공주들미용실",
   phone : "062-681-7719",
   address : "광주광역시 남구 독립로 20",
@@ -1474,7 +1474,7 @@ const gwangjuContents = [
  {
   "연번": 99,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "보훈이발관",
   phone : "062-673-7817",
   address : "광주광역시 남구 서문대로795번길 5",
@@ -1489,7 +1489,7 @@ const gwangjuContents = [
  {
   "연번": 100,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "소망분식",
   phone : "062-676-9797",
   address : "광주광역시 남구 회서로22번길 4",
@@ -1504,7 +1504,7 @@ const gwangjuContents = [
  {
   "연번": 101,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "리샾헤어",
   phone : "062-672-5204",
   address : "광주광역시 남구 회서로21번길 1",
@@ -1519,7 +1519,7 @@ const gwangjuContents = [
  {
   "연번": 102,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "지수헤어아트",
   phone : "062-676-7612",
   address : "광주광역시 남구 회서로 19(1층)",
@@ -1534,7 +1534,7 @@ const gwangjuContents = [
  {
   "연번": 103,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "엄마솜씨",
   phone : "062-672-5110",
   address : "광주광역시 남구 회서로11번길 8-1",
@@ -1549,7 +1549,7 @@ const gwangjuContents = [
  {
   "연번": 104,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "살맛나는세상",
   phone : "062-676-8592",
   address : "광주광역시 남구 광복마을길 71",
@@ -1564,7 +1564,7 @@ const gwangjuContents = [
  {
   "연번": 105,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "행복한밥상",
   phone : "062-672-0810",
   address : "광주광역시 남구 입하1길 2",
@@ -1579,7 +1579,7 @@ const gwangjuContents = [
  {
   "연번": 106,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "초이미용실",
   phone : "062-373-5854",
   address : "광주광역시 남구 효천중앙로 52",
@@ -1594,7 +1594,7 @@ const gwangjuContents = [
  {
   "연번": 107,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "밥제작소",
   phone : "070-7543-7121",
   address : "광주광역시 남구 양림동 72-4",
@@ -1609,7 +1609,7 @@ const gwangjuContents = [
  {
   "연번": 108,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "박세정헤어",
   phone : "062-232-7003",
   address : "광주광역시 남구 용대로 193",
@@ -1624,7 +1624,7 @@ const gwangjuContents = [
  {
   "연번": 109,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "삼형제갈비",
   phone : "062-675-3659",
   address : "광주광역시 남구 대남대로223번길 40",
@@ -1639,7 +1639,7 @@ const gwangjuContents = [
  {
   "연번": 110,
   "시군구": "남구",
-  category : "이미용업",
+  category: "이미용",
   title : "뽀글이와 빡빡이 헤어샵",
   phone : null,
   address : "광주광역시 남구 대남대로159번길 10",
@@ -1654,7 +1654,7 @@ const gwangjuContents = [
  {
   "연번": 111,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "덕보네밥상",
   phone : "062-652-2229",
   address : "광주광역시 남구 독립로 31",
@@ -1669,7 +1669,7 @@ const gwangjuContents = [
  {
   "연번": 112,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "삼천포순대국밥",
   phone : "062-671-2225",
   address : "광주광역시 남구 독립로 9-7",
@@ -1684,7 +1684,7 @@ const gwangjuContents = [
  {
   "연번": 113,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "대왕뼈해장국",
   phone : "062-363-8119",
   address : "광주광역시 남구 군분로 59",
@@ -1699,7 +1699,7 @@ const gwangjuContents = [
  {
   "연번": 114,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "더큰커피",
   phone : null,
   address : "광주광역시 남구 군분로 67-1",
@@ -1714,7 +1714,7 @@ const gwangjuContents = [
  {
   "연번": 115,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "엄마딸분식",
   phone : "671-8245",
   address : "광주광역시 남구 대남대로 65-1, 1층",
@@ -1729,7 +1729,7 @@ const gwangjuContents = [
  {
   "연번": 116,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "방림촌식육식당",
   phone : "672-5294",
   address : "광주광역시 남구 천변좌로552번길 17",
@@ -1744,7 +1744,7 @@ const gwangjuContents = [
  {
   "연번": 117,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "베아티투도 행복카페",
   phone : "651-3259",
   address : "광주광역시 남구 천변좌로536번길 17",
@@ -1759,7 +1759,7 @@ const gwangjuContents = [
  {
   "연번": 118,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "명동헤어센스",
   phone : "-",
   address : "광주광역시 남구 봉선로19번길 21",
@@ -1774,7 +1774,7 @@ const gwangjuContents = [
  {
   "연번": 119,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "은하",
   phone : "676-7492",
   address : "광주광역시 남구 봉선로51번길 34, 1층",
@@ -1789,7 +1789,7 @@ const gwangjuContents = [
  {
   "연번": 120,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "혼BOOK",
   phone : "0507-1337-4154",
   address : "광주광역시 남구 서오층석탑1길 2, 1층",
@@ -1804,7 +1804,7 @@ const gwangjuContents = [
  {
   "연번": 121,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "헤어유",
   phone : "676-9928",
   address : "광주광역시 남구 구성로 116",
@@ -1819,7 +1819,7 @@ const gwangjuContents = [
  {
   "연번": 122,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "윤가숯불갈비",
   phone : "364-3318",
   address : "광주광역시 남구 군분로 165-1",
@@ -1834,7 +1834,7 @@ const gwangjuContents = [
  {
   "연번": 123,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "뽀빠이 임실치즈피자",
   phone : "366-3002",
   address : "광주광역시 남구 대남대로372번길 14, 1층",
@@ -1849,7 +1849,7 @@ const gwangjuContents = [
  {
   "연번": 124,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "면사무소",
   phone : "652-0990",
   address : "광주광역시 남구 진다리로40번길 2",
@@ -1864,7 +1864,7 @@ const gwangjuContents = [
  {
   "연번": 125,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "미경헤어샵",
   phone : "673-9928",
   address : "광주광역시 남구 독립로 29-1",
@@ -1879,7 +1879,7 @@ const gwangjuContents = [
  {
   "연번": 126,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "비원고기나라",
   phone : "366-7090",
   address : "광주광역시 남구 군분로33번길 7, 1층",
@@ -1894,7 +1894,7 @@ const gwangjuContents = [
  {
   "연번": 127,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "소소히",
   phone : "652-2725",
   address : "광주광역시 남구 회재로1249번길 22, 1층",
@@ -1909,7 +1909,7 @@ const gwangjuContents = [
  {
   "연번": 128,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "남도식객",
   phone : "674-5524",
   address : "광주광역시 남구 송암로 72",
@@ -1924,7 +1924,7 @@ const gwangjuContents = [
  {
   "연번": 129,
   "시군구": "남구",
-  category : "외식업",
+  category: "음식점",
   title : "카페지니(지니소프트)",
   phone : "-",
   address : "광주광역시 남구 송암로 60, CGI센터 지하1층",
@@ -1939,7 +1939,7 @@ const gwangjuContents = [
  {
   "연번": 130,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "가마솥나주곰탕",
   phone : "062-525-9696",
   address : "광주광역시 북구 서방로 82(우산동)",
@@ -1954,7 +1954,7 @@ const gwangjuContents = [
  {
   "연번": 131,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "가위소리",
   phone : "062-521-1892",
   address : "광주광역시 북구 서림로 32(임동)",
@@ -1969,7 +1969,7 @@ const gwangjuContents = [
  {
   "연번": 132,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "간42(운암점)",
   phone : null,
   address : "광주광역시 북구 대자실로14(운암동)",
@@ -1984,7 +1984,7 @@ const gwangjuContents = [
  {
   "연번": 133,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "고기마트식육식당",
   phone : "062-264-8043",
   address : "광주광역시 북구 참판로 235-1(각화동)",
@@ -1999,7 +1999,7 @@ const gwangjuContents = [
  {
   "연번": 134,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "골목대장",
   phone : "062-563-3434",
   address : "광주광역시 북구 호동로  9-10(용봉동)",
@@ -2014,7 +2014,7 @@ const gwangjuContents = [
  {
   "연번": 135,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "깨순이김밥",
   phone : "062-251-1193",
   address : "광주광역시 북구 문산로 43-59(문흥동)",
@@ -2029,7 +2029,7 @@ const gwangjuContents = [
  {
   "연번": 136,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "꽃님이미용실",
   phone : "062-261-5532",
   address : "광주광역시 북구 두리봉길 21(두암동)",
@@ -2059,7 +2059,7 @@ const gwangjuContents = [
  {
   "연번": 138,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "넝쿨채",
   phone : "062-268-7900",
   address : "광주광역시 북구 매곡로32-7(매곡동)",
@@ -2089,7 +2089,7 @@ const gwangjuContents = [
  {
   "연번": 140,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "담양숯불갈비",
   phone : "062-266-1799",
   address : "광주광역시 북구 호동로10(중흥동)",
@@ -2104,7 +2104,7 @@ const gwangjuContents = [
  {
   "연번": 141,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "대바람",
   phone : "062-523-5392",
   address : "광주광역시 북구 서방로 78(우산동)",
@@ -2119,7 +2119,7 @@ const gwangjuContents = [
  {
   "연번": 142,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "덤앤덤돼지촌",
   phone : "062-266-0890",
   address : "광주광역시 북구 효동로12-6(중흥동)",
@@ -2134,7 +2134,7 @@ const gwangjuContents = [
  {
   "연번": 143,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "동광이발관",
   phone : "062-262-0147",
   address : "광주광역시 북구 면앙로 139(우산동)",
@@ -2149,7 +2149,7 @@ const gwangjuContents = [
  {
   "연번": 144,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "말바우구내식당",
   phone : "062-262-1350",
   address : "광주광역시 북구 서방로 81번길 27(우산동)",
@@ -2164,7 +2164,7 @@ const gwangjuContents = [
  {
   "연번": 145,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "머리헤어",
   phone : "062-573-7997",
   address : "광주광역시 북구 설죽로 407(삼각동)",
@@ -2179,7 +2179,7 @@ const gwangjuContents = [
  {
   "연번": 146,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "멋진남자이쁜여자",
   phone : "062-269-0997",
   address : "광주광역시 북구 안산로 25(오치동)",
@@ -2194,7 +2194,7 @@ const gwangjuContents = [
  {
   "연번": 147,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "무들목장",
   phone : "062-574-6401",
   address : "광주광역시 북구 일곡마을로 15-1(일곡동)",
@@ -2209,7 +2209,7 @@ const gwangjuContents = [
  {
   "연번": 148,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "범두정",
   phone : "062-524-2472",
   address : "광주광역시 북구 동문대로 72-1(두암동)",
@@ -2224,7 +2224,7 @@ const gwangjuContents = [
  {
   "연번": 149,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "삼호반점",
   phone : "062-522-3180",
   address : "광주광역시 북구 용주로 30번길 9(용봉동)",
@@ -2239,7 +2239,7 @@ const gwangjuContents = [
  {
   "연번": 150,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "샤론뷰티헤어",
   phone : "062-418-6387",
   address : "광주광역시 북구 중문로84번길 62(문흥동)",
@@ -2254,7 +2254,7 @@ const gwangjuContents = [
  {
   "연번": 151,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "서울김밥",
   phone : "062-222-6234",
   address : "광주광역시 북구 서방로54-1(중흥동)",
@@ -2269,7 +2269,7 @@ const gwangjuContents = [
  {
   "연번": 152,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "성숙헤어",
   phone : "062-527-0089",
   address : "광주광역시 북구 서양로 166(우산동)",
@@ -2284,7 +2284,7 @@ const gwangjuContents = [
  {
   "연번": 153,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "숙희네왕대포",
   phone : "0507-1333-6156",
   address : "광주광역시 북구 서하로214번길17(오치동)",
@@ -2299,7 +2299,7 @@ const gwangjuContents = [
  {
   "연번": 154,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "아름다운갈색머리",
   phone : "062-523-8652",
   address : "광주광역시 북구 필문대로11번길 12(풍향동)",
@@ -2314,7 +2314,7 @@ const gwangjuContents = [
  {
   "연번": 155,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "아름다운헤어샵",
   phone : "062-262-8584",
   address : "광주광역시 북구 삼정로 6(두암동)",
@@ -2329,7 +2329,7 @@ const gwangjuContents = [
  {
   "연번": 156,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "애니",
   phone : "062-261-4389",
   address : "광주광역시 북구 서하로233번길 50(오치동)",
@@ -2344,7 +2344,7 @@ const gwangjuContents = [
  {
   "연번": 157,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "엄마손식당",
   phone : "062-529-3047",
   address : "광주광역시 북구 무등로262번길 9(중흥동)",
@@ -2359,7 +2359,7 @@ const gwangjuContents = [
  {
   "연번": 158,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "옴팡골콩나물국밥",
   phone : "062-262-9885",
   address : "광주광역시 북구 호동로 9-7(용봉동)",
@@ -2374,7 +2374,7 @@ const gwangjuContents = [
  {
   "연번": 159,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "우리뷔페(북동점)",
   phone : "062-228-2002",
   address : "광주광역시 북구 금남로131번길 13(북동)",
@@ -2389,7 +2389,7 @@ const gwangjuContents = [
  {
   "연번": 160,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "우리뷔페(중흥점)",
   phone : "062-526-6688",
   address : "광주광역시 북구 제봉로 330(중흥동)",
@@ -2419,7 +2419,7 @@ const gwangjuContents = [
  {
   "연번": 162,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "일곡치킨",
   phone : "062-574-3392",
   address : "광주광역시 북구 설죽로 545-2 상가 2동 102호(일곡동)",
@@ -2434,7 +2434,7 @@ const gwangjuContents = [
  {
   "연번": 163,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "전라도홍어",
   phone : "062-264-4379",
   address : "광주광역시 북구 동문대로 85번길 59(우산동)",
@@ -2449,7 +2449,7 @@ const gwangjuContents = [
  {
   "연번": 164,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "정헤어터치",
   phone : "062-529-1326",
   address : "광주광역시 북구 비엔날레로 49, 104호(운암동)",
@@ -2479,7 +2479,7 @@ const gwangjuContents = [
  {
   "연번": 166,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "주공이용원",
   phone : "062-268-6551",
   address : "광주광역시 북구 우치로231번길 50(오치동)",
@@ -2494,7 +2494,7 @@ const gwangjuContents = [
  {
   "연번": 167,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "청송반점",
   phone : "062-525-2373",
   address : "광주광역시 북구 천변우로 257번길 24(누문동)",
@@ -2509,7 +2509,7 @@ const gwangjuContents = [
  {
   "연번": 168,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "초현숯불구이",
   phone : "062-524-6645",
   address : "광주광역시 북구 천변우로 257번길 6(누문동)",
@@ -2524,7 +2524,7 @@ const gwangjuContents = [
  {
   "연번": 169,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "털보하우스",
   phone : "062-264-0644",
   address : "광주광역시 북구 우치로126번길7(용봉동)",
@@ -2539,7 +2539,7 @@ const gwangjuContents = [
  {
   "연번": 170,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "한국",
   phone : "062-527-5595",
   address : "광주광역시 북구 반룡로28번길 27(용봉동)",
@@ -2554,7 +2554,7 @@ const gwangjuContents = [
  {
   "연번": 171,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "현대(반점)",
   phone : "062-522-0081",
   address : "광주광역시 북구 청계로 81(용봉동)",
@@ -2569,7 +2569,7 @@ const gwangjuContents = [
  {
   "연번": 172,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "현대헤어샵",
   phone : "062-261-1852",
   address : "광주광역시 북구 동문대로204번길 37(각화동)",
@@ -2599,7 +2599,7 @@ const gwangjuContents = [
  {
   "연번": 174,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "궁차이나",
   phone : "062-574-2040",
   address : "광주광역시 북구 서하로183번길 31(오치동)",
@@ -2614,7 +2614,7 @@ const gwangjuContents = [
  {
   "연번": 175,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "엘림미용실",
   phone : null,
   address : "광주광역시 북구 당뫼로8번길 37(중흥동)",
@@ -2629,7 +2629,7 @@ const gwangjuContents = [
  {
   "연번": 176,
   "시군구": "북구",
-  category : "이미용업",
+  category: "이미용",
   title : "뽀글뽀글",
   phone : "062-265-5577",
   address : "광주광역시 북구 호동로75번길 16-3(문흥동)",
@@ -2659,7 +2659,7 @@ const gwangjuContents = [
  {
   "연번": 178,
   "시군구": "북구",
-  category : "외식업",
+  category: "음식점",
   title : "여수회세꼬시",
   phone : "062-512-7772",
   address : "광주광역시 북구 서방로107번길 62(두암동)",
@@ -2734,7 +2734,7 @@ const gwangjuContents = [
  {
   "연번": 183,
   "시군구": "광산구",
-  category : "이미용업",
+  category: "이미용",
   title : "머리하는날",
   phone : "062-945-3695",
   address : "광주광역시 광산구 송도로 322",
@@ -2749,7 +2749,7 @@ const gwangjuContents = [
  {
   "연번": 184,
   "시군구": "광산구",
-  category : "이미용업",
+  category: "이미용",
   title : "중앙미용실",
   phone : "062-944-1190",
   address : "광주광역시 광산구 광산로30번길 5-1",
@@ -2764,7 +2764,7 @@ const gwangjuContents = [
  {
   "연번": 185,
   "시군구": "광산구",
-  category : "이미용업",
+  category: "이미용",
   title : "청실미용실",
   phone : "062-955-4379",
   address : "광주광역시 광산구 월곡중앙로1번길 13",
@@ -2779,7 +2779,7 @@ const gwangjuContents = [
  {
   "연번": 186,
   "시군구": "광산구",
-  category : "이미용업",
+  category: "이미용",
   title : "초이스헤어샵",
   phone : "062-431-3939",
   address : "광주광역시 광산구 월곡반월로 58",
@@ -2794,7 +2794,7 @@ const gwangjuContents = [
  {
   "연번": 187,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "진고개반점",
   phone : "062-955-4477",
   address : "광주광역시 광산구 신창로105번길 34-14",
@@ -2809,7 +2809,7 @@ const gwangjuContents = [
  {
   "연번": 188,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "깨비분식",
   phone : "062-942-7324",
   address : "광주광역시 광산구 광산로30번길 5-1",
@@ -2824,7 +2824,7 @@ const gwangjuContents = [
  {
   "연번": 189,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "유건모밀",
   phone : "062-945-1651",
   address : "광주광역시 광산구 광산로 13",
@@ -2839,7 +2839,7 @@ const gwangjuContents = [
  {
   "연번": 190,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "고인돌",
   phone : "062-959-2292",
   address : "광주광역시 광산구 수완로 28, 1층(수완동)",
@@ -2854,7 +2854,7 @@ const gwangjuContents = [
  {
   "연번": 191,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "사조숯불갈비",
   phone : "062-953-1387",
   address : "광주광역시 광산구 목련로 96",
@@ -2869,7 +2869,7 @@ const gwangjuContents = [
  {
   "연번": 192,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "으뜸식육식당",
   phone : "062-955-6625",
   address : "광주광역시 광산구 신가삼효로 8-14",
@@ -2884,7 +2884,7 @@ const gwangjuContents = [
  {
   "연번": 193,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "진보쌈",
   phone : "062-941-1880",
   address : "광주광역시 광산구 남동길48번길 33",
@@ -2899,7 +2899,7 @@ const gwangjuContents = [
  {
   "연번": 194,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "항아리숙성된장삼겹",
   phone : "062-951-8457",
   address : "광주광역시 광산구 산정로 5",
@@ -2914,7 +2914,7 @@ const gwangjuContents = [
  {
   "연번": 195,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "금당촌",
   phone : "062-974-2236",
   address : "광주광역시 광산구 첨단내촌로70번길 72-1",
@@ -2929,7 +2929,7 @@ const gwangjuContents = [
  {
   "연번": 196,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "매일대중음식점(매일식당)",
   phone : "062-941-0843",
   address : "광주광역시 광산구 송정로1번길 81송정동 824-9",
@@ -2944,7 +2944,7 @@ const gwangjuContents = [
  {
   "연번": 197,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "빛고을 떡갈비",
   phone : "062-944-6670",
   address : "광주광역시 광산구 광산로29번길 14",
@@ -2974,7 +2974,7 @@ const gwangjuContents = [
  {
   "연번": 199,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "어머니가마솥추어탕",
   phone : "062-945-8892",
   address : "광주광역시 광산구 광산로30번길 5-1, 1층",
@@ -2989,7 +2989,7 @@ const gwangjuContents = [
  {
   "연번": 200,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "시골추어탕",
   phone : "062-943-5588",
   address : "광주광역시 광산구 산정공원로 50(월곡동)",
@@ -3004,7 +3004,7 @@ const gwangjuContents = [
  {
   "연번": 201,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "옛날짜장",
   phone : "062-941-8334",
   address : "광주광역시 광산구 송도로162번길 11-2, 1층",
@@ -3019,7 +3019,7 @@ const gwangjuContents = [
  {
   "연번": 202,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "케익하우스 미엘",
   phone : "062-943-3534",
   address : "광주광역시 광산구 송도로182번길 12",
@@ -3034,7 +3034,7 @@ const gwangjuContents = [
  {
   "연번": 203,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "소망분식",
   phone : "062-943-5486",
   address : "광주광역시 광산구 남동길 30",
@@ -3049,7 +3049,7 @@ const gwangjuContents = [
  {
   "연번": 204,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "운남골생오리",
   phone : "062-953-5252",
   address : "광주광역시 광산구 목련로153번안길 54-6",
@@ -3064,7 +3064,7 @@ const gwangjuContents = [
  {
   "연번": 205,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "악떡분식",
   phone : "062-942-8991",
   address : "광주광역시 광산구 평동로 754, 1층(옥동)",
@@ -3079,7 +3079,7 @@ const gwangjuContents = [
  {
   "연번": 206,
   "시군구": "광산구",
-  category : "외식업",
+  category: "음식점",
   title : "화천추어탕",
   phone : "062-944-1198",
   address : "광주광역시 광산구 광산로30번길 7-1",

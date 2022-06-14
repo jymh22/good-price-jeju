@@ -10,77 +10,77 @@ const gyeongbukContents = [
  {
   "구분": 2,
   "시군": "경산시",
-  category: "중식",
+  category: "음식점",
   title: "대홍화루",
   address : "경상북도경산시삼풍로 6길 2"
  },
  {
   "구분": 3,
   "시군": "경산시",
-  category: "중식",
+  category: "음식점",
   title: "마이따친친",
   address : "경상북도경산시삼풍로 6길"
  },
  {
   "구분": 4,
   "시군": "경산시",
-  category: "한식",
+  category: "음식점",
   title: "모퉁이식당",
   address : "경상북도경산시자인면 일연로 43"
  },
  {
   "구분": 5,
   "시군": "경산시",
-  category: "한식",
+  category: "음식점",
   title: "산수식당",
   address : "경상북도경산시와촌면 금송로 423"
  },
  {
   "구분": 6,
   "시군": "경산시",
-  category: "한식",
+  category: "음식점",
   title: "토속정",
   address : "경상북도경산시진량읍 낙산길 29"
  },
  {
   "구분": 7,
   "시군": "경산시",
-  category: "중식",
+  category: "음식점",
   title: "신동아반점",
   address : "경상북도경산시중앙로 17길 37"
  },
  {
   "구분": 8,
   "시군": "경산시",
-  category: "중식",
+  category: "음식점",
   title: "연경 짬뽕 전문점",
   address : "경상북도경산시삼풍로 6길 8"
  },
  {
   "구분": 9,
   "시군": "경산시",
-  category: "이미용업",
+  category: "이미용",
   title: "황실미용실",
   address : "경상북도경산시경안로 41길 11"
  },
  {
   "구분": 10,
   "시군": "경산시",
-  category: "이미용업",
+  category: "이미용",
   title: "미스,미스터 미용실",
   address : "경상북도경산시중앙로 15"
  },
  {
   "구분": 11,
   "시군": "경산시",
-  category: "이미용업",
+  category: "이미용",
   title: "궁전미용실",
   address : "경상북도경산시자인면 자인로 198"
  },
  {
   "구분": 12,
   "시군": "경산시",
-  category: "이미용업",
+  category: "이미용",
   title: "삼영미용실",
   address : "경상북도경산시하양읍 금송로 27-1"
  },
@@ -108,98 +108,98 @@ const gyeongbukContents = [
  {
   "구분": 16,
   "시군": "경산시",
-  category: "한식",
+  category: "음식점",
   title: "고향집",
   address : "경상북도경산시원효로28-3"
  },
  {
   "구분": 17,
   "시군": "경산시",
-  category: "이미용업",
+  category: "이미용",
   title: "칠칠미용실",
   address : "경상북도경산시중앙초등길5길 7"
  },
  {
   "구분": 18,
   "시군": "경산시",
-  category: "중식",
+  category: "음식점",
   title: "씨옌",
   address : "경상북도경산시대학로59길 11-9"
  },
  {
   "구분": 19,
   "시군": "경산시",
-  category: "한식",
+  category: "음식점",
   title: "천마양푼이",
   address : "경상북도경산시대학로 332"
  },
  {
   "구분": 20,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "일품낙지소동",
   address : "경상북도경주시경주시 건천읍 작원1길 45"
  },
  {
   "구분": 21,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "삼부식당",
   address : "경상북도경주시경주시 봉황로 51번길 14"
  },
  {
   "구분": 22,
   "시군": "경주시",
-  category: "기타양식",
+  category: "음식점",
   title: "카페드립",
   address : "경상북도경주시초당길55번길6, 108호"
  },
  {
   "구분": 23,
   "시군": "경주시",
-  category: "중식",
+  category: "음식점",
   title: "미소짜장",
   address : "경상북도경주시동성로 63-10"
  },
  {
   "구분": 24,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "미니만두",
   address : "경상북도경주시안강읍 비화동길 24-1"
  },
  {
   "구분": 25,
   "시군": "경주시",
-  category: "이미용업",
+  category: "이미용",
   title: "김종순 헤어샵",
   address : "경상북도경주시황성로 15번길 10-1(황성동)"
  },
  {
   "구분": 26,
   "시군": "경주시",
-  category: "기타양식",
+  category: "음식점",
   title: "바이림의 착한커피",
   address : "경상북도경주시경주시 백률로 19(동천동)"
  },
  {
   "구분": 27,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "정이든면",
   address : "경상북도경주시경주시 유림로13번길 156"
  },
  {
   "구분": 28,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "오미손칼국수",
   address : "경상북도경주시원효로 169"
  },
  {
   "구분": 29,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "장군암소숯불",
   address : "경상북도경주시부엉길 13"
  },
@@ -213,14 +213,14 @@ const gyeongbukContents = [
  {
   "구분": 31,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "황성숯불갈비",
   address : "경상북도경주시소금강로 11-1"
  },
  {
   "구분": 32,
   "시군": "경주시",
-  category: "기타양식",
+  category: "음식점",
   title: "루왁",
   address : "경상북도경주시중앙로 16"
  },
@@ -234,98 +234,98 @@ const gyeongbukContents = [
  {
   "구분": 34,
   "시군": "경주시",
-  category: "일식",
+  category: "음식점",
   title: "어심초밥",
   address : "경상북도경주시계림로 81"
  },
  {
   "구분": 35,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "우일식당",
   address : "경상북도경주시금성로247번길 38"
  },
  {
   "구분": 36,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "미락낙지돈지",
   address : "경상북도경주시원효로 41"
  },
  {
   "구분": 37,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "모량돼지숯불",
   address : "경상북도경주시충효5길 45-3"
  },
  {
   "구분": 38,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "할매낙지",
   address : "경상북도경주시한빛길 4"
  },
  {
   "구분": 39,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "서울왕족발치킨",
   address : "경상북도경주시건천읍 작원1길5"
  },
  {
   "구분": 40,
   "시군": "경주시",
-  category: "한식",
+  category: "음식점",
   title: "곳간",
   address : "경상북도경주시동천로 93번길 1"
  },
  {
   "구분": 41,
   "시군": "고령군",
-  category: "한식",
+  category: "음식점",
   title: "모메존꽁보리밥",
   address : "경상북도고령군성산면 성암로 51"
  },
  {
   "구분": 42,
   "시군": "고령군",
-  category: "한식",
+  category: "음식점",
   title: "고령모듬추어탕",
   address : "경상북도고령군대가야읍 장기터길 10-7"
  },
  {
   "구분": 43,
   "시군": "고령군",
-  category: "한식",
+  category: "음식점",
   title: "중앙식육식당",
   address : "경상북도고령군대가야읍 우륵로 11"
  },
  {
   "구분": 44,
   "시군": "고령군",
-  category: "한식",
+  category: "음식점",
   title: "신가네",
   address : "경상북도고령군대가야읍 시장길 36"
  },
  {
   "구분": 45,
   "시군": "고령군",
-  category: "한식",
+  category: "음식점",
   title: "도진식육식당",
   address : "경상북도고령군우곡면 도진2길 15"
  },
  {
   "구분": 46,
   "시군": "고령군",
-  category: "한식",
+  category: "음식점",
   title: "홍천뚝배기",
   address : "경상북도고령군대가야읍 왕릉로 89"
  },
  {
   "구분": 47,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "광명식육식당",
   address : "경상북도구미시화신로 8길 14-8"
  },
@@ -339,70 +339,70 @@ const gyeongbukContents = [
  {
   "구분": 49,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "대한외식연구소",
   address : "경상북도구미시구미시 고아읍 파산3길 2"
  },
  {
   "구분": 50,
   "시군": "구미시",
-  category: "중식",
+  category: "음식점",
   title: "성빈각",
   address : "경상북도구미시구미시 선산대로 79"
  },
  {
   "구분": 51,
   "시군": "구미시",
-  category: "이미용업",
+  category: "이미용",
   title: "케이20000헤어샵",
   address : "경상북도구미시구미시 산동면 산호대로41길 16"
  },
  {
   "구분": 52,
   "시군": "구미시",
-  category: "중식",
+  category: "음식점",
   title: "일품대반점",
   address : "경상북도구미시구미시 형곡서로 39"
  },
  {
   "구분": 53,
   "시군": "구미시",
-  category: "이미용업",
+  category: "이미용",
   title: "착한이발소",
   address : "경상북도구미시구미시 홍안로1길 4, D동 105호(옥계동)"
  },
  {
   "구분": 54,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "올레길 국수",
   address : "경상북도구미시산책길 33-2(원평동)"
  },
  {
   "구분": 55,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "아까먹고 또먹고",
   address : "경상북도구미시임은길 14"
  },
  {
   "구분": 56,
   "시군": "구미시",
-  category: "이미용업",
+  category: "이미용",
   title: "씨티클럽",
   address : "경상북도구미시금오대로14길 15-4"
  },
  {
   "구분": 57,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "할매보리밥",
   address : "경상북도구미시송원서로 11"
  },
  {
   "구분": 58,
   "시군": "구미시",
-  category: "일식",
+  category: "음식점",
   title: "어촌마을1호점",
   address : "경상북도구미시형곡서로 42"
  },
@@ -423,70 +423,70 @@ const gyeongbukContents = [
  {
   "구분": 61,
   "시군": "구미시",
-  category: "이미용업",
+  category: "이미용",
   title: "준헤어클럽",
   address : "경상북도구미시형곡로29길 24, 1층"
  },
  {
   "구분": 62,
   "시군": "구미시",
-  category: "중식",
+  category: "음식점",
   title: "상하이대반점",
   address : "경상북도구미시형곡로25길 22"
  },
  {
   "구분": 63,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "박통칼국수",
   address : "경상북도구미시상사서로 110"
  },
  {
   "구분": 64,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "원조일품국수",
   address : "경상북도구미시금오산로22길 13-2"
  },
  {
   "구분": 65,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "도리산암소한마리광평점",
   address : "경상북도구미시구미대로18길 21"
  },
  {
   "구분": 66,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "행복보리밥",
   address : "경상북도구미시형곡로 187"
  },
  {
   "구분": 67,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "자갈마당",
   address : "경상북도구미시선산읍 단계서길39"
  },
  {
   "구분": 68,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "거송순대식당",
   address : "경상북도구미시백산로5길 17"
  },
  {
   "구분": 69,
   "시군": "구미시",
-  category: "한식",
+  category: "음식점",
   title: "봉가네식당",
   address : "경상북도구미시신시로26길 25"
  },
  {
   "구분": 70,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "밀양돼지국밥",
   address : "경상북도군위군군위읍 중앙4길 16-8"
  },
@@ -500,63 +500,63 @@ const gyeongbukContents = [
  {
   "구분": 72,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "금상매운탕",
   address : "경상북도군위군군위읍 중앙길 36"
  },
  {
   "구분": 73,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "참숯오리",
   address : "경상북도군위군군위읍 도담마을길 22"
  },
  {
   "구분": 74,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "후루룩냠냠",
   address : "경상북도군위군군위읍 중앙길 29"
  },
  {
   "구분": 75,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "시골밥상",
   address : "경상북도군위군부계면 한티로 1903"
  },
  {
   "구분": 76,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "장군한우숯불",
   address : "경상북도군위군효령면 경북대로 2219"
  },
  {
   "구분": 77,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "장원쌈밥",
   address : "경상북도군위군군위군 군위읍 도군로 2577-5"
  },
  {
   "구분": 78,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "삼장매운탕",
   address : "경상북도군위군군위군 효령면 치산효령로 2242"
  },
  {
   "구분": 79,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "채미정",
   address : "경상북도군위군군위군 군위읍 도군로 2518"
  },
  {
   "구분": 80,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "시꼴집",
   address : "경상북도군위군군위읍 중앙4길 20"
  },
@@ -570,308 +570,308 @@ const gyeongbukContents = [
  {
   "구분": 82,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "밀양식당",
   address : "경상북도군위군군위읍 중앙5길 3"
  },
  {
   "구분": 83,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "한마음식당",
   address : "경상북도군위군군위읍 중앙길 56-16"
  },
  {
   "구분": 84,
   "시군": "군위군",
-  category: "한식",
+  category: "음식점",
   title: "밀양돼지국밥",
   address : "경상북도군위군 군위읍 중앙4길 16-8"
  },
  {
   "구분": 85,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "맛고을먹빵",
   address : "경상북도김천시김천시 부곡맛고을2길 40(부곡동)"
  },
  {
   "구분": 86,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "다미한식",
   address : "경상북도김천시김천시 부곡맛고을2길 51-7(부곡동)"
  },
  {
   "구분": 87,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "전선야곡",
   address : "경상북도김천시김천시 부곡시장1길 14(부곡동)"
  },
  {
   "구분": 88,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "먹빵",
   address : "경상북도김천시김천시 신음새동네2길 33(신음동)"
  },
  {
   "구분": 89,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "백산가든",
   address : "경상북도김천시지례면 장터길 82"
  },
  {
   "구분": 90,
   "시군": "김천시",
-  category: "이미용업",
+  category: "이미용",
   title: "외출준비헤어샵",
   address : "경상북도김천시시청6길 45,108-101(신음동, 우방상가)"
  },
  {
   "구분": 91,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "황금정생오리",
   address : "경상북도김천시평화길 30(평화동)"
  },
  {
   "구분": 92,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "미꾸리용되네",
   address : "경상북도김천시모암길 102(모암동)"
  },
  {
   "구분": 93,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "해송식육식당",
   address : "경상북도김천시체육공원길 26"
  },
  {
   "구분": 94,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "금강산가든",
   address : "경상북도김천시부곡맛고을2길 26"
  },
  {
   "구분": 95,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "연화지칼국수",
   address : "경상북도김천시연화지1길 2"
  },
  {
   "구분": 96,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "갈무리식당",
   address : "경상북도김천시황금시장2길 15"
  },
  {
   "구분": 97,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "황금분식",
   address : "경상북도김천시양금로 259-3"
  },
  {
   "구분": 98,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "현수정식당",
   address : "경상북도김천시황금시장2길 17"
  },
  {
   "구분": 99,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "공원추어탕",
   address : "경상북도김천시남산공원3길 25"
  },
  {
   "구분": 100,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "삼덕기사식당",
   address : "경상북도김천시자산로 152-3"
  },
  {
   "구분": 101,
   "시군": "김천시",
-  category: "중식",
+  category: "음식점",
   title: "대산반점",
   address : "경상북도김천시대덕면 대덕로 681"
  },
  {
   "구분": 102,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "토우가든",
   address : "경상북도김천시감천면 용호로 241"
  },
  {
   "구분": 103,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "강원도황태찜전골",
   address : "경상북도김천시시청5길19"
  },
  {
   "구분": 104,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "야호식당",
   address : "경상북도김천시평화6길 2"
  },
  {
   "구분": 105,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "지례석쇠불고기식육식당",
   address : "경상북도김천시지례면 상부길 14"
  },
  {
   "구분": 106,
   "시군": "김천시",
-  category: "한식",
+  category: "음식점",
   title: "부자가든",
   address : "경상북도김천시지례면 장터길 89"
  },
  {
   "구분": 107,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "맛고을",
   address : "경상북도문경시새동네2길 15"
  },
  {
   "구분": 108,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "고향식당",
   address : "경상북도문경시신흥1길 15-15"
  },
  {
   "구분": 109,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "왕능식당",
   address : "경상북도문경시신흥시장길 19"
  },
  {
   "구분": 110,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "왕순대국밥",
   address : "경상북도문경시신흥시장길 19"
  },
  {
   "구분": 111,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "한아름식당",
   address : "경상북도문경시신흥시장길 19"
  },
  {
   "구분": 112,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "보리고개식당",
   address : "경상북도문경시신흥시장길 23"
  },
  {
   "구분": 113,
   "시군": "문경시",
-  category: "이미용업",
+  category: "이미용",
   title: "송태미미용실",
   address : "경상북도문경시상신로 8"
  },
  {
   "구분": 114,
   "시군": "문경시",
-  category: "중식",
+  category: "음식점",
   title: "성모반점",
   address : "경상북도문경시중앙10길 8"
  },
  {
   "구분": 115,
   "시군": "문경시",
-  category: "중식",
+  category: "음식점",
   title: "문창반점",
   address : "경상북도문경시호서로 32-1"
  },
  {
   "구분": 116,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "창조식당",
   address : "경상북도문경시상신로 20"
  },
  {
   "구분": 117,
   "시군": "문경시",
-  category: "이미용업",
+  category: "이미용",
   title: "산호미용실",
   address : "경상북도문경시돈달로 98"
  },
  {
   "구분": 118,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "들마루식당",
   address : "경상북도문경시산양면 산양로 115"
  },
  {
   "구분": 119,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "새실비식당",
   address : "경상북도문경시산양면 산양로 116"
  },
  {
   "구분": 120,
   "시군": "문경시",
-  category: "이미용업",
+  category: "이미용",
   title: "이수향미용실",
   address : "경상북도문경시산양면 산양로 111-3"
  },
  {
   "구분": 121,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "문영집",
   address : "경상북도문경시가은읍 가은로 152"
  },
  {
   "구분": 122,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "중앙정육한우마을",
   address : "경상북도문경시가은읍 대야로 2495"
  },
  {
   "구분": 123,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "옥녀봉집두부",
   address : "경상북도문경시가은읍 왕능길 12"
  },
  {
   "구분": 124,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "새재식당",
   address : "경상북도문경시문경읍 주흘1길 21"
  },
  {
   "구분": 125,
   "시군": "문경시",
-  category: "이미용업",
+  category: "이미용",
   title: "썬미용실",
   address : "경상북도문경시문경읍 문희로 31"
  },
@@ -885,112 +885,112 @@ const gyeongbukContents = [
  {
   "구분": 127,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "배윤박갈비",
   address : "경상북도문경시매봉로 107"
  },
  {
   "구분": 128,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "닭이봉원조춘천닭갈비",
   address : "경상북도문경시당교로 195"
  },
  {
   "구분": 129,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "직거래식육식당",
   address : "경상북도문경시신흥시장길 10"
  },
  {
   "구분": 130,
   "시군": "문경시",
-  category: "중식",
+  category: "음식점",
   title: "청림식당",
   address : "경상북도문경시신흥3길 6-2"
  },
  {
   "구분": 131,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "성우가든",
   address : "경상북도문경시은성로 1636"
  },
  {
   "구분": 132,
   "시군": "문경시",
-  category: "중식",
+  category: "음식점",
   title: "은혜각",
   address : "경상북도문경시가은1길 27"
  },
  {
   "구분": 133,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "두메산골문경새재식당",
   address : "경상북도문경시새재로 920"
  },
  {
   "구분": 134,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "콩요리전문",
   address : "경상북도문경시오천8길 14"
  },
  {
   "구분": 135,
   "시군": "문경시",
-  category: "한식",
+  category: "음식점",
   title: "광성식당",
   address : "경상북도문경시새재로 918"
  },
  {
   "구분": 136,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "대가 한정식",
   address : "경상북도봉화군춘양면 의양로 54-5"
  },
  {
   "구분": 137,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "쉼터민물매운탕",
   address : "경상북도봉화군명호면 광석길 28-1"
  },
  {
   "구분": 138,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "예인도시락",
   address : "경상북도봉화군봉화읍 신시장길 11"
  },
  {
   "구분": 139,
   "시군": "봉화군",
-  category: "이미용업",
+  category: "이미용",
   title: "수정미용실",
   address : "경상북도봉화군경상북도 봉화읍 신시장1길 11-13"
  },
  {
   "구분": 140,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "통나무집 가든",
   address : "경상북도봉화군봉화군 물야면 문수로 1747-1"
  },
  {
   "구분": 141,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "맛사랑식육식당",
   address : "경상북도봉화군봉화군 석포면 석포로 163"
  },
  {
   "구분": 142,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "자갈마당",
   address : "경상북도봉화군봉화군 봉화읍 내성로4길 12-25"
  },
@@ -1004,273 +1004,273 @@ const gyeongbukContents = [
  {
   "구분": 144,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "투까리식당",
   address : "경상북도봉화군봉화읍 내성로 86-1"
  },
  {
   "구분": 145,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "엄마손칼국수",
   address : "경상북도봉화군봉화읍 신시장길 12 사동 101-201"
  },
  {
   "구분": 146,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "어부촌",
   address : "경상북도봉화군봉화읍 신시장 1길 10 나동 110-205"
  },
  {
   "구분": 147,
   "시군": "봉화군",
-  category: "이미용업",
+  category: "이미용",
   title: "이림",
   address : "경상북도봉화군재산면 재산로 506"
  },
  {
   "구분": 148,
   "시군": "봉화군",
-  category: "한식",
+  category: "음식점",
   title: "우돈명가",
   address : "경상북도봉화군춘양면 의양로 4길 10"
  },
  {
   "구분": 149,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "대흥식당",
   address : "경상북도상주시상주시 서성로 19-1(서성동)"
  },
  {
   "구분": 150,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "일심식당",
   address : "경상북도상주시성동로 13-15(성동동)"
  },
  {
   "구분": 151,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "솜리식당",
   address : "경상북도상주시성하1길 60(성하동)"
  },
  {
   "구분": 152,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "미락식당",
   address : "경상북도상주시낙동면 상촌1길 30"
  },
  {
   "구분": 153,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "복날",
   address : "경상북도상주시성동로22"
  },
  {
   "구분": 154,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "은행골한우촌",
   address : "경상북도상주시서성2길 19"
  },
  {
   "구분": 155,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "아롱이",
   address : "경상북도상주시남성로 45"
  },
  {
   "구분": 156,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "화정식당",
   address : "경상북도상주시냉림로 24"
  },
  {
   "구분": 157,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "안동식당",
   address : "경상북도상주시왕산로 385"
  },
  {
   "구분": 158,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "계림식육식당",
   address : "경상북도상주시냉림1길 2"
  },
  {
   "구분": 159,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "포청천식당",
   address : "경상북도상주시상산로 392-1"
  },
  {
   "구분": 160,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "상주식육식당",
   address : "경상북도상주시은척면 봉중1길15"
  },
  {
   "구분": 161,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "생삼겹살집",
   address : "경상북도상주시공성면 옥산4길 15"
  },
  {
   "구분": 162,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "보리랑두부랑",
   address : "경상북도상주시함창읍 중앙로 133"
  },
  {
   "구분": 163,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "홍미용실",
   address : "경상북도상주시중앙시장길7-15"
  },
  {
   "구분": 164,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "양귀비머리방",
   address : "경상북도상주시남성로 35-1"
  },
  {
   "구분": 165,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "시장미용실",
   address : "경상북도상주시중앙시장길 5-23"
  },
  {
   "구분": 166,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "고려분식",
   address : "경상북도상주시중앙시장길29"
  },
  {
   "구분": 167,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "가위손미용실",
   address : "경상북도상주시중앙시장길7-26"
  },
  {
   "구분": 168,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "오공식당",
   address : "경상북도상주시중앙시장길 1-24"
  },
  {
   "구분": 169,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "유경헤어라인",
   address : "경상북도상주시중앙시장길-7"
  },
  {
   "구분": 170,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "엄마손칼국수",
   address : "경상북도상주시상서문3길 100-2"
  },
  {
   "구분": 171,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "현 미용실",
   address : "경상북도상주시상산로 338-19"
  },
  {
   "구분": 172,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "현 헤어샵",
   address : "경상북도상주시사벌면 덕담1길 15"
  },
  {
   "구분": 173,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "청정한우",
   address : "경상북도상주시낙동면 영남제일로 52-5"
  },
  {
   "구분": 174,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "낙동강한우촌",
   address : "경상북도상주시낙동면 영남제일로 51-8"
  },
  {
   "구분": 175,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "낙동미용실",
   address : "경상북도상주시낙동면 영남제일로 85-1"
  },
  {
   "구분": 176,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "가위소리미용실",
   address : "경상북도상주시함창읍 함창중앙로 134"
  },
  {
   "구분": 177,
   "시군": "상주시",
-  category: "한식",
+  category: "음식점",
   title: "한우식육식당",
   address : "경상북도상주시함창읍 함창중앙로 152"
  },
  {
   "구분": 178,
   "시군": "상주시",
-  category: "중식",
+  category: "음식점",
   title: "비룡식당",
   address : "경상북도상주시함창읍 구향로 113"
  },
  {
   "구분": 179,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "태양미용소",
   address : "경상북도상주시청리면 원장수상길 11-1"
  },
  {
   "구분": 180,
   "시군": "상주시",
-  category: "이미용업",
+  category: "이미용",
   title: "현대이용소",
   address : "경상북도상주시중동면 간상1길 32"
  },
  {
   "구분": 181,
   "시군": "성주군",
-  category: "한식",
+  category: "음식점",
   title: "대가순두부마을",
   address : "경상북도성주군경상북도 성주군 대가면 옥성리 615-4"
  },
  {
   "구분": 182,
   "시군": "성주군",
-  category: "한식",
+  category: "음식점",
   title: "안동한우",
   address : "경상북도성주군성주읍 성주읍4길 45, 1층"
  },
@@ -1284,21 +1284,21 @@ const gyeongbukContents = [
  {
   "구분": 184,
   "시군": "성주군",
-  category: "한식",
+  category: "음식점",
   title: "참착한오리",
   address : "경상북도성주군성주읍 성밖숲길 139-1"
  },
  {
   "구분": 185,
   "시군": "성주군",
-  category: "중식",
+  category: "음식점",
   title: "대도원",
   address : "경상북도성주군성주읍 성주읍1길 17"
  },
  {
   "구분": 186,
   "시군": "성주군",
-  category: "한식",
+  category: "음식점",
   title: "산마루식당",
   address : "경상북도성주군수륜면 성주가야산로 110"
  },
@@ -1312,21 +1312,21 @@ const gyeongbukContents = [
  {
   "구분": 188,
   "시군": "성주군",
-  category: "한식",
+  category: "음식점",
   title: "별고을한우",
   address : "경상북도성주군성주읍 참별로 2491-4"
  },
  {
   "구분": 189,
   "시군": "성주군",
-  category: "한식",
+  category: "음식점",
   title: "전나무식당",
   address : "경상북도성주군수륜면 성주가야산로 116"
  },
  {
   "구분": 190,
   "시군": "성주군",
-  category: "이미용업",
+  category: "이미용",
   title: "장미전원미용실",
   address : "경상북도성주군월항면 선월로 352-13"
  },
@@ -1347,7 +1347,7 @@ const gyeongbukContents = [
  {
   "구분": 193,
   "시군": "성주군",
-  category: "한식",
+  category: "음식점",
   title: "중앙식당",
   address : "경상북도성주군성주읍 성주읍4길 6"
  },
@@ -1368,14 +1368,14 @@ const gyeongbukContents = [
  {
   "구분": 196,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "황경섭안동황우촌",
   address : "경상북도안동시송하1길 16(송현동)"
  },
  {
   "구분": 197,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "까치솥단지숯불촌",
   address : "경상북도안동시중앙로 55(동부동)"
  },
@@ -1389,49 +1389,49 @@ const gyeongbukContents = [
  {
   "구분": 199,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "무주무손국수",
   address : "경상북도안동시무주무4길 29-10"
  },
  {
   "구분": 200,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "보리밀식당",
   address : "경상북도안동시태사1길 24-1"
  },
  {
   "구분": 201,
   "시군": "안동시",
-  category: "중식",
+  category: "음식점",
   title: "대성원",
   address : "경상북도안동시서부시장3길 6-1"
  },
  {
   "구분": 202,
   "시군": "안동시",
-  category: "이미용업",
+  category: "이미용",
   title: "소래미용실",
   address : "경상북도안동시경동로 601-6"
  },
  {
   "구분": 203,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "엄마만두김밥",
   address : "경상북도안동시광석3길 3(광석동)"
  },
  {
   "구분": 204,
   "시군": "안동시",
-  category: "중식",
+  category: "음식점",
   title: "맛우짜",
   address : "경상북도안동시대안로 174(당북동)"
  },
  {
   "구분": 205,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "은혜식당",
   address : "경상북도안동시영호2길9-8"
  },
@@ -1445,98 +1445,98 @@ const gyeongbukContents = [
  {
   "구분": 207,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "짱구네식당",
   address : "경상북도안동시뒨지게길 19"
  },
  {
   "구분": 208,
   "시군": "안동시",
-  category: "중식",
+  category: "음식점",
   title: "한사발우동",
   address : "경상북도안동시중평4길 23"
  },
  {
   "구분": 209,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "마뜰 칼국수",
   address : "경상북도안동시경동로 862"
  },
  {
   "구분": 210,
   "시군": "안동시",
-  category: "이미용업",
+  category: "이미용",
   title: "정하이발관",
   address : "경상북도안동시운동장길 3"
  },
  {
   "구분": 211,
   "시군": "안동시",
-  category: "이미용업",
+  category: "이미용",
   title: "한마음머리방",
   address : "경상북도안동시평화길 49"
  },
  {
   "구분": 212,
   "시군": "안동시",
-  category: "이미용업",
+  category: "이미용",
   title: "현대이발관",
   address : "경상북도안동시대석4길 26"
  },
  {
   "구분": 213,
   "시군": "안동시",
-  category: "이미용업",
+  category: "이미용",
   title: "시민이발관",
   address : "경상북도안동시당북길 62"
  },
  {
   "구분": 214,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "황우촌식당",
   address : "경상북도안동시경동로 603"
  },
  {
   "구분": 215,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "갈비둥지로",
   address : "경상북도안동시제비원로 156"
  },
  {
   "구분": 216,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "쓰리고찜닭",
   address : "경상북도안동시경동로 966"
  },
  {
   "구분": 217,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "금식당",
   address : "경상북도안동시경동로 862"
  },
  {
   "구분": 218,
   "시군": "안동시",
-  category: "중식",
+  category: "음식점",
   title: "청반점",
   address : "경상북도안동시경동로 729-22"
  },
  {
   "구분": 219,
   "시군": "안동시",
-  category: "한식",
+  category: "음식점",
   title: "옛마을",
   address : "경상북도안동시중앙로 63"
  },
  {
   "구분": 220,
   "시군": "안동시",
-  category: "이미용업",
+  category: "이미용",
   title: "운산미용실",
   address : "경상북도안동시일직면 경북대로 7357"
  },
@@ -1550,154 +1550,154 @@ const gyeongbukContents = [
  {
   "구분": 222,
   "시군": "영덕군",
-  category: "한식",
+  category: "음식점",
   title: "잔치국시",
   address : "경상북도영덕군영덕읍 남석길 40"
  },
  {
   "구분": 223,
   "시군": "영덕군",
-  category: "일식",
+  category: "음식점",
   title: "해동회초밥",
   address : "경상북도영덕군영덕읍 영덕로 130"
  },
  {
   "구분": 224,
   "시군": "영덕군",
-  category: "한식",
+  category: "음식점",
   title: "수석분식",
   address : "경상북도영덕군영덕읍 남석2길 9"
  },
  {
   "구분": 225,
   "시군": "영덕군",
-  category: "한식",
+  category: "음식점",
   title: "나랏골밥상",
   address : "경상북도영덕군영해면 예주3길 6-2"
  },
  {
   "구분": 226,
   "시군": "영덕군",
-  category: "한식",
+  category: "음식점",
   title: "시장식당",
   address : "경상북도영덕군영해면 예주시장5길 14"
  },
  {
   "구분": 227,
   "시군": "영양군",
-  category: "한식",
+  category: "음식점",
   title: "영양만두",
   address : "경상북도영양군영양읍 시장길 21"
  },
  {
   "구분": 228,
   "시군": "영양군",
-  category: "한식",
+  category: "음식점",
   title: "명보찐빵만두",
   address : "경상북도영양군영양읍 동서대로 58"
  },
  {
   "구분": 229,
   "시군": "영양군",
-  category: "한식",
+  category: "음식점",
   title: "착한식당",
   address : "경상북도영양군영양읍 시장5길 7"
  },
  {
   "구분": 230,
   "시군": "영양군",
-  category: "한식",
+  category: "음식점",
   title: "미성식육식당",
   address : "경상북도영양군영양읍 영양창수로 13"
  },
  {
   "구분": 231,
   "시군": "영양군",
-  category: "한식",
+  category: "음식점",
   title: "경북식당",
   address : "경상북도영양군영양읍 시장5길 9"
  },
  {
   "구분": 232,
   "시군": "영양군",
-  category: "중식",
+  category: "음식점",
   title: "유명반점",
   address : "경상북도영양군영양읍 시장5길 11"
  },
  {
   "구분": 233,
   "시군": "영양군",
-  category: "한식",
+  category: "음식점",
   title: "시장식당",
   address : "경상북도영양군영양읍 시장5길 4"
  },
  {
   "구분": 234,
   "시군": "영양군",
-  category: "한식",
+  category: "음식점",
   title: "갈매기식당",
   address : "경상북도영양군영양읍 시장5길 4"
  },
  {
   "구분": 235,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "햄버거분식",
   address : "경상북도영주시경상북도 영주시 목민로67번길 17"
  },
  {
   "구분": 236,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "사랑가",
   address : "경상북도영주시대동로13번길 30"
  },
  {
   "구분": 237,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "상희네아구찜",
   address : "경상북도영주시꽃동산로40번길 8"
  },
  {
   "구분": 238,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "만복회식당",
   address : "경상북도영주시구성로320번길 7"
  },
  {
   "구분": 239,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "안정봉암순두부",
   address : "경상북도영주시안정면 용주로1207번길 25"
  },
  {
   "구분": 240,
   "시군": "영주시",
-  category: "이미용업",
+  category: "이미용",
   title: "에덴미용실",
   address : "경상북도영주시대학로 128"
  },
  {
   "구분": 241,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "서울정식",
   address : "경상북도영주시번영로 106-1"
  },
  {
   "구분": 242,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "은빛식당",
   address : "경상북도영주시영주시 지천로173번길 10"
  },
  {
   "구분": 243,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "밀양돼지국밥",
   address : "경상북도영주시대동로 155-1"
  },
@@ -1725,7 +1725,7 @@ const gyeongbukContents = [
  {
   "구분": 247,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "양산박",
   address : "경상북도영주시시청로 32-1"
  },
@@ -1739,7 +1739,7 @@ const gyeongbukContents = [
  {
   "구분": 249,
   "시군": "영주시",
-  category: "기타양식",
+  category: "음식점",
   title: "치킨도령",
   address : "경상북도영주시경북 영주시 가흥로 345-2"
  },
@@ -1753,7 +1753,7 @@ const gyeongbukContents = [
  {
   "구분": 251,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "분수대숯불갈비회관",
   address : "경상북도영주시번영로 173번길 15"
  },
@@ -1767,7 +1767,7 @@ const gyeongbukContents = [
  {
   "구분": 253,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "개나리식당",
   address : "경상북도영주시안정면 신재로 520-1"
  },
@@ -1781,77 +1781,77 @@ const gyeongbukContents = [
  {
   "구분": 255,
   "시군": "영주시",
-  category: "중식",
+  category: "음식점",
   title: "가흥반점",
   address : "경상북도영주시대학로284번길 21-13"
  },
  {
   "구분": 256,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "횡재먹거리",
   address : "경상북도영주시풍기읍 소백로 2156"
  },
  {
   "구분": 257,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "함밭숯불생고기",
   address : "경상북도영주시구성로 320번길 7"
  },
  {
   "구분": 258,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "태흥칡냉면",
   address : "경상북도영주시원당로 38"
  },
  {
   "구분": 259,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "연지식당",
   address : "경상북도영주시원당로111번길 22, 86호"
  },
  {
   "구분": 260,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "단지식당",
   address : "경상북도영주시중앙로 126번길 18"
  },
  {
   "구분": 261,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "김가네식당",
   address : "경상북도영주시장수면 옥계로 9"
  },
  {
   "구분": 262,
   "시군": "영주시",
-  category: "중식",
+  category: "음식점",
   title: "경해성",
   address : "경상북도영주시광복로 122"
  },
  {
   "구분": 263,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "포항식당",
   address : "경상북도영주시구성로 349번길 51"
  },
  {
   "구분": 264,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "이리오너라",
   address : "경상북도영주시선비로 206"
  },
  {
   "구분": 265,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "비행장기사식당",
   address : "경상북도영주시안정면 신재로 532"
  },
@@ -1865,28 +1865,28 @@ const gyeongbukContents = [
  {
   "구분": 267,
   "시군": "영주시",
-  category: "이미용업",
+  category: "이미용",
   title: "유미용실",
   address : "경상북도영주시단산면 옥대로 47"
  },
  {
   "구분": 268,
   "시군": "영주시",
-  category: "이미용업",
+  category: "이미용",
   title: "강민서헤어삽",
   address : "경상북도영주시번영로 93"
  },
  {
   "구분": 269,
   "시군": "영주시",
-  category: "이미용업",
+  category: "이미용",
   title: "시대이발관",
   address : "경상북도영주시광복로 71"
  },
  {
   "구분": 270,
   "시군": "영주시",
-  category: "이미용업",
+  category: "이미용",
   title: "성원이발관",
   address : "경상북도영주시중앙로 43"
  },
@@ -1914,91 +1914,91 @@ const gyeongbukContents = [
  {
   "구분": 274,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "안정식육식당",
   address : "경상북도영주시안정면 신재로 536"
  },
  {
   "구분": 275,
   "시군": "영주시",
-  category: "한식",
+  category: "음식점",
   title: "야일한정식",
   address : "경상북도영주시원당로20번길 24"
  },
  {
   "구분": 276,
   "시군": "영천시",
-  category: "중식",
+  category: "음식점",
   title: "봄내반점",
   address : "경상북도영천시경상북도 영천시 중앙동3길 27"
  },
  {
   "구분": 277,
   "시군": "영천시",
-  category: "이미용업",
+  category: "이미용",
   title: "머리사랑",
   address : "경상북도영천시영천시 중앙동1길 105"
  },
  {
   "구분": 278,
   "시군": "영천시",
-  category: "한식",
+  category: "음식점",
   title: "국수랑밥이랑",
   address : "경상북도영천시영천시 역전로 53-1"
  },
  {
   "구분": 279,
   "시군": "영천시",
-  category: "기타양식",
+  category: "음식점",
   title: "금탑베이커리",
   address : "경상북도영천시영천시 문외동 무궁화상가 10호 49번지"
  },
  {
   "구분": 280,
   "시군": "영천시",
-  category: "이미용업",
+  category: "이미용",
   title: "초원미용실",
   address : "경상북도영천시시장4길 12(완산동)"
  },
  {
   "구분": 281,
   "시군": "영천시",
-  category: "한식",
+  category: "음식점",
   title: "삼미식당",
   address : "경상북도영천시법원길 59"
  },
  {
   "구분": 282,
   "시군": "영천시",
-  category: "한식",
+  category: "음식점",
   title: "시골식당",
   address : "경상북도영천시시장로"
  },
  {
   "구분": 283,
   "시군": "영천시",
-  category: "중식",
+  category: "음식점",
   title: "미각루",
   address : "경상북도영천시충효로18"
  },
  {
   "구분": 284,
   "시군": "영천시",
-  category: "한식",
+  category: "음식점",
   title: "큰손칼국수",
   address : "경상북도영천시문외 1길 23"
  },
  {
   "구분": 285,
   "시군": "영천시",
-  category: "한식",
+  category: "음식점",
   title: "명동칼국수",
   address : "경상북도영천시강남길 46"
  },
  {
   "구분": 286,
   "시군": "영천시",
-  category: "기타양식",
+  category: "음식점",
   title: "원리치피자",
   address : "경상북도영천시옛군청1길33"
  },
@@ -2012,35 +2012,35 @@ const gyeongbukContents = [
  {
   "구분": 288,
   "시군": "영천시",
-  category: "중식",
+  category: "음식점",
   title: "미성식당",
   address : "경상북도영천시고경면 호국로 1433-38"
  },
  {
   "구분": 289,
   "시군": "예천군",
-  category: "한식",
+  category: "음식점",
   title: "언덕숯불",
   address : "경상북도예천군경상북도 예천군 예천읍 충효로 512-5"
  },
  {
   "구분": 290,
   "시군": "예천군",
-  category: "한식",
+  category: "음식점",
   title: "가자한우물회",
   address : "경상북도예천군예천읍 충효로 390-3(동본리 434-6)"
  },
  {
   "구분": 291,
   "시군": "예천군",
-  category: "한식",
+  category: "음식점",
   title: "신라식당",
   address : "경상북도예천군예천읍 군청길 37"
  },
  {
   "구분": 292,
   "시군": "예천군",
-  category: "한식",
+  category: "음식점",
   title: "백번고기집본점",
   address : "경상북도예천군풍양면 상풍로 1445"
  },
@@ -2061,28 +2061,28 @@ const gyeongbukContents = [
  {
   "구분": 295,
   "시군": "울릉군",
-  category: "기타양식",
+  category: "음식점",
   title: "따미카페",
   address : "경상북도울릉군경상북도 울릉군 울릉읍 봉래길 6-5"
  },
  {
   "구분": 296,
   "시군": "울진군",
-  category: "한식",
+  category: "음식점",
   title: "할매국밥",
   address : "경상북도울진군죽변면 죽변중앙로 157-2"
  },
  {
   "구분": 297,
   "시군": "울진군",
-  category: "한식",
+  category: "음식점",
   title: "여울목분식",
   address : "경상북도울진군후포면 후포로38"
  },
  {
   "구분": 298,
   "시군": "울진군",
-  category: "한식",
+  category: "음식점",
   title: "조선시대",
   address : "경상북도울진군후포면 후포삼율로163"
  },
@@ -2096,231 +2096,231 @@ const gyeongbukContents = [
  {
   "구분": 300,
   "시군": "울진군",
-  category: "한식",
+  category: "음식점",
   title: "관동식육식당",
   address : "경상북도울진군울진읍 읍내5길39"
  },
  {
   "구분": 301,
   "시군": "울진군",
-  category: "한식",
+  category: "음식점",
   title: "영심이분식",
   address : "경상북도울진군울진읍 읍내8길18-10"
  },
  {
   "구분": 302,
   "시군": "울진군",
-  category: "한식",
+  category: "음식점",
   title: "갈비와삼계탕",
   address : "경상북도울진군기성면 기성로637"
  },
  {
   "구분": 303,
   "시군": "의성군",
-  category: "기타양식",
+  category: "음식점",
   title: "예그랑",
   address : "경상북도의성군금성면 수정사길 19"
  },
  {
   "구분": 304,
   "시군": "의성군",
-  category: "이미용업",
+  category: "이미용",
   title: "코리아헤어",
   address : "경상북도의성군의성읍 동서1길 99"
  },
  {
   "구분": 305,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "상우가든",
   address : "경상북도의성군의성읍 문소2길 54"
  },
  {
   "구분": 306,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "단촌한우암소식당",
   address : "경상북도의성군단촌면 장터길 35-7"
  },
  {
   "구분": 307,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "안계숯불갈비식당",
   address : "경상북도의성군안계면 안계길 122"
  },
  {
   "구분": 308,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "제일한우식육식당",
   address : "경상북도의성군비안면 강변길 75"
  },
  {
   "구분": 309,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "대화식육식당",
   address : "경상북도의성군봉양면 도리원1길 74"
  },
  {
   "구분": 310,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "강산숯불가든",
   address : "경상북도의성군봉양면 도리원1길 60"
  },
  {
   "구분": 311,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "도원불고기식당",
   address : "경상북도의성군봉양면 도리원1길 39-1"
  },
  {
   "구분": 312,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "오복식육식당",
   address : "경상북도의성군금성면 탑리2길 27"
  },
  {
   "구분": 313,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "강운식당",
   address : "경상북도의성군금성면 탑리길 43-1"
  },
  {
   "구분": 314,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "하화식육식당",
   address : "경상북도의성군단촌면 장터길 5"
  },
  {
   "구분": 315,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "성광식당",
   address : "경상북도의성군의성읍 전통시장2길 3"
  },
  {
   "구분": 316,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "문소식육식당",
   address : "경상북도의성군의성읍 전통시장2길15-6"
  },
  {
   "구분": 317,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "낙원식당",
   address : "경상북도의성군의성읍 동서2길 21"
  },
  {
   "구분": 318,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "경북한우참숯불갈비",
   address : "경상북도의성군의성읍 문소3길 49-1"
  },
  {
   "구분": 319,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "원석촌",
   address : "경상북도의성군의성읍 문소3길 74"
  },
  {
   "구분": 320,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "덕수식육식당",
   address : "경상북도의성군의성읍 후죽4길 17"
  },
  {
   "구분": 321,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "대구숯불가든",
   address : "경상북도의성군안계면 안계길120-5"
  },
  {
   "구분": 322,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "시장식육식당",
   address : "경상북도의성군안계면 안계시장길31"
  },
  {
   "구분": 323,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "장터식육식당",
   address : "경상북도의성군금성면 탑리1길7"
  },
  {
   "구분": 324,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "돼지촌식당",
   address : "경상북도의성군금성면 금성현서로16"
  },
  {
   "구분": 325,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "의성예식장웨딩가든",
   address : "경상북도의성군의성읍 중앙길55-3"
  },
  {
   "구분": 326,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "중앙식육식당",
   address : "경상북도의성군의성읍 동서1길36"
  },
  {
   "구분": 327,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "창녕식당",
   address : "경상북도의성군의성읍 후죽4길3"
  },
  {
   "구분": 328,
   "시군": "의성군",
-  category: "한식",
+  category: "음식점",
   title: "매일식육식당",
   address : "경상북도의성군의성읍 북부길2"
  },
  {
   "구분": 329,
   "시군": "청도군",
-  category: "한식",
+  category: "음식점",
   title: "음식마을왕길비찜",
   address : "경상북도청도군운문면 청려로 4699"
  },
  {
   "구분": 330,
   "시군": "청도군",
-  category: "한식",
+  category: "음식점",
   title: "김가네구가네",
   address : "경상북도청도군청도읍 고수서3길 6-8"
  },
  {
   "구분": 331,
   "시군": "청도군",
-  category: "한식",
+  category: "음식점",
   title: "탐복미나리가든",
   address : "경상북도청도군청도읍 한재로 382"
  },
  {
   "구분": 332,
   "시군": "청도군",
-  category: "중식",
+  category: "음식점",
   title: "풍각반점",
   address : "경상북도청도군풍각면 봉기로 154"
  },
@@ -2334,126 +2334,126 @@ const gyeongbukContents = [
  {
   "구분": 334,
   "시군": "청도군",
-  category: "한식",
+  category: "음식점",
   title: "참다운한우",
   address : "경상북도청도군금천면 금천로 574-7"
  },
  {
   "구분": 335,
   "시군": "청도군",
-  category: "중식",
+  category: "음식점",
   title: "아서원",
   address : "경상북도청도군풍각면 헐티로 222"
  },
  {
   "구분": 336,
   "시군": "청도군",
-  category: "한식",
+  category: "음식점",
   title: "다복숯불갈비",
   address : "경상북도청도군풍각면 헐티로 207-2"
  },
  {
   "구분": 337,
   "시군": "청도군",
-  category: "한식",
+  category: "음식점",
   title: "영남숯불가든",
   address : "경상북도청도군화양읍 청려도 1834"
  },
  {
   "구분": 338,
   "시군": "청송군",
-  category: "한식",
+  category: "음식점",
   title: "시장식당",
   address : "경상북도청송군청송읍 현충로 106"
  },
  {
   "구분": 339,
   "시군": "청송군",
-  category: "한식",
+  category: "음식점",
   title: "개미식당",
   address : "경상북도청송군현동면 도평1길 9"
  },
  {
   "구분": 340,
   "시군": "칠곡군",
-  category: "한식",
+  category: "음식점",
   title: "오리와 삼겹살의 만남",
   address : "경상북도칠곡군기산면 행정1길 46-31"
  },
  {
   "구분": 341,
   "시군": "칠곡군",
-  category: "한식",
+  category: "음식점",
   title: "칠곡한우장터",
   address : "경상북도칠곡군약목면 칠곡대로 839"
  },
  {
   "구분": 342,
   "시군": "칠곡군",
-  category: "한식",
+  category: "음식점",
   title: "맑은물소리식당",
   address : "경상북도칠곡군동명면 금암중앙길 71"
  },
  {
   "구분": 343,
   "시군": "칠곡군",
-  category: "한식",
+  category: "음식점",
   title: "별미식당",
   address : "경상북도칠곡군기산면 지산로 961-10"
  },
  {
   "구분": 344,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "생생헤어",
   address : "경상북도포항시 남구남구 대이로46번길15-7"
  },
  {
   "구분": 345,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "그린빌미용실",
   address : "경상북도포항시 남구대이로 138"
  },
  {
   "구분": 346,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "맨컷팅클럽",
   address : "경상북도포항시 남구대이로 101"
  },
  {
   "구분": 347,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "젠틀맨남성컷",
   address : "경상북도포항시 남구효성로 52"
  },
  {
   "구분": 348,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "부포돼지국밥",
   address : "경상북도포항시 남구오천읍 해병대로347번길 34"
  },
  {
   "구분": 349,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "최정미헤어타운",
   address : "경상북도포항시 남구송림로 101"
  },
  {
   "구분": 350,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "백남희미용실",
   address : "경상북도포항시 남구운하로 48번길 12"
  },
  {
   "구분": 351,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "소망미용실",
   address : "경상북도포항시 남구상공로6번길 45"
  },
@@ -2481,42 +2481,42 @@ const gyeongbukContents = [
  {
   "구분": 355,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "꿉소꿉소",
   address : "경상북도포항시 남구오천읍 문덕로 22"
  },
  {
   "구분": 356,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "장터국수",
   address : "경상북도포항시 남구오천읍 장기로 1690번길 16"
  },
  {
   "구분": 357,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "엄청난해장국",
   address : "경상북도포항시 남구오천읍 문덕로 16-1"
  },
  {
   "구분": 358,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "예원미용실",
   address : "경상북도포항시 남구연일읍 중명길 78-6"
  },
  {
   "구분": 359,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "옹심이칼국수",
   address : "경상북도포항시 남구경상북도 포항시 오천읍 해병대로241번길 11"
  },
  {
   "구분": 360,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "내가본미용실",
   address : "경상북도포항시 남구대이로 45번길 15"
  },
@@ -2530,7 +2530,7 @@ const gyeongbukContents = [
  {
   "구분": 362,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "김육환 미용실",
   address : "경상북도포항시 남구남구 대이로 14"
  },
@@ -2544,84 +2544,84 @@ const gyeongbukContents = [
  {
   "구분": 364,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "장미이용실",
   address : "경상북도포항시 남구청림동 청림서길 21"
  },
  {
   "구분": 365,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "미림기사식당",
   address : "경상북도포항시 남구청림동 정몽주로 887"
  },
  {
   "구분": 366,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "고향식당",
   address : "경상북도포항시 남구대송면 제내길 75번길 29-5"
  },
  {
   "구분": 367,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "헤어월드",
   address : "경상북도포항시 남구송림로 107"
  },
  {
   "구분": 368,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "양지식당",
   address : "경상북도포항시 남구송도동 송도로50-1"
  },
  {
   "구분": 369,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "솔밭셀프기사식당",
   address : "경상북도포항시 남구송도동 송도해안길42"
  },
  {
   "구분": 370,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "나미화헤어클럽",
   address : "경상북도포항시 남구운하로 92"
  },
  {
   "구분": 371,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "숯불돼지궁전",
   address : "경상북도포항시 남구송도동 송림로 114"
  },
  {
   "구분": 372,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "이춘자 미용실",
   address : "경상북도포항시 남구송림로22번길 24-1"
  },
  {
   "구분": 373,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "솔향기기사식당",
   address : "경상북도포항시 남구송도동 운하로 233"
  },
  {
   "구분": 374,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "경아미용실",
   address : "경상북도포항시 남구송림로 61"
  },
  {
   "구분": 375,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "성동이용소",
   address : "경상북도포항시 남구상도로 8번길 10"
  },
@@ -2635,35 +2635,35 @@ const gyeongbukContents = [
  {
   "구분": 377,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "고향식당",
   address : "경상북도포항시 남구오천읍 세계길34-2"
  },
  {
   "구분": 378,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "시장집식당",
   address : "경상북도포항시 남구오천읍 장기로1690번길 11"
  },
  {
   "구분": 379,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "미성전통손칼국수",
   address : "경상북도포항시 남구오천읍 장기로 1683-2"
  },
  {
   "구분": 380,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "강희정헤어클럽",
   address : "경상북도포항시 남구오천읍 정몽주로517-2"
  },
  {
   "구분": 381,
   "시군": "포항시 남구",
-  category: "이미용업",
+  category: "이미용",
   title: "머리만들기",
   address : "경상북도포항시 남구연일읍 철강로41번길 54"
  },
@@ -2677,49 +2677,49 @@ const gyeongbukContents = [
  {
   "구분": 383,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "식객",
   address : "경상북도포항시 남구연일읍 중단길4번길31-10"
  },
  {
   "구분": 384,
   "시군": "포항시 남구",
-  category: "한식",
+  category: "음식점",
   title: "감자바위",
   address : "경상북도포항시 남구유강길 9번길 32"
  },
  {
   "구분": 385,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "멋진남자들",
   address : "경상북도포항시 북구장량중앙로46번길 1"
  },
  {
   "구분": 386,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "엘라미용실",
   address : "경상북도포항시 북구삼호로 461-1"
  },
  {
   "구분": 387,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "머리하는날",
   address : "경상북도포항시 북구새천년대로1075번길 6 상가201호"
  },
  {
   "구분": 388,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "남자머리",
   address : "경상북도포항시 북구우창로 20"
  },
  {
   "구분": 389,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "굿맨",
   address : "경상북도포항시 북구아치로 57, 상가동101호 (우현동,화성아파트)"
  },
@@ -2733,21 +2733,21 @@ const gyeongbukContents = [
  {
   "구분": 391,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "경희미용실",
   address : "경상북도포항시 북구서동로47번길 25-4,1층(덕수동)"
  },
  {
   "구분": 392,
   "시군": "포항시 북구",
-  category: "한식",
+  category: "음식점",
   title: "초원밀면 돼지국밥",
   address : "경상북도포항시 북구흥해읍 중성로 52번길 15-1"
  },
  {
   "구분": 393,
   "시군": "포항시 북구",
-  category: "한식",
+  category: "음식점",
   title: "맛나멸치손칼국수",
   address : "경상북도포항시 북구흥해읍 달전로 5번길 1"
  },
@@ -2761,105 +2761,105 @@ const gyeongbukContents = [
  {
   "구분": 395,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "땜통",
   address : "경상북도포항시 북구새천년대로 1075번길 5"
  },
  {
   "구분": 396,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "곽헤어라인",
   address : "경상북도포항시 북구삼호로 471"
  },
  {
   "구분": 397,
   "시군": "포항시 북구",
-  category: "한식",
+  category: "음식점",
   title: "정명식당",
   address : "경상북도포항시 북구해맞이공원길 15"
  },
  {
   "구분": 398,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "김남주헤어샾",
   address : "경상북도포항시 북구삼흥로 69번길 35-2"
  },
  {
   "구분": 399,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "포인트헤어갤러리",
   address : "경상북도포항시 북구새천년대로 1259번길 24-8"
  },
  {
   "구분": 400,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "푸른 미용실",
   address : "경상북도포항시 북구삼흥로 77-11"
  },
  {
   "구분": 401,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "은하수미용실",
   address : "경상북도포항시 북구삼호로 203번길 6-1"
  },
  {
   "구분": 402,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "아가다미용실",
   address : "경상북도포항시 북구두호로 49-1"
  },
  {
   "구분": 403,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "롯데이용소",
   address : "경상북도포항시 북구두호로 19-11"
  },
  {
   "구분": 404,
   "시군": "포항시 북구",
-  category: "한식",
+  category: "음식점",
   title: "미성식당",
   address : "경상북도포항시 북구삼호로 253번길 3"
  },
  {
   "구분": 405,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "미스터임 미용실",
   address : "경상북도포항시 북구새천년대로 1123 217호"
  },
  {
   "구분": 406,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "송영철남성헤어커트",
   address : "경상북도포항시 북구새마을로 3"
  },
  {
   "구분": 407,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "미헤어 코디",
   address : "경상북도포항시 북구중흥로 171번길19"
  },
  {
   "구분": 408,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "선린 미용실",
   address : "경상북도포항시 북구대신로 35번길 7"
  },
  {
   "구분": 409,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "웰스남성헤어",
   address : "경상북도포항시 북구학전로 24-2"
  },
@@ -2873,21 +2873,21 @@ const gyeongbukContents = [
  {
   "구분": 411,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "동백미용실",
   address : "경상북도포항시 북구흥해읍 흥해로 69"
  },
  {
   "구분": 412,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "김은숙헤어세상",
   address : "경상북도포항시 북구흥해읍 중성로32번길 14(1층)"
  },
  {
   "구분": 413,
   "시군": "포항시 북구",
-  category: "이미용업",
+  category: "이미용",
   title: "박윤미헤어모드",
   address : "경상북도포항시 북구흥해읍 흥해로85번길 5"
  }

@@ -4,7 +4,7 @@ const jeonnamContetns =
 [
  {
   "연번": 1,
-  category: "한식",
+  category: "음식점",
   title: "시골집순두부",
   menu: "순두부 백반",
   "가격(원)": "  7,000원 ",
@@ -13,7 +13,7 @@ const jeonnamContetns =
  },
  {
   "연번": 2,
-  category: "한식",
+  category: "음식점",
   title: "시골집순두부",
   "주요품목": "순두부 백반",
   "가격(원)": "  7,000원  ",
@@ -22,7 +22,7 @@ const jeonnamContetns =
  },
  {
   "연번": 3,
-  category: "한식",
+  category: "음식점",
   title: "흥가네 만두분식",
   "주요품목": "바지락 칼국수",
   "가격(원)": " 6000원 ",
@@ -31,7 +31,7 @@ const jeonnamContetns =
  },
  {
   "연번": 4,
-  category: "한식",
+  category: "음식점",
   title: "광양숯불갈비",
   "주요품목": "산채비빔밥",
   "가격(원)": "  5,000원  ",
@@ -40,7 +40,7 @@ const jeonnamContetns =
  },
  {
   "연번": 5,
-  category: "한식",
+  category: "음식점",
   title: "종가집",
   "주요품목": "청국장",
   "가격(원)": "  6,000원  ",
@@ -49,7 +49,7 @@ const jeonnamContetns =
  },
  {
   "연번": 6,
-  category: "한식",
+  category: "음식점",
   title: "푸른솔 아구집",
   "주요품목": "백반",
   "가격(원)": "  8,000원  ",
@@ -58,7 +58,7 @@ const jeonnamContetns =
  },
  {
   "연번": 7,
-  category: "한식",
+  category: "음식점",
   title: "손가네 분식",
   "주요품목": "김밥",
   "가격(원)": "  1,500원  ",
@@ -67,7 +67,7 @@ const jeonnamContetns =
  },
  {
   "연번": 8,
-  category: "한식",
+  category: "음식점",
   title: "원조 가락지",
   "주요품목": "김치찌개",
   "가격(원)": " 6,000원  ",
@@ -76,7 +76,7 @@ const jeonnamContetns =
  },
  {
   "연번": 9,
-  category: "한식",
+  category: "음식점",
   title: "연산순대 국밥",
   "주요품목": "국밥",
   "가격(원)": "  7,000원  ",
@@ -85,7 +85,7 @@ const jeonnamContetns =
  },
  {
   "연번": 10,
-  category: "한식",
+  category: "음식점",
   title: "비파김밥",
   "주요품목": "김치찌개",
   "가격(원)": "  4,500원  ",
@@ -94,7 +94,7 @@ const jeonnamContetns =
  },
  {
   "연번": 11,
-  category: "한식",
+  category: "음식점",
   title: "원조이동갈비",
   "주요품목": "돼지갈비(250g)",
   "가격(원)": "  9,000원  ",
@@ -103,7 +103,7 @@ const jeonnamContetns =
  },
  {
   "연번": 12,
-  category: "한식",
+  category: "음식점",
   title: "유달 손칼국수",
   "주요품목": "바지락 칼국수",
   "가격(원)": "  6,000원  ",
@@ -112,7 +112,7 @@ const jeonnamContetns =
  },
  {
   "연번": 13,
-  category: "중식",
+  category: "음식점",
   title: "차우차우",
   "주요품목": "자장면",
   "가격(원)": " 5,000원  ",
@@ -121,7 +121,7 @@ const jeonnamContetns =
  },
  {
   "연번": 14,
-  category: "중식",
+  category: "음식점",
   title: "삼국지",
   "주요품목": "자장면",
   "가격(원)": " 6,000원  ",
@@ -130,7 +130,7 @@ const jeonnamContetns =
  },
  {
   "연번": 15,
-  category: "중식",
+  category: "음식점",
   title: "루이차우",
   "주요품목": "자장면",
   "가격(원)": "  4,500원  ",
@@ -148,7 +148,7 @@ const jeonnamContetns =
  },
  {
   "연번": 17,
-  category: "이용업",
+  category: "이미용",
   title: "국제 이발관",
   "주요품목": "이발(면도 포함)",
   "가격(원)": "  14,000원  ",
@@ -157,7 +157,7 @@ const jeonnamContetns =
  },
  {
   "연번": 18,
-  category: "미용업",
+  category: "이미용",
   title: "L.벧엘 헤어뉴스",
   "주요품목": "일반컷트",
   "가격(원)": " 8,000원  ",
@@ -166,7 +166,7 @@ const jeonnamContetns =
  },
  {
   "연번": 19,
-  category: "미용업",
+  category: "이미용",
   title: "하나둘 미용실",
   "주요품목": "일반컷트",
   "가격(원)": "  7,000원  ",
@@ -184,7 +184,7 @@ const jeonnamContetns =
  },
  {
   "연번": 21,
-  category: "한식",
+  category: "음식점",
   title: "대성식당",
   "주요품목": "서대회",
   "가격(원)": " 11,000원 ",
@@ -193,7 +193,7 @@ const jeonnamContetns =
  },
  {
   "연번": 22,
-  category: "한식",
+  category: "음식점",
   title: "보경식당",
   "주요품목": "설렁탕 ",
   "가격(원)": " 8,000원 ",
@@ -202,7 +202,7 @@ const jeonnamContetns =
  },
  {
   "연번": 23,
-  category: "한식",
+  category: "음식점",
   title: "대승",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -211,7 +211,7 @@ const jeonnamContetns =
  },
  {
   "연번": 24,
-  category: "한식",
+  category: "음식점",
   title: "하얀집 낙지전문점",
   "주요품목": "산낙지전골",
   "가격(원)": " 15,000원 ",
@@ -220,7 +220,7 @@ const jeonnamContetns =
  },
  {
   "연번": 25,
-  category: "한식",
+  category: "음식점",
   title: "한주식당",
   "주요품목": "김치찌개",
   "가격(원)": " 6,000원 ",
@@ -229,7 +229,7 @@ const jeonnamContetns =
  },
  {
   "연번": 26,
-  category: "한식",
+  category: "음식점",
   title: "장어마을",
   "주요품목": "장어탕",
   "가격(원)": " 10,000원 ",
@@ -238,7 +238,7 @@ const jeonnamContetns =
  },
  {
   "연번": 27,
-  category: "중식",
+  category: "음식점",
   title: "장강",
   "주요품목": "자장면 ",
   "가격(원)": " 3,000원 ",
@@ -247,7 +247,7 @@ const jeonnamContetns =
  },
  {
   "연번": 28,
-  category: "한식",
+  category: "음식점",
   title: "음식천국",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -256,7 +256,7 @@ const jeonnamContetns =
  },
  {
   "연번": 29,
-  category: "한식",
+  category: "음식점",
   title: "소호식당",
   "주요품목": "갈치조림",
   "가격(원)": " 10,000원 ",
@@ -265,7 +265,7 @@ const jeonnamContetns =
  },
  {
   "연번": 30,
-  category: "한식",
+  category: "음식점",
   title: "정성식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -274,7 +274,7 @@ const jeonnamContetns =
  },
  {
   "연번": 31,
-  category: "한식",
+  category: "음식점",
   title: "대수식당",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -283,7 +283,7 @@ const jeonnamContetns =
  },
  {
   "연번": 32,
-  category: "한식",
+  category: "음식점",
   title: "손맛짱",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -292,7 +292,7 @@ const jeonnamContetns =
  },
  {
   "연번": 33,
-  category: "한식",
+  category: "음식점",
   title: "신삼복식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -301,7 +301,7 @@ const jeonnamContetns =
  },
  {
   "연번": 34,
-  category: "한식",
+  category: "음식점",
   title: "진남체육공원식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -310,7 +310,7 @@ const jeonnamContetns =
  },
  {
   "연번": 35,
-  category: "한식",
+  category: "음식점",
   title: "봉황식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -319,7 +319,7 @@ const jeonnamContetns =
  },
  {
   "연번": 36,
-  category: "한식",
+  category: "음식점",
   title: "엑스포식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -328,7 +328,7 @@ const jeonnamContetns =
  },
  {
   "연번": 37,
-  category: "한식",
+  category: "음식점",
   title: "시원식당",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -337,7 +337,7 @@ const jeonnamContetns =
  },
  {
   "연번": 38,
-  category: "한식",
+  category: "음식점",
   title: "돈사랑",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -346,7 +346,7 @@ const jeonnamContetns =
  },
  {
   "연번": 39,
-  category: "한식",
+  category: "음식점",
   title: "해태식당",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -355,7 +355,7 @@ const jeonnamContetns =
  },
  {
   "연번": 40,
-  category: "한식",
+  category: "음식점",
   title: "두레",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -364,7 +364,7 @@ const jeonnamContetns =
  },
  {
   "연번": 41,
-  category: "한식",
+  category: "음식점",
   title: "여명",
   "주요품목": "추어탕",
   "가격(원)": " 7,000원 ",
@@ -373,7 +373,7 @@ const jeonnamContetns =
  },
  {
   "연번": 42,
-  category: "한식",
+  category: "음식점",
   title: "소문난손칼국수",
   "주요품목": "칼국수",
   "가격(원)": " 4,000원 ",
@@ -382,7 +382,7 @@ const jeonnamContetns =
  },
  {
   "연번": 43,
-  category: "한식",
+  category: "음식점",
   title: "맛자랑죽집",
   "주요품목": "팥죽",
   "가격(원)": " 5,000원 ",
@@ -391,7 +391,7 @@ const jeonnamContetns =
  },
  {
   "연번": 44,
-  category: "양식",
+  category: "이미용",
   title: "돈까스천국",
   "주요품목": "돈까스",
   "가격(원)": " 8,000원 ",
@@ -400,7 +400,7 @@ const jeonnamContetns =
  },
  {
   "연번": 45,
-  category: "중식",
+  category: "음식점",
   title: "청해루",
   "주요품목": "자장면",
   "가격(원)": " 4,000원 ",
@@ -409,7 +409,7 @@ const jeonnamContetns =
  },
  {
   "연번": 46,
-  category: "한식",
+  category: "음식점",
   title: "아구회관",
   "주요품목": "아귀찜(소)",
   "가격(원)": " 21,000웡 ",
@@ -418,7 +418,7 @@ const jeonnamContetns =
  },
  {
   "연번": 47,
-  category: "한식",
+  category: "음식점",
   title: "모범식당",
   "주요품목": "게장백반",
   "가격(원)": " 10,000원 ",
@@ -427,7 +427,7 @@ const jeonnamContetns =
  },
  {
   "연번": 48,
-  category: "양식",
+  category: "이미용",
   title: "보스톤",
   "주요품목": "돈가스",
   "가격(원)": " 8,000원 ",
@@ -436,7 +436,7 @@ const jeonnamContetns =
  },
  {
   "연번": 49,
-  category: "양식",
+  category: "이미용",
   title: "올리브",
   "주요품목": "돈가스",
   "가격(원)": " 9,000원 ",
@@ -445,7 +445,7 @@ const jeonnamContetns =
  },
  {
   "연번": 50,
-  category: "미용업",
+  category: "이미용",
   title: "원경미용실",
   "주요품목": "커트",
   "가격(원)": " 6,000원 ",
@@ -454,7 +454,7 @@ const jeonnamContetns =
  },
  {
   "연번": 51,
-  category: "미용업",
+  category: "이미용",
   title: "상하미용실",
   "주요품목": "커트",
   "가격(원)": " 8,000원 ",
@@ -463,7 +463,7 @@ const jeonnamContetns =
  },
  {
   "연번": 52,
-  category: "미용업",
+  category: "이미용",
   title: "뉴미인",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -472,7 +472,7 @@ const jeonnamContetns =
  },
  {
   "연번": 53,
-  category: "이용업",
+  category: "이미용",
   title: "문수이용원",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -481,7 +481,7 @@ const jeonnamContetns =
  },
  {
   "연번": 54,
-  category: "이용업",
+  category: "이미용",
   title: "새로나이용원",
   "주요품목": "커트",
   "가격(원)": " 8,000원 ",
@@ -499,7 +499,7 @@ const jeonnamContetns =
  },
  {
   "연번": 56,
-  category: "음식(기타)",
+  category: "이미용",
   title: "교동커피집",
   "주요품목": "아메리카노",
   "가격(원)": " 2,000원 ",
@@ -508,7 +508,7 @@ const jeonnamContetns =
  },
  {
   "연번": 57,
-  category: "한식",
+  category: "음식점",
   title: "짱구게장",
   "주요품목": "게장백반",
   "가격(원)": " 8,000원 ",
@@ -517,7 +517,7 @@ const jeonnamContetns =
  },
  {
   "연번": 58,
-  category: "한식",
+  category: "음식점",
   title: "구봉국수",
   "주요품목": "잔치국수",
   "가격(원)": " 4,000원 ",
@@ -526,7 +526,7 @@ const jeonnamContetns =
  },
  {
   "연번": 59,
-  category: "한식",
+  category: "음식점",
   title: "만두콩이",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -535,7 +535,7 @@ const jeonnamContetns =
  },
  {
   "연번": 60,
-  category: "한식",
+  category: "음식점",
   title: "미가칼국수",
   "주요품목": "해물칼국수",
   "가격(원)": " 6,000원 ",
@@ -544,7 +544,7 @@ const jeonnamContetns =
  },
  {
   "연번": 61,
-  category: "한식",
+  category: "음식점",
   title: "가든한식뷔페",
   "주요품목": "한식뷔페",
   "가격(원)": " 8,000원 ",
@@ -553,7 +553,7 @@ const jeonnamContetns =
  },
  {
   "연번": 62,
-  category: "한식",
+  category: "음식점",
   title: "맛으로 여는 행복",
   "주요품목": "묵은지김치찌개",
   "가격(원)": " 7,000원 ",
@@ -562,7 +562,7 @@ const jeonnamContetns =
  },
  {
   "연번": 63,
-  category: "한식",
+  category: "음식점",
   title: "장수식당",
   "주요품목": "게장백반",
   "가격(원)": " 10,000원 ",
@@ -571,7 +571,7 @@ const jeonnamContetns =
  },
  {
   "연번": 64,
-  category: "음식(기타)",
+  category: "이미용",
   title: "커피에스토",
   "주요품목": "아메리카노",
   "가격(원)": " 2,500원 ",
@@ -580,7 +580,7 @@ const jeonnamContetns =
  },
  {
   "연번": 65,
-  category: "미용업",
+  category: "이미용",
   title: "모던미용실",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -589,7 +589,7 @@ const jeonnamContetns =
  },
  {
   "연번": 66,
-  category: "한식",
+  category: "음식점",
   title: "보물섬",
   "주요품목": "전복죽",
   "가격(원)": " 8,000원 ",
@@ -598,7 +598,7 @@ const jeonnamContetns =
  },
  {
   "연번": 67,
-  category: "한식",
+  category: "음식점",
   title: "돈뗄",
   "주요품목": "수제돈가스",
   "가격(원)": " 6,500원 ",
@@ -607,7 +607,7 @@ const jeonnamContetns =
  },
  {
   "연번": 68,
-  category: "한식",
+  category: "음식점",
   title: "소반",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -616,7 +616,7 @@ const jeonnamContetns =
  },
  {
   "연번": 69,
-  category: "한식",
+  category: "음식점",
   title: "텃골수육국밥",
   "주요품목": "국밥",
   "가격(원)": " 6,000원 ",
@@ -625,7 +625,7 @@ const jeonnamContetns =
  },
  {
   "연번": 70,
-  category: "한식",
+  category: "음식점",
   title: "뽀빠이국밥",
   "주요품목": "국밥",
   "가격(원)": " 6,000원 ",
@@ -634,7 +634,7 @@ const jeonnamContetns =
  },
  {
   "연번": 71,
-  category: "한식",
+  category: "음식점",
   title: "석천식당",
   "주요품목": "불고기게장백반",
   "가격(원)": " 10,000원 ",
@@ -643,7 +643,7 @@ const jeonnamContetns =
  },
  {
   "연번": 72,
-  category: "한식",
+  category: "음식점",
   title: "이순신갈비탕",
   "주요품목": "이순신갈비탕",
   "가격(원)": " 10,000원 ",
@@ -652,7 +652,7 @@ const jeonnamContetns =
  },
  {
   "연번": 73,
-  category: "한식",
+  category: "음식점",
   title: "은수저",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -661,7 +661,7 @@ const jeonnamContetns =
  },
  {
   "연번": 74,
-  category: "한식",
+  category: "음식점",
   title: "우리식당",
   "주요품목": "장어탕",
   "가격(원)": " 10,000원 ",
@@ -670,7 +670,7 @@ const jeonnamContetns =
  },
  {
   "연번": 75,
-  category: "한식",
+  category: "음식점",
   title: "덕충식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -679,7 +679,7 @@ const jeonnamContetns =
  },
  {
   "연번": 76,
-  category: "한식",
+  category: "음식점",
   title: "이화식당",
   "주요품목": "게장정식",
   "가격(원)": " 12,000원 ",
@@ -688,7 +688,7 @@ const jeonnamContetns =
  },
  {
   "연번": 77,
-  category: "미용업",
+  category: "이미용",
   title: "센스미용실",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -697,7 +697,7 @@ const jeonnamContetns =
  },
  {
   "연번": 78,
-  category: "이용업",
+  category: "이미용",
   title: "남성커트클럽 블루가이",
   "주요품목": "커트",
   "가격(원)": " 9,000원 ",
@@ -706,7 +706,7 @@ const jeonnamContetns =
  },
  {
   "연번": 79,
-  category: "한식",
+  category: "음식점",
   title: "대명통장어탕",
   "주요품목": "통장어탕",
   "가격(원)": " 13,000원 ",
@@ -715,7 +715,7 @@ const jeonnamContetns =
  },
  {
   "연번": 80,
-  category: "한식",
+  category: "음식점",
   title: "참좋은식당",
   "주요품목": "순두부찌개",
   "가격(원)": " 6,000원 ",
@@ -724,7 +724,7 @@ const jeonnamContetns =
  },
  {
   "연번": 81,
-  category: "한식",
+  category: "음식점",
   title: "수라식당",
   "주요품목": "짱뚱이탕",
   "가격(원)": " 8,000원 ",
@@ -733,7 +733,7 @@ const jeonnamContetns =
  },
  {
   "연번": 82,
-  category: "한식",
+  category: "음식점",
   title: "고가네",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -742,7 +742,7 @@ const jeonnamContetns =
  },
  {
   "연번": 83,
-  category: "한식",
+  category: "음식점",
   title: "청해식당",
   "주요품목": "통장어구이(1인)",
   "가격(원)": " 12,000원 ",
@@ -751,7 +751,7 @@ const jeonnamContetns =
  },
  {
   "연번": 84,
-  category: "한식",
+  category: "음식점",
   title: "3코스식당",
   "주요품목": "생선회(4인)",
   "가격(원)": 60000,
@@ -760,7 +760,7 @@ const jeonnamContetns =
  },
  {
   "연번": 85,
-  category: "미용업",
+  category: "이미용",
   title: "송주미용실",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -769,7 +769,7 @@ const jeonnamContetns =
  },
  {
   "연번": 86,
-  category: "미용업",
+  category: "이미용",
   title: "훈이 헤어샵",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -778,7 +778,7 @@ const jeonnamContetns =
  },
  {
   "연번": 87,
-  category: "미용업",
+  category: "이미용",
   title: "대박미용실",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -787,7 +787,7 @@ const jeonnamContetns =
  },
  {
   "연번": 88,
-  category: "미용업",
+  category: "이미용",
   title: "장미용실",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -796,7 +796,7 @@ const jeonnamContetns =
  },
  {
   "연번": 89,
-  category: "미용업",
+  category: "이미용",
   title: "개성미용실",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -805,7 +805,7 @@ const jeonnamContetns =
  },
  {
   "연번": 90,
-  category: "한식",
+  category: "음식점",
   title: "물망초식당",
   "주요품목": "삼계탕",
   "가격(원)": " 13,000원 ",
@@ -814,7 +814,7 @@ const jeonnamContetns =
  },
  {
   "연번": 91,
-  category: "한식",
+  category: "음식점",
   title: "구)한재마차갈비",
   "주요품목": "삼겹살(200g)",
   "가격(원)": " 12,000원 ",
@@ -823,7 +823,7 @@ const jeonnamContetns =
  },
  {
   "연번": 92,
-  category: "한식",
+  category: "음식점",
   title: "여궁식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -832,7 +832,7 @@ const jeonnamContetns =
  },
  {
   "연번": 93,
-  category: "한식",
+  category: "음식점",
   title: "화물식당",
   "주요품목": "서대회",
   "가격(원)": " 10,000원 ",
@@ -841,7 +841,7 @@ const jeonnamContetns =
  },
  {
   "연번": 94,
-  category: "미용업",
+  category: "이미용",
   title: "톡헤어",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -850,7 +850,7 @@ const jeonnamContetns =
  },
  {
   "연번": 95,
-  category: "한식",
+  category: "음식점",
   title: "화양기사식당",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -859,7 +859,7 @@ const jeonnamContetns =
  },
  {
   "연번": 96,
-  category: "한식",
+  category: "음식점",
   title: "밥상차려주는 집",
   "주요품목": "김치찌개",
   "가격(원)": " 5,000원 ",
@@ -868,7 +868,7 @@ const jeonnamContetns =
  },
  {
   "연번": 97,
-  category: "한식",
+  category: "음식점",
   title: "소문난밥집",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -877,7 +877,7 @@ const jeonnamContetns =
  },
  {
   "연번": 98,
-  category: "한식",
+  category: "음식점",
   title: "구포국수",
   "주요품목": "잔치국수",
   "가격(원)": " 3,000원 ",
@@ -886,7 +886,7 @@ const jeonnamContetns =
  },
  {
   "연번": 99,
-  category: "이용업",
+  category: "이미용",
   title: "형제이용원",
   "주요품목": "컷트",
   "가격(원)": " 9,000원 ",
@@ -895,7 +895,7 @@ const jeonnamContetns =
  },
  {
   "연번": 100,
-  category: "이용업",
+  category: "이미용",
   title: "우정이용원",
   "주요품목": "컷트",
   "가격(원)": " 7,000원 ",
@@ -913,7 +913,7 @@ const jeonnamContetns =
  },
  {
   "연번": 102,
-  category: "한식",
+  category: "음식점",
   title: "뚱이짱어",
   "주요품목": "장어탕",
   "가격(원)": " 10,000원 ",
@@ -922,7 +922,7 @@ const jeonnamContetns =
  },
  {
   "연번": 103,
-  category: "한식",
+  category: "음식점",
   title: "미리내",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -931,7 +931,7 @@ const jeonnamContetns =
  },
  {
   "연번": 104,
-  category: "한식",
+  category: "음식점",
   title: "밥도둑",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -940,7 +940,7 @@ const jeonnamContetns =
  },
  {
   "연번": 105,
-  category: "전남",
+  category: "음식점",
   title: "여수시",
   "주요품목": "한려햄버거",
   "가격(원)": " 3,000원 ",
@@ -949,7 +949,7 @@ const jeonnamContetns =
  },
  {
   "연번": 106,
-  category: "전남",
+  category: "음식점",
   title: "여수시",
   "주요품목": "국밥",
   "가격(원)": " 6,000원 ",
@@ -958,7 +958,7 @@ const jeonnamContetns =
  },
  {
   "연번": 107,
-  category: "전남",
+  category: "음식점",
   title: "여수시",
   "주요품목": "게장백반",
   "가격(원)": " 9,000원 ",
@@ -967,7 +967,7 @@ const jeonnamContetns =
  },
  {
   "연번": 108,
-  category: "전남",
+  category: "음식점",
   title: "여수시",
   "주요품목": "추어탕",
   "가격(원)": " 6,000원 ",
@@ -976,7 +976,7 @@ const jeonnamContetns =
  },
  {
   "연번": 109,
-  category: "전남",
+  category: "음식점",
   title: "여수시",
   "주요품목": "달곰함박",
   "가격(원)": " 8,500원 ",
@@ -985,7 +985,7 @@ const jeonnamContetns =
  },
  {
   "연번": 110,
-  category: "한식",
+  category: "음식점",
   title: "향촌식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -994,7 +994,7 @@ const jeonnamContetns =
  },
  {
   "연번": 111,
-  category: "한식",
+  category: "음식점",
   title: "또와줘국밥",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1003,7 +1003,7 @@ const jeonnamContetns =
  },
  {
   "연번": 112,
-  category: "한식",
+  category: "음식점",
   title: "세광식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1012,7 +1012,7 @@ const jeonnamContetns =
  },
  {
   "연번": 113,
-  category: "한식",
+  category: "음식점",
   title: "괴목국밥",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1021,7 +1021,7 @@ const jeonnamContetns =
  },
  {
   "연번": 114,
-  category: "한식",
+  category: "음식점",
   title: "일오삼 우리식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1030,7 +1030,7 @@ const jeonnamContetns =
  },
  {
   "연번": 115,
-  category: "한식",
+  category: "음식점",
   title: "황전식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1039,7 +1039,7 @@ const jeonnamContetns =
  },
  {
   "연번": 116,
-  category: "한식",
+  category: "음식점",
   title: "순흥식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1048,7 +1048,7 @@ const jeonnamContetns =
  },
  {
   "연번": 117,
-  category: "한식",
+  category: "음식점",
   title: "쌍암식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1057,7 +1057,7 @@ const jeonnamContetns =
  },
  {
   "연번": 118,
-  category: "한식",
+  category: "음식점",
   title: "성수식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1066,7 +1066,7 @@ const jeonnamContetns =
  },
  {
   "연번": 119,
-  category: "한식",
+  category: "음식점",
   title: "신화식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1075,7 +1075,7 @@ const jeonnamContetns =
  },
  {
   "연번": 120,
-  category: "한식",
+  category: "음식점",
   title: "순복식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1084,7 +1084,7 @@ const jeonnamContetns =
  },
  {
   "연번": 121,
-  category: "한식",
+  category: "음식점",
   title: "한우식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1093,7 +1093,7 @@ const jeonnamContetns =
  },
  {
   "연번": 122,
-  category: "한식",
+  category: "음식점",
   title: "제일식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1102,7 +1102,7 @@ const jeonnamContetns =
  },
  {
   "연번": 123,
-  category: "한식",
+  category: "음식점",
   title: "살찐식당",
   "주요품목": "돼지국밥",
   "가격(원)": "7,000원",
@@ -1111,7 +1111,7 @@ const jeonnamContetns =
  },
  {
   "연번": 124,
-  category: "이용업",
+  category: "이미용",
   title: "봉문이용원",
   "주요품목": "남성 커트",
   "가격(원)": "5,000원",
@@ -1120,7 +1120,7 @@ const jeonnamContetns =
  },
  {
   "연번": 125,
-  category: "한식",
+  category: "음식점",
   title: "정일식당",
   "주요품목": "김치찌개",
   "가격(원)": "6,000원",
@@ -1129,7 +1129,7 @@ const jeonnamContetns =
  },
  {
   "연번": 126,
-  category: "한식",
+  category: "음식점",
   title: "진양회수산",
   "주요품목": "백반정식",
   "가격(원)": "7,000원",
@@ -1138,7 +1138,7 @@ const jeonnamContetns =
  },
  {
   "연번": 127,
-  category: "한식",
+  category: "음식점",
   title: "고바우휴게정",
   "주요품목": "백반정식",
   "가격(원)": "7,000원",
@@ -1147,7 +1147,7 @@ const jeonnamContetns =
  },
  {
   "연번": 128,
-  category: "중식",
+  category: "음식점",
   title: "시장통짜장",
   "주요품목": "짜장",
   "가격(원)": " 3,000원 ",
@@ -1156,7 +1156,7 @@ const jeonnamContetns =
  },
  {
   "연번": 129,
-  category: "한식",
+  category: "음식점",
   title: "소가네 추어탕",
   "주요품목": "추어탕",
   "가격(원)": "6,000원",
@@ -1165,7 +1165,7 @@ const jeonnamContetns =
  },
  {
   "연번": 130,
-  category: "한식",
+  category: "음식점",
   title: "진화팥죽",
   "주요품목": "팥죽",
   "가격(원)": 4000,
@@ -1174,7 +1174,7 @@ const jeonnamContetns =
  },
  {
   "연번": 131,
-  category: "한식",
+  category: "음식점",
   title: "옛날팥죽",
   "주요품목": "팥죽",
   "가격(원)": 5000,
@@ -1183,7 +1183,7 @@ const jeonnamContetns =
  },
  {
   "연번": 132,
-  category: "한식",
+  category: "음식점",
   title: "고향집",
   "주요품목": "팥죽",
   "가격(원)": 4000,
@@ -1192,7 +1192,7 @@ const jeonnamContetns =
  },
  {
   "연번": 133,
-  category: "한식",
+  category: "음식점",
   title: "관광식당",
   "주요품목": "백반정식",
   "가격(원)": 9000,
@@ -1201,7 +1201,7 @@ const jeonnamContetns =
  },
  {
   "연번": 134,
-  category: "한식",
+  category: "음식점",
   title: "순천식당",
   "주요품목": "산채비빔밥",
   "가격(원)": 9000,
@@ -1210,7 +1210,7 @@ const jeonnamContetns =
  },
  {
   "연번": 135,
-  category: "한식",
+  category: "음식점",
   title: "벌교대중음식점",
   "주요품목": "산채비빔밥",
   "가격(원)": 9000,
@@ -1219,7 +1219,7 @@ const jeonnamContetns =
  },
  {
   "연번": 136,
-  category: "한식",
+  category: "음식점",
   title: "송광사 식당",
   "주요품목": "백반정식",
   "가격(원)": 10000,
@@ -1228,7 +1228,7 @@ const jeonnamContetns =
  },
  {
   "연번": 137,
-  category: "한식",
+  category: "음식점",
   title: "금광식당",
   "주요품목": "백반정식",
   "가격(원)": 10000,
@@ -1237,7 +1237,7 @@ const jeonnamContetns =
  },
  {
   "연번": 138,
-  category: "한식",
+  category: "음식점",
   title: "길상식당",
   "주요품목": "산채비빔밥",
   "가격(원)": "9,000원",
@@ -1246,7 +1246,7 @@ const jeonnamContetns =
  },
  {
   "연번": 139,
-  category: "한식",
+  category: "음식점",
   title: "웃장가마솥국밥",
   "주요품목": "국밥",
   "가격(원)": "7,000원",
@@ -1264,7 +1264,7 @@ const jeonnamContetns =
  },
  {
   "연번": 141,
-  category: "한식",
+  category: "음식점",
   title: "한남식당",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -1273,7 +1273,7 @@ const jeonnamContetns =
  },
  {
   "연번": 142,
-  category: "한식",
+  category: "음식점",
   title: "연화식당",
   "주요품목": "백반",
   "가격(원)": " 8,000원 ",
@@ -1282,7 +1282,7 @@ const jeonnamContetns =
  },
  {
   "연번": 143,
-  category: "한식",
+  category: "음식점",
   title: "목사골오리탕",
   "주요품목": "뚝배기 오리탕",
   "가격(원)": " 7,000원 ",
@@ -1291,7 +1291,7 @@ const jeonnamContetns =
  },
  {
   "연번": 144,
-  category: "미용업",
+  category: "이미용",
   title: "성북헤어\n갤러리",
   "주요품목": "성인커트(노약자)",
   "가격(원)": " 5,000원 ",
@@ -1300,7 +1300,7 @@ const jeonnamContetns =
  },
  {
   "연번": 145,
-  category: "미용업",
+  category: "이미용",
   title: "핑크헤어샵",
   "주요품목": "성인커트(샴푸미실시)",
   "가격(원)": " 4,000원 ",
@@ -1309,7 +1309,7 @@ const jeonnamContetns =
  },
  {
   "연번": 146,
-  category: "한식",
+  category: "음식점",
   title: "나주한식뷔페",
   "주요품목": "뷔페",
   "가격(원)": " 10,000원 ",
@@ -1318,7 +1318,7 @@ const jeonnamContetns =
  },
  {
   "연번": 147,
-  category: "한식",
+  category: "음식점",
   title: "문암가든",
   "주요품목": "청국장찌개",
   "가격(원)": " 7,000원 ",
@@ -1327,7 +1327,7 @@ const jeonnamContetns =
  },
  {
   "연번": 148,
-  category: "한식",
+  category: "음식점",
   title: "소문난식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -1336,7 +1336,7 @@ const jeonnamContetns =
  },
  {
   "연번": 149,
-  category: "한식",
+  category: "음식점",
   title: "오리정가",
   "주요품목": "점심특선 오리 샤브샤브",
   "가격(원)": " 6,000원 ",
@@ -1345,7 +1345,7 @@ const jeonnamContetns =
  },
  {
   "연번": 150,
-  category: "한식",
+  category: "음식점",
   title: "석기네 한우명가",
   "주요품목": "익힌비빔밥",
   "가격(원)": " 6,000원 ",
@@ -1354,7 +1354,7 @@ const jeonnamContetns =
  },
  {
   "연번": 151,
-  category: "한식",
+  category: "음식점",
   title: "두레박 협동조합",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -1363,7 +1363,7 @@ const jeonnamContetns =
  },
  {
   "연번": 152,
-  category: "한식",
+  category: "음식점",
   title: "진미국밥",
   "주요품목": "진미국밥",
   "가격(원)": " 6,000원 ",
@@ -1372,7 +1372,7 @@ const jeonnamContetns =
  },
  {
   "연번": 153,
-  category: "한식",
+  category: "음식점",
   title: "시골통돼지 볶음삼결살",
   "주요품목": "김치찌개",
   "가격(원)": " 7,000원 ",
@@ -1381,7 +1381,7 @@ const jeonnamContetns =
  },
  {
   "연번": 154,
-  category: "한식",
+  category: "음식점",
   title: "우촌",
   "주요품목": "소갈비살(1kg)",
   "가격(원)": " 59,000원 ",
@@ -1390,7 +1390,7 @@ const jeonnamContetns =
  },
  {
   "연번": 155,
-  category: "한식",
+  category: "음식점",
   title: "돈가스클릭",
   "주요품목": "김치찌개",
   "가격(원)": " 5,000원 ",
@@ -1399,7 +1399,7 @@ const jeonnamContetns =
  },
  {
   "연번": 156,
-  category: "한식",
+  category: "음식점",
   title: "사랑분식",
   "주요품목": "김치찌개",
   "가격(원)": " 5,000원 ",
@@ -1408,7 +1408,7 @@ const jeonnamContetns =
  },
  {
   "연번": 157,
-  category: "한식",
+  category: "음식점",
   title: "엄마손김밥",
   "주요품목": "김치찌개",
   "가격(원)": " 5,000원 ",
@@ -1417,7 +1417,7 @@ const jeonnamContetns =
  },
  {
   "연번": 158,
-  category: "한식",
+  category: "음식점",
   title: "왕창국밥",
   "주요품목": "국 밥",
   "가격(원)": " 5,000원 ",
@@ -1426,7 +1426,7 @@ const jeonnamContetns =
  },
  {
   "연번": 159,
-  category: "한식",
+  category: "음식점",
   title: "성원국밥",
   "주요품목": "머리국밥",
   "가격(원)": " 6,000원 ",
@@ -1435,7 +1435,7 @@ const jeonnamContetns =
  },
  {
   "연번": 160,
-  category: "한식",
+  category: "음식점",
   title: "풍년보리밥",
   "주요품목": "장어탕",
   "가격(원)": " 8,000원 ",
@@ -1444,7 +1444,7 @@ const jeonnamContetns =
  },
  {
   "연번": 161,
-  category: "중식",
+  category: "음식점",
   title: "청해루",
   "주요품목": "짜장면",
   "가격(원)": " 4,500원 ",
@@ -1453,7 +1453,7 @@ const jeonnamContetns =
  },
  {
   "연번": 162,
-  category: "중식",
+  category: "음식점",
   title: "한국반점",
   "주요품목": "짜장면",
   "가격(원)": 4000,
@@ -1462,7 +1462,7 @@ const jeonnamContetns =
  },
  {
   "연번": 163,
-  category: "한식",
+  category: "음식점",
   title: "천하식당",
   "주요품목": "삼겹살",
   "가격(원)": " 10,000원 ",
@@ -1471,7 +1471,7 @@ const jeonnamContetns =
  },
  {
   "연번": 164,
-  category: "한식",
+  category: "음식점",
   title: "전통갈비촌",
   "주요품목": "삼겹살",
   "가격(원)": " 8,000원 ",
@@ -1480,7 +1480,7 @@ const jeonnamContetns =
  },
  {
   "연번": 165,
-  category: "한식",
+  category: "음식점",
   title: "어부횟집",
   "주요품목": "우럭회",
   "가격(원)": " 18,000원 ",
@@ -1489,7 +1489,7 @@ const jeonnamContetns =
  },
  {
   "연번": 166,
-  category: "한식",
+  category: "음식점",
   title: "장수국밥",
   "주요품목": "머리국밥",
   "가격(원)": " 6,000원 ",
@@ -1498,7 +1498,7 @@ const jeonnamContetns =
  },
  {
   "연번": 167,
-  category: "중식",
+  category: "음식점",
   title: "시장중화요리",
   "주요품목": "짜장면 ",
   "가격(원)": " 4,000원 ",
@@ -1507,7 +1507,7 @@ const jeonnamContetns =
  },
  {
   "연번": 168,
-  category: "한식",
+  category: "음식점",
   title: "판문점",
   "주요품목": "돼지갈비",
   "가격(원)": 9000,
@@ -1516,7 +1516,7 @@ const jeonnamContetns =
  },
  {
   "연번": 169,
-  category: "한식",
+  category: "음식점",
   title: "삼거리식당",
   "주요품목": "장어탕",
   "가격(원)": " 7,000원 ",
@@ -1525,7 +1525,7 @@ const jeonnamContetns =
  },
  {
   "연번": 170,
-  category: "한식",
+  category: "음식점",
   title: "이모네아구찜",
   "주요품목": "삼겹살",
   "가격(원)": " 8,000원 ",
@@ -1534,7 +1534,7 @@ const jeonnamContetns =
  },
  {
   "연번": 171,
-  category: "한식",
+  category: "음식점",
   title: "계절식당",
   "주요품목": "삼겹살",
   "가격(원)": " 9,000원 ",
@@ -1543,7 +1543,7 @@ const jeonnamContetns =
  },
  {
   "연번": 172,
-  category: "한식",
+  category: "음식점",
   title: "신진미정",
   "주요품목": "돼지갈비",
   "가격(원)": " 8,000원 ",
@@ -1552,7 +1552,7 @@ const jeonnamContetns =
  },
  {
   "연번": 173,
-  category: "한식",
+  category: "음식점",
   title: "예촌식당",
   "주요품목": "생선구이",
   "가격(원)": " 7,000원 ",
@@ -1561,7 +1561,7 @@ const jeonnamContetns =
  },
  {
   "연번": 174,
-  category: "미용업",
+  category: "이미용",
   title: "서연미 미용실",
   "주요품목": "커 트",
   "가격(원)": " 10,000원 ",
@@ -1570,7 +1570,7 @@ const jeonnamContetns =
  },
  {
   "연번": 175,
-  category: "미용업",
+  category: "이미용",
   title: "헤어샵 지윤",
   "주요품목": "커 트",
   "가격(원)": " 10,000원 ",
@@ -1624,7 +1624,7 @@ const jeonnamContetns =
  },
  {
   "연번": 181,
-  category: "한식",
+  category: "음식점",
   title: "멍게네",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -1633,7 +1633,7 @@ const jeonnamContetns =
  },
  {
   "연번": 182,
-  category: "한식",
+  category: "음식점",
   title: "창덕용마루",
   "주요품목": "삼겹살",
   "가격(원)": " 10,000원 ",
@@ -1642,7 +1642,7 @@ const jeonnamContetns =
  },
  {
   "연번": 183,
-  category: "한식",
+  category: "음식점",
   title: "장성금생초국밥",
   "주요품목": "콩나물국밥",
   "가격(원)": " 5,000원 ",
@@ -1651,7 +1651,7 @@ const jeonnamContetns =
  },
  {
   "연번": 184,
-  category: "중식",
+  category: "음식점",
   title: "명궁중화요리",
   "주요품목": "짜장면",
   "가격(원)": " 3,500원 ",
@@ -1660,7 +1660,7 @@ const jeonnamContetns =
  },
  {
   "연번": 185,
-  category: "한식",
+  category: "음식점",
   title: "몽돌이산꼼장어",
   "주요품목": "삼겹살 ",
   "가격(원)": " 9,000원 ",
@@ -1669,7 +1669,7 @@ const jeonnamContetns =
  },
  {
   "연번": 186,
-  category: "한식",
+  category: "음식점",
   title: "영진식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -1678,7 +1678,7 @@ const jeonnamContetns =
  },
  {
   "연번": 187,
-  category: "한식",
+  category: "음식점",
   title: "금호음식점",
   "주요품목": "김치찌개",
   "가격(원)": " 5,500원 ",
@@ -1687,7 +1687,7 @@ const jeonnamContetns =
  },
  {
   "연번": 188,
-  category: "한식",
+  category: "음식점",
   title: "마포식당",
   "주요품목": "정식",
   "가격(원)": " 7,000원 ",
@@ -1696,7 +1696,7 @@ const jeonnamContetns =
  },
  {
   "연번": 189,
-  category: "한식",
+  category: "음식점",
   title: "일번지횟집",
   "주요품목": "생선미역국",
   "가격(원)": " 7,000원 ",
@@ -1705,7 +1705,7 @@ const jeonnamContetns =
  },
  {
   "연번": 190,
-  category: "한식",
+  category: "음식점",
   title: "원진삼계탕",
   "주요품목": "삼계탕",
   "가격(원)": " 12,000원 ",
@@ -1714,7 +1714,7 @@ const jeonnamContetns =
  },
  {
   "연번": 191,
-  category: "한식",
+  category: "음식점",
   title: "조선옥숯불갈비",
   "주요품목": "돼지갈비",
   "가격(원)": " 9,000원 ",
@@ -1723,7 +1723,7 @@ const jeonnamContetns =
  },
  {
   "연번": 192,
-  category: "한식",
+  category: "음식점",
   title: "매화향",
   "주요품목": "퓨전한정식",
   "가격(원)": " 13,000원 ",
@@ -1732,7 +1732,7 @@ const jeonnamContetns =
  },
  {
   "연번": 193,
-  category: "한식",
+  category: "음식점",
   title: "마포집",
   "주요품목": "비빔밥",
   "가격(원)": " 6,000원 ",
@@ -1741,7 +1741,7 @@ const jeonnamContetns =
  },
  {
   "연번": 194,
-  category: "한식",
+  category: "음식점",
   title: "대호돼지국밥",
   "주요품목": "돼지국밥",
   "가격(원)": " 6,000원 ",
@@ -1750,7 +1750,7 @@ const jeonnamContetns =
  },
  {
   "연번": 195,
-  category: "한식",
+  category: "음식점",
   title: "신남도회관",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -1759,7 +1759,7 @@ const jeonnamContetns =
  },
  {
   "연번": 196,
-  category: "미용업",
+  category: "이미용",
   title: "미짱헤어",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -1768,7 +1768,7 @@ const jeonnamContetns =
  },
  {
   "연번": 197,
-  category: "한식",
+  category: "음식점",
   title: "왕국수",
   "주요품목": "갈비탕",
   "가격(원)": " 6,000원 ",
@@ -1777,7 +1777,7 @@ const jeonnamContetns =
  },
  {
   "연번": 198,
-  category: "한식",
+  category: "음식점",
   title: "92(구이)",
   "주요품목": " 제육정식 ",
   "가격(원)": " 6,000원 ",
@@ -1786,7 +1786,7 @@ const jeonnamContetns =
  },
  {
   "연번": 199,
-  category: "한식",
+  category: "음식점",
   title: "초원밥상",
   "주요품목": "부페",
   "가격(원)": " 6,000원 ",
@@ -1795,7 +1795,7 @@ const jeonnamContetns =
  },
  {
   "연번": 200,
-  category: "미용업",
+  category: "이미용",
   title: "가위연가미용실",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -1813,7 +1813,7 @@ const jeonnamContetns =
  },
  {
   "연번": 202,
-  category: "한식",
+  category: "음식점",
   title: "풍요",
   "주요품목": "돼지갈비",
   "가격(원)": " 13,500원 ",
@@ -1822,7 +1822,7 @@ const jeonnamContetns =
  },
  {
   "연번": 203,
-  category: "한식",
+  category: "음식점",
   title: "오란다",
   "주요품목": "아메리카노",
   "가격(원)": " 3,000원 ",
@@ -1831,7 +1831,7 @@ const jeonnamContetns =
  },
  {
   "연번": 204,
-  category: "한식",
+  category: "음식점",
   title: "황토방국밥",
   "주요품목": "국밥",
   "가격(원)": " 7,000원 ",
@@ -1840,7 +1840,7 @@ const jeonnamContetns =
  },
  {
   "연번": 205,
-  category: "한식",
+  category: "음식점",
   title: "초원정",
   "주요품목": "아구찜(中)",
   "가격(원)": " 35,000원 ",
@@ -1849,7 +1849,7 @@ const jeonnamContetns =
  },
  {
   "연번": 206,
-  category: "한식",
+  category: "음식점",
   title: "오거리분식",
   "주요품목": "육개장",
   "가격(원)": " 6,000원 ",
@@ -1858,7 +1858,7 @@ const jeonnamContetns =
  },
  {
   "연번": 207,
-  category: "한식",
+  category: "음식점",
   title: "축협한우",
   "주요품목": "비빔밥",
   "가격(원)": " 7,000원 ",
@@ -1867,7 +1867,7 @@ const jeonnamContetns =
  },
  {
   "연번": 208,
-  category: "한식",
+  category: "음식점",
   title: "한우타운",
   "주요품목": "비빔밥",
   "가격(원)": " 7,000원 ",
@@ -1876,7 +1876,7 @@ const jeonnamContetns =
  },
  {
   "연번": 209,
-  category: "한식",
+  category: "음식점",
   title: "창평안두부",
   "주요품목": "순두부",
   "가격(원)": " 6,000원 ",
@@ -1885,7 +1885,7 @@ const jeonnamContetns =
  },
  {
   "연번": 210,
-  category: "한식",
+  category: "음식점",
   title: "삼정회관",
   "주요품목": "애호박찌개",
   "가격(원)": " 8,000원 ",
@@ -1894,7 +1894,7 @@ const jeonnamContetns =
  },
  {
   "연번": 211,
-  category: "한식",
+  category: "음식점",
   title: "목화식당",
   "주요품목": "백반",
   "가격(원)": " 8,000원 ",
@@ -1903,7 +1903,7 @@ const jeonnamContetns =
  },
  {
   "연번": 212,
-  category: "한식",
+  category: "음식점",
   title: "대통죽순 순대",
   "주요품목": "국밥",
   "가격(원)": " 6,000원 ",
@@ -1912,7 +1912,7 @@ const jeonnamContetns =
  },
  {
   "연번": 213,
-  category: "한식",
+  category: "음식점",
   title: "우리회관",
   "주요품목": "삼겹살",
   "가격(원)": " 10,000원 ",
@@ -1921,7 +1921,7 @@ const jeonnamContetns =
  },
  {
   "연번": 214,
-  category: "한식",
+  category: "음식점",
   title: "석곡돼지한마리",
   "주요품목": "생삼겹",
   "가격(원)": " 9,000원 ",
@@ -1930,7 +1930,7 @@ const jeonnamContetns =
  },
  {
   "연번": 215,
-  category: "한식",
+  category: "음식점",
   title: "별천지가든",
   "주요품목": "참게백반",
   "가격(원)": " 13,000원 ",
@@ -1939,7 +1939,7 @@ const jeonnamContetns =
  },
  {
   "연번": 216,
-  category: "한식",
+  category: "음식점",
   title: "삼겹살데이",
   "주요품목": "장터국밥",
   "가격(원)": " 6,000원 ",
@@ -1948,7 +1948,7 @@ const jeonnamContetns =
  },
  {
   "연번": 217,
-  category: "한식",
+  category: "음식점",
   title: "광양숯불고기",
   "주요품목": "비빔밥",
   "가격(원)": " 7,000원 ",
@@ -1957,7 +1957,7 @@ const jeonnamContetns =
  },
  {
   "연번": 218,
-  category: "한식",
+  category: "음식점",
   title: "고흥한우직판장",
   "주요품목": "불백(1인분)",
   "가격(원)": "8,000원",
@@ -1966,7 +1966,7 @@ const jeonnamContetns =
  },
  {
   "연번": 219,
-  category: "한식",
+  category: "음식점",
   title: "세정식당",
   "주요품목": "삼겹살(200g)",
   "가격(원)": "9,000원",
@@ -1975,7 +1975,7 @@ const jeonnamContetns =
  },
  {
   "연번": 220,
-  category: "한식",
+  category: "음식점",
   title: "청해식당",
   "주요품목": "삼겹살(200g)",
   "가격(원)": "9,000원",
@@ -1984,7 +1984,7 @@ const jeonnamContetns =
  },
  {
   "연번": 221,
-  category: "한식",
+  category: "음식점",
   title: "일조갈비",
   "주요품목": "돼지갈비(300g)",
   "가격(원)": "12,000원",
@@ -2029,7 +2029,7 @@ const jeonnamContetns =
  },
  {
   "연번": 226,
-  category: "한식",
+  category: "음식점",
   title: "삼미식당",
   "주요품목": "오리불고기",
   "가격(원)": "34,000원",
@@ -2038,7 +2038,7 @@ const jeonnamContetns =
  },
  {
   "연번": 227,
-  category: "한식",
+  category: "음식점",
   title: "포두청남식당",
   "주요품목": "국밥",
   "가격(원)": "8,000원",
@@ -2047,7 +2047,7 @@ const jeonnamContetns =
  },
  {
   "연번": 228,
-  category: "한식",
+  category: "음식점",
   title: "놀부식당",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -2056,7 +2056,7 @@ const jeonnamContetns =
  },
  {
   "연번": 229,
-  category: "한식",
+  category: "음식점",
   title: "신화식당",
   "주요품목": "삼겹살",
   "가격(원)": " 12,000원 ",
@@ -2065,7 +2065,7 @@ const jeonnamContetns =
  },
  {
   "연번": 230,
-  category: "한식",
+  category: "음식점",
   title: "고려회관",
   "주요품목": "꼬막정식",
   "가격(원)": " 20,000원 ",
@@ -2074,7 +2074,7 @@ const jeonnamContetns =
  },
  {
   "연번": 231,
-  category: "중식",
+  category: "음식점",
   title: "호남반점",
   "주요품목": "자장면",
   "가격(원)": " 5,000원 ",
@@ -2083,7 +2083,7 @@ const jeonnamContetns =
  },
  {
   "연번": 232,
-  category: "한식",
+  category: "음식점",
   title: "연미정",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -2092,7 +2092,7 @@ const jeonnamContetns =
  },
  {
   "연번": 233,
-  category: "한식",
+  category: "음식점",
   title: "중흥식당",
   "주요품목": "삼겹살",
   "가격(원)": " 12,000원 ",
@@ -2101,7 +2101,7 @@ const jeonnamContetns =
  },
  {
   "연번": 234,
-  category: "한식",
+  category: "음식점",
   title: "봉순이팥죽",
   "주요품목": "잔치국수",
   "가격(원)": " 5,000원 ",
@@ -2110,7 +2110,7 @@ const jeonnamContetns =
  },
  {
   "연번": 235,
-  category: "한식",
+  category: "음식점",
   title: "솥뚜껑삼겹살",
   "주요품목": "삼겹살(180g)",
   "가격(원)": 10000,
@@ -2119,7 +2119,7 @@ const jeonnamContetns =
  },
  {
   "연번": 236,
-  category: "한식",
+  category: "음식점",
   title: "은혜스넥",
   "주요품목": "다슬기수제비",
   "가격(원)": " 6,000원 ",
@@ -2128,7 +2128,7 @@ const jeonnamContetns =
  },
  {
   "연번": 237,
-  category: "한식",
+  category: "음식점",
   title: "옹구삼겹살",
   "주요품목": "삼겹살(200g)",
   "가격(원)": " 13,000원 ",
@@ -2137,7 +2137,7 @@ const jeonnamContetns =
  },
  {
   "연번": 238,
-  category: "한식",
+  category: "음식점",
   title: "추어탕한그릇",
   "주요품목": "추어탕",
   "가격(원)": " 8,000원 ",
@@ -2146,7 +2146,7 @@ const jeonnamContetns =
  },
  {
   "연번": 239,
-  category: "한식",
+  category: "음식점",
   title: "현대찜갈비",
   "주요품목": "생태탕",
   "가격(원)": " 7,000원 ",
@@ -2155,7 +2155,7 @@ const jeonnamContetns =
  },
  {
   "연번": 240,
-  category: "한식",
+  category: "음식점",
   title: "다미정",
   "주요품목": "불고기백반",
   "가격(원)": " 8,000원 ",
@@ -2164,7 +2164,7 @@ const jeonnamContetns =
  },
  {
   "연번": 241,
-  category: "한식",
+  category: "음식점",
   title: "아라서분식",
   "주요품목": "팥죽",
   "가격(원)": " 5,000원 ",
@@ -2173,7 +2173,7 @@ const jeonnamContetns =
  },
  {
   "연번": 242,
-  category: "한식",
+  category: "음식점",
   title: "맛고을",
   "주요품목": "백반정식",
   "가격(원)": " 7,000원 ",
@@ -2182,7 +2182,7 @@ const jeonnamContetns =
  },
  {
   "연번": 243,
-  category: "미용업",
+  category: "이미용",
   title: "성하미용실",
   "주요품목": "커트",
   "가격(원)": " 5,000원 ",
@@ -2191,7 +2191,7 @@ const jeonnamContetns =
  },
  {
   "연번": 244,
-  category: "미용업",
+  category: "이미용",
   title: "신데렐라미용실",
   "주요품목": "커트",
   "가격(원)": " 8,000원 ",
@@ -2227,7 +2227,7 @@ const jeonnamContetns =
  },
  {
   "연번": 248,
-  category: "한식",
+  category: "음식점",
   title: "탐마루장흥한우",
   "주요품목": "된장찌깨",
   "가격(원)": " 7,000원 ",
@@ -2236,7 +2236,7 @@ const jeonnamContetns =
  },
  {
   "연번": 249,
-  category: "한식",
+  category: "음식점",
   title: "세양회전문점",
   "주요품목": "알탕",
   "가격(원)": " 6,000원 ",
@@ -2245,7 +2245,7 @@ const jeonnamContetns =
  },
  {
   "연번": 250,
-  category: "한식",
+  category: "음식점",
   title: "연지보리밥",
   "주요품목": "보리밥",
   "가격(원)": " 5,000원 ",
@@ -2254,7 +2254,7 @@ const jeonnamContetns =
  },
  {
   "연번": 251,
-  category: "한식",
+  category: "음식점",
   title: "한라대중음식점",
   "주요품목": " 선지국밥 ",
   "가격(원)": " 6,000원 ",
@@ -2263,7 +2263,7 @@ const jeonnamContetns =
  },
  {
   "연번": 252,
-  category: "한식",
+  category: "음식점",
   title: "행복한식사",
   "주요품목": "김치찌개",
   "가격(원)": " 7,000원 ",
@@ -2272,7 +2272,7 @@ const jeonnamContetns =
  },
  {
   "연번": 253,
-  category: "한식",
+  category: "음식점",
   title: "만나식당",
   "주요품목": "백반",
   "가격(원)": " 5,000원 ",
@@ -2281,7 +2281,7 @@ const jeonnamContetns =
  },
  {
   "연번": 254,
-  category: "한식",
+  category: "음식점",
   title: "금강산식당",
   "주요품목": "돼지갈비(200g)",
   "가격(원)": " 14,000원 ",
@@ -2290,7 +2290,7 @@ const jeonnamContetns =
  },
  {
   "연번": 255,
-  category: "한식",
+  category: "음식점",
   title: "부강식당",
   "주요품목": "삼겹살(200g)",
   "가격(원)": " 12,000원 ",
@@ -2299,7 +2299,7 @@ const jeonnamContetns =
  },
  {
   "연번": 256,
-  category: "미용업",
+  category: "이미용",
   title: "모아미용실",
   "주요품목": "커트",
   "가격(원)": " 12,000원 ",
@@ -2308,7 +2308,7 @@ const jeonnamContetns =
  },
  {
   "연번": 257,
-  category: "미용업",
+  category: "이미용",
   title: "무궁화이발관",
   "주요품목": "이용료",
   "가격(원)": " 5,000원 ",
@@ -2326,7 +2326,7 @@ const jeonnamContetns =
  },
  {
   "연번": 259,
-  category: "한식",
+  category: "음식점",
   title: "청자골",
   "주요품목": "한식뷔페",
   "가격(원)": " 8,000원 ",
@@ -2335,7 +2335,7 @@ const jeonnamContetns =
  },
  {
   "연번": 260,
-  category: "한식",
+  category: "음식점",
   title: "예촌",
   "주요품목": "곰탕",
   "가격(원)": " 7,000원 ",
@@ -2344,7 +2344,7 @@ const jeonnamContetns =
  },
  {
   "연번": 261,
-  category: "한식",
+  category: "음식점",
   title: "본전갈비",
   "주요품목": "돼지갈비(300g)",
   "가격(원)": " 14,000원 ",
@@ -2353,7 +2353,7 @@ const jeonnamContetns =
  },
  {
   "연번": 262,
-  category: "한식",
+  category: "음식점",
   title: "거목촌식당",
   "주요품목": "등심불백(200g)",
   "가격(원)": " 11,000원 ",
@@ -2362,7 +2362,7 @@ const jeonnamContetns =
  },
  {
   "연번": 263,
-  category: "한식",
+  category: "음식점",
   title: "동해회관",
   "주요품목": "짱뚱어탕",
   "가격(원)": " 8,000원 ",
@@ -2371,7 +2371,7 @@ const jeonnamContetns =
  },
  {
   "연번": 264,
-  category: "한식",
+  category: "음식점",
   title: "우성식당",
   "주요품목": "삼겹살(200g)",
   "가격(원)": " 11,000원 ",
@@ -2380,7 +2380,7 @@ const jeonnamContetns =
  },
  {
   "연번": 265,
-  category: "한식",
+  category: "음식점",
   title: "반갑다친구야",
   "주요품목": "가마솥영양밥",
   "가격(원)": " 10,000원 ",
@@ -2389,7 +2389,7 @@ const jeonnamContetns =
  },
  {
   "연번": 266,
-  category: "한식",
+  category: "음식점",
   title: "해진",
   "주요품목": "육회비빔밥",
   "가격(원)": " 8,000원 ",
@@ -2398,7 +2398,7 @@ const jeonnamContetns =
  },
  {
   "연번": 267,
-  category: "한식",
+  category: "음식점",
   title: "금성스넥",
   "주요품목": "팥칼국수",
   "가격(원)": " 6,000원 ",
@@ -2407,7 +2407,7 @@ const jeonnamContetns =
  },
  {
   "연번": 268,
-  category: "한식",
+  category: "음식점",
   title: "한우마당",
   "주요품목": "육회비빔밥",
   "가격(원)": " 8,000원 ",
@@ -2416,7 +2416,7 @@ const jeonnamContetns =
  },
  {
   "연번": 269,
-  category: "한식",
+  category: "음식점",
   title: "오대감",
   "주요품목": "곰탕",
   "가격(원)": " 7,000원 ",
@@ -2425,7 +2425,7 @@ const jeonnamContetns =
  },
  {
   "연번": 270,
-  category: "한식",
+  category: "음식점",
   title: "태웅식당",
   "주요품목": "산채비빔밥",
   "가격(원)": " 7,000원 ",
@@ -2434,7 +2434,7 @@ const jeonnamContetns =
  },
  {
   "연번": 271,
-  category: "한식",
+  category: "음식점",
   title: "수라간",
   "주요품목": "추어탕",
   "가격(원)": " 8,000원 ",
@@ -2443,7 +2443,7 @@ const jeonnamContetns =
  },
  {
   "연번": 272,
-  category: "중식",
+  category: "음식점",
   title: "중국관",
   "주요품목": "자장면",
   "가격(원)": " 4,000원 ",
@@ -2461,7 +2461,7 @@ const jeonnamContetns =
  },
  {
   "연번": 274,
-  category: "한식",
+  category: "음식점",
   title: "못난이 아구해물찜",
   "주요품목": "복지리탕",
   "가격(원)": " 8,000원 ",
@@ -2470,7 +2470,7 @@ const jeonnamContetns =
  },
  {
   "연번": 275,
-  category: "한식",
+  category: "음식점",
   title: "갯마을 아구찜",
   "주요품목": "알곤이탕",
   "가격(원)": " 7,000원 ",
@@ -2479,7 +2479,7 @@ const jeonnamContetns =
  },
  {
   "연번": 276,
-  category: "한식",
+  category: "음식점",
   title: "부추 오리식당",
   "주요품목": "돼지국밥",
   "가격(원)": " 5,000원 ",
@@ -2488,7 +2488,7 @@ const jeonnamContetns =
  },
  {
   "연번": 277,
-  category: "한식",
+  category: "음식점",
   title: "강변산들",
   "주요품목": "토종닭참숯소금구이(한마리)",
   "가격(원)": " 50,000원 ",
@@ -2497,7 +2497,7 @@ const jeonnamContetns =
  },
  {
   "연번": 278,
-  category: "한식",
+  category: "음식점",
   title: "땅끝제주가든",
   "주요품목": "흙돼지오겹살(150g)",
   "가격(원)": " 15,000원 ",
@@ -2506,7 +2506,7 @@ const jeonnamContetns =
  },
  {
   "연번": 279,
-  category: "한식",
+  category: "음식점",
   title: "솔밭식당",
   "주요품목": "백반",
   "가격(원)": " 6,000원 ",
@@ -2515,7 +2515,7 @@ const jeonnamContetns =
  },
  {
   "연번": 280,
-  category: "음식(기타)",
+  category: "이미용",
   title: "물레방아 기사식당",
   "주요품목": "한식뷔폐",
   "가격(원)": " 6,000원 ",
@@ -2533,7 +2533,7 @@ const jeonnamContetns =
  },
  {
   "연번": 282,
-  category: "양식",
+  category: "이미용",
   title: "자연과사람들",
   "주요품목": "수제돈가스",
   "가격(원)": " 6,000원 ",
@@ -2542,7 +2542,7 @@ const jeonnamContetns =
  },
  {
   "연번": 283,
-  category: "한식",
+  category: "음식점",
   title: "공원식당",
   "주요품목": "오늘의메뉴",
   "가격(원)": " 8,000원 ",
@@ -2551,7 +2551,7 @@ const jeonnamContetns =
  },
  {
   "연번": 284,
-  category: "미용업",
+  category: "이미용",
   title: "강헤어필",
   "주요품목": "컷트(성인)",
   "가격(원)": " 10,000원 ",
@@ -2560,7 +2560,7 @@ const jeonnamContetns =
  },
  {
   "연번": 285,
-  category: "한식",
+  category: "음식점",
   title: "영빈관",
   "주요품목": "비빔밥",
   "가격(원)": " 10,000원 ",
@@ -2569,7 +2569,7 @@ const jeonnamContetns =
  },
  {
   "연번": 286,
-  category: "한식",
+  category: "음식점",
   title: "매력한우 기찬랜드점",
   "주요품목": "비빔밥(생,익)",
   "가격(원)": " 10,000원 ",
@@ -2578,7 +2578,7 @@ const jeonnamContetns =
  },
  {
   "연번": 287,
-  category: "한식",
+  category: "음식점",
   title: "태백식당",
   "주요품목": "황태해장국",
   "가격(원)": " 7,000원 ",
@@ -2587,7 +2587,7 @@ const jeonnamContetns =
  },
  {
   "연번": 288,
-  category: "한식",
+  category: "음식점",
   title: "삼호추어탕",
   "주요품목": "추어탕",
   "가격(원)": " 10,000원 ",
@@ -2596,7 +2596,7 @@ const jeonnamContetns =
  },
  {
   "연번": 289,
-  category: "한식",
+  category: "음식점",
   title: "믿음한우 식육식당",
   "주요품목": " 김치찌개 ",
   "가격(원)": " 7,000원 ",
@@ -2605,7 +2605,7 @@ const jeonnamContetns =
  },
  {
   "연번": 290,
-  category: "한식",
+  category: "음식점",
   title: "종원식육식당",
   "주요품목": "김치찌개",
   "가격(원)": " 8,000원 ",
@@ -2614,7 +2614,7 @@ const jeonnamContetns =
  },
  {
   "연번": 291,
-  category: "한식",
+  category: "음식점",
   title: "나주곰탕",
   "주요품목": "곰탕",
   "가격(원)": " 8,000원 ",
@@ -2623,7 +2623,7 @@ const jeonnamContetns =
  },
  {
   "연번": 292,
-  category: "한식",
+  category: "음식점",
   title: "매력한우명품관",
   "주요품목": "육회비빔밥",
   "가격(원)": " 7,000원 ",
@@ -2632,7 +2632,7 @@ const jeonnamContetns =
  },
  {
   "연번": 293,
-  category: "한식",
+  category: "음식점",
   title: "고흥식당",
   "주요품목": "보신탕",
   "가격(원)": " 12,000원 ",
@@ -2641,7 +2641,7 @@ const jeonnamContetns =
  },
  {
   "연번": 294,
-  category: "한식",
+  category: "음식점",
   title: "신토불이식당",
   "주요품목": "가정식백반",
   "가격(원)": " 8,000원 ",
@@ -2650,7 +2650,7 @@ const jeonnamContetns =
  },
  {
   "연번": 295,
-  category: "한식",
+  category: "음식점",
   title: "국일관횟집",
   "주요품목": "각종활어",
   "가격(원)": " 100,000원~130,000원 ",
@@ -2659,7 +2659,7 @@ const jeonnamContetns =
  },
  {
   "연번": 296,
-  category: "한식",
+  category: "음식점",
   title: "무안대박집",
   "주요품목": "대패삼겹살(100g)",
   "가격(원)": "  3,000원  ",
@@ -2668,7 +2668,7 @@ const jeonnamContetns =
  },
  {
   "연번": 297,
-  category: "한식",
+  category: "음식점",
   title: "해뜰짱분식",
   "주요품목": "라면",
   "가격(원)": " 2,000원~ 3,500원 ",
@@ -2677,7 +2677,7 @@ const jeonnamContetns =
  },
  {
   "연번": 298,
-  category: "한식",
+  category: "음식점",
   title: "오가네 돼지랑오리랑",
   "주요품목": "김치찌개",
   "가격(원)": " 6,000원 ",
@@ -2686,7 +2686,7 @@ const jeonnamContetns =
  },
  {
   "연번": 299,
-  category: "한식",
+  category: "음식점",
   title: "콩주발전주 콩나물국밥",
   "주요품목": "콩나물국밥",
   "가격(원)": "  6,000원  ",
@@ -2695,7 +2695,7 @@ const jeonnamContetns =
  },
  {
   "연번": 300,
-  category: "한식",
+  category: "음식점",
   title: "송옥",
   "주요품목": "메일국수",
   "가격(원)": "  7,000원  ",
@@ -2704,7 +2704,7 @@ const jeonnamContetns =
  },
  {
   "연번": 301,
-  category: "한식",
+  category: "음식점",
   title: "남악참숯갈비",
   "주요품목": "왕갈비탕",
   "가격(원)": " 10,000원 ",
@@ -2713,7 +2713,7 @@ const jeonnamContetns =
  },
  {
   "연번": 302,
-  category: "한식",
+  category: "음식점",
   title: "시골집",
   "주요품목": "백반",
   "가격(원)": "  7,000원  ",
@@ -2722,7 +2722,7 @@ const jeonnamContetns =
  },
  {
   "연번": 303,
-  category: "한식",
+  category: "음식점",
   title: "대관령황태 해장국",
   "주요품목": "황태 해장국",
   "가격(원)": " 7,000원 ",
@@ -2731,7 +2731,7 @@ const jeonnamContetns =
  },
  {
   "연번": 304,
-  category: "한식",
+  category: "음식점",
   title: "임성국밥",
   "주요품목": "돼지국밥(사골)",
   "가격(원)": "  7,000원  ",
@@ -2740,7 +2740,7 @@ const jeonnamContetns =
  },
  {
   "연번": 305,
-  category: "한식",
+  category: "음식점",
   title: "백마회관",
   "주요품목": "삽겹살",
   "가격(원)": " 10,000원 ",
@@ -2749,7 +2749,7 @@ const jeonnamContetns =
  },
  {
   "연번": 306,
-  category: "한식",
+  category: "음식점",
   title: "청진동국밥",
   "주요품목": "콩나물국밥",
   "가격(원)": " 6,000원 ",
@@ -2758,7 +2758,7 @@ const jeonnamContetns =
  },
  {
   "연번": 307,
-  category: "한식",
+  category: "음식점",
   title: "뽀또식당",
   "주요품목": "뚝배기 불고기",
   "가격(원)": " 7,000원 ",
@@ -2767,7 +2767,7 @@ const jeonnamContetns =
  },
  {
   "연번": 308,
-  category: "한식",
+  category: "음식점",
   title: "맛고을",
   "주요품목": "돌솥비빔밥",
   "가격(원)": " 8,000원 ",
@@ -2776,7 +2776,7 @@ const jeonnamContetns =
  },
  {
   "연번": 309,
-  category: "중식",
+  category: "음식점",
   title: "소라식당",
   "주요품목": "자장면",
   "가격(원)": " 4,500원 ",
@@ -2785,7 +2785,7 @@ const jeonnamContetns =
  },
  {
   "연번": 310,
-  category: "한식",
+  category: "음식점",
   title: "해월축산회관",
   "주요품목": "꽃등심",
   "가격(원)": " 30,000원 ",
@@ -2794,7 +2794,7 @@ const jeonnamContetns =
  },
  {
   "연번": 311,
-  category: "한식",
+  category: "음식점",
   title: "큰소랑꽃등심",
   "주요품목": "불고기백반",
   "가격(원)": " 12,000원 ",
@@ -2803,7 +2803,7 @@ const jeonnamContetns =
  },
  {
   "연번": 312,
-  category: "한식",
+  category: "음식점",
   title: "우등숯불갈비",
   "주요품목": "생고기(350g)",
   "가격(원)": " 35,000원 ",
@@ -2812,7 +2812,7 @@ const jeonnamContetns =
  },
  {
   "연번": 313,
-  category: "한식",
+  category: "음식점",
   title: "중앙식당",
   "주요품목": "굴비정식(1인기준)",
   "가격(원)": " 15,000원 ",
@@ -2821,7 +2821,7 @@ const jeonnamContetns =
  },
  {
   "연번": 314,
-  category: "한식",
+  category: "음식점",
   title: "해성식당",
   "주요품목": "불낙",
   "가격(원)": " 13000원 ",
@@ -2830,7 +2830,7 @@ const jeonnamContetns =
  },
  {
   "연번": 315,
-  category: "한식",
+  category: "음식점",
   title: "상아탑",
   "주요품목": "김치찌개",
   "가격(원)": " 7,000원 ",
@@ -2839,7 +2839,7 @@ const jeonnamContetns =
  },
  {
   "연번": 316,
-  category: "한식",
+  category: "음식점",
   title: "한우천지식육식당",
   "주요품목": "생고기(600g)",
   "가격(원)": " 48,000원 ",
@@ -2848,7 +2848,7 @@ const jeonnamContetns =
  },
  {
   "연번": 317,
-  category: "한식",
+  category: "음식점",
   title: "아침해분식",
   "주요품목": "김치찌개",
   "가격(원)": " 7,000원 ",
@@ -2857,7 +2857,7 @@ const jeonnamContetns =
  },
  {
   "연번": 318,
-  category: "한식",
+  category: "음식점",
   title: "외도식당",
   "주요품목": "콩나물국밥",
   "가격(원)": " 7,000원 ",
@@ -2866,7 +2866,7 @@ const jeonnamContetns =
  },
  {
   "연번": 319,
-  category: "한식",
+  category: "음식점",
   title: "대박이네식당",
   "주요품목": "중하미역국",
   "가격(원)": " 6,000원 ",
@@ -2875,7 +2875,7 @@ const jeonnamContetns =
  },
  {
   "연번": 320,
-  category: "미용업",
+  category: "이미용",
   title: "착한미용실",
   "주요품목": "컷트",
   "가격(원)": " 10,000원 ",
@@ -2884,7 +2884,7 @@ const jeonnamContetns =
  },
  {
   "연번": 321,
-  category: "한식",
+  category: "음식점",
   title: "황금돼지",
   "주요품목": "삼겹살, 목살(200g)",
   "가격(원)": " 11,000원 ",
@@ -2893,7 +2893,7 @@ const jeonnamContetns =
  },
  {
   "연번": 322,
-  category: "한식",
+  category: "음식점",
   title: "참좋은식당",
   "주요품목": "김치찌개",
   "가격(원)": " 7,000원 ",
@@ -2902,7 +2902,7 @@ const jeonnamContetns =
  },
  {
   "연번": 323,
-  category: "한식",
+  category: "음식점",
   title: "만석식당",
   "주요품목": "삼겹살(200g)",
   "가격(원)": " 11,000원 ",
@@ -2911,7 +2911,7 @@ const jeonnamContetns =
  },
  {
   "연번": 324,
-  category: "한식",
+  category: "음식점",
   title: "공달생태한마리",
   "주요품목": "생태한마리",
   "가격(원)": " 8,000원 ",
@@ -2920,7 +2920,7 @@ const jeonnamContetns =
  },
  {
   "연번": 325,
-  category: "한식",
+  category: "음식점",
   title: "네거리식당",
   "주요품목": "삼겹살(200g)",
   "가격(원)": " 11,000원 ",
@@ -2929,7 +2929,7 @@ const jeonnamContetns =
  },
  {
   "연번": 326,
-  category: "미용업",
+  category: "이미용",
   title: "미&끼 헤어샵",
   "주요품목": "컷트(학생)",
   "가격(원)": " 10,000원 ",
@@ -2947,7 +2947,7 @@ const jeonnamContetns =
  },
  {
   "연번": 328,
-  category: "한식",
+  category: "음식점",
   title: "그 집",
   "주요품목": "보리밥",
   "가격(원)": " 6,000원 ",
@@ -2956,7 +2956,7 @@ const jeonnamContetns =
  },
  {
   "연번": 329,
-  category: "한식",
+  category: "음식점",
   title: "영하식당",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -2965,7 +2965,7 @@ const jeonnamContetns =
  },
  {
   "연번": 330,
-  category: "한식",
+  category: "음식점",
   title: "한울타리식당",
   "주요품목": "삽겹살(1인)",
   "가격(원)": "12,000원",
@@ -2974,7 +2974,7 @@ const jeonnamContetns =
  },
  {
   "연번": 331,
-  category: "한식",
+  category: "음식점",
   title: "소문난삼겹살",
   "주요품목": "생삼겹(1인)",
   "가격(원)": "12,000원",
@@ -2983,7 +2983,7 @@ const jeonnamContetns =
  },
  {
   "연번": 332,
-  category: "한식",
+  category: "음식점",
   title: "싱싱나라식당",
   "주요품목": "백반",
   "가격(원)": " 7,000원 ",
@@ -2992,7 +2992,7 @@ const jeonnamContetns =
  },
  {
   "연번": 333,
-  category: "한식",
+  category: "음식점",
   title: "명동순대국밥",
   "주요품목": "순대국밥",
   "가격(원)": " 7,000원 ",
@@ -3001,7 +3001,7 @@ const jeonnamContetns =
  },
  {
   "연번": 334,
-  category: "한식",
+  category: "음식점",
   title: "빙그레국밥",
   "주요품목": "순대국밥 ",
   "가격(원)": "8,000원",
@@ -3010,7 +3010,7 @@ const jeonnamContetns =
  },
  {
   "연번": 335,
-  category: "한식",
+  category: "음식점",
   title: "새벽해장국",
   "주요품목": "뼈해장국",
   "가격(원)": " 5,000원 ",
@@ -3019,7 +3019,7 @@ const jeonnamContetns =
  },
  {
   "연번": 336,
-  category: "한식",
+  category: "음식점",
   title: "구이팔구",
   "주요품목": "생삽겹살",
   "가격(원)": "10,000원",
@@ -3037,7 +3037,7 @@ const jeonnamContetns =
  },
  {
   "연번": 338,
-  category: "한식",
+  category: "음식점",
   title: "여울 식당",
   "주요품목": "백반",
   "가격(원)": " 8,000원 ",
@@ -3046,7 +3046,7 @@ const jeonnamContetns =
  },
  {
   "연번": 339,
-  category: "미용업",
+  category: "이미용",
   title: "장은경헤어필",
   "주요품목": "커트",
   "가격(원)": " 10,000원 ",
@@ -3055,7 +3055,7 @@ const jeonnamContetns =
  },
  {
   "연번": 340,
-  category: "한식",
+  category: "음식점",
   title: "버섯마을",
   "주요품목": "백반",
   "가격(원)": " 8,000원 ",
@@ -3064,7 +3064,7 @@ const jeonnamContetns =
  },
  {
   "연번": 341,
-  category: "한식",
+  category: "음식점",
   title: "미연식당",
   "주요품목": "삼겹살(600g)",
   "가격(원)": " 20,000원 ",
@@ -3073,7 +3073,7 @@ const jeonnamContetns =
  },
  {
   "연번": 342,
-  category: "한식",
+  category: "음식점",
   title: "만나식당",
   "주요품목": "김치찌개",
   "가격(원)": " 8,000원 ",
@@ -3082,7 +3082,7 @@ const jeonnamContetns =
  },
  {
   "연번": 343,
-  category: "한식",
+  category: "음식점",
   title: "꽃피는 무화가",
   "주요품목": "전복해초돌솥밥",
   "가격(원)": " 10,000원 ",
@@ -3091,7 +3091,7 @@ const jeonnamContetns =
  },
  {
   "연번": 344,
-  category: "중식",
+  category: "음식점",
   title: "삼거리반점",
   "주요품목": "짜장",
   "가격(원)": " 5,000원 ",
@@ -3100,7 +3100,7 @@ const jeonnamContetns =
  },
  {
   "연번": 345,
-  category: "중식",
+  category: "음식점",
   title: "샨샤",
   "주요품목": "짜장",
   "가격(원)": " 6,000원 ",
@@ -3109,7 +3109,7 @@ const jeonnamContetns =
  },
  {
   "연번": 346,
-  category: "한식",
+  category: "음식점",
   title: "선희네식당",
   "주요품목": "생삼겹살(100g)",
   "가격(원)": " 6,000원 ",
@@ -3118,7 +3118,7 @@ const jeonnamContetns =
  },
  {
   "연번": 347,
-  category: "미용업",
+  category: "이미용",
   title: "정헤어라인",
   "주요품목": "컷트(학생)",
   "가격(원)": " 5,000원 ",
