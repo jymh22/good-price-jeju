@@ -1,6 +1,6 @@
 // _20210907
 
-const jeonnamContetns = 
+const jeonnamContents = 
 [
  {
   "연번": 1,
