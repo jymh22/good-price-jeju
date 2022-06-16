@@ -200,7 +200,7 @@ const addList = (listObj) => {
                         <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
-                        <li>별점 : ${rating1}</li>
+                        <li>별점 : ${listObj[i].address}</li>
                     </ul>
                 </span>
         </div>`;
