@@ -18,6 +18,9 @@ var options = {
     level: 3
 };
 
+let markers = [];
+let infoWindows = [];
+
 var map = new kakao.maps.Map(container, options);
 var imageSrc = 'img/pin.png', // 마커이미지의 주소입니다    
     imageSize = new kakao.maps.Size(34, 39); // 마커이미지의 크기입니다
@@ -110,8 +113,20 @@ function displayMarker(locPosition, message) {
 // 주소-좌표 변환 객체를 생성합니다
 var geocoder = new kakao.maps.services.Geocoder();
 
+/////////////////////
+var roadviewContainer = document.getElementById('roadview'); //로드뷰를 표시할 div
+var roadview = new kakao.maps.Roadview(roadviewContainer); //로드뷰 객체
+var roadviewClient = new kakao.maps.RoadviewClient(); //좌표로부터 로드뷰 파노ID를 가져올 로드뷰 helper객체
+var rvResetValue = {};
+
+// 특정 위치의 좌표와 가까운 로드뷰의 panoId를 추출하여 로드뷰를 띄운다.
+
+
+
+//////////////////////
 // 주소로 좌표를 검색합니다
 const searchMap = (address, title) => {
+    console.log(title);
     geocoder.addressSearch(`${address}`, function(result, status) {
         // 정상적으로 검색이 완료됐으면 
          if (status === kakao.maps.services.Status.OK) {   
@@ -129,6 +144,22 @@ const searchMap = (address, title) => {
             infowindow.open(map, marker);    
             // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
             map.setCenter(coords);
+            
+            roadviewClient.getNearestPanoId(coords, 50, function(panoId) {
+                roadview.setPanoId(panoId, coords);
+                rvResetValue.panoId = panoId; //panoId와 중심좌표를 통해 로드뷰 실행
+            });
+            var rMarker = new kakao.maps.Marker({
+                position: coords,
+                map: roadview //map 대신 rv(로드뷰 객체)로 설정하면 로드뷰에 올라갑니다.
+            });
+            var rLabel = new kakao.maps.InfoWindow({
+                position: coords,
+                content: `<div style="width:80px;text-align:center;padding:6px 0px;margin:0px 35px;">${title}</div>`
+            });
+            rLabel.open(roadview, rMarker);
+            markers.push(marker);
+            infoWindows.push(infowindow);
         } 
     });
 }
@@ -160,15 +191,23 @@ const display_geolocation = () => {
     }
 }
 
+function removeMarker() {
+    for ( var i = 0; i < markers.length; i++ ) {
+        markers[i].setMap(null);
+        infoWindows[i].setMap(null);
+    }   
+    markers = [];
+    infoWindows = [];
+}
+
 
 const addList = (listObj) => {
     let list = '';
     for (let i = 0; i < listObj.length; i++) {
         list += `<div class='list'>
-                <img src=${listObj[i].img}>
                 <span>
                     <ul>
-                        <li id='title'>업소명 : ${listObj[i].title}</li>
+                        <li id='title'>${listObj[i].title}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
                         <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
@@ -186,7 +225,8 @@ const addressFunction = () => {
     storeAddress.forEach((item) => {
         item.addEventListener('click', (event) => {
             let parentNode = item.parentNode;
-            searchMap(event.target.innerText.substring(5), parentNode.childNodes[1].innerText.substring(5));
+            roadviewContainer.style.transform = 'translateX(0%)';
+            searchMap(event.target.innerText.substring(5), parentNode.childNodes[1].innerText);
         })
     })
 }
@@ -345,6 +385,7 @@ const contentsShow = () => {
 
 sortRegionBox.addEventListener('change', () => {
     contentsHide();
+    removeMarker();
 })
 
 sortCategoryBox.addEventListener('change', (event) => {
@@ -358,21 +399,25 @@ sortCategoryBox.addEventListener('change', (event) => {
         a = sortCategory2(checkRegionValue(),1);
         contentsList.innerHTML = addList(a);
         addressFunction();
+        removeMarker();
     }
     else if (event.target.value === 'hair') {
         a = sortCategory2(checkRegionValue(),2);
         contentsList.innerHTML = addList(a);   
         addressFunction();
+        removeMarker();
     }
     else if (event.target.value === 'laundry') {
         a = sortCategory2(checkRegionValue(),3);
         contentsList.innerHTML = addList(a);  
         addressFunction();
+        removeMarker();
     }
     else if (event.target.value === 'stay') {
         a = sortCategory2(checkRegionValue(),4);
         contentsList.innerHTML = addList(a);      
         addressFunction();
+        removeMarker();
     }
 });
 
