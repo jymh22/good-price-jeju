@@ -178,8 +178,8 @@ async function getimg(Listtitle, Listaddress) {
 
 async function getrating(Listtitle, Listaddress) {
     var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + Listtitle + " " + Listaddress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
-    const data = await fetch(url)
-    .then(res => res.json()) return data;
+    const data = await fetch(url).then(res => res.json())
+    return data;
 }
 
 
