@@ -175,11 +175,9 @@ const addList = (listObj) => {
         fetch("https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + listObj[i].title + listObj[i].address + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
 
         a = a.results[0].place_id;
-
-
         fetch("https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + a + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  b );
         c = b.result.rating;
-        b = c.result.photos[0].photo_reference
+        b = c.result.photos[0].photo_reference;
         fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + b + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  d );
 
         list += `<div class='list'>
