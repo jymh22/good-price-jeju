@@ -166,7 +166,7 @@ const display_geolocation = () => {
 
 const addList = (listObj) => {
     let list = '';
-    var a;
+    var a, b, c;
 
 
     for (let i = 0; i < listObj.length; i++) {
@@ -174,12 +174,12 @@ const addList = (listObj) => {
 
         fetch("https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + listObj[i].title + listObj[i].address + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
 
-        fetch("https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + a + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
+        fetch("https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + a + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  b );
 
-        fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + a + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
+        fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + b + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  c );
 
         list += `<div class='list'>
-                <img src=${a}>
+                <img src=${c}>
                 <span>
                     <ul>
                         <li id='title'>업소명 : ${listObj[i].title}</li>
