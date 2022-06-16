@@ -161,7 +161,7 @@ const display_geolocation = () => {
 }
 
 async function getimg(Listtitle, Listaddress) {
-    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + Listtitle + " " + Listaddress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
+    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + Listtitle + " " + Listadress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
     let response = await fetch(url);
     let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
 
@@ -177,7 +177,7 @@ async function getimg(Listtitle, Listaddress) {
 
 
 async function getrating(Listtitle, Listaddress) {
-    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + Listtitle + " " + Listaddress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
+    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + Listtitle + " " + Listadress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
     let response = await fetch(url);
     let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
 
