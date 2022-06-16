@@ -190,10 +190,10 @@ const addList = (listObj) => {
     //var a, b, c, d;
 
     for (let i = 0; i < listObj.length; i++) {
-        //var imgscr = getrating(listObj[i].title, listObj[i].address);
-        //var rating = getrating(listObj[i].title, listObj[i].address);
+        let imgscr = getimg(listObj[i].title, listObj[i].address);
+        let rating = getrating(listObj[i].title, listObj[i].address);
         list += `<div class='list'>
-                <img src=${listObj[i].img}>
+                <img src=${imgscr}>
                 <span>
                     <ul>
                         <li id='title'>업소명 : ${listObj[i].title}</li>
@@ -201,6 +201,7 @@ const addList = (listObj) => {
                         <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
+                        <li>별점 : ${rating}</li>
                     </ul>
                 </span>
         </div>`;
