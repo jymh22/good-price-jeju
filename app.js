@@ -166,21 +166,21 @@ const addList = (listObj) => {
     var a, b, c, d;
 
     for (let i = 0; i < listObj.length; i++) {
-        //fetch("https://maps.googleapis.com/maps/api/place/textsearch/json?query=삼매봉153 제주특별자치도 서귀포시 남성중로 153번길 15&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
+        fetch("https://maps.googleapis.com/maps/api/place/textsearch/json?query=삼매봉153 제주특별자치도 서귀포시 남성중로 153번길 15&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
         //b = a.results[0].place_id;
         //fetch("https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + b + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  c );
-        //b = a.results[0].rating;
-        //c = a.results[0].photos[0].photo_reference;
-        //fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + c + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  d );
+        b = a.results[0].rating;
+        c = a.results[0].photos[0].photo_reference;
+        fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + c + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  d );
 
 
         list += `<div class='list'>
                 <img src=${listObj[i].img}>
                 <span>
                     <ul>
-                        <li id='title'>업소명 : ${5}</li>
+                        <li id='title'>업소명 : ${listObj[i].title}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
-                        <li>연락처 : ${3}</li>
+                        <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
                     </ul>
