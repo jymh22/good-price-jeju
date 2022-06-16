@@ -178,9 +178,9 @@ const addList = (listObj) => {
                 <img src=${listObj[i].img}>
                 <span>
                     <ul>
-                        <li id='title'>업소명 : ${b}</li>
+                        <li id='title'>업소명 : ${5}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
-                        <li>연락처 : ${b}</li>
+                        <li>연락처 : ${3}</li>
                         <li>품목 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
                     </ul>
