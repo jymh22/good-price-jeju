@@ -46,15 +46,15 @@ function getMylocation(x,y){
 }
 
 const addressSearch = address => {
-    return new Promise((resolve, reject) => {
-        geocoder.addressSearch(address, function(result, status) {
-            if (status === kakao.maps.services.Status.OK) {
-                resolve(result);
-            } else {
-                reject(status);
-            }
-        });
-    });
+	return new Promise((resolve, reject) => {
+		geocoder.addressSearch(address, function(result, status) {
+			if (status === kakao.maps.services.Status.OK) {
+				resolve(result);
+			} else {
+				reject(status);
+			}
+		});
+	});
 };
 
 /**
@@ -159,39 +159,11 @@ const display_geolocation = () => {
         displayMarker(locPosition, message);
     }
 }
-/*
-async function getimg(title, address) {
-    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + title + " " + adress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
-    let response = await fetch(url);
-    let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
-
-    var s = json.results[0].photos[0].photo_reference;
-
-    url = "https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + s + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
-    response = await fetch(url);
-    let blob = await response.blob(); 
-
-    return URL.createObjectURL(blob);
-}
-
-
-async function getrating(title, address) {
-    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + title + " " + adress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
-    let response = await fetch(url);
-    let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
-
-    return json.results[0].rating;
-}
-*/
 
 
 const addList = (listObj) => {
     let list = '';
-    //var a, b, c, d;
-
     for (let i = 0; i < listObj.length; i++) {
-        //var imgscr = getrating(listObj[i].title, listObj[i].address);
-        //var rating = getrating(listObj[i].title, listObj[i].address);
         list += `<div class='list'>
                 <img src=${listObj[i].img}>
                 <span>
