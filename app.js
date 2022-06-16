@@ -172,21 +172,13 @@ const addList = (listObj) => {
     for (let i = 0; i < listObj.length; i++) {
 
 
-        fetch("https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + listObj[i].title + listObj[i].address + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
-
-        a = a.results[0].place_id;
-        fetch("https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + a + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  b );
-        c = b.result.rating;
-        b = c.result.photos[0].photo_reference;
-        fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + b + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  d );
-
         list += `<div class='list'>
-                <img src=${d}>
+                <img src=${listObj[i].image}>
                 <span>
                     <ul>
                         <li id='title'>업소명 : ${listObj[i].title}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
-                        <li>연락처 : ${c}</li>
+                        <li>연락처 : ${3}</li>
                         <li>품목 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
                     </ul>
