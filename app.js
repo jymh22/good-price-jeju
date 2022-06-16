@@ -159,7 +159,7 @@ const display_geolocation = () => {
         displayMarker(locPosition, message);
     }
 }
-/*
+
 async function getimg(Listtitle, Listaddress) {
     var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + Listtitle + " " + Listadress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
     let response = await fetch(url);
@@ -182,7 +182,7 @@ async function getrating(Listtitle, Listaddress) {
 
     return json.results[0].rating;
 }
-*/
+
 
 
 const addList = (listObj) => {
