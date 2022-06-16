@@ -167,7 +167,7 @@ async function getimg(Listtitle, Listaddress) {
 
     var s = json.results[0].photos[0].photo_reference;
 
-    url = "https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + s + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
+    url = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + s + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
     response = await fetch(url);
     let blob = await response.blob(); 
 
