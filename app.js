@@ -178,13 +178,9 @@ async function getimg(Listtitle, Listaddress) {
 
 async function getrating(Listtitle, Listaddress) {
     var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + Listtitle + " " + Listadress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
-    let response = await fetch(url);
-    let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
-
-    let rating = json.results[0].rating;
-    return rating;
+    const data = await fetch(url)
+    .then(res => res.json()) return data;
 }
-
 
 
 const addList = (listObj) => {
@@ -194,6 +190,7 @@ const addList = (listObj) => {
     for (let i = 0; i < listObj.length; i++) {
         let imgscr1 = getimg(listObj[i].title, listObj[i].address);
         let rating1 = getrating(listObj[i].title, listObj[i].address);
+        var rating = rating1.results[0].rating;
         list += `<div class='list'>
                 <img src=${imgscr1}>
                 <span>
