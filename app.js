@@ -166,7 +166,7 @@ const addList = (listObj) => {
     var a, b, c, d, e, f;
 
     for (let i = 0; i < listObj.length; i++) {
-
+        fetch("https://maps.googleapis.com/maps/api/place/textsearch/json?query=삼매봉153 제주특별자치도 서귀포시 남성중로 153번길 15&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
         list += `<div class='list'>
                 <img src=${listObj[i].img}>
                 <span>
