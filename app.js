@@ -24,6 +24,9 @@ var imageSrc = 'img/pin.png', // 마커이미지의 주소입니다
 var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
 display_gps();
 
+
+
+
 /**
  * API 인용작성자 : KYS
  * @param {경도} x 
@@ -163,9 +166,20 @@ const display_geolocation = () => {
 
 const addList = (listObj) => {
     let list = '';
+    var a;
+
+
     for (let i = 0; i < listObj.length; i++) {
+
+
+        fetch("https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + listObj[i].title + listObj[i].address + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
+
+        fetch("https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + a + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
+
+        fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + a + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  a );
+
         list += `<div class='list'>
-                <img src=${listObj[i].img}>
+                <img src=${a}>
                 <span>
                     <ul>
                         <li id='title'>업소명 : ${listObj[i].title}</li>
