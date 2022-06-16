@@ -171,7 +171,7 @@ async function getimg(title, address) {
     response = await fetch(url);
     let blob = await response.blob(); 
 
-    returm URL.createObjectURL(blob);
+    return URL.createObjectURL(blob);
 }
 
 
