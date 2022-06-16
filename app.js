@@ -171,7 +171,8 @@ async function getimg(Listtitle, Listaddress) {
     response = await fetch(url);
     let blob = await response.blob(); 
 
-    return URL.createObjectURL(blob);
+    let imgscr1 = URL.createObjectURL(blob);
+    return imgscr1;
 }
 
 
@@ -180,7 +181,8 @@ async function getrating(Listtitle, Listaddress) {
     let response = await fetch(url);
     let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
 
-    return json.results[0].rating;
+    let rating = json.results[0].rating;
+    return rating;
 }
 
 
@@ -190,10 +192,10 @@ const addList = (listObj) => {
     //var a, b, c, d;
 
     for (let i = 0; i < listObj.length; i++) {
-        let imgscr = getimg(listObj[i].title, listObj[i].address);
-        let rating = getrating(listObj[i].title, listObj[i].address);
+        let imgscr1 = getimg(listObj[i].title, listObj[i].address);
+        let rating1 = getrating(listObj[i].title, listObj[i].address);
         list += `<div class='list'>
-                <img src=${imgscr}>
+                <img src=${imgscr1}>
                 <span>
                     <ul>
                         <li id='title'>업소명 : ${listObj[i].title}</li>
@@ -201,7 +203,7 @@ const addList = (listObj) => {
                         <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
-                        <li>별점 : ${rating}</li>
+                        <li>별점 : ${rating1}</li>
                     </ul>
                 </span>
         </div>`;
