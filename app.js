@@ -160,6 +160,30 @@ const display_geolocation = () => {
     }
 }
 
+async function getimg(title, address) {
+    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + title + " " + adress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
+    let response = await fetch(url);
+    let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
+
+    var s = json.results[0].photos[0].photo_reference;
+
+    url = "https://maps.googleapis.com/maps/api/place/details/json?fields=name%2Cphotos%2Crating&place_id=" + s + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
+    response = await fetch(url);
+    let blob = await response.blob(); 
+
+    returm URL.createObjectURL(blob);
+}
+
+
+async function getrating(title, address) {
+    var url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=" + title + " " + adress + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o";
+    let response = await fetch(url);
+    let json = await response.json(); // 응답 본문을 json 형태로 읽습니다.
+
+    return json.results[0].rating;
+}
+
+
 
 const addList = (listObj) => {
     let list = '';
@@ -172,18 +196,18 @@ const addList = (listObj) => {
         //b = a.results[0].rating;
         //c = a.results[0].photos[0].photo_reference;
         //fetch("https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=" + c + "&key=AIzaSyAaMQd2lgwFeocbFvUpt99vJFyGVPa0g9o").then((response) =>  d );
-
-
+        var imgscr = getrating(listObj[i].title, listObj[i].address);
+        var rating = getrating(listObj[i].title, listObj[i].address);
         list += `<div class='list'>
-                <img src=${listObj[i].img}>
+                <img src=${imgscr}>
                 <span>
                     <ul>
                         <li id='title'>업소명 : ${listObj[i].title}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
                         <li>연락처 : ${listObj[i].phone}</li>
                         <li>품목 : ${listObj[i].menu}</li>
-                        <li>별점 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
+                        <li>별점 : ${rating}</li>
                     </ul>
                 </span>
         </div>`;
