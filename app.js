@@ -184,7 +184,7 @@ const addList = (listObj) => {
                     <ul>
                         <li id='title'>업소명 : ${listObj[i].title}</li>
                         <li id='category'>업종 : ${listObj[i].category}</li>
-                        <li>연락처 : ${listObj[i].phone}</li>
+                        <li>연락처 : ${3}</li>
                         <li>품목 : ${listObj[i].menu}</li>
                         <li id='address'>주소 : ${listObj[i].address}</li>
                     </ul>
