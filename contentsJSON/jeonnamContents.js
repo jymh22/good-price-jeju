@@ -15,7 +15,7 @@ const jeonnamContents =
   "연번": 2,
   category: "음식점",
   title: "시골집순두부",
-  "주요품목": "순두부 백반",
+  menu: "순두부 백반",
   "가격(원)": "  7,000원  ",
   phone: "061-283-4500",
   address : "목포시 복산길 6번길 44(옥암동)"
@@ -24,7 +24,7 @@ const jeonnamContents =
   "연번": 3,
   category: "음식점",
   title: "흥가네 만두분식",
-  "주요품목": "바지락 칼국수",
+  menu: "바지락 칼국수",
   "가격(원)": " 6000원 ",
   phone: "061-242-6705",
   address : "목포시 삼일로 12(창평동)"
@@ -33,7 +33,7 @@ const jeonnamContents =
   "연번": 4,
   category: "음식점",
   title: "광양숯불갈비",
-  "주요품목": "산채비빔밥",
+  menu: "산채비빔밥",
   "가격(원)": "  5,000원  ",
   phone: "061-242-5282",
   address : "목포시 노적봉길21(측후동)"
@@ -42,7 +42,7 @@ const jeonnamContents =
   "연번": 5,
   category: "음식점",
   title: "종가집",
-  "주요품목": "청국장",
+  menu: "청국장",
   "가격(원)": "  6,000원  ",
   phone: "061-242-7766",
   address : "목포시 노적봉길 22(죽동)"
@@ -51,7 +51,7 @@ const jeonnamContents =
   "연번": 6,
   category: "음식점",
   title: "푸른솔 아구집",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": "  8,000원  ",
   phone: "061-244-8381",
   address : "목포시 번화로 8-1(중앙동3가)"
@@ -60,7 +60,7 @@ const jeonnamContents =
   "연번": 7,
   category: "음식점",
   title: "손가네 분식",
-  "주요품목": "김밥",
+  menu: "김밥",
   "가격(원)": "  1,500원  ",
   phone: "061-242-3375",
   address : "목포시 남해로 8-1(산정동)"
@@ -69,7 +69,7 @@ const jeonnamContents =
   "연번": 8,
   category: "음식점",
   title: "원조 가락지",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 6,000원  ",
   phone: "061-274-7026",
   address : "목포시 영산로 258번길 8-2(용당동)"
@@ -78,7 +78,7 @@ const jeonnamContents =
   "연번": 9,
   category: "음식점",
   title: "연산순대 국밥",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": "  7,000원  ",
   phone: "061-285-4012",
   address : "목포시 후광대로105번안길 21(옥암동)"
@@ -87,7 +87,7 @@ const jeonnamContents =
   "연번": 10,
   category: "음식점",
   title: "비파김밥",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": "  4,500원  ",
   phone: "061-282-0003",
   address : "목포시 백년대로337번길 6(상동)"
@@ -96,7 +96,7 @@ const jeonnamContents =
   "연번": 11,
   category: "음식점",
   title: "원조이동갈비",
-  "주요품목": "돼지갈비(250g)",
+  menu: "돼지갈비(250g)",
   "가격(원)": "  9,000원  ",
   phone: "061-284-2009",
   address : "목포시 하당로 237(상동)"
@@ -105,7 +105,7 @@ const jeonnamContents =
   "연번": 12,
   category: "음식점",
   title: "유달 손칼국수",
-  "주요품목": "바지락 칼국수",
+  menu: "바지락 칼국수",
   "가격(원)": "  6,000원  ",
   phone: null,
   address : "목포시 상동로 63, 상가 101호"
@@ -114,7 +114,7 @@ const jeonnamContents =
   "연번": 13,
   category: "음식점",
   title: "차우차우",
-  "주요품목": "자장면",
+  menu: "자장면",
   "가격(원)": " 5,000원  ",
   phone: "061-262-4500",
   address : "목포시 당가두로 22-1(옥암동)"
@@ -123,7 +123,7 @@ const jeonnamContents =
   "연번": 14,
   category: "음식점",
   title: "삼국지",
-  "주요품목": "자장면",
+  menu: "자장면",
   "가격(원)": " 6,000원  ",
   phone: "061-284-8775",
   address : "목포시 하당남부로 108(옥암동)"
@@ -132,7 +132,7 @@ const jeonnamContents =
   "연번": 15,
   category: "음식점",
   title: "루이차우",
-  "주요품목": "자장면",
+  menu: "자장면",
   "가격(원)": "  4,500원  ",
   phone: "061-287-9877",
   address : "목포시 옥암로 74(옥암동)"
@@ -141,7 +141,7 @@ const jeonnamContents =
   "연번": 16,
   category: "세탁업",
   title: "남향 크리닝",
-  "주요품목": "신사복(상\/하)",
+  menu: "신사복(상\/하)",
   "가격(원)": "  6,000원  ",
   phone: "061-244-4647",
   address : "목포시 만호로 29번길 1(금동1가)"
@@ -150,7 +150,7 @@ const jeonnamContents =
   "연번": 17,
   category: "이미용",
   title: "국제 이발관",
-  "주요품목": "이발(면도 포함)",
+  menu: "이발(면도 포함)",
   "가격(원)": "  14,000원  ",
   phone: "061-242-1873",
   address : "목포시 열린길 51번안길 9(죽교동)"
@@ -159,7 +159,7 @@ const jeonnamContents =
   "연번": 18,
   category: "이미용",
   title: "L.벧엘 헤어뉴스",
-  "주요품목": "일반컷트",
+  menu: "일반컷트",
   "가격(원)": " 8,000원  ",
   phone: "070-4318-9098",
   address : "목포시 고하대로 642번길 8(산정동)"
@@ -168,7 +168,7 @@ const jeonnamContents =
   "연번": 19,
   category: "이미용",
   title: "하나둘 미용실",
-  "주요품목": "일반컷트",
+  menu: "일반컷트",
   "가격(원)": "  7,000원  ",
   phone: "061-243-5182",
   address : "목포시 수강로 6(수강동1가)"
@@ -177,7 +177,7 @@ const jeonnamContents =
   "연번": 20,
   category: "목욕업",
   title: "유성탕",
-  "주요품목": "목욕비",
+  menu: "목욕비",
   "가격(원)": "  4,000원  ",
   phone: "061-244-0091",
   address : "목포시 번화로 39-5(대의동2가)"
@@ -186,7 +186,7 @@ const jeonnamContents =
   "연번": 21,
   category: "음식점",
   title: "대성식당",
-  "주요품목": "서대회",
+  menu: "서대회",
   "가격(원)": " 11,000원 ",
   phone: "061-663-0745",
   address : "여수시 교동남1길 5-9(교동)"
@@ -195,7 +195,7 @@ const jeonnamContents =
   "연번": 22,
   category: "음식점",
   title: "보경식당",
-  "주요품목": "설렁탕 ",
+  menu: "설렁탕 ",
   "가격(원)": " 8,000원 ",
   phone: "061-641-2764",
   address : "여수시 봉산1로 5-1(봉산동)"
@@ -204,7 +204,7 @@ const jeonnamContents =
   "연번": 23,
   category: "음식점",
   title: "대승",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-642-3536",
   address : "여수시 진남로 6-3(서교동)"
@@ -213,7 +213,7 @@ const jeonnamContents =
   "연번": 24,
   category: "음식점",
   title: "하얀집 낙지전문점",
-  "주요품목": "산낙지전골",
+  menu: "산낙지전골",
   "가격(원)": " 15,000원 ",
   phone: "061-683-3257",
   address : "여수시 장성1길 19(안산동)"
@@ -222,7 +222,7 @@ const jeonnamContents =
   "연번": 25,
   category: "음식점",
   title: "한주식당",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 6,000원 ",
   phone: "061-662-5524",
   address : "여수시 통제영4길 6-9(중앙동)"
@@ -231,7 +231,7 @@ const jeonnamContents =
   "연번": 26,
   category: "음식점",
   title: "장어마을",
-  "주요품목": "장어탕",
+  menu: "장어탕",
   "가격(원)": " 10,000원 ",
   phone: "061-691-9695",
   address : "여수시 거북선공원1길 13(학동)"
@@ -240,7 +240,7 @@ const jeonnamContents =
   "연번": 27,
   category: "음식점",
   title: "장강",
-  "주요품목": "자장면 ",
+  menu: "자장면 ",
   "가격(원)": " 3,000원 ",
   phone: "061-692-1288",
   address : "여수시 안심산길 33(안산동)"
@@ -249,7 +249,7 @@ const jeonnamContents =
   "연번": 28,
   category: "음식점",
   title: "음식천국",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-664-6180",
   address : "여수시 충무로 54-9(충무동)"
@@ -258,7 +258,7 @@ const jeonnamContents =
   "연번": 29,
   category: "음식점",
   title: "소호식당",
-  "주요품목": "갈치조림",
+  menu: "갈치조림",
   "가격(원)": " 10,000원 ",
   phone: "061-681-2679",
   address : "여수시 시청동2길 15(학동)"
@@ -267,7 +267,7 @@ const jeonnamContents =
   "연번": 30,
   category: "음식점",
   title: "정성식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-662-9362",
   address : "여수시 충무1길 10-1(충무동)"
@@ -276,7 +276,7 @@ const jeonnamContents =
   "연번": 31,
   category: "음식점",
   title: "대수식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-681-2292",
   address : "여수시 성산6길 32(화장동)"
@@ -285,7 +285,7 @@ const jeonnamContents =
   "연번": 32,
   category: "음식점",
   title: "손맛짱",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-685-1880",
   address : "여수시 신기남4길 10(신기동)"
@@ -294,7 +294,7 @@ const jeonnamContents =
   "연번": 33,
   category: "음식점",
   title: "신삼복식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-653-2877",
   address : "여수시 오림1길 19(오림동)"
@@ -303,7 +303,7 @@ const jeonnamContents =
   "연번": 34,
   category: "음식점",
   title: "진남체육공원식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-653-7074",
   address : "여수시 진남체육관길 29(오림동)"
@@ -312,7 +312,7 @@ const jeonnamContents =
   "연번": 35,
   category: "음식점",
   title: "봉황식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-663-0677",
   address : "여수시 충무1길 10-1(충무동)"
@@ -321,7 +321,7 @@ const jeonnamContents =
   "연번": 36,
   category: "음식점",
   title: "엑스포식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-683-4178",
   address : "여수시 여수산단로 238(월하동)"
@@ -330,7 +330,7 @@ const jeonnamContents =
   "연번": 37,
   category: "음식점",
   title: "시원식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-643-2583",
   address : "여수시 봉산1로 12(봉산동)"
@@ -339,7 +339,7 @@ const jeonnamContents =
   "연번": 38,
   category: "음식점",
   title: "돈사랑",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-663-0866",
   address : "여수시 중앙로 93-2(중앙동)"
@@ -348,7 +348,7 @@ const jeonnamContents =
   "연번": 39,
   category: "음식점",
   title: "해태식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-683-4491",
   address : "여수시 학동2길 7(학동)"
@@ -357,7 +357,7 @@ const jeonnamContents =
   "연번": 40,
   category: "음식점",
   title: "두레",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-684-1808",
   address : "여수시 학동2길 7(학동)"
@@ -366,7 +366,7 @@ const jeonnamContents =
   "연번": 41,
   category: "음식점",
   title: "여명",
-  "주요품목": "추어탕",
+  menu: "추어탕",
   "가격(원)": " 7,000원 ",
   phone: "061-654-0196",
   address : "여수시 대치3길 9-8(여서동)"
@@ -375,7 +375,7 @@ const jeonnamContents =
   "연번": 42,
   category: "음식점",
   title: "소문난손칼국수",
-  "주요품목": "칼국수",
+  menu: "칼국수",
   "가격(원)": " 4,000원 ",
   phone: "061-641-3186",
   address : "여수시 서교2길 6(서교동)"
@@ -384,7 +384,7 @@ const jeonnamContents =
   "연번": 43,
   category: "음식점",
   title: "맛자랑죽집",
-  "주요품목": "팥죽",
+  menu: "팥죽",
   "가격(원)": " 5,000원 ",
   phone: "061-686-0481",
   address : "여수시 학동2길 7(학동)"
@@ -393,7 +393,7 @@ const jeonnamContents =
   "연번": 44,
   category: "이미용",
   title: "돈까스천국",
-  "주요품목": "돈까스",
+  menu: "돈까스",
   "가격(원)": " 8,000원 ",
   phone: "061-662-0239",
   address : "여수시 통제영3길 14(교동)"
@@ -402,7 +402,7 @@ const jeonnamContents =
   "연번": 45,
   category: "음식점",
   title: "청해루",
-  "주요품목": "자장면",
+  menu: "자장면",
   "가격(원)": " 4,000원 ",
   phone: "061-691-6644",
   address : "여수시 장성1길 28(안산동)"
@@ -411,7 +411,7 @@ const jeonnamContents =
   "연번": 46,
   category: "음식점",
   title: "아구회관",
-  "주요품목": "아귀찜(소)",
+  menu: "아귀찜(소)",
   "가격(원)": " 21,000웡 ",
   phone: "061-652-9243",
   address : "여수시 여문문화2길 13(문수동)"
@@ -420,7 +420,7 @@ const jeonnamContents =
   "연번": 47,
   category: "음식점",
   title: "모범식당",
-  "주요품목": "게장백반",
+  menu: "게장백반",
   "가격(원)": " 10,000원 ",
   phone: "061-664-7770",
   address : "여수시 교동남1길 5-13(교동)"
@@ -429,7 +429,7 @@ const jeonnamContents =
   "연번": 48,
   category: "이미용",
   title: "보스톤",
-  "주요품목": "돈가스",
+  menu: "돈가스",
   "가격(원)": " 8,000원 ",
   phone: "061-664-4832",
   address : "여수시 진남상가길 39-4(교동)"
@@ -438,7 +438,7 @@ const jeonnamContents =
   "연번": 49,
   category: "이미용",
   title: "올리브",
-  "주요품목": "돈가스",
+  menu: "돈가스",
   "가격(원)": " 9,000원 ",
   phone: "061-652-1697",
   address : "여수시 여서1로 41-1(여서동)"
@@ -447,7 +447,7 @@ const jeonnamContents =
   "연번": 50,
   category: "이미용",
   title: "원경미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 6,000원 ",
   phone: "061-663-5435",
   address : "여수시 덕충2길 68-12(덕충동)"
@@ -456,7 +456,7 @@ const jeonnamContents =
   "연번": 51,
   category: "이미용",
   title: "상하미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 8,000원 ",
   phone: "061-651-6897",
   address : "여수시 문수북11길 1(문수동)"
@@ -465,7 +465,7 @@ const jeonnamContents =
   "연번": 52,
   category: "이미용",
   title: "뉴미인",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-642-7885",
   address : "여수시 구봉산길 11-2(국동)"
@@ -474,7 +474,7 @@ const jeonnamContents =
   "연번": 53,
   category: "이미용",
   title: "문수이용원",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-654-2750",
   address : "여수시 문수북6길 3(문수동)"
@@ -483,7 +483,7 @@ const jeonnamContents =
   "연번": 54,
   category: "이미용",
   title: "새로나이용원",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 8,000원 ",
   phone: "010-5622-5150",
   address : "여수시 여서1로 32(여서동)"
@@ -492,7 +492,7 @@ const jeonnamContents =
   "연번": 55,
   category: "목욕업",
   title: "동광탕",
-  "주요품목": "목욕비",
+  menu: "목욕비",
   "가격(원)": " 5,000원 ",
   phone: "061-662-4272",
   address : "여수시 동문로 101(공화동)"
@@ -501,7 +501,7 @@ const jeonnamContents =
   "연번": 56,
   category: "이미용",
   title: "교동커피집",
-  "주요품목": "아메리카노",
+  menu: "아메리카노",
   "가격(원)": " 2,000원 ",
   phone: "061-662-7022",
   address : "여수시 진남상가길 17(교동)"
@@ -510,7 +510,7 @@ const jeonnamContents =
   "연번": 57,
   category: "음식점",
   title: "짱구게장",
-  "주요품목": "게장백반",
+  menu: "게장백반",
   "가격(원)": " 8,000원 ",
   phone: "061-642-6813",
   address : "여수시 봉강2길 23(봉강동)"
@@ -519,7 +519,7 @@ const jeonnamContents =
   "연번": 58,
   category: "음식점",
   title: "구봉국수",
-  "주요품목": "잔치국수",
+  menu: "잔치국수",
   "가격(원)": " 4,000원 ",
   phone: "061-641-0389",
   address : "여수시 좌수영로 18-4(서교동)"
@@ -528,7 +528,7 @@ const jeonnamContents =
   "연번": 59,
   category: "음식점",
   title: "만두콩이",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-682-3336",
   address : "여수시 쌍봉로 55(학동)"
@@ -537,7 +537,7 @@ const jeonnamContents =
   "연번": 60,
   category: "음식점",
   title: "미가칼국수",
-  "주요품목": "해물칼국수",
+  menu: "해물칼국수",
   "가격(원)": " 6,000원 ",
   phone: "061-641-7666",
   address : "여수시 박람회길 23-10(덕충동)"
@@ -546,7 +546,7 @@ const jeonnamContents =
   "연번": 61,
   category: "음식점",
   title: "가든한식뷔페",
-  "주요품목": "한식뷔페",
+  menu: "한식뷔페",
   "가격(원)": " 8,000원 ",
   phone: "061-681-5940",
   address : "여수시 시청동1길 7(학동)"
@@ -555,7 +555,7 @@ const jeonnamContents =
   "연번": 62,
   category: "음식점",
   title: "맛으로 여는 행복",
-  "주요품목": "묵은지김치찌개",
+  menu: "묵은지김치찌개",
   "가격(원)": " 7,000원 ",
   phone: "061-692-9192",
   address : "여수시 시청서4길 30-8(학동)"
@@ -564,7 +564,7 @@ const jeonnamContents =
   "연번": 63,
   category: "음식점",
   title: "장수식당",
-  "주요품목": "게장백반",
+  menu: "게장백반",
   "가격(원)": " 10,000원 ",
   phone: "061-665-0177",
   address : "여수시 오동도로 10(공화동)"
@@ -573,7 +573,7 @@ const jeonnamContents =
   "연번": 64,
   category: "이미용",
   title: "커피에스토",
-  "주요품목": "아메리카노",
+  menu: "아메리카노",
   "가격(원)": " 2,500원 ",
   phone: "061-683-8510",
   address : "여수시 망마로 30(학동)"
@@ -582,7 +582,7 @@ const jeonnamContents =
   "연번": 65,
   category: "이미용",
   title: "모던미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-643-2736",
   address : "여수시 국동남5길 8-5(국동)"
@@ -591,7 +591,7 @@ const jeonnamContents =
   "연번": 66,
   category: "음식점",
   title: "보물섬",
-  "주요품목": "전복죽",
+  menu: "전복죽",
   "가격(원)": " 8,000원 ",
   phone: "061-921-8635",
   address : "여수시 하멜로 49, 1층(종화동)"
@@ -600,7 +600,7 @@ const jeonnamContents =
   "연번": 67,
   category: "음식점",
   title: "돈뗄",
-  "주요품목": "수제돈가스",
+  menu: "수제돈가스",
   "가격(원)": " 6,500원 ",
   phone: "061-652-2760",
   address : "여수시 양지1길 30, 1층(미평동)"
@@ -609,7 +609,7 @@ const jeonnamContents =
   "연번": 68,
   category: "음식점",
   title: "소반",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-653-1002",
   address : "여수시 진남체육관길 27(오림동)"
@@ -618,7 +618,7 @@ const jeonnamContents =
   "연번": 69,
   category: "음식점",
   title: "텃골수육국밥",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-654-0310",
   address : "여수시 여서동2길 9-1(여서동)"
@@ -627,7 +627,7 @@ const jeonnamContents =
   "연번": 70,
   category: "음식점",
   title: "뽀빠이국밥",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-652-6300",
   address : "여수시 만성로 134-4(미평동)"
@@ -636,7 +636,7 @@ const jeonnamContents =
   "연번": 71,
   category: "음식점",
   title: "석천식당",
-  "주요품목": "불고기게장백반",
+  menu: "불고기게장백반",
   "가격(원)": " 10,000원 ",
   phone: "061-643-5051",
   address : "여수시 봉산남1길 24-1, 1층(봉산동)"
@@ -645,7 +645,7 @@ const jeonnamContents =
   "연번": 72,
   category: "음식점",
   title: "이순신갈비탕",
-  "주요품목": "이순신갈비탕",
+  menu: "이순신갈비탕",
   "가격(원)": " 10,000원 ",
   phone: "061-666-6664",
   address : "여수시 중앙로 67(중앙동)"
@@ -654,7 +654,7 @@ const jeonnamContents =
   "연번": 73,
   category: "음식점",
   title: "은수저",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-662-3111",
   address : "여수시 오림1길 3(오림동)"
@@ -663,7 +663,7 @@ const jeonnamContents =
   "연번": 74,
   category: "음식점",
   title: "우리식당",
-  "주요품목": "장어탕",
+  menu: "장어탕",
   "가격(원)": " 10,000원 ",
   phone: "061-641-6688",
   address : "여수시 국동3길 5(국동)"
@@ -672,7 +672,7 @@ const jeonnamContents =
   "연번": 75,
   category: "음식점",
   title: "덕충식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-664-7838",
   address : "여수시 공화남3길 9(공화동)"
@@ -681,7 +681,7 @@ const jeonnamContents =
   "연번": 76,
   category: "음식점",
   title: "이화식당",
-  "주요품목": "게장정식",
+  menu: "게장정식",
   "가격(원)": " 12,000원 ",
   phone: "061-654-9887",
   address : "여수시 문수5길 46(문수동)"
@@ -690,7 +690,7 @@ const jeonnamContents =
   "연번": 77,
   category: "이미용",
   title: "센스미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-663-7138",
   address : "여수시 이순신광장로 223-1(종화동)"
@@ -699,7 +699,7 @@ const jeonnamContents =
   "연번": 78,
   category: "이미용",
   title: "남성커트클럽 블루가이",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 9,000원 ",
   phone: "061-653-0317",
   address : "여수시 여문2로 97(문수동)"
@@ -708,7 +708,7 @@ const jeonnamContents =
   "연번": 79,
   category: "음식점",
   title: "대명통장어탕",
-  "주요품목": "통장어탕",
+  menu: "통장어탕",
   "가격(원)": " 13,000원 ",
   phone: "061-666-9988",
   address : "여수시 시청서5길 8(학동)"
@@ -717,7 +717,7 @@ const jeonnamContents =
   "연번": 80,
   category: "음식점",
   title: "참좋은식당",
-  "주요품목": "순두부찌개",
+  menu: "순두부찌개",
   "가격(원)": " 6,000원 ",
   phone: "061-665-3412",
   address : "여수시 관문4길 3(관문동)"
@@ -726,7 +726,7 @@ const jeonnamContents =
   "연번": 81,
   category: "음식점",
   title: "수라식당",
-  "주요품목": "짱뚱이탕",
+  menu: "짱뚱이탕",
   "가격(원)": " 8,000원 ",
   phone: "061-653-0888",
   address : "여수시 여서동4길 15-2(여서동)"
@@ -735,7 +735,7 @@ const jeonnamContents =
   "연번": 82,
   category: "음식점",
   title: "고가네",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-683-9226",
   address : "여수시 소라면 주삼덕양로1-1"
@@ -744,7 +744,7 @@ const jeonnamContents =
   "연번": 83,
   category: "음식점",
   title: "청해식당",
-  "주요품목": "통장어구이(1인)",
+  menu: "통장어구이(1인)",
   "가격(원)": " 12,000원 ",
   phone: "061-663-3226",
   address : "여수시 이순신광장로 197(종화동)"
@@ -753,7 +753,7 @@ const jeonnamContents =
   "연번": 84,
   category: "음식점",
   title: "3코스식당",
-  "주요품목": "생선회(4인)",
+  menu: "생선회(4인)",
   "가격(원)": 60000,
   phone: "061-662-3339",
   address : "여수시남면 우두로 225"
@@ -762,7 +762,7 @@ const jeonnamContents =
   "연번": 85,
   category: "이미용",
   title: "송주미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-653-5171",
   address : "여수시 문수북6길 17(문수동)"
@@ -771,7 +771,7 @@ const jeonnamContents =
   "연번": 86,
   category: "이미용",
   title: "훈이 헤어샵",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "010-8004-5285",
   address : "여수시 학동8길 28(학동)"
@@ -780,7 +780,7 @@ const jeonnamContents =
   "연번": 87,
   category: "이미용",
   title: "대박미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-653-9450",
   address : "여수시 여문2로 15 상가동115호"
@@ -789,7 +789,7 @@ const jeonnamContents =
   "연번": 88,
   category: "이미용",
   title: "장미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-654-7642",
   address : "여수시 여서2로 54(여서동)"
@@ -798,7 +798,7 @@ const jeonnamContents =
   "연번": 89,
   category: "이미용",
   title: "개성미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-684-7114",
   address : "여수시 율촌면 당머리길3-1"
@@ -807,7 +807,7 @@ const jeonnamContents =
   "연번": 90,
   category: "음식점",
   title: "물망초식당",
-  "주요품목": "삼계탕",
+  menu: "삼계탕",
   "가격(원)": " 13,000원 ",
   phone: "061-662-5233",
   address : "여수시 충무로 54-7(충무동)"
@@ -816,7 +816,7 @@ const jeonnamContents =
   "연번": 91,
   category: "음식점",
   title: "구)한재마차갈비",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": " 12,000원 ",
   phone: "061-651-3222",
   address : "여수시 문수3길 6-1(문수동)"
@@ -825,7 +825,7 @@ const jeonnamContents =
   "연번": 92,
   category: "음식점",
   title: "여궁식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-685-2177",
   address : "여수시 무선로 183(선원동)"
@@ -834,7 +834,7 @@ const jeonnamContents =
   "연번": 93,
   category: "음식점",
   title: "화물식당",
-  "주요품목": "서대회",
+  menu: "서대회",
   "가격(원)": " 10,000원 ",
   phone: "061-666-3459",
   address : "여수시 수정6길 6번지(수정동)"
@@ -843,7 +843,7 @@ const jeonnamContents =
   "연번": 94,
   category: "이미용",
   title: "톡헤어",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-662-9285",
   address : "여수시 종화서1길 17(종화동)"
@@ -852,7 +852,7 @@ const jeonnamContents =
   "연번": 95,
   category: "음식점",
   title: "화양기사식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-652-3474",
   address : "여수시 진남체육관길 17(오림동)"
@@ -861,7 +861,7 @@ const jeonnamContents =
   "연번": 96,
   category: "음식점",
   title: "밥상차려주는 집",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 5,000원 ",
   phone: "061-654-5872",
   address : "여수시 양지3길 8(미평동)"
@@ -870,7 +870,7 @@ const jeonnamContents =
   "연번": 97,
   category: "음식점",
   title: "소문난밥집",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-684-4171",
   address : "여수시 성산4길 5-2(화장동)"
@@ -879,7 +879,7 @@ const jeonnamContents =
   "연번": 98,
   category: "음식점",
   title: "구포국수",
-  "주요품목": "잔치국수",
+  menu: "잔치국수",
   "가격(원)": " 3,000원 ",
   phone: "061-684-0599",
   address : "여수시 흥국로 91(신기동)"
@@ -888,7 +888,7 @@ const jeonnamContents =
   "연번": 99,
   category: "이미용",
   title: "형제이용원",
-  "주요품목": "컷트",
+  menu: "컷트",
   "가격(원)": " 9,000원 ",
   phone: "061-683-1987",
   address : "여수시 시전6길 23(시전동)"
@@ -897,7 +897,7 @@ const jeonnamContents =
   "연번": 100,
   category: "이미용",
   title: "우정이용원",
-  "주요품목": "컷트",
+  menu: "컷트",
   "가격(원)": " 7,000원 ",
   phone: "061-662-6385",
   address : "여수시 공화남1길 28(공화동)"
@@ -906,7 +906,7 @@ const jeonnamContents =
   "연번": 101,
   category: "목욕업",
   title: "장수탕",
-  "주요품목": "목욕비",
+  menu: "목욕비",
   "가격(원)": " 4,000원 ",
   phone: "061-664-2112",
   address : "여수시 진남로 119-1(관문동)"
@@ -915,7 +915,7 @@ const jeonnamContents =
   "연번": 102,
   category: "음식점",
   title: "뚱이짱어",
-  "주요품목": "장어탕",
+  menu: "장어탕",
   "가격(원)": " 10,000원 ",
   phone: "061-644-4772",
   address : "여수시 돌산읍 강남3길 74-20"
@@ -924,7 +924,7 @@ const jeonnamContents =
   "연번": 103,
   category: "음식점",
   title: "미리내",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-651-9984",
   address : "여수시 문수5길 36-1"
@@ -933,7 +933,7 @@ const jeonnamContents =
   "연번": 104,
   category: "음식점",
   title: "밥도둑",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-662-2061",
   address : "여수시 충무오거리길 12-1"
@@ -942,7 +942,7 @@ const jeonnamContents =
   "연번": 105,
   category: "음식점",
   title: "여수시",
-  "주요품목": "한려햄버거",
+  menu: "한려햄버거",
   "가격(원)": " 3,000원 ",
   phone: "061-665-9285",
   address : "여수시 동문로 104, 1층(공화동)"
@@ -951,7 +951,7 @@ const jeonnamContents =
   "연번": 106,
   category: "음식점",
   title: "여수시",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-684-8114",
   address : "여수시 화산2길 14, 1층(화장동)"
@@ -960,7 +960,7 @@ const jeonnamContents =
   "연번": 107,
   category: "음식점",
   title: "여수시",
-  "주요품목": "게장백반",
+  menu: "게장백반",
   "가격(원)": " 9,000원 ",
   phone: "061-662-5048",
   address : "여수시 문수3길 5-4(문수동)"
@@ -969,7 +969,7 @@ const jeonnamContents =
   "연번": 108,
   category: "음식점",
   title: "여수시",
-  "주요품목": "추어탕",
+  menu: "추어탕",
   "가격(원)": " 6,000원 ",
   phone: "061-641-4021",
   address : "여수시 봉산남4길 23-7(봉산동)"
@@ -978,7 +978,7 @@ const jeonnamContents =
   "연번": 109,
   category: "음식점",
   title: "여수시",
-  "주요품목": "달곰함박",
+  menu: "달곰함박",
   "가격(원)": " 8,500원 ",
   phone: "061-685-4410",
   address : "여수시 예울마루로 37-53, 109호(웅천동)"
@@ -987,7 +987,7 @@ const jeonnamContents =
   "연번": 110,
   category: "음식점",
   title: "향촌식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-2522",
   address : "순천시 북문길 40(동외동)"
@@ -996,7 +996,7 @@ const jeonnamContents =
   "연번": 111,
   category: "음식점",
   title: "또와줘국밥",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-6895",
   address : "순천시 북문길 40(동외동)"
@@ -1005,7 +1005,7 @@ const jeonnamContents =
   "연번": 112,
   category: "음식점",
   title: "세광식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-4895",
   address : "순천시 북문길 40(동외동)"
@@ -1014,7 +1014,7 @@ const jeonnamContents =
   "연번": 113,
   category: "음식점",
   title: "괴목국밥",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-753-4124",
   address : "순천시 북문길 40(동외동)"
@@ -1023,7 +1023,7 @@ const jeonnamContents =
   "연번": 114,
   category: "음식점",
   title: "일오삼 우리식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-4742",
   address : "순천시 북문길 40(동외동)"
@@ -1032,7 +1032,7 @@ const jeonnamContents =
   "연번": 115,
   category: "음식점",
   title: "황전식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-3637",
   address : "순천시 북문길 40(동외동)"
@@ -1041,7 +1041,7 @@ const jeonnamContents =
   "연번": 116,
   category: "음식점",
   title: "순흥식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-9506",
   address : "순천시 북문길 40(동외동)"
@@ -1050,7 +1050,7 @@ const jeonnamContents =
   "연번": 117,
   category: "음식점",
   title: "쌍암식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-3386",
   address : "순천시 북문길 40(동외동)"
@@ -1059,7 +1059,7 @@ const jeonnamContents =
   "연번": 118,
   category: "음식점",
   title: "성수식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-5258",
   address : "순천시 북문길 40(동외동)"
@@ -1068,7 +1068,7 @@ const jeonnamContents =
   "연번": 119,
   category: "음식점",
   title: "신화식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-7027",
   address : "순천시 북문길 40(동외동)"
@@ -1077,7 +1077,7 @@ const jeonnamContents =
   "연번": 120,
   category: "음식점",
   title: "순복식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-0345",
   address : "순천시 북문길 40(동외동)"
@@ -1086,7 +1086,7 @@ const jeonnamContents =
   "연번": 121,
   category: "음식점",
   title: "한우식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-753-7878",
   address : "순천시 북문길 40(동외동)"
@@ -1095,7 +1095,7 @@ const jeonnamContents =
   "연번": 122,
   category: "음식점",
   title: "제일식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-753-4655",
   address : "순천시 북문길 40(동외동)"
@@ -1104,7 +1104,7 @@ const jeonnamContents =
   "연번": 123,
   category: "음식점",
   title: "살찐식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": "7,000원",
   phone: "061-752-1332",
   address : "순천시 북문길 40(동외동)"
@@ -1113,7 +1113,7 @@ const jeonnamContents =
   "연번": 124,
   category: "이미용",
   title: "봉문이용원",
-  "주요품목": "남성 커트",
+  menu: "남성 커트",
   "가격(원)": "5,000원",
   phone: "061-723-0326",
   address : "순천시 연향상가3길 24(연향동)"
@@ -1122,7 +1122,7 @@ const jeonnamContents =
   "연번": 125,
   category: "음식점",
   title: "정일식당",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": "6,000원",
   phone: "061-751-1217",
   address : "순천시 순천대2길 10-14"
@@ -1131,7 +1131,7 @@ const jeonnamContents =
   "연번": 126,
   category: "음식점",
   title: "진양회수산",
-  "주요품목": "백반정식",
+  menu: "백반정식",
   "가격(원)": "7,000원",
   phone: "061-753-5566",
   address : "순천시 북문길 40(동외동)"
@@ -1140,7 +1140,7 @@ const jeonnamContents =
   "연번": 127,
   category: "음식점",
   title: "고바우휴게정",
-  "주요품목": "백반정식",
+  menu: "백반정식",
   "가격(원)": "7,000원",
   phone: "061-723-1331",
   address : "순천시 해룡면 여순로 1148"
@@ -1149,7 +1149,7 @@ const jeonnamContents =
   "연번": 128,
   category: "음식점",
   title: "시장통짜장",
-  "주요품목": "짜장",
+  menu: "짜장",
   "가격(원)": " 3,000원 ",
   phone: "061-741-7982",
   address : "순천시 장평로 60(풍덕동)"
@@ -1158,7 +1158,7 @@ const jeonnamContents =
   "연번": 129,
   category: "음식점",
   title: "소가네 추어탕",
-  "주요품목": "추어탕",
+  menu: "추어탕",
   "가격(원)": "6,000원",
   phone: "061-741-2418",
   address : "순천시 팔마로 65(풍덕동)"
@@ -1167,7 +1167,7 @@ const jeonnamContents =
   "연번": 130,
   category: "음식점",
   title: "진화팥죽",
-  "주요품목": "팥죽",
+  menu: "팥죽",
   "가격(원)": 4000,
   phone: null,
   address : "순천시 장평로 60(풍덕동)"
@@ -1176,7 +1176,7 @@ const jeonnamContents =
   "연번": 131,
   category: "음식점",
   title: "옛날팥죽",
-  "주요품목": "팥죽",
+  menu: "팥죽",
   "가격(원)": 5000,
   phone: null,
   address : "순천시 장평로 60(풍덕동)"
@@ -1185,7 +1185,7 @@ const jeonnamContents =
   "연번": 132,
   category: "음식점",
   title: "고향집",
-  "주요품목": "팥죽",
+  menu: "팥죽",
   "가격(원)": 4000,
   phone: null,
   address : "순천시 장평로 60(풍덕동)"
@@ -1194,7 +1194,7 @@ const jeonnamContents =
   "연번": 133,
   category: "음식점",
   title: "관광식당",
-  "주요품목": "백반정식",
+  menu: "백반정식",
   "가격(원)": 9000,
   phone: "061-755-2130",
   address : "순천시 송광면 송광사안길 127"
@@ -1203,7 +1203,7 @@ const jeonnamContents =
   "연번": 134,
   category: "음식점",
   title: "순천식당",
-  "주요품목": "산채비빔밥",
+  menu: "산채비빔밥",
   "가격(원)": 9000,
   phone: "061-755-2378",
   address : "순천시 송광면 송광사안길 127"
@@ -1212,7 +1212,7 @@ const jeonnamContents =
   "연번": 135,
   category: "음식점",
   title: "벌교대중음식점",
-  "주요품목": "산채비빔밥",
+  menu: "산채비빔밥",
   "가격(원)": 9000,
   phone: "061-755-2305",
   address : "순천시 송광면 송광사안길 125"
@@ -1221,7 +1221,7 @@ const jeonnamContents =
   "연번": 136,
   category: "음식점",
   title: "송광사 식당",
-  "주요품목": "백반정식",
+  menu: "백반정식",
   "가격(원)": 10000,
   phone: "061-755-2213",
   address : "순천시 송광면 송광사안길 123"
@@ -1230,7 +1230,7 @@ const jeonnamContents =
   "연번": 137,
   category: "음식점",
   title: "금광식당",
-  "주요품목": "백반정식",
+  menu: "백반정식",
   "가격(원)": 10000,
   phone: "061-755-2063",
   address : "순천시 송광면 송광사안길 123"
@@ -1239,7 +1239,7 @@ const jeonnamContents =
   "연번": 138,
   category: "음식점",
   title: "길상식당",
-  "주요품목": "산채비빔밥",
+  menu: "산채비빔밥",
   "가격(원)": "9,000원",
   phone: "061-755-2173",
   address : "순천시 송광면 송광사안길 123"
@@ -1248,7 +1248,7 @@ const jeonnamContents =
   "연번": 139,
   category: "음식점",
   title: "웃장가마솥국밥",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": "7,000원",
   phone: "061-753-1583",
   address : "순천시 북문길 40(동외동)"
@@ -1257,7 +1257,7 @@ const jeonnamContents =
   "연번": 140,
   category: "세탁업",
   title: "금당대주세탁소",
-  "주요품목": "양복드라이",
+  menu: "양복드라이",
   "가격(원)": 6500,
   phone: "061-722-7567",
   address : "순천시 지봉로 485 (대주상가 206호)"
@@ -1266,7 +1266,7 @@ const jeonnamContents =
   "연번": 141,
   category: "음식점",
   title: "한남식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-334-3720",
   address : "나주시 영산포로 263-1"
@@ -1275,7 +1275,7 @@ const jeonnamContents =
   "연번": 142,
   category: "음식점",
   title: "연화식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 8,000원 ",
   phone: "061-333-9333",
   address : "나주시 남평읍 남평2로 45-52"
@@ -1284,7 +1284,7 @@ const jeonnamContents =
   "연번": 143,
   category: "음식점",
   title: "목사골오리탕",
-  "주요품목": "뚝배기 오리탕",
+  menu: "뚝배기 오리탕",
   "가격(원)": " 7,000원 ",
   phone: "061-336-5295",
   address : "나주시 청동길 14 B4호"
@@ -1293,7 +1293,7 @@ const jeonnamContents =
   "연번": 144,
   category: "이미용",
   title: "성북헤어\n갤러리",
-  "주요품목": "성인커트(노약자)",
+  menu: "성인커트(노약자)",
   "가격(원)": " 5,000원 ",
   phone: "061-332-9553",
   address : "나주시 대호길 10 (성북동)"
@@ -1302,7 +1302,7 @@ const jeonnamContents =
   "연번": 145,
   category: "이미용",
   title: "핑크헤어샵",
-  "주요품목": "성인커트(샴푸미실시)",
+  menu: "성인커트(샴푸미실시)",
   "가격(원)": " 4,000원 ",
   phone: "061-332-2747",
   address : "나주시 영산로 5436(죽림동)"
@@ -1311,7 +1311,7 @@ const jeonnamContents =
   "연번": 146,
   category: "음식점",
   title: "나주한식뷔페",
-  "주요품목": "뷔페",
+  menu: "뷔페",
   "가격(원)": " 10,000원 ",
   phone: "061-336-4321",
   address : "나주시 영산로 5411(성북동)"
@@ -1320,7 +1320,7 @@ const jeonnamContents =
   "연번": 147,
   category: "음식점",
   title: "문암가든",
-  "주요품목": "청국장찌개",
+  menu: "청국장찌개",
   "가격(원)": " 7,000원 ",
   phone: "061-335-7679",
   address : "나주시 다시면 영산로 4844(가운리)"
@@ -1329,7 +1329,7 @@ const jeonnamContents =
   "연번": 148,
   category: "음식점",
   title: "소문난식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-336-2001",
   address : "나주시 노안면 노안로 531(학산리)"
@@ -1338,7 +1338,7 @@ const jeonnamContents =
   "연번": 149,
   category: "음식점",
   title: "오리정가",
-  "주요품목": "점심특선 오리 샤브샤브",
+  menu: "점심특선 오리 샤브샤브",
   "가격(원)": " 6,000원 ",
   phone: "061-335-3613",
   address : "나주시 남고문로 129"
@@ -1347,7 +1347,7 @@ const jeonnamContents =
   "연번": 150,
   category: "음식점",
   title: "석기네 한우명가",
-  "주요품목": "익힌비빔밥",
+  menu: "익힌비빔밥",
   "가격(원)": " 6,000원 ",
   phone: "061-335-7892",
   address : "나주시 풍물시장2길 1 (이창동)"
@@ -1356,7 +1356,7 @@ const jeonnamContents =
   "연번": 151,
   category: "음식점",
   title: "두레박 협동조합",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-333-1818",
   address : "나주시 한빛로 19"
@@ -1365,7 +1365,7 @@ const jeonnamContents =
   "연번": 152,
   category: "음식점",
   title: "진미국밥",
-  "주요품목": "진미국밥",
+  menu: "진미국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-334-9988",
   address : "나주시 황동2길 4-15"
@@ -1374,7 +1374,7 @@ const jeonnamContents =
   "연번": 153,
   category: "음식점",
   title: "시골통돼지 볶음삼결살",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 7,000원 ",
   phone: "061-335-5575",
   address : "나주시 쌍산2길 50"
@@ -1383,7 +1383,7 @@ const jeonnamContents =
   "연번": 154,
   category: "음식점",
   title: "우촌",
-  "주요품목": "소갈비살(1kg)",
+  menu: "소갈비살(1kg)",
   "가격(원)": " 59,000원 ",
   phone: "061-337-9290",
   address : "나주시 나주로 83-9"
@@ -1392,7 +1392,7 @@ const jeonnamContents =
   "연번": 155,
   category: "음식점",
   title: "돈가스클릭",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 5,000원 ",
   phone: "061-761-8880",
   address : "광양시 광양읍 신재로 47"
@@ -1401,7 +1401,7 @@ const jeonnamContents =
   "연번": 156,
   category: "음식점",
   title: "사랑분식",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 5,000원 ",
   phone: "061-762-8442",
   address : "광양시 광양읍 매천로 822-1"
@@ -1410,7 +1410,7 @@ const jeonnamContents =
   "연번": 157,
   category: "음식점",
   title: "엄마손김밥",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 5,000원 ",
   phone: "061-762-5411",
   address : "광양시 광양읍 칠성로 45"
@@ -1419,7 +1419,7 @@ const jeonnamContents =
   "연번": 158,
   category: "음식점",
   title: "왕창국밥",
-  "주요품목": "국 밥",
+  menu: "국 밥",
   "가격(원)": " 5,000원 ",
   phone: "061-762-4870",
   address : "광양시 광양읍 희양현로 30"
@@ -1428,7 +1428,7 @@ const jeonnamContents =
   "연번": 159,
   category: "음식점",
   title: "성원국밥",
-  "주요품목": "머리국밥",
+  menu: "머리국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-763-5252",
   address : "광양시 광양읍 서북로 27-1"
@@ -1437,7 +1437,7 @@ const jeonnamContents =
   "연번": 160,
   category: "음식점",
   title: "풍년보리밥",
-  "주요품목": "장어탕",
+  menu: "장어탕",
   "가격(원)": " 8,000원 ",
   phone: "061-763-0138",
   address : "광양시 광양읍 서북로13-1"
@@ -1446,7 +1446,7 @@ const jeonnamContents =
   "연번": 161,
   category: "음식점",
   title: "청해루",
-  "주요품목": "짜장면",
+  menu: "짜장면",
   "가격(원)": " 4,500원 ",
   phone: "061-762-5088",
   address : "광양시 광양읍 인덕로 1105"
@@ -1455,7 +1455,7 @@ const jeonnamContents =
   "연번": 162,
   category: "음식점",
   title: "한국반점",
-  "주요품목": "짜장면",
+  menu: "짜장면",
   "가격(원)": 4000,
   phone: "061-761-9999",
   address : "광양시 광양읍 은장도길 24"
@@ -1464,7 +1464,7 @@ const jeonnamContents =
   "연번": 163,
   category: "음식점",
   title: "천하식당",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 10,000원 ",
   phone: "061-762-4933",
   address : "광양시 광양읍 매일시장길27"
@@ -1473,7 +1473,7 @@ const jeonnamContents =
   "연번": 164,
   category: "음식점",
   title: "전통갈비촌",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 8,000원 ",
   phone: "061-763-3681",
   address : "광양시 광양읍 서천2길10"
@@ -1482,7 +1482,7 @@ const jeonnamContents =
   "연번": 165,
   category: "음식점",
   title: "어부횟집",
-  "주요품목": "우럭회",
+  menu: "우럭회",
   "가격(원)": " 18,000원 ",
   phone: "061-761-5554",
   address : "광양시 광양읍 칠성리 957-4"
@@ -1491,7 +1491,7 @@ const jeonnamContents =
   "연번": 166,
   category: "음식점",
   title: "장수국밥",
-  "주요품목": "머리국밥",
+  menu: "머리국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-794-1222",
   address : "광양시 중마용소5길 4-1(중동)"
@@ -1500,7 +1500,7 @@ const jeonnamContents =
   "연번": 167,
   category: "음식점",
   title: "시장중화요리",
-  "주요품목": "짜장면 ",
+  menu: "짜장면 ",
   "가격(원)": " 4,000원 ",
   phone: "061-791-6989",
   address : "광양시 중동 1732-3"
@@ -1509,7 +1509,7 @@ const jeonnamContents =
   "연번": 168,
   category: "음식점",
   title: "판문점",
-  "주요품목": "돼지갈비",
+  menu: "돼지갈비",
   "가격(원)": 9000,
   phone: "061-791-3322",
   address : "광양시 중마청룡길 6-4"
@@ -1518,7 +1518,7 @@ const jeonnamContents =
   "연번": 169,
   category: "음식점",
   title: "삼거리식당",
-  "주요품목": "장어탕",
+  menu: "장어탕",
   "가격(원)": " 7,000원 ",
   phone: "061-792-6505",
   address : "광양시 하포길 68-1"
@@ -1527,7 +1527,7 @@ const jeonnamContents =
   "연번": 170,
   category: "음식점",
   title: "이모네아구찜",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 8,000원 ",
   phone: "061-794-5582",
   address : "광양시 영수길148(광영동)"
@@ -1536,7 +1536,7 @@ const jeonnamContents =
   "연번": 171,
   category: "음식점",
   title: "계절식당",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 9,000원 ",
   phone: "061-792-6160",
   address : "광양시 정수2길 16"
@@ -1545,7 +1545,7 @@ const jeonnamContents =
   "연번": 172,
   category: "음식점",
   title: "신진미정",
-  "주요품목": "돼지갈비",
+  menu: "돼지갈비",
   "가격(원)": " 8,000원 ",
   phone: "061-795-3993",
   address : "광양시 광영동 정수1길 12"
@@ -1554,7 +1554,7 @@ const jeonnamContents =
   "연번": 173,
   category: "음식점",
   title: "예촌식당",
-  "주요품목": "생선구이",
+  menu: "생선구이",
   "가격(원)": " 7,000원 ",
   phone: "061-794-4737",
   address : "광양시 남산1길 27"
@@ -1563,7 +1563,7 @@ const jeonnamContents =
   "연번": 174,
   category: "이미용",
   title: "서연미 미용실",
-  "주요품목": "커 트",
+  menu: "커 트",
   "가격(원)": " 10,000원 ",
   phone: "061-761-7995",
   address : "광양시 광양읍 서평10길 41"
@@ -1572,7 +1572,7 @@ const jeonnamContents =
   "연번": 175,
   category: "이미용",
   title: "헤어샵 지윤",
-  "주요품목": "커 트",
+  menu: "커 트",
   "가격(원)": " 10,000원 ",
   phone: "061-761-2042",
   address : "광양시 광양읍 서평로 15"
@@ -1581,7 +1581,7 @@ const jeonnamContents =
   "연번": 176,
   category: "세탁업",
   title: "모아모아빨래방",
-  "주요품목": "정장1벌",
+  menu: "정장1벌",
   "가격(원)": " 4,000원 ",
   phone: "061-794-7333",
   address : "광양시 사동로 7(중동)"
@@ -1590,7 +1590,7 @@ const jeonnamContents =
   "연번": 177,
   category: "세탁업",
   title: "금당세탁소",
-  "주요품목": "정장1벌",
+  menu: "정장1벌",
   "가격(원)": " 5,000원 ",
   phone: "061-799-1776",
   address : "광양시 금호로26(금호동)"
@@ -1599,7 +1599,7 @@ const jeonnamContents =
   "연번": 178,
   category: "세탁업",
   title: "금호세탁소",
-  "주요품목": "정장1벌",
+  menu: "정장1벌",
   "가격(원)": " 5,000원 ",
   phone: "061-799-1735",
   address : "광양시 폭포사랑길 99(금호동)"
@@ -1608,7 +1608,7 @@ const jeonnamContents =
   "연번": 179,
   category: "목욕업",
   title: "태극탕",
-  "주요품목": "목욕비",
+  menu: "목욕비",
   "가격(원)": " 4,000원 ",
   phone: "061-763-6720",
   address : "광양시 광양읍 호북길 25"
@@ -1617,7 +1617,7 @@ const jeonnamContents =
   "연번": 180,
   category: "목욕업",
   title: "백운사우나",
-  "주요품목": "목욕비",
+  menu: "목욕비",
   "가격(원)": " 4,000원 ",
   phone: "061-799-3178",
   address : "광양시 폭포사랑길 99(금호동)"
@@ -1626,7 +1626,7 @@ const jeonnamContents =
   "연번": 181,
   category: "음식점",
   title: "멍게네",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-763-5718",
   address : "광양시 광양읍 읍내리 299-3"
@@ -1635,7 +1635,7 @@ const jeonnamContents =
   "연번": 182,
   category: "음식점",
   title: "창덕용마루",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 10,000원 ",
   phone: "061-762-2473",
   address : "광양시 광양읍 용강리 860-4"
@@ -1644,7 +1644,7 @@ const jeonnamContents =
   "연번": 183,
   category: "음식점",
   title: "장성금생초국밥",
-  "주요품목": "콩나물국밥",
+  menu: "콩나물국밥",
   "가격(원)": " 5,000원 ",
   phone: "061-763-3875",
   address : "광양시 광양읍 성북길 57"
@@ -1653,7 +1653,7 @@ const jeonnamContents =
   "연번": 184,
   category: "음식점",
   title: "명궁중화요리",
-  "주요품목": "짜장면",
+  menu: "짜장면",
   "가격(원)": " 3,500원 ",
   phone: "061-795-0011",
   address : "광양시 중동 길호2길 32"
@@ -1662,7 +1662,7 @@ const jeonnamContents =
   "연번": 185,
   category: "음식점",
   title: "몽돌이산꼼장어",
-  "주요품목": "삼겹살 ",
+  menu: "삼겹살 ",
   "가격(원)": " 9,000원 ",
   phone: "061-792-3301",
   address : "광양시 광영동 정수2길 22"
@@ -1671,7 +1671,7 @@ const jeonnamContents =
   "연번": 186,
   category: "음식점",
   title: "영진식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "061-793-8118",
   address : "광양시 신광길 13(광영동)"
@@ -1680,7 +1680,7 @@ const jeonnamContents =
   "연번": 187,
   category: "음식점",
   title: "금호음식점",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 5,500원 ",
   phone: "061-799-3336",
   address : "광양시 희망길 12-14(금호동)"
@@ -1689,7 +1689,7 @@ const jeonnamContents =
   "연번": 188,
   category: "음식점",
   title: "마포식당",
-  "주요품목": "정식",
+  menu: "정식",
   "가격(원)": " 7,000원 ",
   phone: "061-792-7225",
   address : "광양시 광영동 정수1길1"
@@ -1698,7 +1698,7 @@ const jeonnamContents =
   "연번": 189,
   category: "음식점",
   title: "일번지횟집",
-  "주요품목": "생선미역국",
+  menu: "생선미역국",
   "가격(원)": " 7,000원 ",
   phone: "061-792-3015",
   address : "광양시 정수2길 29"
@@ -1707,7 +1707,7 @@ const jeonnamContents =
   "연번": 190,
   category: "음식점",
   title: "원진삼계탕",
-  "주요품목": "삼계탕",
+  menu: "삼계탕",
   "가격(원)": " 12,000원 ",
   phone: "061-792-6066",
   address : "광양시 광영로 42"
@@ -1716,7 +1716,7 @@ const jeonnamContents =
   "연번": 191,
   category: "음식점",
   title: "조선옥숯불갈비",
-  "주요품목": "돼지갈비",
+  menu: "돼지갈비",
   "가격(원)": " 9,000원 ",
   phone: "061-792-8558",
   address : "광양시 광영로 22"
@@ -1725,7 +1725,7 @@ const jeonnamContents =
   "연번": 192,
   category: "음식점",
   title: "매화향",
-  "주요품목": "퓨전한정식",
+  menu: "퓨전한정식",
   "가격(원)": " 13,000원 ",
   phone: "061-793-3606",
   address : "광양시 중마로 562(중동)"
@@ -1734,7 +1734,7 @@ const jeonnamContents =
   "연번": 193,
   category: "음식점",
   title: "마포집",
-  "주요품목": "비빔밥",
+  menu: "비빔밥",
   "가격(원)": " 6,000원 ",
   phone: "061-794-2239",
   address : "광양시 중마청룡길 27-1 (중동)"
@@ -1743,7 +1743,7 @@ const jeonnamContents =
   "연번": 194,
   category: "음식점",
   title: "대호돼지국밥",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-792-8028",
   address : "광양시 영수길 63(광영동)"
@@ -1752,7 +1752,7 @@ const jeonnamContents =
   "연번": 195,
   category: "음식점",
   title: "신남도회관",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-792-8028",
   address : "광양시 진상면 백운3로8"
@@ -1761,7 +1761,7 @@ const jeonnamContents =
   "연번": 196,
   category: "이미용",
   title: "미짱헤어",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-762-9869",
   address : "광양시 광양읍 용강로 28(1층)"
@@ -1770,7 +1770,7 @@ const jeonnamContents =
   "연번": 197,
   category: "음식점",
   title: "왕국수",
-  "주요품목": "갈비탕",
+  menu: "갈비탕",
   "가격(원)": " 6,000원 ",
   phone: "061-793-9596",
   address : "광양시 사동로 5-1(중동)"
@@ -1779,7 +1779,7 @@ const jeonnamContents =
   "연번": 198,
   category: "음식점",
   title: "92(구이)",
-  "주요품목": " 제육정식 ",
+  menu: " 제육정식 ",
   "가격(원)": " 6,000원 ",
   phone: "061-793-9229",
   address : "광양시 눈소5길 31-6(마동)"
@@ -1788,7 +1788,7 @@ const jeonnamContents =
   "연번": 199,
   category: "음식점",
   title: "초원밥상",
-  "주요품목": "부페",
+  menu: "부페",
   "가격(원)": " 6,000원 ",
   phone: "061-761-7702",
   address : "광양시 광양읍 제철로 223"
@@ -1797,7 +1797,7 @@ const jeonnamContents =
   "연번": 200,
   category: "이미용",
   title: "가위연가미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-792-9887",
   address : "광양시 사동로 24"
@@ -1806,7 +1806,7 @@ const jeonnamContents =
   "연번": 201,
   category: "숙박",
   title: "대솔뫼한옥",
-  "주요품목": "2인기준",
+  menu: "2인기준",
   "가격(원)": " 70,000원 ",
   phone: "061-382-8804",
   address : "담양군 금성면 정각길 8-3"
@@ -1815,7 +1815,7 @@ const jeonnamContents =
   "연번": 202,
   category: "음식점",
   title: "풍요",
-  "주요품목": "돼지갈비",
+  menu: "돼지갈비",
   "가격(원)": " 13,500원 ",
   phone: "061-383-0055",
   address : "담양군 창평면 의병로 9"
@@ -1824,7 +1824,7 @@ const jeonnamContents =
   "연번": 203,
   category: "음식점",
   title: "오란다",
-  "주요품목": "아메리카노",
+  menu: "아메리카노",
   "가격(원)": " 3,000원 ",
   phone: "061-383-3048",
   address : "담양군 창평면 의병로 213"
@@ -1833,7 +1833,7 @@ const jeonnamContents =
   "연번": 204,
   category: "음식점",
   title: "황토방국밥",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": " 7,000원 ",
   phone: "061-381-7159",
   address : "담양군 창평면 사동길 14-7"
@@ -1842,7 +1842,7 @@ const jeonnamContents =
   "연번": 205,
   category: "음식점",
   title: "초원정",
-  "주요품목": "아구찜(中)",
+  menu: "아구찜(中)",
   "가격(원)": " 35,000원 ",
   phone: "061-382-1972",
   address : "담양군 대전면 대전로 39"
@@ -1851,7 +1851,7 @@ const jeonnamContents =
   "연번": 206,
   category: "음식점",
   title: "오거리분식",
-  "주요품목": "육개장",
+  menu: "육개장",
   "가격(원)": " 6,000원 ",
   phone: "061-381-5996",
   address : "담양군 담양읍 지침1길 19-5"
@@ -1860,7 +1860,7 @@ const jeonnamContents =
   "연번": 207,
   category: "음식점",
   title: "축협한우",
-  "주요품목": "비빔밥",
+  menu: "비빔밥",
   "가격(원)": " 7,000원 ",
   phone: "061-380-5600",
   address : "담양군 담양읍 삼거리길 8-6"
@@ -1869,7 +1869,7 @@ const jeonnamContents =
   "연번": 208,
   category: "음식점",
   title: "한우타운",
-  "주요품목": "비빔밥",
+  menu: "비빔밥",
   "가격(원)": " 7,000원 ",
   phone: "061-382-6693",
   address : "담양군 담양읍 죽향대로 1164"
@@ -1878,7 +1878,7 @@ const jeonnamContents =
   "연번": 209,
   category: "음식점",
   title: "창평안두부",
-  "주요품목": "순두부",
+  menu: "순두부",
   "가격(원)": " 6,000원 ",
   phone: "061-383-9288",
   address : "담양군 창평면 의병로 29"
@@ -1887,7 +1887,7 @@ const jeonnamContents =
   "연번": 210,
   category: "음식점",
   title: "삼정회관",
-  "주요품목": "애호박찌개",
+  menu: "애호박찌개",
   "가격(원)": " 8,000원 ",
   phone: "061-383-4900",
   address : "담양군 담양읍 지침3길 11"
@@ -1896,7 +1896,7 @@ const jeonnamContents =
   "연번": 211,
   category: "음식점",
   title: "목화식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 8,000원 ",
   phone: "061-383-7505",
   address : "담양군 담양읍 천변5길 3"
@@ -1905,7 +1905,7 @@ const jeonnamContents =
   "연번": 212,
   category: "음식점",
   title: "대통죽순 순대",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-381-8545",
   address : "담양군 담양읍 중앙로 84"
@@ -1914,7 +1914,7 @@ const jeonnamContents =
   "연번": 213,
   category: "음식점",
   title: "우리회관",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 10,000원 ",
   phone: "061-363-8321",
   address : "곡성군 곡성읍 중앙로 118"
@@ -1923,7 +1923,7 @@ const jeonnamContents =
   "연번": 214,
   category: "음식점",
   title: "석곡돼지한마리",
-  "주요품목": "생삼겹",
+  menu: "생삼겹",
   "가격(원)": " 9,000원 ",
   phone: "061-362-3077",
   address : "곡성군 석곡 2길 13"
@@ -1932,7 +1932,7 @@ const jeonnamContents =
   "연번": 215,
   category: "음식점",
   title: "별천지가든",
-  "주요품목": "참게백반",
+  menu: "참게백반",
   "가격(원)": " 13,000원 ",
   phone: "061-362-8746",
   address : "곡성군 오곡면 섬진강로 1266"
@@ -1941,7 +1941,7 @@ const jeonnamContents =
   "연번": 216,
   category: "음식점",
   title: "삼겹살데이",
-  "주요품목": "장터국밥",
+  menu: "장터국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-783-5831",
   address : "구례군 5일시장작은길 20"
@@ -1950,7 +1950,7 @@ const jeonnamContents =
   "연번": 217,
   category: "음식점",
   title: "광양숯불고기",
-  "주요품목": "비빔밥",
+  menu: "비빔밥",
   "가격(원)": " 7,000원 ",
   phone: "061-782-1004",
   address : "구례군 봉동길 30"
@@ -1959,7 +1959,7 @@ const jeonnamContents =
   "연번": 218,
   category: "음식점",
   title: "고흥한우직판장",
-  "주요품목": "불백(1인분)",
+  menu: "불백(1인분)",
   "가격(원)": "8,000원",
   phone: "061-832-9131",
   address : "고흥군 고흥읍 고흥로 1892-67"
@@ -1968,7 +1968,7 @@ const jeonnamContents =
   "연번": 219,
   category: "음식점",
   title: "세정식당",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": "9,000원",
   phone: "061-842-0852",
   address : "고흥군 도양읍 녹동남촌1길 10"
@@ -1977,7 +1977,7 @@ const jeonnamContents =
   "연번": 220,
   category: "음식점",
   title: "청해식당",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": "9,000원",
   phone: "061-842-3917",
   address : "고흥군 도양읍 번영1길 3"
@@ -1986,7 +1986,7 @@ const jeonnamContents =
   "연번": 221,
   category: "음식점",
   title: "일조갈비",
-  "주요품목": "돼지갈비(300g)",
+  menu: "돼지갈비(300g)",
   "가격(원)": "12,000원",
   phone: "061-832-5406",
   address : "고흥군 포두면 우주로 601"
@@ -1995,7 +1995,7 @@ const jeonnamContents =
   "연번": 222,
   category: "목욕업",
   title: "로얄목욕탕",
-  "주요품목": "목욕료",
+  menu: "목욕료",
   "가격(원)": "5,000원",
   phone: "061-834-5435",
   address : "고흥군 고흥읍 봉황길 9"
@@ -2004,7 +2004,7 @@ const jeonnamContents =
   "연번": 223,
   category: "목욕업",
   title: "고흥목욕탕",
-  "주요품목": "목욕료",
+  menu: "목욕료",
   "가격(원)": "5,000원",
   phone: "061-835-2333",
   address : "고흥군 고흥읍 봉황길 9"
@@ -2013,7 +2013,7 @@ const jeonnamContents =
   "연번": 224,
   category: "목욕업",
   title: "유자사우나",
-  "주요품목": "목욕료",
+  menu: "목욕료",
   "가격(원)": "5,000원",
   phone: "061-832-2226",
   address : "고흥군 고흥읍 여산당촌길 43"
@@ -2022,7 +2022,7 @@ const jeonnamContents =
   "연번": 225,
   category: "목욕업",
   title: "백림그린사우나",
-  "주요품목": "목욕료",
+  menu: "목욕료",
   "가격(원)": "5,000원",
   phone: "061-834-3388",
   address : "고흥군 고흥읍 홍교길 27"
@@ -2031,7 +2031,7 @@ const jeonnamContents =
   "연번": 226,
   category: "음식점",
   title: "삼미식당",
-  "주요품목": "오리불고기",
+  menu: "오리불고기",
   "가격(원)": "34,000원",
   phone: "061-834-3982",
   address : "고흥군 두원면 두원로109-58"
@@ -2040,7 +2040,7 @@ const jeonnamContents =
   "연번": 227,
   category: "음식점",
   title: "포두청남식당",
-  "주요품목": "국밥",
+  menu: "국밥",
   "가격(원)": "8,000원",
   phone: "061-832-5970",
   address : "고흥군 포두면 우주로 583"
@@ -2049,7 +2049,7 @@ const jeonnamContents =
   "연번": 228,
   category: "음식점",
   title: "놀부식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-853-3016",
   address : "보성군 보성읍 동산길 12-10"
@@ -2058,7 +2058,7 @@ const jeonnamContents =
   "연번": 229,
   category: "음식점",
   title: "신화식당",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 12,000원 ",
   phone: "061-852-2712",
   address : "보성군 보성읍 새싹길 8"
@@ -2067,7 +2067,7 @@ const jeonnamContents =
   "연번": 230,
   category: "음식점",
   title: "고려회관",
-  "주요품목": "꼬막정식",
+  menu: "꼬막정식",
   "가격(원)": " 20,000원 ",
   phone: "061-857-8888",
   address : "보성군 벌교읍 채동선로 294"
@@ -2076,7 +2076,7 @@ const jeonnamContents =
   "연번": 231,
   category: "음식점",
   title: "호남반점",
-  "주요품목": "자장면",
+  menu: "자장면",
   "가격(원)": " 5,000원 ",
   phone: "061-857-2161",
   address : "보성군 벌교읍 시장2길 5-1"
@@ -2085,7 +2085,7 @@ const jeonnamContents =
   "연번": 232,
   category: "음식점",
   title: "연미정",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-858-1772",
   address : "보성군 조성면 조성로 121"
@@ -2094,7 +2094,7 @@ const jeonnamContents =
   "연번": 233,
   category: "음식점",
   title: "중흥식당",
-  "주요품목": "삼겹살",
+  menu: "삼겹살",
   "가격(원)": " 12,000원 ",
   phone: "061-852-6018",
   address : "보성군 웅치면 일림로 1000"
@@ -2103,7 +2103,7 @@ const jeonnamContents =
   "연번": 234,
   category: "음식점",
   title: "봉순이팥죽",
-  "주요품목": "잔치국수",
+  menu: "잔치국수",
   "가격(원)": " 5,000원 ",
   phone: "061-375-8735",
   address : "화순군 화순읍 칠충로 132"
@@ -2112,7 +2112,7 @@ const jeonnamContents =
   "연번": 235,
   category: "음식점",
   title: "솥뚜껑삼겹살",
-  "주요품목": "삼겹살(180g)",
+  menu: "삼겹살(180g)",
   "가격(원)": 10000,
   phone: "061-373-9595",
   address : "화순군 화순읍 만연로 122-1"
@@ -2121,7 +2121,7 @@ const jeonnamContents =
   "연번": 236,
   category: "음식점",
   title: "은혜스넥",
-  "주요품목": "다슬기수제비",
+  menu: "다슬기수제비",
   "가격(원)": " 6,000원 ",
   phone: "061-374-0055",
   address : "화순군 화순읍 광덕로 165"
@@ -2130,7 +2130,7 @@ const jeonnamContents =
   "연번": 237,
   category: "음식점",
   title: "옹구삼겹살",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": " 13,000원 ",
   phone: "061-374-7784",
   address : "화순군 화순읍 노대길 57"
@@ -2139,7 +2139,7 @@ const jeonnamContents =
   "연번": 238,
   category: "음식점",
   title: "추어탕한그릇",
-  "주요품목": "추어탕",
+  menu: "추어탕",
   "가격(원)": " 8,000원 ",
   phone: "061-371-5959",
   address : "화순군 화순읍 대교로 37"
@@ -2148,7 +2148,7 @@ const jeonnamContents =
   "연번": 239,
   category: "음식점",
   title: "현대찜갈비",
-  "주요품목": "생태탕",
+  menu: "생태탕",
   "가격(원)": " 7,000원 ",
   phone: "061-371-8295",
   address : "화순군 화순읍 만연로 99"
@@ -2157,7 +2157,7 @@ const jeonnamContents =
   "연번": 240,
   category: "음식점",
   title: "다미정",
-  "주요품목": "불고기백반",
+  menu: "불고기백반",
   "가격(원)": " 8,000원 ",
   phone: "061-372-3344",
   address : "화순군 화순읍 쌍충로 99"
@@ -2166,7 +2166,7 @@ const jeonnamContents =
   "연번": 241,
   category: "음식점",
   title: "아라서분식",
-  "주요품목": "팥죽",
+  menu: "팥죽",
   "가격(원)": " 5,000원 ",
   phone: "061-374-4003",
   address : "화순군 화순읍 노대길 30"
@@ -2175,7 +2175,7 @@ const jeonnamContents =
   "연번": 242,
   category: "음식점",
   title: "맛고을",
-  "주요품목": "백반정식",
+  menu: "백반정식",
   "가격(원)": " 7,000원 ",
   phone: "061-372-6659",
   address : "화순군 사평면 사호로 218"
@@ -2184,7 +2184,7 @@ const jeonnamContents =
   "연번": 243,
   category: "이미용",
   title: "성하미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 5,000원 ",
   phone: "061-374-6067",
   address : "화순군 화순읍 광덕로 167"
@@ -2193,7 +2193,7 @@ const jeonnamContents =
   "연번": 244,
   category: "이미용",
   title: "신데렐라미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 8,000원 ",
   phone: "061-375-2173",
   address : "화순군 화순읍 대리길 17"
@@ -2202,7 +2202,7 @@ const jeonnamContents =
   "연번": 245,
   category: "세탁업",
   title: "태양세탁소",
-  "주요품목": "상의",
+  menu: "상의",
   "가격(원)": " 4,000원 ",
   phone: "061-374-7678",
   address : "화순군 화순읍 도내기길 5"
@@ -2211,7 +2211,7 @@ const jeonnamContents =
   "연번": 246,
   category: "세탁업",
   title: "하얀세탁소",
-  "주요품목": "상의",
+  menu: "상의",
   "가격(원)": " 6,000원 ",
   phone: "061-373-6302",
   address : "화순군 능주면 석고길 15"
@@ -2220,7 +2220,7 @@ const jeonnamContents =
   "연번": 247,
   category: "목욕업",
   title: "그린목욕탕",
-  "주요품목": "목욕(성인)",
+  menu: "목욕(성인)",
   "가격(원)": " 5,000원 ",
   phone: "061-374-6678",
   address : "화순군 화순읍 만연로 11"
@@ -2229,7 +2229,7 @@ const jeonnamContents =
   "연번": 248,
   category: "음식점",
   title: "탐마루장흥한우",
-  "주요품목": "된장찌깨",
+  menu: "된장찌깨",
   "가격(원)": " 7,000원 ",
   phone: "061-862-8292",
   address : "장흥군 장흥읍 장흥로 1"
@@ -2238,7 +2238,7 @@ const jeonnamContents =
   "연번": 249,
   category: "음식점",
   title: "세양회전문점",
-  "주요품목": "알탕",
+  menu: "알탕",
   "가격(원)": " 6,000원 ",
   phone: "061-864-8222",
   address : "장흥군 장흥읍 건산로 40"
@@ -2247,7 +2247,7 @@ const jeonnamContents =
   "연번": 250,
   category: "음식점",
   title: "연지보리밥",
-  "주요품목": "보리밥",
+  menu: "보리밥",
   "가격(원)": " 5,000원 ",
   phone: "061-863-8635",
   address : "장흥군 장흥읍 토요시장3길 15"
@@ -2256,7 +2256,7 @@ const jeonnamContents =
   "연번": 251,
   category: "음식점",
   title: "한라대중음식점",
-  "주요품목": " 선지국밥 ",
+  menu: " 선지국밥 ",
   "가격(원)": " 6,000원 ",
   phone: "061-862-7870",
   address : "장흥군 장흥읍 토요시장 3길 5"
@@ -2265,7 +2265,7 @@ const jeonnamContents =
   "연번": 252,
   category: "음식점",
   title: "행복한식사",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 7,000원 ",
   phone: "061-864-7828",
   address : "장흥군 장흥읍 동교3길 24"
@@ -2274,7 +2274,7 @@ const jeonnamContents =
   "연번": 253,
   category: "음식점",
   title: "만나식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 5,000원 ",
   phone: "061-862-0577",
   address : "장흥군 장흥읍 칠거리 예양로 46-11"
@@ -2283,7 +2283,7 @@ const jeonnamContents =
   "연번": 254,
   category: "음식점",
   title: "금강산식당",
-  "주요품목": "돼지갈비(200g)",
+  menu: "돼지갈비(200g)",
   "가격(원)": " 14,000원 ",
   phone: "061-434-8833",
   address : "강진군 강진읍 영랑로 4길 21"
@@ -2292,7 +2292,7 @@ const jeonnamContents =
   "연번": 255,
   category: "음식점",
   title: "부강식당",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": " 12,000원 ",
   phone: "061-434-3243",
   address : "강진군 강진읍 영랑로3길 20"
@@ -2301,7 +2301,7 @@ const jeonnamContents =
   "연번": 256,
   category: "이미용",
   title: "모아미용실",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 12,000원 ",
   phone: "061-432-4561",
   address : "강진군 강진읍 영랑로 4길 14-1"
@@ -2310,7 +2310,7 @@ const jeonnamContents =
   "연번": 257,
   category: "이미용",
   title: "무궁화이발관",
-  "주요품목": "이용료",
+  menu: "이용료",
   "가격(원)": " 5,000원 ",
   phone: "061-434-4491",
   address : "강진군 강진읍 보은로 3길 53"
@@ -2319,7 +2319,7 @@ const jeonnamContents =
   "연번": 258,
   category: "목욕업",
   title: "남도대중 사우나",
-  "주요품목": "목욕료",
+  menu: "목욕료",
   "가격(원)": " 5,000원 ",
   phone: "061-432-9615",
   address : "강진군 강진읍 영랑로 4길 29"
@@ -2328,7 +2328,7 @@ const jeonnamContents =
   "연번": 259,
   category: "음식점",
   title: "청자골",
-  "주요품목": "한식뷔페",
+  menu: "한식뷔페",
   "가격(원)": " 8,000원 ",
   phone: "061-433-7403",
   address : "강진군 강진읍 해강로 974"
@@ -2337,7 +2337,7 @@ const jeonnamContents =
   "연번": 260,
   category: "음식점",
   title: "예촌",
-  "주요품목": "곰탕",
+  menu: "곰탕",
   "가격(원)": " 7,000원 ",
   phone: "061-432-9005",
   address : "강진군 성전면 월남 1길 2"
@@ -2346,7 +2346,7 @@ const jeonnamContents =
   "연번": 261,
   category: "음식점",
   title: "본전갈비",
-  "주요품목": "돼지갈비(300g)",
+  menu: "돼지갈비(300g)",
   "가격(원)": " 14,000원 ",
   phone: "061-432-9631",
   address : "강진군 마량면 마량8길 7"
@@ -2355,7 +2355,7 @@ const jeonnamContents =
   "연번": 262,
   category: "음식점",
   title: "거목촌식당",
-  "주요품목": "등심불백(200g)",
+  menu: "등심불백(200g)",
   "가격(원)": " 11,000원 ",
   phone: "061-434-2106",
   address : "강진군 강진읍 중앙로 103"
@@ -2364,7 +2364,7 @@ const jeonnamContents =
   "연번": 263,
   category: "음식점",
   title: "동해회관",
-  "주요품목": "짱뚱어탕",
+  menu: "짱뚱어탕",
   "가격(원)": " 8,000원 ",
   phone: "061-433-1180",
   address : "강진군 강진읍 보은로 2길 5-1"
@@ -2373,7 +2373,7 @@ const jeonnamContents =
   "연번": 264,
   category: "음식점",
   title: "우성식당",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": " 11,000원 ",
   phone: "061-434-4389",
   address : "강진군 강진읍 남문길 2"
@@ -2382,7 +2382,7 @@ const jeonnamContents =
   "연번": 265,
   category: "음식점",
   title: "반갑다친구야",
-  "주요품목": "가마솥영양밥",
+  menu: "가마솥영양밥",
   "가격(원)": " 10,000원 ",
   phone: "061-536-1531",
   address : "해남군 해남읍 천변2길 53"
@@ -2391,7 +2391,7 @@ const jeonnamContents =
   "연번": 266,
   category: "음식점",
   title: "해진",
-  "주요품목": "육회비빔밥",
+  menu: "육회비빔밥",
   "가격(원)": " 8,000원 ",
   phone: "061-533-7475",
   address : "해남군 해남읍 수성2길 33"
@@ -2400,7 +2400,7 @@ const jeonnamContents =
   "연번": 267,
   category: "음식점",
   title: "금성스넥",
-  "주요품목": "팥칼국수",
+  menu: "팥칼국수",
   "가격(원)": " 6,000원 ",
   phone: "061-536-4586",
   address : "해남군 해남읍 중앙1로 121"
@@ -2409,7 +2409,7 @@ const jeonnamContents =
   "연번": 268,
   category: "음식점",
   title: "한우마당",
-  "주요품목": "육회비빔밥",
+  menu: "육회비빔밥",
   "가격(원)": " 8,000원 ",
   phone: "061-533-7667",
   address : "해남군 해남읍 천변2길 35"
@@ -2418,7 +2418,7 @@ const jeonnamContents =
   "연번": 269,
   category: "음식점",
   title: "오대감",
-  "주요품목": "곰탕",
+  menu: "곰탕",
   "가격(원)": " 7,000원 ",
   phone: "061-536-2700",
   address : "해남군 해남읍 영빈로 49"
@@ -2427,7 +2427,7 @@ const jeonnamContents =
   "연번": 270,
   category: "음식점",
   title: "태웅식당",
-  "주요품목": "산채비빔밥",
+  menu: "산채비빔밥",
   "가격(원)": " 7,000원 ",
   phone: "533-5848",
   address : "해남군 삼산면 대흥사길 174"
@@ -2436,7 +2436,7 @@ const jeonnamContents =
   "연번": 271,
   category: "음식점",
   title: "수라간",
-  "주요품목": "추어탕",
+  menu: "추어탕",
   "가격(원)": " 8,000원 ",
   phone: "534-4089",
   address : "해남군 삼산면 대흥사길 142"
@@ -2445,7 +2445,7 @@ const jeonnamContents =
   "연번": 272,
   category: "음식점",
   title: "중국관",
-  "주요품목": "자장면",
+  menu: "자장면",
   "가격(원)": " 4,000원 ",
   phone: "533-1215",
   address : "해남군 북평면 달량진길 29"
@@ -2454,7 +2454,7 @@ const jeonnamContents =
   "연번": 273,
   category: "음식\n(기타)",
   title: "엄마손집밥",
-  "주요품목": "한정식 뷔페 ",
+  menu: "한정식 뷔페 ",
   "가격(원)": " 7,000원 ",
   phone: "533-5742",
   address : "해남군 계곡면 공룡대로 4334"
@@ -2463,7 +2463,7 @@ const jeonnamContents =
   "연번": 274,
   category: "음식점",
   title: "못난이 아구해물찜",
-  "주요품목": "복지리탕",
+  menu: "복지리탕",
   "가격(원)": " 8,000원 ",
   phone: "533-1172",
   address : "해남군 해남읍 구교3길 9"
@@ -2472,7 +2472,7 @@ const jeonnamContents =
   "연번": 275,
   category: "음식점",
   title: "갯마을 아구찜",
-  "주요품목": "알곤이탕",
+  menu: "알곤이탕",
   "가격(원)": " 7,000원 ",
   phone: "533-3017",
   address : "해남군 해남읍 수성2길 15"
@@ -2481,7 +2481,7 @@ const jeonnamContents =
   "연번": 276,
   category: "음식점",
   title: "부추 오리식당",
-  "주요품목": "돼지국밥",
+  menu: "돼지국밥",
   "가격(원)": " 5,000원 ",
   phone: "537-0202",
   address : "해남군 해남읍 평동길 12-2"
@@ -2490,7 +2490,7 @@ const jeonnamContents =
   "연번": 277,
   category: "음식점",
   title: "강변산들",
-  "주요품목": "토종닭참숯소금구이(한마리)",
+  menu: "토종닭참숯소금구이(한마리)",
   "가격(원)": " 50,000원 ",
   phone: "537-9292",
   address : "해남군 화산면 북부길 122-8"
@@ -2499,7 +2499,7 @@ const jeonnamContents =
   "연번": 278,
   category: "음식점",
   title: "땅끝제주가든",
-  "주요품목": "흙돼지오겹살(150g)",
+  menu: "흙돼지오겹살(150g)",
   "가격(원)": " 15,000원 ",
   phone: "532-7901",
   address : "해남군 송지면 땅끝해안로 1719"
@@ -2508,7 +2508,7 @@ const jeonnamContents =
   "연번": 279,
   category: "음식점",
   title: "솔밭식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 6,000원 ",
   phone: "532-1323",
   address : "해남군 마산면 추당길 3"
@@ -2517,7 +2517,7 @@ const jeonnamContents =
   "연번": 280,
   category: "이미용",
   title: "물레방아 기사식당",
-  "주요품목": "한식뷔폐",
+  menu: "한식뷔폐",
   "가격(원)": " 6,000원 ",
   phone: "535-1119",
   address : "해남군 마산면 명량로 2876"
@@ -2526,7 +2526,7 @@ const jeonnamContents =
   "연번": 281,
   category: "숙박",
   title: "자연과사람들",
-  "주요품목": "황토방 평일 6평",
+  menu: "황토방 평일 6평",
   "가격(원)": " 30,000원 ",
   phone: "533-9656",
   address : "해남군 화원면 영호길 68"
@@ -2535,7 +2535,7 @@ const jeonnamContents =
   "연번": 282,
   category: "이미용",
   title: "자연과사람들",
-  "주요품목": "수제돈가스",
+  menu: "수제돈가스",
   "가격(원)": " 6,000원 ",
   phone: "533-9656",
   address : "해남군 화원면 영호길 68"
@@ -2544,7 +2544,7 @@ const jeonnamContents =
   "연번": 283,
   category: "음식점",
   title: "공원식당",
-  "주요품목": "오늘의메뉴",
+  menu: "오늘의메뉴",
   "가격(원)": " 8,000원 ",
   phone: "061-473-3020",
   address : "영암군 영암읍 군청로 2-16"
@@ -2553,7 +2553,7 @@ const jeonnamContents =
   "연번": 284,
   category: "이미용",
   title: "강헤어필",
-  "주요품목": "컷트(성인)",
+  menu: "컷트(성인)",
   "가격(원)": " 10,000원 ",
   phone: "061-473-0470",
   address : "영암군 영암읍 중앙로 42"
@@ -2562,7 +2562,7 @@ const jeonnamContents =
   "연번": 285,
   category: "음식점",
   title: "영빈관",
-  "주요품목": "비빔밥",
+  menu: "비빔밥",
   "가격(원)": " 10,000원 ",
   phone: "061-473-2143",
   address : "영암군 영암읍 웃시암길 8"
@@ -2571,7 +2571,7 @@ const jeonnamContents =
   "연번": 286,
   category: "음식점",
   title: "매력한우 기찬랜드점",
-  "주요품목": "비빔밥(생,익)",
+  menu: "비빔밥(생,익)",
   "가격(원)": " 10,000원 ",
   phone: "061-473-7788",
   address : "영암군 영암읍 기찬랜드로 17"
@@ -2580,7 +2580,7 @@ const jeonnamContents =
   "연번": 287,
   category: "음식점",
   title: "태백식당",
-  "주요품목": "황태해장국",
+  menu: "황태해장국",
   "가격(원)": " 7,000원 ",
   phone: "061-472-5960",
   address : "영암군 시종면 마한로 1257"
@@ -2589,7 +2589,7 @@ const jeonnamContents =
   "연번": 288,
   category: "음식점",
   title: "삼호추어탕",
-  "주요품목": "추어탕",
+  menu: "추어탕",
   "가격(원)": " 10,000원 ",
   phone: "061-462-2425",
   address : "영암군 삼호읍 대불주거로 60"
@@ -2598,7 +2598,7 @@ const jeonnamContents =
   "연번": 289,
   category: "음식점",
   title: "믿음한우 식육식당",
-  "주요품목": " 김치찌개 ",
+  menu: " 김치찌개 ",
   "가격(원)": " 7,000원 ",
   phone: "061-464-1727",
   address : "영암군 삼호읍 대불주거로 64"
@@ -2607,7 +2607,7 @@ const jeonnamContents =
   "연번": 290,
   category: "음식점",
   title: "종원식육식당",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 8,000원 ",
   phone: "061-462-0017",
   address : "영암군 삼호읍 세가래2길 26-17"
@@ -2616,7 +2616,7 @@ const jeonnamContents =
   "연번": 291,
   category: "음식점",
   title: "나주곰탕",
-  "주요품목": "곰탕",
+  menu: "곰탕",
   "가격(원)": " 8,000원 ",
   phone: "061-464-8859",
   address : "영암군 삼호읍 대불로 400"
@@ -2625,7 +2625,7 @@ const jeonnamContents =
   "연번": 292,
   category: "음식점",
   title: "매력한우명품관",
-  "주요품목": "육회비빔밥",
+  menu: "육회비빔밥",
   "가격(원)": " 7,000원 ",
   phone: "061-464-0085",
   address : "영암군 삼호읍 녹색로 592"
@@ -2634,7 +2634,7 @@ const jeonnamContents =
   "연번": 293,
   category: "음식점",
   title: "고흥식당",
-  "주요품목": "보신탕",
+  menu: "보신탕",
   "가격(원)": " 12,000원 ",
   phone: "061-464-5795",
   address : "영암군 삼호읍 아실길 32"
@@ -2643,7 +2643,7 @@ const jeonnamContents =
   "연번": 294,
   category: "음식점",
   title: "신토불이식당",
-  "주요품목": "가정식백반",
+  menu: "가정식백반",
   "가격(원)": " 8,000원 ",
   phone: "061-473-7979",
   address : "영암군 영암읍 서문로 7"
@@ -2652,7 +2652,7 @@ const jeonnamContents =
   "연번": 295,
   category: "음식점",
   title: "국일관횟집",
-  "주요품목": "각종활어",
+  menu: "각종활어",
   "가격(원)": " 100,000원~130,000원 ",
   phone: "061-471-9192",
   address : "영암군 영암읍 열무정로 29"
@@ -2661,7 +2661,7 @@ const jeonnamContents =
   "연번": 296,
   category: "음식점",
   title: "무안대박집",
-  "주요품목": "대패삼겹살(100g)",
+  menu: "대패삼겹살(100g)",
   "가격(원)": "  3,000원  ",
   phone: "061-452-8601",
   address : "무안군 무안읍 면성1길 111-10"
@@ -2670,7 +2670,7 @@ const jeonnamContents =
   "연번": 297,
   category: "음식점",
   title: "해뜰짱분식",
-  "주요품목": "라면",
+  menu: "라면",
   "가격(원)": " 2,000원~ 3,500원 ",
   phone: "061-454-5627",
   address : "무안군 무안읍 동문안길 56-4"
@@ -2679,7 +2679,7 @@ const jeonnamContents =
   "연번": 298,
   category: "음식점",
   title: "오가네 돼지랑오리랑",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 6,000원 ",
   phone: "061-283-4457",
   address : "무안군 삼향읍 남악5로70번길 6"
@@ -2688,7 +2688,7 @@ const jeonnamContents =
   "연번": 299,
   category: "음식점",
   title: "콩주발전주 콩나물국밥",
-  "주요품목": "콩나물국밥",
+  menu: "콩나물국밥",
   "가격(원)": "  6,000원  ",
   phone: "061-281-6747",
   address : "무안군 삼향읍 남악3로 79"
@@ -2697,7 +2697,7 @@ const jeonnamContents =
   "연번": 300,
   category: "음식점",
   title: "송옥",
-  "주요품목": "메일국수",
+  menu: "메일국수",
   "가격(원)": "  7,000원  ",
   phone: "061-284-9969",
   address : "무안군 삼향읍 남악5로 26번길 33"
@@ -2706,7 +2706,7 @@ const jeonnamContents =
   "연번": 301,
   category: "음식점",
   title: "남악참숯갈비",
-  "주요품목": "왕갈비탕",
+  menu: "왕갈비탕",
   "가격(원)": " 10,000원 ",
   phone: "061-282-3395",
   address : "무안군 삼향읍 남악5로 52번길 29-13"
@@ -2715,7 +2715,7 @@ const jeonnamContents =
   "연번": 302,
   category: "음식점",
   title: "시골집",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": "  7,000원  ",
   phone: "061-282-9930",
   address : "무안군 삼향읍 삼향로 127"
@@ -2724,7 +2724,7 @@ const jeonnamContents =
   "연번": 303,
   category: "음식점",
   title: "대관령황태 해장국",
-  "주요품목": "황태 해장국",
+  menu: "황태 해장국",
   "가격(원)": " 7,000원 ",
   phone: "061-281-8430",
   address : "무안군 삼향읍 삼향로 104"
@@ -2733,7 +2733,7 @@ const jeonnamContents =
   "연번": 304,
   category: "음식점",
   title: "임성국밥",
-  "주요품목": "돼지국밥(사골)",
+  menu: "돼지국밥(사골)",
   "가격(원)": "  7,000원  ",
   phone: "061-282-5255",
   address : "무안군 삼향읍 삼향로 128"
@@ -2742,7 +2742,7 @@ const jeonnamContents =
   "연번": 305,
   category: "음식점",
   title: "백마회관",
-  "주요품목": "삽겹살",
+  menu: "삽겹살",
   "가격(원)": " 10,000원 ",
   phone: "061-322-4477",
   address : "함평군?함평읍 영수길 191"
@@ -2751,7 +2751,7 @@ const jeonnamContents =
   "연번": 306,
   category: "음식점",
   title: "청진동국밥",
-  "주요품목": "콩나물국밥",
+  menu: "콩나물국밥",
   "가격(원)": " 6,000원 ",
   phone: "061-324-3131",
   address : "함평군?함평읍 남일길 38-1"
@@ -2760,7 +2760,7 @@ const jeonnamContents =
   "연번": 307,
   category: "음식점",
   title: "뽀또식당",
-  "주요품목": "뚝배기 불고기",
+  menu: "뚝배기 불고기",
   "가격(원)": " 7,000원 ",
   phone: "061-323-8182",
   address : "함평군?함평읍 영수길 148"
@@ -2769,7 +2769,7 @@ const jeonnamContents =
   "연번": 308,
   category: "음식점",
   title: "맛고을",
-  "주요품목": "돌솥비빔밥",
+  menu: "돌솥비빔밥",
   "가격(원)": " 8,000원 ",
   phone: "061-324-3494",
   address : "함평군?함평읍 광남길 110"
@@ -2778,7 +2778,7 @@ const jeonnamContents =
   "연번": 309,
   category: "음식점",
   title: "소라식당",
-  "주요품목": "자장면",
+  menu: "자장면",
   "가격(원)": " 4,500원 ",
   phone: "061-322-2881",
   address : "함평군?함평읍 중앙길 77"
@@ -2787,7 +2787,7 @@ const jeonnamContents =
   "연번": 310,
   category: "음식점",
   title: "해월축산회관",
-  "주요품목": "꽃등심",
+  menu: "꽃등심",
   "가격(원)": " 30,000원 ",
   phone: "061-323-3708",
   address : "함평군?해보면 해삼로 367"
@@ -2796,7 +2796,7 @@ const jeonnamContents =
   "연번": 311,
   category: "음식점",
   title: "큰소랑꽃등심",
-  "주요품목": "불고기백반",
+  menu: "불고기백반",
   "가격(원)": " 12,000원 ",
   phone: "061-322-7892",
   address : "함평군?함평읍 내교리 103-5"
@@ -2805,7 +2805,7 @@ const jeonnamContents =
   "연번": 312,
   category: "음식점",
   title: "우등숯불갈비",
-  "주요품목": "생고기(350g)",
+  menu: "생고기(350g)",
   "가격(원)": " 35,000원 ",
   phone: "061-352-7892",
   address : "영광군 영광읍 중앙로5길 13-4"
@@ -2814,7 +2814,7 @@ const jeonnamContents =
   "연번": 313,
   category: "음식점",
   title: "중앙식당",
-  "주요품목": "굴비정식(1인기준)",
+  menu: "굴비정식(1인기준)",
   "가격(원)": " 15,000원 ",
   phone: "061-353-4477",
   address : "영광군 영광읍 물무로 102-1"
@@ -2823,7 +2823,7 @@ const jeonnamContents =
   "연번": 314,
   category: "음식점",
   title: "해성식당",
-  "주요품목": "불낙",
+  menu: "불낙",
   "가격(원)": " 13000원 ",
   phone: "061-351-3595",
   address : "영광군 영광읍 물무로 23-2"
@@ -2832,7 +2832,7 @@ const jeonnamContents =
   "연번": 315,
   category: "음식점",
   title: "상아탑",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 7,000원 ",
   phone: "061-351-1616",
   address : "영광군 영광읍 현함길 61"
@@ -2841,7 +2841,7 @@ const jeonnamContents =
   "연번": 316,
   category: "음식점",
   title: "한우천지식육식당",
-  "주요품목": "생고기(600g)",
+  menu: "생고기(600g)",
   "가격(원)": " 48,000원 ",
   phone: "061-353-8812",
   address : "영광군 영광읍 물무로 118"
@@ -2850,7 +2850,7 @@ const jeonnamContents =
   "연번": 317,
   category: "음식점",
   title: "아침해분식",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 7,000원 ",
   phone: "061-353-3911",
   address : "영광군 영광읍 무령리 193"
@@ -2859,7 +2859,7 @@ const jeonnamContents =
   "연번": 318,
   category: "음식점",
   title: "외도식당",
-  "주요품목": "콩나물국밥",
+  menu: "콩나물국밥",
   "가격(원)": " 7,000원 ",
   phone: "061-356-0682",
   address : "영광군 법성면 진굴비길 15"
@@ -2868,7 +2868,7 @@ const jeonnamContents =
   "연번": 319,
   category: "음식점",
   title: "대박이네식당",
-  "주요품목": "중하미역국",
+  menu: "중하미역국",
   "가격(원)": " 6,000원 ",
   phone: "061-356-4822",
   address : "영광군 법성면 굴비로 85"
@@ -2877,7 +2877,7 @@ const jeonnamContents =
   "연번": 320,
   category: "이미용",
   title: "착한미용실",
-  "주요품목": "컷트",
+  menu: "컷트",
   "가격(원)": " 10,000원 ",
   phone: "061-356-3533",
   address : "영광군 법성면 진굴비길 31"
@@ -2886,7 +2886,7 @@ const jeonnamContents =
   "연번": 321,
   category: "음식점",
   title: "황금돼지",
-  "주요품목": "삼겹살, 목살(200g)",
+  menu: "삼겹살, 목살(200g)",
   "가격(원)": " 11,000원 ",
   phone: "061-352-3392",
   address : "영광군 영광읍 중앙로3길 5-12"
@@ -2895,7 +2895,7 @@ const jeonnamContents =
   "연번": 322,
   category: "음식점",
   title: "참좋은식당",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 7,000원 ",
   phone: "061-353-1577",
   address : "영광군 영광읍 천년로11길 31-1"
@@ -2904,7 +2904,7 @@ const jeonnamContents =
   "연번": 323,
   category: "음식점",
   title: "만석식당",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": " 11,000원 ",
   phone: "061-353-2847",
   address : "영광군 영광읍 천년로11길 24"
@@ -2913,7 +2913,7 @@ const jeonnamContents =
   "연번": 324,
   category: "음식점",
   title: "공달생태한마리",
-  "주요품목": "생태한마리",
+  menu: "생태한마리",
   "가격(원)": " 8,000원 ",
   phone: "061-352-2727",
   address : "영광군 영광읍 천년로10길 32"
@@ -2922,7 +2922,7 @@ const jeonnamContents =
   "연번": 325,
   category: "음식점",
   title: "네거리식당",
-  "주요품목": "삼겹살(200g)",
+  menu: "삼겹살(200g)",
   "가격(원)": " 11,000원 ",
   phone: "061-352-5656",
   address : "영광군 영광읍 현암길 55"
@@ -2931,7 +2931,7 @@ const jeonnamContents =
   "연번": 326,
   category: "이미용",
   title: "미&끼 헤어샵",
-  "주요품목": "컷트(학생)",
+  menu: "컷트(학생)",
   "가격(원)": " 10,000원 ",
   phone: "061-356-7629",
   address : "홍영광군 농읍 상하길 39"
@@ -2940,7 +2940,7 @@ const jeonnamContents =
   "연번": 327,
   category: "세탁업",
   title: "상무세탁소",
-  "주요품목": "신사드라이(상,하)",
+  menu: "신사드라이(상,하)",
   "가격(원)": " 5,000원 ",
   phone: "061-394-6903",
   address : "장성군 삼계면 금성길 27-4"
@@ -2949,7 +2949,7 @@ const jeonnamContents =
   "연번": 328,
   category: "음식점",
   title: "그 집",
-  "주요품목": "보리밥",
+  menu: "보리밥",
   "가격(원)": " 6,000원 ",
   phone: "061-394-5340",
   address : "장성군 북이면 백양로 178"
@@ -2958,7 +2958,7 @@ const jeonnamContents =
   "연번": 329,
   category: "음식점",
   title: "영하식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-393-2277",
   address : "장성군 장성읍 역전로 100-6"
@@ -2967,7 +2967,7 @@ const jeonnamContents =
   "연번": 330,
   category: "음식점",
   title: "한울타리식당",
-  "주요품목": "삽겹살(1인)",
+  menu: "삽겹살(1인)",
   "가격(원)": "12,000원",
   phone: "061-553-5884",
   address : "완도군 완도읍 개포로114번길 11"
@@ -2976,7 +2976,7 @@ const jeonnamContents =
   "연번": 331,
   category: "음식점",
   title: "소문난삼겹살",
-  "주요품목": "생삼겹(1인)",
+  menu: "생삼겹(1인)",
   "가격(원)": "12,000원",
   phone: "061-554-1400",
   address : "완도군 완도읍 개포로114번길 23-4"
@@ -2985,7 +2985,7 @@ const jeonnamContents =
   "연번": 332,
   category: "음식점",
   title: "싱싱나라식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 7,000원 ",
   phone: "061-554-9991",
   address : "완도군 완도읍 장보고대로 313"
@@ -2994,7 +2994,7 @@ const jeonnamContents =
   "연번": 333,
   category: "음식점",
   title: "명동순대국밥",
-  "주요품목": "순대국밥",
+  menu: "순대국밥",
   "가격(원)": " 7,000원 ",
   phone: "061-552-2748",
   address : "완도군 완도읍 해변공원로91번길 9"
@@ -3003,7 +3003,7 @@ const jeonnamContents =
   "연번": 334,
   category: "음식점",
   title: "빙그레국밥",
-  "주요품목": "순대국밥 ",
+  menu: "순대국밥 ",
   "가격(원)": "8,000원",
   phone: "061-553-4533",
   address : "완도군 완도읍 개포로 5-1"
@@ -3012,7 +3012,7 @@ const jeonnamContents =
   "연번": 335,
   category: "음식점",
   title: "새벽해장국",
-  "주요품목": "뼈해장국",
+  menu: "뼈해장국",
   "가격(원)": " 5,000원 ",
   phone: "061-552-0838",
   address : "완도군 완도읍 개포로56번길 15-8"
@@ -3021,7 +3021,7 @@ const jeonnamContents =
   "연번": 336,
   category: "음식점",
   title: "구이팔구",
-  "주요품목": "생삽겹살",
+  menu: "생삽겹살",
   "가격(원)": "10,000원",
   phone: "061-554-9289",
   address : "완도군 완도읍 개포로114번길 23-12"
@@ -3030,7 +3030,7 @@ const jeonnamContents =
   "연번": 337,
   category: "세탁업",
   title: "컷트만들기",
-  "주요품목": "파마",
+  menu: "파마",
   "가격(원)": "20,000원",
   phone: null,
   address : "완도군 완도읍 장보고대로 254"
@@ -3039,7 +3039,7 @@ const jeonnamContents =
   "연번": 338,
   category: "음식점",
   title: "여울 식당",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 8,000원 ",
   phone: "061-543-5807",
   address : "진도군 임회면 석교길 36"
@@ -3048,7 +3048,7 @@ const jeonnamContents =
   "연번": 339,
   category: "이미용",
   title: "장은경헤어필",
-  "주요품목": "커트",
+  menu: "커트",
   "가격(원)": " 10,000원 ",
   phone: "061-543-1010",
   address : "진도군 고군면 오일시2길 107-18"
@@ -3057,7 +3057,7 @@ const jeonnamContents =
   "연번": 340,
   category: "음식점",
   title: "버섯마을",
-  "주요품목": "백반",
+  menu: "백반",
   "가격(원)": " 8,000원 ",
   phone: "061-544-6621",
   address : "진도군 진도읍 남문길 12-2"
@@ -3066,7 +3066,7 @@ const jeonnamContents =
   "연번": 341,
   category: "음식점",
   title: "미연식당",
-  "주요품목": "삼겹살(600g)",
+  menu: "삼겹살(600g)",
   "가격(원)": " 20,000원 ",
   phone: "061-271-0563",
   address : "진도군 압해읍 월포안길 15-2"
@@ -3075,7 +3075,7 @@ const jeonnamContents =
   "연번": 342,
   category: "음식점",
   title: "만나식당",
-  "주요품목": "김치찌개",
+  menu: "김치찌개",
   "가격(원)": " 8,000원 ",
   phone: "061-271-5995",
   address : "진도군 압해읍 압해로 879"
@@ -3084,7 +3084,7 @@ const jeonnamContents =
   "연번": 343,
   category: "음식점",
   title: "꽃피는 무화가",
-  "주요품목": "전복해초돌솥밥",
+  menu: "전복해초돌솥밥",
   "가격(원)": " 10,000원 ",
   phone: "061-271-5552",
   address : "진도군 압해읍 압해로 393-2"
@@ -3093,7 +3093,7 @@ const jeonnamContents =
   "연번": 344,
   category: "음식점",
   title: "삼거리반점",
-  "주요품목": "짜장",
+  menu: "짜장",
   "가격(원)": " 5,000원 ",
   phone: "061-271-7674",
   address : "진도군 압해읍 복룡로 2-1"
@@ -3102,7 +3102,7 @@ const jeonnamContents =
   "연번": 345,
   category: "음식점",
   title: "샨샤",
-  "주요품목": "짜장",
+  menu: "짜장",
   "가격(원)": " 6,000원 ",
   phone: "061-271-1867",
   address : "진도군 암태면 장단고길 23-2"
@@ -3111,7 +3111,7 @@ const jeonnamContents =
   "연번": 346,
   category: "음식점",
   title: "선희네식당",
-  "주요품목": "생삼겹살(100g)",
+  menu: "생삼겹살(100g)",
   "가격(원)": " 6,000원 ",
   phone: "061-275-6386",
   address : "진도군 지도읍 읍내길 64"
@@ -3120,7 +3120,7 @@ const jeonnamContents =
   "연번": 347,
   category: "이미용",
   title: "정헤어라인",
-  "주요품목": "컷트(학생)",
+  menu: "컷트(학생)",
   "가격(원)": " 5,000원 ",
   phone: "061-271-8224",
   address : "진도군 압해읍 구항길 12"
