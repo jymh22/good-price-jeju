@@ -325,7 +325,7 @@ function checkRegionValue(){
         return daeguContents;
     }
     else if (sortRegionBox.value === 'seoul') {
-        return seoulcontents;
+        return seoulContents;
     } else{
         //기본 출력
         return jejuContents;
